@@ -240,9 +240,25 @@ async function renderEntities() {
   const data = await loadJson("data/entities.json");
   const grid = document.querySelector("#entityGrid");
   const search = document.querySelector("#entitySearch");
+  const placeArea = document.querySelector("#placeAreaFilter");
   const sortButtons = document.querySelectorAll("[data-entity-sort]");
-  const state = { filter: "All", query: "", sort: "default" };
+  const state = { filter: "All", place: "All", query: "", sort: "default" };
   const townOf = (item) => item.town || item.location || "Island-wide";
+  const updatePlaceOptions = () => {
+    if (!placeArea) return;
+    const counts = data.reduce((acc, item) => {
+      acc[item.place_area || "Unknown"] = (acc[item.place_area || "Unknown"] || 0) + 1;
+      return acc;
+    }, {});
+    [...placeArea.options].forEach((option) => {
+      if (option.value === "All") {
+        option.textContent = `All place areas (${data.length})`;
+        return;
+      }
+      const suffix = option.value === "Unknown" ? " / needs check" : "";
+      option.textContent = `${option.value}${suffix} (${counts[option.value] || 0})`;
+    });
+  };
   const priorityOf = (item) => {
     const haystack = `${item.name} ${item.category} ${item.location}`.toLowerCase();
     if (item.category === "Emergency service") return 0;
@@ -257,20 +273,24 @@ async function renderEntities() {
     const sorted = [...items];
     if (state.sort === "az") return sorted.sort((a, b) => compareText(a, b, (item) => item.name));
     if (state.sort === "za") return sorted.sort((a, b) => compareText(b, a, (item) => item.name));
-    if (state.sort === "town") return sorted.sort((a, b) => compareText(a, b, townOf) || compareText(a, b, (item) => item.name));
     return sorted.sort((a, b) => priorityOf(a) - priorityOf(b) || compareText(a, b, (item) => item.name));
   };
   const draw = () => {
     const query = state.query.trim().toLowerCase();
     const items = data.filter((item) => {
       const filterMatch = state.filter === "All" || item.category === state.filter;
-      const searchMatch = !query || `${item.name} ${item.category} ${item.location} ${item.town || ""} ${item.grant_fit}`.toLowerCase().includes(query);
-      return filterMatch && searchMatch;
+      const placeMatch = state.place === "All" || item.place_area === state.place;
+      const searchMatch = !query || `${item.name} ${item.category} ${item.location} ${item.town || ""} ${item.place_area || ""} ${item.grant_fit}`.toLowerCase().includes(query);
+      return filterMatch && placeMatch && searchMatch;
     });
-    grid.innerHTML = sortItems(items).map((item) => card(item.name, item.category, item.grant_fit, `${townOf(item)} | ${item.status}`)).join("");
+    grid.innerHTML = sortItems(items).map((item) => card(item.name, item.category, item.grant_fit, `${item.place_area || "Unknown"} | ${townOf(item)} | ${item.status}`)).join("");
   };
   if (search) search.addEventListener("input", () => {
     state.query = search.value;
+    draw();
+  });
+  if (placeArea) placeArea.addEventListener("change", () => {
+    state.place = placeArea.value;
     draw();
   });
   sortButtons.forEach((button) => {
@@ -284,6 +304,7 @@ async function renderEntities() {
     state.filter = filter || "All";
     draw();
   });
+  updatePlaceOptions();
   draw();
 }
 

@@ -5,7 +5,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = {
     "data/grants.json": ["name", "level", "status", "best_for", "url", "last_checked"],
-    "data/entities.json": ["name", "category", "location", "status", "grant_fit"],
+    "data/entities.json": ["name", "category", "location", "status", "grant_fit", "place_area"],
     "data/projects.json": ["title", "domain", "summary", "grant_angles"],
     "data/source-docs.json": ["title", "type", "summary"],
     "data/grant-windows.json": ["title", "window_type", "notify", "tip", "action", "source"],
@@ -38,6 +38,14 @@ def main():
     duplicates = sorted({name for name in entity_names if entity_names.count(name) > 1})
     if duplicates:
         fail(f"data/entities.json has duplicate names: {', '.join(duplicates)}")
+    allowed_place_areas = {"Dunwich / Goompi", "Amity / Pulan", "Point Lookout / Mulumba", "Other", "Unknown"}
+    bad_place_areas = sorted({
+        item["place_area"]
+        for item in json.loads((ROOT / "data/entities.json").read_text(encoding="utf-8"))
+        if item["place_area"] not in allowed_place_areas
+    })
+    if bad_place_areas:
+        fail(f"data/entities.json has unsupported place_area values: {', '.join(bad_place_areas)}")
     grants = json.loads((ROOT / "data/grants.json").read_text(encoding="utf-8"))
     watchlist = json.loads((ROOT / "data/grant-watchlist.json").read_text(encoding="utf-8"))
     if len(watchlist) != len(grants):

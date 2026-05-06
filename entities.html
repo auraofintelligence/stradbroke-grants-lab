@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Island Entities | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=profile-forms-20260506">
+    <link rel="stylesheet" href="assets/styles.css?v=place-filter-20260506">
   </head>
   <body data-page="entities">
     <header class="site-header"></header>
@@ -15,9 +15,17 @@
       <div class="entity-tools" aria-label="Entity search and sorting">
         <label class="search-label" for="entitySearch">Quick search</label>
         <input id="entitySearch" class="search-input" type="search" placeholder="Search name, town, category or grant fit">
-        <div class="sort-controls" aria-label="Sort entities">
+        <label class="search-label" for="placeAreaFilter">Place area</label>
+        <select id="placeAreaFilter" class="search-input">
+          <option value="All">All place areas</option>
+          <option value="Dunwich / Goompi">Dunwich / Goompi</option>
+          <option value="Amity / Pulan">Amity / Pulan</option>
+          <option value="Point Lookout / Mulumba">Point Lookout / Mulumba</option>
+          <option value="Other">Other</option>
+          <option value="Unknown">Unknown</option>
+        </select>
+        <div class="sort-controls" aria-label="Sort entities alphabetically">
           <button type="button" data-entity-sort="default" class="is-active">Default</button>
-          <button type="button" data-entity-sort="town">Town</button>
           <button type="button" data-entity-sort="az">A-Z</button>
           <button type="button" data-entity-sort="za">Z-A</button>
         </div>
@@ -26,6 +34,6 @@
       <div class="data-grid" id="entityGrid"></div>
     </main>
     <footer class="site-footer"></footer>
-    <script src="assets/app.js?v=profile-forms-20260506"></script>
+    <script src="assets/app.js?v=place-filter-20260506"></script>
   </body>
 </html>
