@@ -9,6 +9,7 @@ REQUIRED = {
     "data/projects.json": ["title", "domain", "summary", "grant_angles"],
     "data/source-docs.json": ["title", "type", "summary"],
     "data/grant-windows.json": ["title", "window_type", "notify", "tip", "action", "source"],
+    "data/grant-watchlist.json": ["title", "priority", "summary", "level", "level_label", "window_type", "action"],
 }
 
 
@@ -37,6 +38,10 @@ def main():
     duplicates = sorted({name for name in entity_names if entity_names.count(name) > 1})
     if duplicates:
         fail(f"data/entities.json has duplicate names: {', '.join(duplicates)}")
+    grants = json.loads((ROOT / "data/grants.json").read_text(encoding="utf-8"))
+    watchlist = json.loads((ROOT / "data/grant-watchlist.json").read_text(encoding="utf-8"))
+    if len(watchlist) != len(grants):
+        fail("data/grant-watchlist.json must be rebuilt from data/grants.json")
     print("Data validation passed.")
 
 

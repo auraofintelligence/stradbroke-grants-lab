@@ -5,6 +5,7 @@ const navHtml = `
     <div class="nav-links" id="nav-links">
       <a href="entities.html">Island Entities</a>
       <a href="projects.html">Projects</a>
+      <a href="grant-watchlist.html">Watchlist</a>
       <a href="federal-grants.html">Federal</a>
       <a href="queensland-grants.html">Queensland</a>
       <a href="council-grants.html">Council</a>
@@ -86,7 +87,7 @@ async function renderHome() {
   const homeCards = document.querySelector("#homeCards");
   if (homeCards) {
     homeCards.innerHTML = [
-      ["Grant watchlist", `${grants.length} starter grant pathways across federal, Queensland, council, First Nations, global and island levels.`, "federal-grants.html"],
+      ["Grant watchlist", `${grants.length} grant sources plus generated shortlist notes across federal, Queensland, council, First Nations, global and island levels.`, "grant-watchlist.html"],
       ["Island entities", `${entities.length} starter applicant records from businesses, clubs, non-profits, artists and civic groups.`, "entities.html"],
       ["Project catalogue", `${projects.length} Strange But True and island project concepts ready for grant matching.`, "projects.html"],
       ["Grant windows", "Noticeboard-ready hints for new, closing, future and rolling grant opportunities.", "grant-windows.html"],
@@ -106,11 +107,51 @@ async function renderHome() {
 async function renderEntities() {
   const data = await loadJson("data/entities.json");
   const grid = document.querySelector("#entityGrid");
-  const draw = (filter = "All") => {
-    const items = filter === "All" ? data : data.filter((item) => item.category === filter);
-    grid.innerHTML = items.map((item) => card(item.name, item.category, item.grant_fit, `${item.location} | ${item.status}`)).join("");
+  const search = document.querySelector("#entitySearch");
+  const sortButtons = document.querySelectorAll("[data-entity-sort]");
+  const state = { filter: "All", query: "", sort: "default" };
+  const townOf = (item) => item.town || item.location || "Island-wide";
+  const priorityOf = (item) => {
+    const haystack = `${item.name} ${item.category} ${item.location}`.toLowerCase();
+    if (item.category === "Emergency service") return 0;
+    if (haystack.includes("yulu") || haystack.includes("yuli")) return 1;
+    if (haystack.includes("doctor") || haystack.includes("medical") || haystack.includes("marie rose")) return 2;
+    if (haystack.includes("ranger")) return 3;
+    if (haystack.includes("transport") || haystack.includes("sealink") || haystack.includes("flyer") || haystack.includes("bus")) return 4;
+    return 10;
   };
-  renderFilters(document.querySelector("#entityFilters"), unique(data.map((item) => item.category)), draw);
+  const compareText = (a, b, selector) => selector(a).localeCompare(selector(b));
+  const sortItems = (items) => {
+    const sorted = [...items];
+    if (state.sort === "az") return sorted.sort((a, b) => compareText(a, b, (item) => item.name));
+    if (state.sort === "za") return sorted.sort((a, b) => compareText(b, a, (item) => item.name));
+    if (state.sort === "town") return sorted.sort((a, b) => compareText(a, b, townOf) || compareText(a, b, (item) => item.name));
+    return sorted.sort((a, b) => priorityOf(a) - priorityOf(b) || compareText(a, b, (item) => item.name));
+  };
+  const draw = () => {
+    const query = state.query.trim().toLowerCase();
+    const items = data.filter((item) => {
+      const filterMatch = state.filter === "All" || item.category === state.filter;
+      const searchMatch = !query || `${item.name} ${item.category} ${item.location} ${item.town || ""} ${item.grant_fit}`.toLowerCase().includes(query);
+      return filterMatch && searchMatch;
+    });
+    grid.innerHTML = sortItems(items).map((item) => card(item.name, item.category, item.grant_fit, `${townOf(item)} | ${item.status}`)).join("");
+  };
+  if (search) search.addEventListener("input", () => {
+    state.query = search.value;
+    draw();
+  });
+  sortButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      state.sort = button.dataset.entitySort || "default";
+      sortButtons.forEach((item) => item.classList.toggle("is-active", item === button));
+      draw();
+    });
+  });
+  renderFilters(document.querySelector("#entityFilters"), unique(data.map((item) => item.category)), (filter) => {
+    state.filter = filter || "All";
+    draw();
+  });
   draw();
 }
 
@@ -144,6 +185,17 @@ async function renderWindows() {
   draw();
 }
 
+async function renderWatchlist() {
+  const data = await loadJson("data/grant-watchlist.json");
+  const grid = document.querySelector("#watchlistGrid");
+  const draw = (filter = "All") => {
+    const items = filter === "All" ? data : data.filter((item) => item.level === filter || item.window_type === filter);
+    grid.innerHTML = items.map((item) => card(item.title, item.priority, item.summary, `${item.level_label} | ${item.window_type} | ${item.action}`, item.source_url)).join("");
+  };
+  renderFilters(document.querySelector("#watchlistFilters"), unique(data.flatMap((item) => [item.level, item.window_type])), draw);
+  draw();
+}
+
 async function boot() {
   try {
     const page = document.body.dataset.page;
@@ -152,6 +204,7 @@ async function boot() {
     if (page === "projects") await renderProjects();
     if (page === "grants") await renderGrants();
     if (page === "windows") await renderWindows();
+    if (page === "watchlist") await renderWatchlist();
   } catch (error) {
     const main = document.querySelector("main");
     if (main) main.insertAdjacentHTML("beforeend", `<p class="load-error">${error.message}. If you opened the file directly, run a local server first.</p>`);

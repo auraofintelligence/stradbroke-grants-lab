@@ -28,6 +28,7 @@ http://localhost:4180/
 ## Data Files
 
 - `data/grants.json`: grant programs and search portals
+- `data/grant-watchlist.json`: generated shortlist from grant sources and window hints
 - `data/entities.json`: island businesses, groups, artists and other possible applicants
 - `data/projects.json`: Strange But True and island project ideas
 - `data/source-docs.json`: summaries of the supplied research documents
@@ -49,6 +50,7 @@ Use `profiles/templates/` to make reusable markdown packs for grant drafting:
 Run:
 
 ```powershell
+python tools/build_watchlist.py
 python tools/validate_data.py
 ```
 

@@ -11,7 +11,17 @@
     <main id="main" class="page-shell">
       <p class="eyebrow">Island Entities</p>
       <h1>Businesses, groups, artists and local applicants.</h1>
-      <p class="hero-lede">A starter map from the Stradbroke Island research document. Every entry should be checked with the organisation before public grant outreach.</p>
+      <p class="hero-lede">A public research map from the wider island and noticeboard catalogue. Search, sort and filter before starting any outreach.</p>
+      <div class="entity-tools" aria-label="Entity search and sorting">
+        <label class="search-label" for="entitySearch">Quick search</label>
+        <input id="entitySearch" class="search-input" type="search" placeholder="Search name, town, category or grant fit">
+        <div class="sort-controls" aria-label="Sort entities">
+          <button type="button" data-entity-sort="default" class="is-active">Default</button>
+          <button type="button" data-entity-sort="town">Town</button>
+          <button type="button" data-entity-sort="az">A-Z</button>
+          <button type="button" data-entity-sort="za">Z-A</button>
+        </div>
+      </div>
       <div class="filter-bar" id="entityFilters"></div>
       <div class="data-grid" id="entityGrid"></div>
     </main>
@@ -19,4 +29,3 @@
     <script src="assets/app.js"></script>
   </body>
 </html>
-

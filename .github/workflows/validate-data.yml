@@ -13,5 +13,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+      - run: python tools/build_watchlist.py
       - run: python tools/validate_data.py
-

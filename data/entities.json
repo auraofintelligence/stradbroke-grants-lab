@@ -6,14 +6,16 @@
     "status": "public research only",
     "grant_fit": "Elder-led cultural protocols, intergenerational knowledge, caring for Country, justice reinvestment, youth reconnection and social and emotional wellbeing.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Yulu-Burri-Ba Aboriginal Corporation for Community Health",
     "category": "Health service",
     "location": "Dunwich, Capalaba, Wynnum and Bara Ganya",
     "status": "public research only",
-    "grant_fit": "Community controlled primary health care, culturally safe health and wellbeing services, visiting medical services, social support and prevention programs."
+    "grant_fit": "Community controlled primary health care, culturally safe health and wellbeing services, visiting medical services, social support and prevention programs.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Nareeba Moopi Moopi Pa Aged Care Hostel",
@@ -22,7 +24,8 @@
     "status": "public research only",
     "grant_fit": "Elders aged care, respite, accessibility, sensory garden, safety upgrades, social connection, workforce support and aged-care community infrastructure.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "North Stradbroke Island Aboriginal and Islander Housing Society (NSI Housing Co-op)",
@@ -31,7 +34,8 @@
     "status": "public research only",
     "grant_fit": "Long-term affordable housing for Aboriginal residents, community services, respite, aged care, housing maintenance, heritage records and culturally safe support.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Point Lookout Surf Life Saving Club",
@@ -40,14 +44,16 @@
     "status": "public research only",
     "grant_fit": "Beach safety, patrol capability, lifesaving equipment, youth training, inclusive facilities and visitor-risk education.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Queensland Ambulance Service - North Stradbroke Island",
     "category": "Emergency service",
     "location": "Minjerribah",
     "status": "public agency / public research only",
-    "grant_fit": "Emergency preparedness, first aid education, community readiness, health transport coordination and disaster response partnerships where appropriate."
+    "grant_fit": "Emergency preparedness, first aid education, community readiness, health transport coordination and disaster response partnerships where appropriate.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Queensland Fire Department / Rural Fire Brigades",
@@ -56,14 +62,16 @@
     "status": "public agency and volunteer network / public research only",
     "grant_fit": "Volunteer capability, bushfire readiness, equipment, training, evacuation support, hazard reduction education and resilience planning.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Queensland Police Service - North Stradbroke Island",
     "category": "Emergency service",
     "location": "Minjerribah",
     "status": "public agency / public research only",
-    "grant_fit": "Community safety partnerships, youth diversion, disaster coordination, public safety education and justice reinvestment alignment where appropriate."
+    "grant_fit": "Community safety partnerships, youth diversion, disaster coordination, public safety education and justice reinvestment alignment where appropriate.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Volunteer Marine Rescue North Stradbroke",
@@ -72,7 +80,8 @@
     "status": "public research only",
     "grant_fit": "Marine safety, rescue equipment, volunteer training, radio communications, boating education and disaster response coordination.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Wildlife Rescue Minjerribah",
@@ -81,7 +90,8 @@
     "status": "public research only",
     "grant_fit": "Wildlife rescue, volunteer training, emergency animal care, vehicle-strike prevention, equipment and community reporting pathways.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Quandamooka Yoolooburrabee Aboriginal Corporation (QYAC)",
@@ -90,7 +100,8 @@
     "status": "public research only",
     "grant_fit": "Cultural heritage, native title, land and sea, First Nations governance and partnership-led projects.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Amity Fishing Club",
@@ -99,7 +110,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for sports and recreation: fishing days, safety notes, member events, catch education. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Amity Point / Pulan"
   },
   {
     "name": "Amity Point Cricket Club",
@@ -108,7 +120,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for sports club: fixtures, training, working bees, junior cricket notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Amity Point / Pulan"
   },
   {
     "name": "Dunwich Swimming Pool / Club",
@@ -117,7 +130,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for sports: pool status, lesson times, swimming club notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Friends of Stradbroke Island",
@@ -126,7 +140,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for environmental advocacy: campaign updates, working bees, environmental education, policy notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Lighthouse Community Church",
@@ -135,7 +150,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for religious group: service times, community meals, support notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "North Stradbroke Island Buddhist Group",
@@ -144,7 +160,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for spiritual group: meditation times, public talks, retreat notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Point Lookout Boardriders",
@@ -153,7 +170,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for surfing and sports: comp dates, surf safety, junior programs, club results. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Point Lookout Bowls Club",
@@ -162,7 +180,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for sports and dining: social bowls, meal nights, member events, visitor invitations. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Point Lookout Bushcare",
@@ -171,7 +190,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for invasive weed eradication: working bees, weed alerts, volunteer rosters, before-and-after stories. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Point Lookout Fishing Club",
@@ -180,7 +200,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for fishing and community club: competition dates, public catch ledger, junior clinics, sponsor thanks, safety notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Point Lookout Tennis Club",
@@ -189,7 +210,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for sports: court availability, social tennis, junior sessions. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "St. Paul of the Cross Catholic Church",
@@ -198,7 +220,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for religious group: service times, parish events, community care notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "St. Peter Chanel Church",
@@ -207,7 +230,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for religious group: service times, parish notices, community support. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Stradbroke Island Management Organisation",
@@ -216,7 +240,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for environmental and social advocacy: meeting notices, planning updates, water and aquifer education. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Stradbroke Trail Riders Horse Club",
@@ -225,7 +250,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for equestrian: ride dates, track notices, horse care reminders. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Island News Facebook Group",
@@ -234,7 +260,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for digital community: public-safe story leads, community calls, cross-posted verified notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Online"
   },
   {
     "name": "Wildcare Straddie",
@@ -243,14 +270,16 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for fauna care network: wildlife education, care needs, rescue-safe public guidance. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Friends of Stradbroke Island (FOSI)",
     "category": "Environment group",
     "location": "Minjerribah",
     "status": "public research only",
-    "grant_fit": "Environmental protection, biodiversity, advocacy, education and conservation partnerships."
+    "grant_fit": "Environmental protection, biodiversity, advocacy, education and conservation partnerships.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Chamber of Commerce",
@@ -259,7 +288,8 @@
     "status": "public research only",
     "grant_fit": "Business capability, local economic transition, training, digital tools and tourism development.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Craig Henderson",
@@ -268,7 +298,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for construction and renovations: project windows, storm-readiness notes, local jobs pipeline. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Geoff Pettingill",
@@ -277,7 +308,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for builder, earthworks and crane hire: plant availability, access constraints, weather-dependent service notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Glen Campbell",
@@ -286,7 +318,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for builder: build availability, maintenance advice, local procurement requests. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Henderson Construction",
@@ -295,7 +328,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for builder and scaffolding: crew availability, scaffolding windows, safety notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Hutch Welding",
@@ -304,7 +338,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for welding services: repair capacity, marine or trailer safety reminders, booking windows. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Jimmy Holt",
@@ -313,7 +348,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for architectural renovations: renovation availability, build-care tips, local supplier notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Kevin Long",
@@ -322,7 +358,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for cabinet maker: workshop slots, custom-build lead times, repair or reuse tips. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Lanndam Pty Ltd",
@@ -331,7 +368,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for professional services: service availability, project notes, public contact windows. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Locked In Services",
@@ -340,7 +378,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for professional services: service availability, booking notes, community support offers. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Mazzoni Plant Hire",
@@ -349,7 +388,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for plant hire: machine availability, transport limits, wet-weather constraints. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "NSI Property Maintenance",
@@ -358,7 +398,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for handyman and garden upkeep: maintenance rounds, green-waste reminders, storm clean-up capacity. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Russell Specht Carpentry",
@@ -367,7 +408,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for carpentry: availability blocks, repair tips, materials notices, apprentice call-outs. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Six by Fifty Pty Ltd",
@@ -376,7 +418,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for professional services: service availability, public project updates, workshop invitations. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Stradbroke Net Marketing",
@@ -385,7 +428,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for professional services: digital campaign windows, tourism updates, local web support availability. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Straddie Signs",
@@ -394,7 +438,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for local signage: event sign deadlines, sponsor board options, public notice templates. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Troy Groombridge",
@@ -403,7 +448,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for bricklayer: booking windows, small-job availability, apprentice or helper requests. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Trades and services",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Amity Point General Store",
@@ -412,7 +458,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for grocery: daily essentials, parcel notes, community messages, local specials. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Amity Point / Pulan"
   },
   {
     "name": "Bob Minty Surfboards",
@@ -421,7 +468,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for surf equipment: board repairs, surf notes, product drops, local rider stories. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Cellarbrations Bottle Shop",
@@ -430,7 +478,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail: opening hours, specials, responsible drinking notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Fever Pitch",
@@ -439,7 +488,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for coffee van: daily location, coffee hours, event pop-ups, weather cancellation notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Linen Caravan",
@@ -448,7 +498,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail: stock arrivals, hire notes, accommodation support notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Mal Starkey Seafood and Charters",
@@ -457,7 +508,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail and charters: charter availability, weather windows, seafood updates, safety notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Noreen's Seaside Shop",
@@ -466,7 +518,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail: gift features, opening hours, visitor-friendly local finds. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Nourish Naturally",
@@ -475,7 +528,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail: wellness stock, workshops, seasonal health notes, local supplier features. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Point Lookout News Agent",
@@ -484,7 +538,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail: newspapers, parcels, lotto reminders, local notice drops. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Point Lookout Pharmacy",
@@ -493,7 +548,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for health retail: opening changes, sunscreen and first-aid prompts, visitor health notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Rufus King Seafoods",
@@ -502,7 +558,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for seafood retail: fresh catch windows, seafood availability, safe storage reminders. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Amity Point / Pulan"
   },
   {
     "name": "Spar Express Dunwich",
@@ -511,7 +568,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for grocery: stock updates, opening hours, quick specials, ferry-delay supply notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "St Mark's Thrift Shop",
@@ -520,7 +578,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for op shop: donation days, volunteer rosters, sale racks, community support notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "St Stradbroke Wine Bar and Cellar Door",
@@ -529,7 +588,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for wine bar and retail: tastings, cellar specials, small-event calendar. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Stradbroke Island Beach Hotel",
@@ -538,7 +598,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for hospitality and accommodation: events, dining times, accommodation alerts, New Year's Eve notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Stradbroke Island Butchery",
@@ -547,7 +608,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for meat retail: weekly cuts, BBQ packs, community fundraiser packs, order deadlines. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Stradbroke Island Foodworks",
@@ -556,7 +618,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for grocery: essential stock notes, opening changes, supply disruptions, community drives. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Stradbroke Pharmacy",
@@ -565,7 +628,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for health retail: opening changes, health reminders, script collection notices, heatwave notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Straddie Market Co.",
@@ -574,7 +638,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail and produce: market days, stallholder call-outs, produce highlights. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Servo and Hardware",
@@ -583,7 +648,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for fuel and hardware: fuel availability, gas bottle notes, hardware stock, storm prep reminders. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Straddie Super Sports",
@@ -592,7 +658,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for sporting goods: gear specials, event packs, junior sport notices, repair windows. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Taste of Straddie",
@@ -601,7 +668,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for hospitality: local flavour features, tastings, producer stories, seasonal specials. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "The Green Room",
@@ -610,7 +678,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for retail: product drops, local maker features, opening changes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "The Point Bar and Bistro",
@@ -619,7 +688,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for hospitality: meal specials, surf-club events, safety-aware visitor notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Whale Tail Gelati and Coffee Bar",
@@ -628,7 +698,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for hospitality: flavours, coffee hours, whale-season signals, family-friendly notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Discover Stradbroke Real Estate",
@@ -637,7 +708,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for real estate: open homes, rental availability, community notices for guests. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Dolphin Property Sales",
@@ -646,7 +718,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for real estate: open homes, market updates, buyer information sessions. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "SeaLink South East Queensland",
@@ -655,7 +728,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for transport and logistics: ferry status, capacity signals, service changes, disruption notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "North Stradbroke Island Surf School",
@@ -664,7 +738,8 @@
     "status": "public research only",
     "grant_fit": "Sport tourism, youth skills, outdoor education and visitor economy programs.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Straddie Brewing Co.",
@@ -673,7 +748,8 @@
     "status": "public research only",
     "grant_fit": "Events, local culture, tourism activation, biodiversity storytelling and producer partnerships.",
     "source_group": "Hospitality and retail",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Fight Night: Beer vs Wine",
@@ -682,7 +758,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for hospitality tasting: date, venue, booking link, responsible drinking notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Grass Roots Live Music",
@@ -691,7 +768,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for live music: line-up, set times, venue notices, family-friendly notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Point Lookout Markets",
@@ -700,7 +778,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for artisans and produce: stallholder list, market dates, weather calls. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Quandamooka Festival",
@@ -709,7 +788,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for multi-artform cultural festival: approved program notices, access notes, cultural respect prompts. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Redlands Coast AdventureFest",
@@ -718,7 +798,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for trail and ocean sport: dates, routes, safety notices, visitor guidance. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Stradbroke Chamber Music Festival",
@@ -727,7 +808,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for music festival: program, venue changes, artist talks, ticket prompts. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Arts Trail",
@@ -736,7 +818,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for arts trail: studio openings, artist maps, workshops, weather changes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Hotel New Year's Eve",
@@ -745,7 +828,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for community celebration: event times, safety notes, transport reminders. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Straddie Invitational",
@@ -754,7 +838,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for team surfing competition: heat schedule, results, surf conditions, club updates. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Oyster Festival",
@@ -763,7 +848,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for seafood and music: food stalls, program, transport notes, sponsor thanks. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Salute Triathlon",
@@ -772,7 +858,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for destination sport: dates, course notes, volunteer needs, road impacts. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Sharks Easter Carnival",
@@ -781,7 +868,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for community sport: fixtures, stalls, fundraising, family notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Twist Weave Workshop",
@@ -790,7 +878,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for arts education: workshop times, booking notes, material needs. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Events",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Amity Point Community Club",
@@ -799,7 +888,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for historical photography exhibition hub: display dates, archive calls, club exhibition notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Amity Point / Pulan"
   },
   {
     "name": "Budla Malu",
@@ -808,7 +898,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for indigenous art operators: art windows, cultural permissions, workshop invitations. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Cath Carroll",
@@ -817,7 +908,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for studio artist: studio openings, landscape works, artist talks. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Coco-May McCabe",
@@ -826,14 +918,16 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for youth artist: youth art moments, wildlife-inspired works, family-safe exhibition notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Delvene Cockatoo-Collins",
     "category": "Artists and makers",
     "location": "Minjerribah",
     "status": "public research only",
-    "grant_fit": "Arts, cultural storytelling, public art, education and First Nations creative practice."
+    "grant_fit": "Arts, cultural storytelling, public art, education and First Nations creative practice.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Donna Wright",
@@ -842,7 +936,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for professional artist: exhibition windows, new works, workshops. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Dr. Sandra Delaney",
@@ -851,7 +946,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for language and culture artist: approved public learning, exhibition windows, cultural care notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Elizabeth Borey",
@@ -860,7 +956,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for handmade treasures: new pieces, market appearances, studio notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Gabriel D'Hage-Craig",
@@ -869,7 +966,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for street art and digital design: murals, digital drops, youth workshops, public art notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Gil Scrine",
@@ -878,7 +976,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for landscape and portrait painter: exhibition notices, painting workshops, available works. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Goldie Goodbun",
@@ -887,7 +986,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for youth ceramic artist: youth pottery features, exhibition notes, family-safe updates. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Hidden Oasis Art Show",
@@ -896,7 +996,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for community art exhibition: fundraiser dates, school support notes, artist call-outs. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Jane Milburn OAM",
@@ -905,7 +1006,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for pottery, natural dyeing and stitching: slow clothing workshops, dye days, exhibition windows. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Jasper Coleman",
@@ -914,7 +1016,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for mulumba collective ceramicist: ceramic drops, studio windows, collective notices. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Jo Fay Duncan",
@@ -923,7 +1026,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for multi-media portrait artist: portrait sessions, exhibition windows, story prompts. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Julie Elliot",
@@ -932,7 +1036,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for mulumba collective soap maker: soap batches, market dates, maker notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Julie Sisco",
@@ -941,7 +1046,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for mulumba collective photographer: photo exhibitions, print drops, studio notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Karen Thurecht",
@@ -950,7 +1056,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for author: book talks, mystery series events, signing sessions. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Kieron Anderson",
@@ -959,7 +1066,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for food sovereignty and contemporary art: food story events, workshops, studio notes, shared table prompts. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Lauri Anderson",
@@ -968,7 +1076,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for slow maker: studio times, slow-making notes, exhibition windows. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Lisa Iselin",
@@ -977,7 +1086,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for mulumba collective artist: new works, collective openings, exhibition notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Mahala Burns",
@@ -986,7 +1096,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for fabric printer and workshop facilitator: print workshops, product drops, tote and cushion releases. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Marie Cole",
@@ -995,7 +1106,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for mulumba collective visual artist: collective openings, new works, studio notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Mason",
@@ -1004,7 +1116,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for woodwork creator: salvaged timber pieces, workshop windows, commission notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Megan Forward",
@@ -1013,7 +1126,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for artist, author and illustrator: book events, illustration workshops, sustainability projects. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Melany Cordier",
@@ -1022,7 +1136,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for potter: kiln openings, ceramic drops, workshop dates. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Meredith Coyle",
@@ -1031,7 +1146,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for lamp designer: new designs, studio appointments, textile stories. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Merri Millar",
@@ -1040,7 +1156,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for porcelain jewellery and screen printing: jewellery drops, shirt runs, market appearances. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Paula Boo",
@@ -1049,7 +1166,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for songbird and fibre artist: music dates, fibre workshops, studio availability. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Penny Gillespie",
@@ -1058,7 +1176,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for jeweller and metalsmith: new jewellery, commission windows, studio visits. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Phillip and Theresa Bowman",
@@ -1067,7 +1186,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for organic beekeepers and bee art: honey availability, bee education, art pieces, seasonal notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Renata Buziak",
@@ -1076,7 +1196,8 @@
     "status": "public research only",
     "grant_fit": "Art-science, biodiversity, workshops, education and creative research.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Ruby Poole",
@@ -1085,7 +1206,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for artist: bright new works, market dates, artist notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Salt Water Murris",
@@ -1094,7 +1216,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for quandamooka art gallery: gallery openings, exhibition notices, cultural care notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Shara Delaney",
@@ -1103,7 +1226,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for painter: new works, exhibition times, Country connection statements. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Quandamooka Country"
   },
   {
     "name": "Sharon Walker",
@@ -1112,7 +1236,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for mulumba collective ceramicist: ceramics, studio windows, exhibition notes. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Starfish Studio",
@@ -1121,7 +1246,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for local art and retail studio: studio hours, product drops, artist features. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Steve Barwell",
@@ -1130,14 +1256,16 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for visual artist and commentator: new works, commentary nights, exhibition updates. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Straddie Arts Trail artists",
     "category": "Artists and makers",
     "location": "Island-wide",
     "status": "public research only",
-    "grant_fit": "Arts practice, workshops, cultural tourism, creative economy and public programs."
+    "grant_fit": "Arts practice, workshops, cultural tourism, creative economy and public programs.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Tamara Armstrong",
@@ -1146,7 +1274,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for painter: studio openings, exhibition windows, new works, workshop dates. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Tracey and Bernie Gee",
@@ -1155,7 +1284,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for ceramic artists: Wilder Isle Ceramic drops, raw material notes, studio windows. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Trish Lake",
@@ -1164,7 +1294,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for watercolour, pastel and acrylic artist: classes, studio days, available works. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Wendy Bailye",
@@ -1173,7 +1304,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for feltmaker and textile artist: workshop times, felt works, studio demonstrations. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Zoe Maskell",
@@ -1182,7 +1314,8 @@
     "status": "public research only - not consent",
     "grant_fit": "Potential grant and noticeboard fit for embroidery artist: embroidery workshops, new pieces, studio times. Requires direct consent, source checking and current details before public outreach.",
     "source_group": "Artists and creative hubs",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Bay Players Theatre Group",
@@ -1191,7 +1324,8 @@
     "status": "public research only",
     "grant_fit": "Performing arts, community theatre, workshops, events and youth creative pathways.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Stradbroke Island Singers",
@@ -1200,7 +1334,8 @@
     "status": "public research only",
     "grant_fit": "Community arts, music, cultural participation and intergenerational activity.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "North Stradbroke Island Historical Museum",
@@ -1209,7 +1344,8 @@
     "status": "public research only",
     "grant_fit": "Heritage preservation, education, visitor experience and community storytelling.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Goompi Trail",
@@ -1218,7 +1354,8 @@
     "status": "public research only",
     "grant_fit": "Cultural education, place-based tourism, public learning and partnership programs.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Yura Tours",
@@ -1227,7 +1364,8 @@
     "status": "public research only",
     "grant_fit": "Cultural tourism, education, First Nations storytelling and visitor economy partnerships.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "Stradbroke Island Events",
@@ -1236,7 +1374,8 @@
     "status": "public research only",
     "grant_fit": "Event delivery, community activation, tourism events and local supplier coordination.",
     "source_group": "Tourism, property and transport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Point Lookout / Mulumba"
   },
   {
     "name": "Amity Point Progress Association",
@@ -1245,7 +1384,8 @@
     "status": "public research only",
     "grant_fit": "Local advocacy, events, infrastructure needs, community resilience and town activation.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Amity Point / Pulan"
   },
   {
     "name": "Youthlink",
@@ -1254,7 +1394,8 @@
     "status": "public research only",
     "grant_fit": "Youth opportunities, recreation, mentoring, training and wellbeing projects.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Island-wide / Minjerribah"
   },
   {
     "name": "North Stradbroke Island Golf Club",
@@ -1263,7 +1404,8 @@
     "status": "public research only",
     "grant_fit": "Sport participation, tourism, facility upgrades and inclusive community recreation.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
   },
   {
     "name": "Straddie Sharks Allsports Rugby League Club",
@@ -1272,6 +1414,57 @@
     "status": "public research only",
     "grant_fit": "Grassroots sport, youth activity, club facilities, community events and healthy communities.",
     "source_group": "Community, safety and sport",
-    "source_note": "Imported from Straddie Noticeboard Network supposition layer."
+    "source_note": "Imported from Straddie Noticeboard Network supposition layer.",
+    "town": "Dunwich / Goompi"
+  },
+  {
+    "name": "Stradbroke Island Medical Centre",
+    "category": "Doctors and medical",
+    "location": "Dunwich",
+    "town": "Dunwich / Goompi",
+    "status": "public research only - not consent",
+    "grant_fit": "General practice, primary care access, preventative health, visiting services, island health access and health workforce continuity.",
+    "source_group": "Health priority pass",
+    "source_note": "Added from current public web check."
+  },
+  {
+    "name": "Marie Rose Centre",
+    "category": "Doctors and medical",
+    "location": "Dunwich",
+    "town": "Dunwich / Goompi",
+    "status": "public research only - not consent",
+    "grant_fit": "Emergency-only doctor and nurse access, after-hours care pathway, health referral routing and emergency readiness notes.",
+    "source_group": "Health priority pass",
+    "source_note": "Added from current public web check."
+  },
+  {
+    "name": "Quandamooka Rangers / QYAC Land and Sea Management Agency",
+    "category": "Rangers and land care",
+    "location": "Minjerribah",
+    "town": "Island-wide / Minjerribah",
+    "status": "public research only - not consent",
+    "grant_fit": "Caring for Country, cultural fire, land and sea management, biodiversity, koala protection, ranger training and disaster resilience partnerships.",
+    "source_group": "Rangers priority pass",
+    "source_note": "Added from current public web check."
+  },
+  {
+    "name": "Stradbroke Flyer",
+    "category": "Transport",
+    "location": "Cleveland / Dunwich",
+    "town": "Cleveland / mainland connection",
+    "status": "public research only - not consent",
+    "grant_fit": "Passenger water taxi access, visitor movement, transport pressure notices, emergency travel routing and island access continuity.",
+    "source_group": "Transport priority pass",
+    "source_note": "Added from current public web check."
+  },
+  {
+    "name": "North Stradbroke Island Bus Service",
+    "category": "Transport",
+    "location": "Dunwich, Amity Point and Point Lookout",
+    "town": "Island-wide / Minjerribah",
+    "status": "public research only - not consent",
+    "grant_fit": "Public transport access, timetable notices, visitor routing, youth and elder mobility, event transport and evacuation communication pathways.",
+    "source_group": "Transport priority pass",
+    "source_note": "Added from current public web check."
   }
 ]
