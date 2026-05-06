@@ -1,0 +1,75 @@
+[
+  {
+    "title": "Health and Culture",
+    "domain": "Sport and wellbeing",
+    "summary": "Local sport, outdoor cinema, youth, visitors, wellbeing and place-based activity.",
+    "grant_angles": ["sport participation", "youth wellbeing", "community events", "healthy communities"]
+  },
+  {
+    "title": "Disaster Resilience Kiosks",
+    "domain": "Resilience",
+    "summary": "Offline-first community information, emergency coordination and local digital access points.",
+    "grant_angles": ["disaster resilience", "digital inclusion", "community infrastructure", "emergency readiness"]
+  },
+  {
+    "title": "Bigger Local Picture",
+    "domain": "Regional planning",
+    "summary": "An island-and-region frame for linking local projects, futures, stories and systems.",
+    "grant_angles": ["regional development", "research", "community planning", "stakeholder engagement"]
+  },
+  {
+    "title": "Ready S.E.T. Co-op and Hyperlocal Media",
+    "domain": "Media and training",
+    "summary": "Training, local capability, practical digital work and community storytelling.",
+    "grant_angles": ["skills", "digital capability", "employment", "community media"]
+  },
+  {
+    "title": "Film Club and Quandamooka Festival Concepts",
+    "domain": "Arts and culture",
+    "summary": "Local film skills, outdoor screenings, storytelling and short-film concepts.",
+    "grant_angles": ["arts", "events", "screen culture", "youth media"]
+  },
+  {
+    "title": "GAJRA Earth",
+    "domain": "Global civic lab",
+    "summary": "A planetary intelligence sample for joyful responsible abundance, whole-system thinking and civic imagination.",
+    "grant_angles": ["research", "climate", "civic innovation", "global partnerships"]
+  },
+  {
+    "title": "P4A / Purple Civic Lab",
+    "domain": "Civic innovation",
+    "summary": "A young pre-party civic experiment exploring democratic repair and a protopian pathway for Australia.",
+    "grant_angles": ["civic participation", "youth democracy", "community education", "digital tools"]
+  },
+  {
+    "title": "Mineral Moonshots",
+    "domain": "Research sandbox",
+    "summary": "A crystal-and-metal island atlas for mineral sands, public honour, profiles and science-fiction civic imagination.",
+    "grant_angles": ["education", "heritage", "public data", "creative research"]
+  },
+  {
+    "title": "Straddie Shared Table",
+    "domain": "Food and community",
+    "summary": "A food-sharing, local-producer and cultural gathering initiative for community cohesion and waste reduction.",
+    "grant_angles": ["food security", "events", "community cohesion", "local producers"]
+  },
+  {
+    "title": "Sandy Sports Club and Cultural Hub",
+    "domain": "Infrastructure",
+    "summary": "A multi-use physical hub concept at Goompi / Dunwich linking youth support, sports, culture and resilience.",
+    "grant_angles": ["capital works", "multicultural infrastructure", "sport", "youth"]
+  },
+  {
+    "title": "Distributed Beach Sports Network",
+    "domain": "Sport and wellbeing",
+    "summary": "A network of beach and sand sport facilities across Dunwich, Point Lookout and Amity Point.",
+    "grant_angles": ["2032 legacy", "grassroots sport", "inclusive facilities", "tourism"]
+  },
+  {
+    "title": "Business Profile and Noticeboard Agents",
+    "domain": "Grant operations",
+    "summary": "Reusable markdown files that let AI agents draft grants from accurate applicant facts, updates and reporting notes.",
+    "grant_angles": ["capacity building", "governance", "digital operations", "reporting"]
+  }
+]
+

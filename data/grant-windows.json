@@ -1,0 +1,59 @@
+[
+  {
+    "title": "GCBF future round watch",
+    "window_type": "Future round",
+    "notify": "Not-for-profit clubs, community groups, sport groups, arts groups and auspiced informal groups.",
+    "tip": "Round 126 is closed and the next round date is not announced yet. Use the waiting period to confirm eligibility, auspice, quotes, public benefit and reporting capacity.",
+    "action": "Prepare profile pack, project budget and quote list before the next opening is announced.",
+    "source": "Queensland Gambling Community Benefit Fund"
+  },
+  {
+    "title": "Redland Council community project readiness",
+    "window_type": "Opening soon",
+    "notify": "Community groups, environment groups, artists, clubs and local project leads.",
+    "tip": "Council grants care about public benefit, value for money, delivery skill, risk control, milestone reporting and final acquittal. Do not wait until the portal deadline to collect evidence.",
+    "action": "Build grant-readiness-checklist.md and milestone-report.md before applying.",
+    "source": "Redland City Council Community Support Grant"
+  },
+  {
+    "title": "First Nations opportunity check",
+    "window_type": "New grant",
+    "notify": "First Nations organisations, cultural projects, Country-care projects and partner-led projects where cultural authority is clear.",
+    "tip": "Check who is actually eligible before drafting. Some programs are restricted, invited or require Indigenous governance. Cultural permission is not a writing detail; it is a project foundation.",
+    "action": "Confirm applicant authority, partner role, permissions and public wording before any notice is published.",
+    "source": "Indigenous.gov.au and Queensland First Nations grants pages"
+  },
+  {
+    "title": "Sport infrastructure and 2032 legacy scan",
+    "window_type": "Rolling program",
+    "notify": "Sport clubs, facility committees, surf, beach sport, youth and inclusive recreation projects.",
+    "tip": "Sport grants often need site control, quotes, facility plans, participation evidence, maintenance responsibility and inclusion benefits.",
+    "action": "Keep a sport facility evidence folder and update it monthly.",
+    "source": "Queensland Sport and Recreation Funding"
+  },
+  {
+    "title": "Business support scan",
+    "window_type": "Rolling program",
+    "notify": "Local businesses, sole traders, artists, food producers, tourism operators and digital service providers.",
+    "tip": "Business grants usually filter by location, business stage, industry, Indigenous business status, activity type and whether the help is funding, advice, loan or rebate.",
+    "action": "Use business.gov.au filters and keep business-profile.md current.",
+    "source": "business.gov.au Grants and Programs Finder"
+  },
+  {
+    "title": "Global environment and island resilience watch",
+    "window_type": "Future round",
+    "notify": "Environment, biodiversity, climate, land-and-sea, women-led, Indigenous peoples and research partnership projects.",
+    "tip": "Global grant pathways usually need stronger partnerships, evidence, governance and impact language. They suit long preparation windows better than last-minute applications.",
+    "action": "Treat as partnership development first, application writing second.",
+    "source": "UNOPS Small Grants"
+  },
+  {
+    "title": "Closing soon triage rule",
+    "window_type": "Closing soon",
+    "notify": "Only entities that match the grant type and already have enough evidence to apply.",
+    "tip": "A closing-soon notice should not create panic for everyone. It should say who is likely eligible, what is still needed and whether the deadline is realistic.",
+    "action": "Send targeted notice, not whole-island noise.",
+    "source": "Straddie Noticeboard Network pattern"
+  }
+]
+
