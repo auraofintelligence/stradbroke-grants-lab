@@ -5,7 +5,6 @@ const navHtml = `
     <div class="nav-links" id="nav-links">
       <a href="entities.html">Island Entities</a>
       <a href="projects.html">Projects</a>
-      <a href="health-housing-emergency.html">Health/Housing</a>
       <a href="federal-grants.html">Federal</a>
       <a href="queensland-grants.html">Queensland</a>
       <a href="council-grants.html">Council</a>
@@ -90,7 +89,6 @@ async function renderHome() {
       ["Grant watchlist", `${grants.length} starter grant pathways across federal, Queensland, council, First Nations, global and island levels.`, "federal-grants.html"],
       ["Island entities", `${entities.length} starter applicant records from businesses, clubs, non-profits, artists and civic groups.`, "entities.html"],
       ["Project catalogue", `${projects.length} Strange But True and island project concepts ready for grant matching.`, "projects.html"],
-      ["Core services", "Health, housing, aged care, Elders, police, ambulance, fire, VMR and emergency readiness.", "health-housing-emergency.html"],
       ["Grant windows", "Noticeboard-ready hints for new, closing, future and rolling grant opportunities.", "grant-windows.html"],
     ].map(([title, body, href]) => `<a class="link-card" href="${href}"><p class="tag">Open</p><h3>${title}</h3><p>${body}</p></a>`).join("");
   }
@@ -102,14 +100,6 @@ async function renderHome() {
   if (windowPreview) {
     const windows = await loadJson("data/grant-windows.json");
     windowPreview.innerHTML = windows.slice(0, 3).map((item) => `<a class="link-card" href="grant-windows.html"><p class="tag">${item.window_type}</p><h3>${item.title}</h3><p>${item.tip}</p></a>`).join("");
-  }
-  const coreServiceCards = document.querySelector("#coreServiceCards");
-  if (coreServiceCards) {
-    const coreCategories = ["Elders and cultural governance", "Health service", "Housing and aged care", "Emergency service"];
-    coreServiceCards.innerHTML = coreCategories.map((category) => {
-      const count = entities.filter((item) => item.category === category).length;
-      return `<a class="link-card" href="health-housing-emergency.html"><p class="tag">${count} entries</p><h3>${category}</h3><p>Open the dedicated core-services lane for grant matching and noticeboard preparation.</p></a>`;
-    }).join("");
   }
 }
 
@@ -154,19 +144,6 @@ async function renderWindows() {
   draw();
 }
 
-async function renderCoreServices() {
-  const data = await loadJson("data/entities.json");
-  const coreCategories = ["Elders and cultural governance", "Health service", "Housing and aged care", "Emergency service"];
-  const items = data.filter((item) => coreCategories.includes(item.category));
-  const grid = document.querySelector("#coreServiceGrid");
-  const draw = (filter = "All") => {
-    const filtered = filter === "All" ? items : items.filter((item) => item.category === filter);
-    grid.innerHTML = filtered.map((item) => card(item.name, item.category, item.grant_fit, `${item.location} | ${item.status}`)).join("");
-  };
-  renderFilters(document.querySelector("#coreServiceFilters"), coreCategories, draw);
-  draw();
-}
-
 async function boot() {
   try {
     const page = document.body.dataset.page;
@@ -175,7 +152,6 @@ async function boot() {
     if (page === "projects") await renderProjects();
     if (page === "grants") await renderGrants();
     if (page === "windows") await renderWindows();
-    if (page === "core-services") await renderCoreServices();
   } catch (error) {
     const main = document.querySelector("main");
     if (main) main.insertAdjacentHTML("beforeend", `<p class="load-error">${error.message}. If you opened the file directly, run a local server first.</p>`);
