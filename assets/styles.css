@@ -335,6 +335,61 @@ p { margin: 0; }
   flex-wrap: wrap;
   gap: 0.6rem;
 }
+.profile-generator {
+  border-top: 1px solid var(--border);
+}
+.md-form {
+  margin-top: 1.4rem;
+}
+.form-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.form-grid label {
+  color: var(--muted-light);
+  display: grid;
+  font: 900 0.9rem var(--heading);
+  gap: 0.45rem;
+}
+.form-grid .span-all {
+  grid-column: 1 / -1;
+}
+.form-grid input,
+.form-grid textarea {
+  background: rgba(247, 243, 255, 0.08);
+  border: 1px solid rgba(95, 216, 255, 0.34);
+  border-radius: 8px;
+  color: var(--soft-white);
+  font: 700 1rem var(--body);
+  padding: 0.75rem 0.85rem;
+  width: 100%;
+}
+.form-grid textarea {
+  resize: vertical;
+}
+.form-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.85rem;
+  margin-top: 1.2rem;
+}
+.form-actions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+.md-preview {
+  background: rgba(0, 0, 0, 0.26);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--soft-white);
+  font: 0.92rem/1.5 Consolas, "Liberation Mono", monospace;
+  margin: 1rem 0 0;
+  min-height: 10rem;
+  overflow: auto;
+  padding: 1rem;
+  white-space: pre-wrap;
+}
 .timeline {
   display: grid;
   gap: 0.8rem;
@@ -394,6 +449,7 @@ p { margin: 0; }
   .hero { min-height: auto; }
   .link-card-grid,
   .data-grid { grid-template-columns: 1fr; }
+  .form-grid { grid-template-columns: 1fr; }
   .data-card,
   .link-card,
   .source-item,

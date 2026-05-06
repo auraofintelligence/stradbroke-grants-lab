@@ -4,22 +4,104 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Profile Kit | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=watchlist-fix-20260506">
+    <link rel="stylesheet" href="assets/styles.css?v=profile-forms-20260506">
   </head>
   <body data-page="profile">
     <header class="site-header"></header>
     <main id="main" class="page-shell">
       <p class="eyebrow">Profile Kit</p>
       <h1>Markdown packs for faster, cleaner grant drafting.</h1>
-      <p class="hero-lede">These are small files an AI agent can read before drafting. Think of them as labelled lunchboxes for facts: business profile, project story, noticeboard updates, readiness checks and milestone reports.</p>
+      <p class="hero-lede">Fill a form, generate a clean Markdown file, then use it as the source pack for grant drafting, notices and reporting.</p>
       <section class="section compact">
         <div class="link-card-grid">
-          <article class="link-card"><p class="tag">Applicant facts</p><h3>business-profile.md</h3><p>Who you are, ABN, structure, contact, insurance, past work and permission boundaries.</p></article>
-          <article class="link-card"><p class="tag">Project brain</p><h3>aura.md</h3><p>The deeper intention, values, risks, language style and what the public page should not claim.</p></article>
-          <article class="link-card"><p class="tag">Community updates</p><h3>noticeboard.md</h3><p>Short public updates, calls for partners, workshop notes and status changes.</p></article>
-          <article class="link-card"><p class="tag">Grant readiness</p><h3>checklist.md</h3><p>Eligibility, evidence, budget, timeline, quotes, permissions and reporting duties.</p></article>
-          <article class="link-card"><p class="tag">Accountability</p><h3>milestone-report.md</h3><p>Progress, spend, changes, evidence, next steps and acquittal notes.</p></article>
+          <a class="link-card" href="#business-profile-form"><p class="tag">Generate</p><h3>business-profile.md</h3><p>Who the applicant is, what they do, compliance notes, evidence and private boundaries.</p></a>
+          <a class="link-card" href="#grant-readiness-form"><p class="tag">Generate</p><h3>grant-readiness.md</h3><p>Eligibility, evidence, budget, timeline, attachments, permissions and checks.</p></a>
+          <a class="link-card" href="#milestone-report-form"><p class="tag">Generate</p><h3>milestone-report.md</h3><p>Progress, spending, evidence, changes, risks, next steps and acquittal notes.</p></a>
         </div>
+      </section>
+      <section class="section compact">
+        <p class="eyebrow">Related Existing Kits</p>
+        <h2>Keep these as separate source layers</h2>
+        <div class="link-card-grid">
+          <article class="data-card"><p class="tag">SBT profile</p><h3>profile.md</h3><p>Public identity and basic profile layer. Use this alongside business-profile.md when the applicant needs a public doorway.</p></article>
+          <article class="data-card"><p class="tag">SBT aura</p><h3>aura.md</h3><p>Deeper intention, tone, risks and private project brain. Useful, but not the same as a grant readiness checklist.</p></article>
+          <article class="data-card"><p class="tag">Straddie noticeboard</p><h3>noticeboard.md</h3><p>Public update/feed layer for community notices. Keep it separate from private grant drafting notes.</p></article>
+        </div>
+      </section>
+      <section class="section compact profile-generator" id="business-profile-form" data-md-generator="business-profile">
+        <p class="eyebrow">Applicant Facts</p>
+        <h2>business-profile.md form</h2>
+        <form class="md-form">
+          <div class="form-grid">
+            <label>Public name<input name="publicName" type="text"></label>
+            <label>Legal name<input name="legalName" type="text"></label>
+            <label>ABN / ACN<input name="abn" type="text"></label>
+            <label>Entity type<input name="entityType" type="text" placeholder="Sole trader, company, incorporated association..."></label>
+            <label>Contact person<input name="contactPerson" type="text"></label>
+            <label>Town / location<input name="location" type="text"></label>
+            <label class="span-all">Website / social links<textarea name="links" rows="3"></textarea></label>
+            <label class="span-all">Public summary<textarea name="summary" rows="4"></textarea></label>
+            <label class="span-all">Community benefit<textarea name="benefit" rows="4"></textarea></label>
+            <label class="span-all">Experience / past work<textarea name="experience" rows="4"></textarea></label>
+            <label class="span-all">Insurance / compliance<textarea name="compliance" rows="4"></textarea></label>
+            <label class="span-all">Grant restrictions<textarea name="restrictions" rows="3"></textarea></label>
+            <label class="span-all">Private notes<textarea name="privateNotes" rows="4"></textarea></label>
+          </div>
+          <div class="form-actions">
+            <button class="button primary" type="button" data-generate-md>Generate Markdown</button>
+            <button class="button secondary" type="button" data-download-md disabled>Export .md</button>
+          </div>
+        </form>
+        <pre class="md-preview" data-md-preview></pre>
+      </section>
+      <section class="section compact profile-generator" id="grant-readiness-form" data-md-generator="grant-readiness">
+        <p class="eyebrow">Grant Readiness</p>
+        <h2>grant-readiness.md form</h2>
+        <form class="md-form">
+          <div class="form-grid">
+            <label>Grant name<input name="grant" type="text"></label>
+            <label>Deadline<input name="deadline" type="text"></label>
+            <label>Applicant<input name="applicant" type="text"></label>
+            <label>Project<input name="project" type="text"></label>
+            <label class="span-all">Eligibility notes<textarea name="eligibility" rows="4"></textarea></label>
+            <label class="span-all">Evidence already ready<textarea name="evidenceReady" rows="4"></textarea></label>
+            <label class="span-all">Evidence still needed<textarea name="evidenceNeeded" rows="4"></textarea></label>
+            <label class="span-all">Budget / quotes<textarea name="budget" rows="4"></textarea></label>
+            <label class="span-all">Permissions / cultural authority<textarea name="permissions" rows="4"></textarea></label>
+            <label class="span-all">Risks and checks<textarea name="risks" rows="4"></textarea></label>
+            <label class="span-all">Reporting / acquittal duties<textarea name="reporting" rows="4"></textarea></label>
+          </div>
+          <div class="form-actions">
+            <button class="button primary" type="button" data-generate-md>Generate Markdown</button>
+            <button class="button secondary" type="button" data-download-md disabled>Export .md</button>
+          </div>
+        </form>
+        <pre class="md-preview" data-md-preview></pre>
+      </section>
+      <section class="section compact profile-generator" id="milestone-report-form" data-md-generator="milestone-report">
+        <p class="eyebrow">Accountability</p>
+        <h2>milestone-report.md form</h2>
+        <form class="md-form">
+          <div class="form-grid">
+            <label>Grant<input name="grant" type="text"></label>
+            <label>Project<input name="project" type="text"></label>
+            <label>Reporting period<input name="period" type="text"></label>
+            <label>Prepared by<input name="preparedBy" type="text"></label>
+            <label class="span-all">What was planned<textarea name="planned" rows="4"></textarea></label>
+            <label class="span-all">What happened<textarea name="happened" rows="4"></textarea></label>
+            <label class="span-all">Budget update<textarea name="budget" rows="4"></textarea></label>
+            <label class="span-all">Evidence collected<textarea name="evidence" rows="4"></textarea></label>
+            <label class="span-all">Changes / variations<textarea name="changes" rows="4"></textarea></label>
+            <label class="span-all">Risks / issues<textarea name="risks" rows="4"></textarea></label>
+            <label class="span-all">Next milestone<textarea name="next" rows="4"></textarea></label>
+            <label class="span-all">Acquittal notes<textarea name="acquittal" rows="4"></textarea></label>
+          </div>
+          <div class="form-actions">
+            <button class="button primary" type="button" data-generate-md>Generate Markdown</button>
+            <button class="button secondary" type="button" data-download-md disabled>Export .md</button>
+          </div>
+        </form>
+        <pre class="md-preview" data-md-preview></pre>
       </section>
       <section class="section compact">
         <p class="eyebrow">Service Flow</p>
@@ -33,7 +115,6 @@
       </section>
     </main>
     <footer class="site-footer"></footer>
-    <script src="assets/app.js?v=watchlist-fix-20260506"></script>
+    <script src="assets/app.js?v=profile-forms-20260506"></script>
   </body>
 </html>
-

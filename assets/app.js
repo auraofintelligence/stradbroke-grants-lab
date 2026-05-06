@@ -77,6 +77,138 @@ function renderFilters(container, labels, onSelect) {
   });
 }
 
+function value(form, name) {
+  return (new FormData(form).get(name) || "").toString().trim();
+}
+
+function section(title, body, fallback = "") {
+  const content = body || fallback;
+  return `## ${title}\n\n${content}\n`;
+}
+
+function checkboxLines(items) {
+  return items.map((item) => `- [ ] ${item}`).join("\n");
+}
+
+function markdownBuilders(type, form) {
+  if (type === "business-profile") {
+    return {
+      filename: "business-profile.md",
+      markdown: [
+        "# Business / Organisation Profile",
+        "",
+        "Use this file to give an AI agent the basic truth before drafting a grant.",
+        "",
+        section("Public Name", value(form, "publicName")),
+        section("Legal Name", value(form, "legalName")),
+        section("ABN / ACN", value(form, "abn")),
+        section("Entity Type", value(form, "entityType"), "Examples: sole trader, company, incorporated association, charity, auspiced group, informal community group."),
+        section("Contact Person", value(form, "contactPerson")),
+        section("Location", value(form, "location")),
+        section("Website / Social Links", value(form, "links")),
+        section("Public Summary", value(form, "summary"), "Short plain-English summary of who this applicant is and who they help."),
+        section("Community Benefit", value(form, "benefit"), "Who benefits, how they benefit, and why this matters locally."),
+        section("Experience", value(form, "experience"), "Past projects, events, services, partnerships or delivery evidence."),
+        section("Insurance / Compliance", value(form, "compliance"), "Public liability, worker safety, permits, food safety, child safety, cultural permissions, privacy notes."),
+        section("Grant Restrictions", value(form, "restrictions"), "Anything the applicant cannot or should not claim."),
+        section("Private Notes", value(form, "privateNotes"), "Keep this section out of public pages unless deliberately approved."),
+      ].join("\n").trim() + "\n",
+    };
+  }
+  if (type === "grant-readiness") {
+    return {
+      filename: "grant-readiness.md",
+      markdown: [
+        "# Grant Readiness",
+        "",
+        section("Grant", value(form, "grant")),
+        section("Deadline", value(form, "deadline")),
+        section("Applicant", value(form, "applicant")),
+        section("Project", value(form, "project")),
+        section("Eligibility Notes", value(form, "eligibility"), checkboxLines([
+          "Applicant type is eligible.",
+          "Project location is eligible.",
+          "Project timing is eligible.",
+          "Requested items are eligible.",
+          "No duplicate funding problem.",
+          "Auspice is arranged if needed.",
+        ])),
+        section("Evidence Already Ready", value(form, "evidenceReady")),
+        section("Evidence Still Needed", value(form, "evidenceNeeded"), checkboxLines([
+          "Quotes are collected.",
+          "Budget balances.",
+          "Timeline is realistic.",
+          "Letters of support are ready.",
+          "Risk management is included.",
+        ])),
+        section("Budget / Quotes", value(form, "budget")),
+        section("Permissions / Cultural Authority", value(form, "permissions")),
+        section("Risks and Checks", value(form, "risks"), checkboxLines([
+          "No over-claiming.",
+          "Cultural authority is respected.",
+          "Privacy boundary is clear.",
+          "Reporting duties are understood.",
+        ])),
+        section("Reporting / Acquittal Duties", value(form, "reporting"), "Acquittal evidence can be collected during delivery."),
+      ].join("\n").trim() + "\n",
+    };
+  }
+  return {
+    filename: "milestone-report.md",
+    markdown: [
+      "# Milestone Report",
+      "",
+      section("Grant", value(form, "grant")),
+      section("Project", value(form, "project")),
+      section("Reporting Period", value(form, "period")),
+      section("Prepared By", value(form, "preparedBy")),
+      section("What Was Planned", value(form, "planned")),
+      section("What Happened", value(form, "happened")),
+      section("Budget Update", value(form, "budget")),
+      section("Evidence Collected", value(form, "evidence"), "Links, photos, invoices, attendance, feedback, delivery notes."),
+      section("Changes / Variations", value(form, "changes")),
+      section("Risks / Issues", value(form, "risks")),
+      section("Next Milestone", value(form, "next")),
+      section("Acquittal Notes", value(form, "acquittal")),
+    ].join("\n").trim() + "\n",
+  };
+}
+
+function downloadMarkdown(filename, markdown) {
+  const blob = new Blob([markdown], { type: "text/markdown;charset=utf-8" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = filename;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function renderProfileKit() {
+  document.querySelectorAll("[data-md-generator]").forEach((panel) => {
+    const form = panel.querySelector("form");
+    const preview = panel.querySelector("[data-md-preview]");
+    const generate = panel.querySelector("[data-generate-md]");
+    const download = panel.querySelector("[data-download-md]");
+    let latest = "";
+    let filename = "profile.md";
+    if (!form || !preview || !generate || !download) return;
+    generate.addEventListener("click", () => {
+      const built = markdownBuilders(panel.dataset.mdGenerator, form);
+      latest = built.markdown;
+      filename = built.filename;
+      preview.textContent = latest;
+      download.disabled = false;
+      download.textContent = `Export ${filename}`;
+    });
+    download.addEventListener("click", () => {
+      if (latest) downloadMarkdown(filename, latest);
+    });
+  });
+}
+
 async function renderHome() {
   const [grants, projects, entities, docs] = await Promise.all([
     loadJson("data/grants.json"),
@@ -205,6 +337,7 @@ async function boot() {
     if (page === "grants") await renderGrants();
     if (page === "windows") await renderWindows();
     if (page === "watchlist") await renderWatchlist();
+    if (page === "profile") renderProfileKit();
   } catch (error) {
     const main = document.querySelector("main");
     if (main) main.insertAdjacentHTML("beforeend", `<p class="load-error">${error.message}. If you opened the file directly, run a local server first.</p>`);
