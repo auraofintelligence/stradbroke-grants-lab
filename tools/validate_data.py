@@ -33,6 +33,10 @@ def main():
             missing = [field for field in fields if field not in item or item[field] in ("", [], None)]
             if missing:
                 fail(f"{relative} item {index} is missing {', '.join(missing)}")
+    entity_names = [item["name"] for item in json.loads((ROOT / "data/entities.json").read_text(encoding="utf-8"))]
+    duplicates = sorted({name for name in entity_names if entity_names.count(name) > 1})
+    if duplicates:
+        fail(f"data/entities.json has duplicate names: {', '.join(duplicates)}")
     print("Data validation passed.")
 
 

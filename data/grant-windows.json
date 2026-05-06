@@ -54,6 +54,29 @@
     "tip": "A closing-soon notice should not create panic for everyone. It should say who is likely eligible, what is still needed and whether the deadline is realistic.",
     "action": "Send targeted notice, not whole-island noise.",
     "source": "Straddie Noticeboard Network pattern"
+  },
+  {
+    "title": "Health and aged-care grant scan",
+    "window_type": "Rolling program",
+    "notify": "Yulu-Burri-Ba, Moopi, NSI Housing, Elders groups and partner services where authority is clear.",
+    "tip": "Health and aged-care grants need stronger privacy, clinical, cultural safety and governance checks than a general community event grant.",
+    "action": "Prepare evidence of need, service authority, privacy boundaries and delivery partners before drafting.",
+    "source": "Australian Government Department of Health, Disability and Ageing"
+  },
+  {
+    "title": "Housing and safe homes preparation",
+    "window_type": "Future round",
+    "notify": "NSI Housing, aged-care providers, community service partners and housing advocacy projects.",
+    "tip": "Housing work can be capital, maintenance, tenancy support, crisis response or community planning. Split the project type before matching the grant.",
+    "action": "Build a housing-specific evidence pack: need, ownership or control, quotes, permissions, maintenance responsibility and beneficiary privacy.",
+    "source": "Queensland First Nations housing support and public housing pathways"
+  },
+  {
+    "title": "Emergency readiness and volunteer equipment watch",
+    "window_type": "Opening soon",
+    "notify": "VMR, rural fire, surf lifesaving, wildlife rescue, disaster kiosk projects and relevant community safety partners.",
+    "tip": "Emergency grants need practical proof: equipment gaps, training need, volunteer capacity, risk maps, communications, evacuation logic and maintenance responsibility.",
+    "action": "Keep an emergency-readiness wishlist ready before disaster, not after it.",
+    "source": "Queensland Reconstruction Authority and emergency service grant pathways"
   }
 ]
-

@@ -70,6 +70,23 @@
     "domain": "Grant operations",
     "summary": "Reusable markdown files that let AI agents draft grants from accurate applicant facts, updates and reporting notes.",
     "grant_angles": ["capacity building", "governance", "digital operations", "reporting"]
+  },
+  {
+    "title": "Island Health and Wellbeing Access",
+    "domain": "Health and wellbeing",
+    "summary": "Culturally safe primary health, visiting services, prevention, Elders wellbeing, youth wellbeing and practical access to care on an island.",
+    "grant_angles": ["health", "social and emotional wellbeing", "First Nations health", "aged care", "transport access"]
+  },
+  {
+    "title": "Housing Stability and Elders Care",
+    "domain": "Housing and aged care",
+    "summary": "Affordable housing, respite, aged care, safe homes, maintenance, accessibility and culturally safe living support.",
+    "grant_angles": ["housing", "aged care", "accessibility", "community infrastructure", "First Nations services"]
+  },
+  {
+    "title": "Emergency Readiness and Volunteer Capacity",
+    "domain": "Emergency readiness",
+    "summary": "Police, ambulance, fire, VMR, surf lifesaving, wildlife rescue and disaster kiosk coordination as a practical island safety layer.",
+    "grant_angles": ["disaster resilience", "volunteer training", "equipment", "communications", "public safety"]
   }
 ]
-

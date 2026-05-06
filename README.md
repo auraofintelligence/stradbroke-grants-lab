@@ -4,7 +4,7 @@ A public-facing grant research and preparation site for North Stradbroke Island 
 
 The goal is simple:
 
-- map local businesses, non-profits, artists, clubs and community groups
+- map local businesses, non-profits, artists, clubs, health services, housing services, emergency services and community groups
 - map Strange But True sample-world projects that could become grant applications
 - keep a live watchlist of grant programs by level
 - publish grant-window notices for new, closing and future rounds
@@ -53,3 +53,7 @@ python tools/validate_data.py
 ```
 
 The GitHub Action runs the same check.
+
+## Entity Boundary
+
+The entity catalogue is a public research and discovery layer, not consent, endorsement or a complete official directory. It currently imports the wider Straddie Noticeboard Network supposition layer and adds explicit health, housing, Elders and emergency service lanes for grant matching.

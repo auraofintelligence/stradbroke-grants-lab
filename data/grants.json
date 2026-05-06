@@ -99,6 +99,42 @@
     "last_checked": "Checked 2026-05-06"
   },
   {
+    "name": "Australian Government Health, Disability and Ageing grants and tenders",
+    "level": "federal",
+    "level_label": "Australian Government",
+    "status": "Program list",
+    "best_for": "Health, disability, ageing and aged-care grant opportunities, with public grants generally listed through GrantConnect and Community Grants Hub.",
+    "url": "https://www.health.gov.au/about-us/what-we-do/grants-and-tenders",
+    "last_checked": "Checked 2026-05-06"
+  },
+  {
+    "name": "Queensland Reconstruction Authority resilience funding programs",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Program list",
+    "best_for": "Disaster recovery, resilience, natural hazard risk reduction and community resilience funding pathways.",
+    "url": "https://www.qra.qld.gov.au/funding-programs/resilience-funding-programs",
+    "last_checked": "Checked 2026-05-06"
+  },
+  {
+    "name": "Queensland disaster grants and financial assistance",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Support information",
+    "best_for": "Personal hardship and disaster support pathways after activated events; useful for emergency noticeboard routing rather than project funding.",
+    "url": "https://www.qld.gov.au/community/disasters-emergencies/disasters/money-finance/types-grants",
+    "last_checked": "Checked 2026-05-06"
+  },
+  {
+    "name": "Queensland First Nations housing support",
+    "level": "first-nations",
+    "level_label": "Queensland Government",
+    "status": "Support information",
+    "best_for": "Housing support, community housing context and First Nations housing pathways that may inform referrals, partnerships and grant framing.",
+    "url": "https://www.qld.gov.au/firstnations/managing-home-money/housing-support",
+    "last_checked": "Checked 2026-05-06"
+  },
+  {
     "name": "UNOPS Small Grants",
     "level": "global",
     "level_label": "UN / global",
@@ -117,4 +153,3 @@
     "last_checked": "Started 2026-05-06"
   }
 ]
-
