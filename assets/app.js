@@ -87,7 +87,7 @@ async function renderHome() {
   const homeCards = document.querySelector("#homeCards");
   if (homeCards) {
     homeCards.innerHTML = [
-      ["Grant watchlist", `${grants.length} grant sources plus generated shortlist notes across federal, Queensland, council, First Nations, global and island levels.`, "grant-watchlist.html"],
+      ["Grant watchlist", "Generated shortlist from all grant sources, levels and timing windows.", "grant-watchlist.html"],
       ["Island entities", `${entities.length} starter applicant records from businesses, clubs, non-profits, artists and civic groups.`, "entities.html"],
       ["Project catalogue", `${projects.length} Strange But True and island project concepts ready for grant matching.`, "projects.html"],
       ["Grant windows", "Noticeboard-ready hints for new, closing, future and rolling grant opportunities.", "grant-windows.html"],
