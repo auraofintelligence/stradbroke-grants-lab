@@ -81,8 +81,13 @@ function unique(items) {
 function scrollToHashTarget() {
   const targetId = window.location.hash.slice(1);
   if (!targetId) return;
-  const target = document.getElementById(targetId);
-  if (target) target.scrollIntoView({ block: "start" });
+  const scroll = () => {
+    const target = document.getElementById(targetId);
+    if (target) target.scrollIntoView({ block: "start" });
+  };
+  scroll();
+  window.requestAnimationFrame(scroll);
+  window.setTimeout(scroll, 140);
 }
 
 function renderFilters(container, labels, onSelect) {
