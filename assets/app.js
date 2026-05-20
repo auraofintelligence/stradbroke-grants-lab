@@ -78,6 +78,13 @@ function unique(items) {
   return [...new Set(items)].filter(Boolean).sort();
 }
 
+function scrollToHashTarget() {
+  const targetId = window.location.hash.slice(1);
+  if (!targetId) return;
+  const target = document.getElementById(targetId);
+  if (target) target.scrollIntoView({ block: "start" });
+}
+
 function renderFilters(container, labels, onSelect) {
   if (!container) return;
   container.innerHTML = ["All", ...labels].map((label, index) => `<button type="button" class="${index === 0 ? "is-active" : ""}" data-filter="${label}">${label}</button>`).join("");
@@ -335,6 +342,7 @@ async function renderProjects() {
   };
   renderFilters(document.querySelector("#projectFilters"), unique(data.map((item) => item.domain)), draw);
   draw();
+  scrollToHashTarget();
 }
 
 async function renderGrants() {
