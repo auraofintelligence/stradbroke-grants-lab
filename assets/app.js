@@ -57,9 +57,21 @@ async function loadJson(path) {
   return response.json();
 }
 
-function card(title, tag, body, meta, url) {
-  const link = url ? `<p class="meta"><a href="${url}" target="_blank" rel="noopener noreferrer">Open source</a></p>` : "";
-  return `<article class="data-card"><p class="tag">${tag || "Item"}</p><h3>${title}</h3><p>${body}</p>${meta ? `<p class="meta">${meta}</p>` : ""}${link}</article>`;
+function slugify(value) {
+  return value
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
+
+function card(title, tag, body, meta, url, actions = [], id = "") {
+  const fallbackAction = url ? [{ label: "Open source", url }] : [];
+  const actionItems = [...fallbackAction, ...actions].filter((action) => action && action.url);
+  const actionLinks = actionItems.length
+    ? `<div class="card-actions">${actionItems.map((action) => `<a href="${action.url}" target="_blank" rel="noopener noreferrer">${action.label}</a>`).join("")}</div>`
+    : "";
+  const anchor = id ? ` id="${id}"` : "";
+  return `<article class="data-card"${anchor}><p class="tag">${tag || "Item"}</p><h3>${title}</h3><p>${body}</p>${meta ? `<p class="meta">${meta}</p>` : ""}${actionLinks}</article>`;
 }
 
 function unique(items) {
@@ -313,7 +325,13 @@ async function renderProjects() {
   const grid = document.querySelector("#projectGrid");
   const draw = (filter = "All") => {
     const items = filter === "All" ? data : data.filter((item) => item.domain === filter);
-    grid.innerHTML = items.map((item) => card(item.title, item.domain, item.summary, `Grant angles: ${item.grant_angles.join(", ")}`)).join("");
+    grid.innerHTML = items.map((item) => {
+      const actions = [
+        { label: "Public Page", url: item.public_page },
+        { label: "GitHub Repo", url: item.github_repo }
+      ];
+      return card(item.title, item.domain, item.summary, `Grant angles: ${item.grant_angles.join(", ")}`, "", actions, `project-${slugify(item.title)}`);
+    }).join("");
   };
   renderFilters(document.querySelector("#projectFilters"), unique(data.map((item) => item.domain)), draw);
   draw();

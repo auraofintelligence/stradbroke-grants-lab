@@ -277,6 +277,29 @@ p { margin: 0; }
   font-size: 0.9rem;
   margin-top: 0.85rem;
 }
+.card-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1rem;
+}
+.card-actions a {
+  border: 1px solid rgba(95, 216, 255, 0.42);
+  border-radius: 999px;
+  color: var(--light);
+  font-family: var(--heading);
+  font-size: 0.82rem;
+  font-weight: 900;
+  padding: 0.55rem 0.78rem;
+  text-decoration: none;
+  transition: background 160ms ease, border-color 160ms ease, color 160ms ease;
+}
+.card-actions a:hover,
+.card-actions a:focus {
+  background: rgba(95, 216, 255, 0.12);
+  border-color: var(--true-cyan);
+  color: var(--true-cyan);
+}
 .stack {
   display: grid;
   gap: 0.85rem;
