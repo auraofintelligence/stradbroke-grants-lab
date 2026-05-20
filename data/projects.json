@@ -4,7 +4,7 @@
     "domain": "Sport and wellbeing",
     "summary": "Local sport, outdoor cinema, youth, visitors, wellbeing and place-based activity.",
     "grant_angles": ["sport participation", "youth wellbeing", "community events", "healthy communities"],
-    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html#project-health-and-culture",
+    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html?project=health-and-culture",
     "github_repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
   },
   {
@@ -20,7 +20,7 @@
     "domain": "Regional planning",
     "summary": "An island-and-region frame for linking local projects, futures, stories and systems.",
     "grant_angles": ["regional development", "research", "community planning", "stakeholder engagement"],
-    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html#project-bigger-local-picture",
+    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html?project=bigger-local-picture",
     "github_repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
   },
   {
@@ -108,7 +108,7 @@
     "domain": "Health and wellbeing",
     "summary": "Culturally safe primary health, visiting services, prevention, Elders wellbeing, youth wellbeing and practical access to care on an island.",
     "grant_angles": ["health", "social and emotional wellbeing", "First Nations health", "aged care", "transport access"],
-    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html#project-island-health-and-wellbeing-access",
+    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html?project=island-health-and-wellbeing-access",
     "github_repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
   },
   {

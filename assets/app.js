@@ -64,30 +64,19 @@ function slugify(value) {
     .replace(/(^-|-$)/g, "");
 }
 
-function card(title, tag, body, meta, url, actions = [], id = "") {
+function card(title, tag, body, meta, url, actions = [], id = "", className = "") {
   const fallbackAction = url ? [{ label: "Open source", url }] : [];
   const actionItems = [...fallbackAction, ...actions].filter((action) => action && action.url);
   const actionLinks = actionItems.length
     ? `<div class="card-actions">${actionItems.map((action) => `<a href="${action.url}" target="_blank" rel="noopener noreferrer">${action.label}</a>`).join("")}</div>`
     : "";
   const anchor = id ? ` id="${id}"` : "";
-  return `<article class="data-card"${anchor}><p class="tag">${tag || "Item"}</p><h3>${title}</h3><p>${body}</p>${meta ? `<p class="meta">${meta}</p>` : ""}${actionLinks}</article>`;
+  const classes = className ? ` ${className}` : "";
+  return `<article class="data-card${classes}"${anchor}><p class="tag">${tag || "Item"}</p><h3>${title}</h3><p>${body}</p>${meta ? `<p class="meta">${meta}</p>` : ""}${actionLinks}</article>`;
 }
 
 function unique(items) {
   return [...new Set(items)].filter(Boolean).sort();
-}
-
-function scrollToHashTarget() {
-  const targetId = window.location.hash.slice(1);
-  if (!targetId) return;
-  const scroll = () => {
-    const target = document.getElementById(targetId);
-    if (target) target.scrollIntoView({ block: "start" });
-  };
-  scroll();
-  window.requestAnimationFrame(scroll);
-  window.setTimeout(scroll, 140);
 }
 
 function renderFilters(container, labels, onSelect) {
@@ -334,20 +323,24 @@ async function renderEntities() {
 
 async function renderProjects() {
   const data = await loadJson("data/projects.json");
+  const focusedProject = new URLSearchParams(window.location.search).get("project") || "";
+  const orderedData = focusedProject
+    ? [...data].sort((a, b) => Number(slugify(b.title) === focusedProject) - Number(slugify(a.title) === focusedProject))
+    : data;
   const grid = document.querySelector("#projectGrid");
   const draw = (filter = "All") => {
-    const items = filter === "All" ? data : data.filter((item) => item.domain === filter);
+    const items = filter === "All" ? orderedData : orderedData.filter((item) => item.domain === filter);
     grid.innerHTML = items.map((item) => {
+      const projectSlug = slugify(item.title);
       const actions = [
         { label: "Public Page", url: item.public_page },
         { label: "GitHub Repo", url: item.github_repo }
       ];
-      return card(item.title, item.domain, item.summary, `Grant angles: ${item.grant_angles.join(", ")}`, "", actions, `project-${slugify(item.title)}`);
+      return card(item.title, item.domain, item.summary, `Grant angles: ${item.grant_angles.join(", ")}`, "", actions, `project-${projectSlug}`, projectSlug === focusedProject ? "is-featured" : "");
     }).join("");
   };
   renderFilters(document.querySelector("#projectFilters"), unique(data.map((item) => item.domain)), draw);
   draw();
-  scrollToHashTarget();
 }
 
 async function renderGrants() {
