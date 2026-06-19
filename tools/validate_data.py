@@ -4,12 +4,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = {
-    "data/grants.json": ["name", "level", "status", "best_for", "url", "last_checked"],
+    "data/grants.json": ["name", "level", "status", "best_for", "url", "last_checked", "source_key"],
     "data/entities.json": ["name", "category", "location", "status", "grant_fit", "place_area"],
     "data/projects.json": ["title", "domain", "summary", "grant_angles"],
     "data/source-docs.json": ["title", "type", "summary"],
-    "data/grant-windows.json": ["title", "window_type", "notify", "tip", "action", "source"],
-    "data/grant-watchlist.json": ["title", "priority", "summary", "level", "level_label", "window_type", "action"],
+    "data/grant-windows.json": ["source_key", "title", "window_type", "notify", "tip", "action", "source"],
+    "data/grant-watchlist.json": ["title", "priority", "summary", "level", "level_label", "window_type", "action", "status", "source_key"],
 }
 
 
@@ -50,6 +50,14 @@ def main():
     watchlist = json.loads((ROOT / "data/grant-watchlist.json").read_text(encoding="utf-8"))
     if len(watchlist) != len(grants):
         fail("data/grant-watchlist.json must be rebuilt from data/grants.json")
+    grant_keys = {item["source_key"] for item in grants}
+    window_keys = {item["source_key"] for item in json.loads((ROOT / "data/grant-windows.json").read_text(encoding="utf-8"))}
+    missing_windows = sorted(grant_keys - window_keys)
+    if missing_windows:
+        fail(f"data/grants.json source_key values without matching grant window: {', '.join(missing_windows)}")
+    watchlist_keys = {item["source_key"] for item in watchlist}
+    if watchlist_keys != grant_keys:
+        fail("data/grant-watchlist.json source_key values must match data/grants.json; rebuild the watchlist")
     print("Data validation passed.")
 
 

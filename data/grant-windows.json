@@ -1,82 +1,200 @@
 [
   {
+    "source_key": "gcbf",
     "title": "GCBF future round watch",
     "window_type": "Future round",
     "notify": "Not-for-profit clubs, community groups, sport groups, arts groups and auspiced informal groups.",
-    "tip": "Round 126 is closed and the next round date is not announced yet. Use the waiting period to confirm eligibility, auspice, quotes, public benefit and reporting capacity.",
-    "action": "Prepare profile pack, project budget and quote list before the next opening is announced.",
+    "tip": "Round 126 is closed. The next GCBF round date is still not announced while Queensland introduces a new online grants system. This Round 126 note applies only to GCBF.",
+    "action": "Use the waiting period to confirm eligibility, auspice, quotes, public benefit, governance and reporting capacity.",
     "source": "Queensland Gambling Community Benefit Fund"
   },
   {
-    "title": "Redland Council community project readiness",
-    "window_type": "Opening soon",
-    "notify": "Community groups, environment groups, artists, clubs and local project leads.",
-    "tip": "Council grants care about public benefit, value for money, delivery skill, risk control, milestone reporting and final acquittal. Do not wait until the portal deadline to collect evidence.",
-    "action": "Build grant-readiness-checklist.md and milestone-report.md before applying.",
+    "source_key": "redland-community-support",
+    "title": "Redland Council Community Support Grant Round 1 readiness",
+    "window_type": "Future round",
+    "notify": "Redland-based not-for-profits, community groups, environment groups, wildlife carers, clubs and local project leads.",
+    "tip": "Round 1 for 2026/27 is scheduled for 27 July 2026 to 16 August 2026. Funding is up to $20,000 and applications are open quarterly.",
+    "action": "Prepare applicant eligibility, ABN, insurance, quotes over $5,000, project plan, risk assessment, budget and reporting plan before 27 July.",
     "source": "Redland City Council Community Support Grant"
   },
   {
-    "title": "First Nations opportunity check",
-    "window_type": "New grant",
-    "notify": "First Nations organisations, cultural projects, Country-care projects and partner-led projects where cultural authority is clear.",
-    "tip": "Check who is actually eligible before drafting. Some programs are restricted, invited or require Indigenous governance. Cultural permission is not a writing detail; it is a project foundation.",
-    "action": "Confirm applicant authority, partner role, permissions and public wording before any notice is published.",
-    "source": "Indigenous.gov.au and Queensland First Nations grants pages"
+    "source_key": "redland-grants",
+    "title": "Redland Council grants portal watch",
+    "window_type": "Source watch",
+    "notify": "Local applicants who may fit council grants, RADF, events, rapid response or sponsorship programs.",
+    "tip": "Council keeps multiple grant streams and support pages. The portal should be checked before assuming Community Support is the best fit.",
+    "action": "Scan council program pages monthly and before any local event, arts, environment or community application.",
+    "source": "Redland City Council Grants and Sponsorship"
   },
   {
+    "source_key": "multicultural-infrastructure",
+    "title": "Multicultural infrastructure Batch 2",
+    "window_type": "Open grant",
+    "notify": "Multicultural organisations, community facilities, arts spaces, community hubs and partnership projects with not-for-profit eligibility.",
+    "tip": "Batch 2 is open until 4:00pm AEDT 12 November 2026. Streams range from $20,000 to $1.5 million and require co-contribution and land ownership or approval evidence.",
+    "action": "Only shortlist if the applicant is eligible, not-for-profit, infrastructure-ready and has landowner evidence plus co-contribution capacity.",
+    "source": "Australian Government Department of Home Affairs"
+  },
+  {
+    "source_key": "first-nations-clean-energy-advice",
+    "title": "First Nations clean energy advice window",
+    "window_type": "Open grant",
+    "notify": "First Nations organisations or groups considering clean energy development, advice, FPIC, planning or technical support.",
+    "tip": "Open until 5:00pm AEST 3 September 2026, unless funding is allocated earlier. Grants are $5,000 to $80,000.",
+    "action": "Confirm First Nations applicant eligibility, ABN, project authority, advice provider, FPIC framing and whether the project needs quotes over $40,000.",
+    "source": "business.gov.au First Nations Clean Energy Advice Grants"
+  },
+  {
+    "source_key": "first-nations-digital-support-hub",
+    "title": "First Nations Digital Support Hub deadline",
+    "window_type": "Closing soon",
+    "notify": "First Nations digital inclusion partners with capacity for national or staged support delivery.",
+    "tip": "Full applications are due 5:00pm AEST 30 June 2026. This is likely a large lead-provider or partnership opportunity, not a casual small grant.",
+    "action": "Triage immediately: confirm eligibility, lead applicant, delivery capacity, cultural authority, partners and whether the island project is a partner rather than applicant.",
+    "source": "Department of Infrastructure First Nations Digital Inclusion"
+  },
+  {
+    "source_key": "first-nations-digital-mentors",
+    "title": "Network of Digital Mentors deadline",
+    "window_type": "Closing soon",
+    "notify": "First Nations digital mentors, community media, local access, training and capability projects with eligible lead partners.",
+    "tip": "Full applications are due 5:00pm AEST 30 June 2026. It could align with noticeboard, kiosks and community media, but only if eligibility and authority are real.",
+    "action": "Treat as a rapid partner check, not a cold application: identify eligible lead, mentors, communities, training evidence and delivery budget.",
+    "source": "Department of Infrastructure First Nations Digital Inclusion"
+  },
+  {
+    "source_key": "pbc-capacity-building",
+    "title": "PBC capacity closing check",
+    "window_type": "Closing soon",
+    "notify": "Native title holding corporations, PBCs and authorised First Nations governance bodies.",
+    "tip": "Indigenous.gov.au lists this as closing 30 June 2026. It is only relevant if the applicant is the right kind of native-title corporation or has a proper role.",
+    "action": "Check applicant status and authority before drafting. Do not bend a community project into a PBC grant without governance fit.",
+    "source": "Indigenous.gov.au Grants"
+  },
+  {
+    "source_key": "indigenous-gov",
+    "title": "First Nations open grants scan",
+    "window_type": "Source watch",
+    "notify": "First Nations organisations, cultural projects, Country-care projects and partner-led projects where cultural authority is clear.",
+    "tip": "Indigenous.gov.au currently lists open and ongoing grants across Country, economic development, health, digital inclusion, arts and local investment.",
+    "action": "Check who is actually eligible before drafting. Cultural authority is not a writing detail; it is a project foundation.",
+    "source": "Indigenous.gov.au Grants"
+  },
+  {
+    "source_key": "qld-first-nations",
+    "title": "Queensland First Nations program scan",
+    "window_type": "Source watch",
+    "notify": "Queensland First Nations organisations, cultural projects, wellbeing, languages, reconciliation, business, housing, sport and Country-care projects.",
+    "tip": "Queensland lists multiple First Nations funding pathways including NAIDOC, languages, reconciliation, wellbeing, business, housing, arts, sport, Looking after Country and GenQ.",
+    "action": "Use as a category scan, then confirm the live program page before drafting or notifying anyone.",
+    "source": "Queensland First Nations grants and funding"
+  },
+  {
+    "source_key": "qld-first-nations-housing",
+    "title": "First Nations housing support routing",
+    "window_type": "Source watch",
+    "notify": "NSI Housing, aged-care providers, community service partners and housing advocacy projects.",
+    "tip": "This is support-pathway context rather than a single open project grant. It helps separate renting, public/community housing, remote housing, emergency accommodation and aged-care housing issues.",
+    "action": "Build a housing-specific evidence pack before looking for capital, maintenance, tenancy support or crisis-response funding.",
+    "source": "Queensland First Nations housing support"
+  },
+  {
+    "source_key": "qld-sport",
     "title": "Sport infrastructure and 2032 legacy scan",
-    "window_type": "Rolling program",
+    "window_type": "Source watch",
     "notify": "Sport clubs, facility committees, surf, beach sport, youth and inclusive recreation projects.",
-    "tip": "Sport grants often need site control, quotes, facility plans, participation evidence, maintenance responsibility and inclusion benefits.",
-    "action": "Keep a sport facility evidence folder and update it monthly.",
+    "tip": "Queensland sport funding lists Active Clubs, First Nations sport, grassroots infrastructure, inclusive facilities, recovery and active industry programs.",
+    "action": "Keep a sport facility evidence folder: site control, quotes, plans, participation evidence, inclusion benefits and maintenance responsibility.",
     "source": "Queensland Sport and Recreation Funding"
   },
   {
+    "source_key": "arts-qld",
+    "title": "Arts Queensland program scan",
+    "window_type": "Source watch",
+    "notify": "Artists, arts organisations, festivals, touring, creative development and First Nations arts projects.",
+    "tip": "Arts Queensland separates funding for individuals and organisations. Check specific arts program pages for actual open dates before creating a grant notice.",
+    "action": "Keep artist profile.md, aura.md, business-profile.md and project evidence ready before matching a round.",
+    "source": "Arts Queensland Funding"
+  },
+  {
+    "source_key": "business-gov",
     "title": "Business support scan",
-    "window_type": "Rolling program",
+    "window_type": "Rolling search",
     "notify": "Local businesses, sole traders, artists, food producers, tourism operators and digital service providers.",
-    "tip": "Business grants usually filter by location, business stage, industry, Indigenous business status, activity type and whether the help is funding, advice, loan or rebate.",
-    "action": "Use business.gov.au filters and keep business-profile.md current.",
+    "tip": "business.gov.au can filter by Queensland, industry, business structure, Indigenous business status, open/coming/closed, and needs such as AI, digital, disaster, equipment, events and training.",
+    "action": "Use filters monthly and whenever a business-profile.md is created or updated.",
     "source": "business.gov.au Grants and Programs Finder"
   },
   {
+    "source_key": "community-grants-hub",
+    "title": "Community Grants Hub open grants scan",
+    "window_type": "Open grants",
+    "notify": "Community groups, not-for-profits, service providers and project leads that match an actual open Australian Government round.",
+    "tip": "Community Grants Hub currently lists open grants and states GrantConnect is the authoritative grants information source.",
+    "action": "Scan open grants, shortlist only genuine island-relevant opportunities, then confirm final rules on GrantConnect.",
+    "source": "Community Grants Hub"
+  },
+  {
+    "source_key": "grantconnect",
+    "title": "GrantConnect authority check",
+    "window_type": "Manual check",
+    "notify": "Any applicant before a federal application is drafted or submitted.",
+    "tip": "GrantConnect is the authoritative Australian Government grants source, but may require a browser/manual check. Do not rely only on summaries for final eligibility.",
+    "action": "Before drafting, capture the GrantConnect GO number, close date, eligibility, attachments and guidelines link.",
+    "source": "GrantConnect"
+  },
+  {
+    "source_key": "health-grants",
+    "title": "Health, disability and aged-care grant scan",
+    "window_type": "Source watch",
+    "notify": "Yulu-Burri-Ba, Moopi, NSI Housing, Elders groups and partner services where authority is clear.",
+    "tip": "The department points public health, disability and aged-care grants through GrantConnect and Community Grants Hub.",
+    "action": "Prepare evidence of need, service authority, privacy boundaries, cultural safety and delivery partners before drafting.",
+    "source": "Australian Government Department of Health, Disability and Ageing"
+  },
+  {
+    "source_key": "qra-resilience",
+    "title": "QRA resilience programs scan",
+    "window_type": "Source watch",
+    "notify": "Emergency readiness, resilience, infrastructure, local disaster, risk reduction and community safety projects.",
+    "tip": "QRA lists current resilience funding programs including QRRRP, DRFA efficiencies, Protecting Our Communities, North Queensland resilience and DRF.",
+    "action": "Map the project to risk reduction, recovery, resilience or emergency readiness before choosing a funding path.",
+    "source": "Queensland Reconstruction Authority"
+  },
+  {
+    "source_key": "qld-disaster-support",
+    "title": "Disaster support noticeboard routing",
+    "window_type": "Activated support",
+    "notify": "Residents, businesses and services only when an activated disaster support pathway applies.",
+    "tip": "Queensland disaster grants include emergency hardship, essential services, household contents, structural assistance and reconnection support. This is public support routing, not ordinary project funding.",
+    "action": "Use for emergency notices and referrals after activated events; do not list as a generic project grant.",
+    "source": "Queensland disaster grants and financial assistance"
+  },
+  {
+    "source_key": "qld-grants-finder",
+    "title": "Queensland grants finder broad scan",
+    "window_type": "Rolling search",
+    "notify": "Any Queensland-based applicant before assuming a state grant does or does not exist.",
+    "tip": "Use the Queensland Grants Finder as a broad search layer, then confirm the program page and round dates from the administering agency.",
+    "action": "Run a filtered state scan for sport, arts, environment, First Nations, business, disaster and community keywords monthly.",
+    "source": "Queensland Grants Finder"
+  },
+  {
+    "source_key": "unops-small-grants",
     "title": "Global environment and island resilience watch",
-    "window_type": "Future round",
+    "window_type": "Partnership watch",
     "notify": "Environment, biodiversity, climate, land-and-sea, women-led, Indigenous peoples and research partnership projects.",
-    "tip": "Global grant pathways usually need stronger partnerships, evidence, governance and impact language. They suit long preparation windows better than last-minute applications.",
+    "tip": "UNOPS small grants information is a global programme-support pathway, not a quick local round. It suits long preparation and partnerships.",
     "action": "Treat as partnership development first, application writing second.",
     "source": "UNOPS Small Grants"
   },
   {
-    "title": "Closing soon triage rule",
-    "window_type": "Closing soon",
-    "notify": "Only entities that match the grant type and already have enough evidence to apply.",
-    "tip": "A closing-soon notice should not create panic for everyone. It should say who is likely eligible, what is still needed and whether the deadline is realistic.",
-    "action": "Send targeted notice, not whole-island noise.",
-    "source": "Straddie Noticeboard Network pattern"
-  },
-  {
-    "title": "Health and aged-care grant scan",
-    "window_type": "Rolling program",
-    "notify": "Yulu-Burri-Ba, Moopi, NSI Housing, Elders groups and partner services where authority is clear.",
-    "tip": "Health and aged-care grants need stronger privacy, clinical, cultural safety and governance checks than a general community event grant.",
-    "action": "Prepare evidence of need, service authority, privacy boundaries and delivery partners before drafting.",
-    "source": "Australian Government Department of Health, Disability and Ageing"
-  },
-  {
-    "title": "Housing and safe homes preparation",
-    "window_type": "Future round",
-    "notify": "NSI Housing, aged-care providers, community service partners and housing advocacy projects.",
-    "tip": "Housing work can be capital, maintenance, tenancy support, crisis response or community planning. Split the project type before matching the grant.",
-    "action": "Build a housing-specific evidence pack: need, ownership or control, quotes, permissions, maintenance responsibility and beneficiary privacy.",
-    "source": "Queensland First Nations housing support and public housing pathways"
-  },
-  {
-    "title": "Emergency readiness and volunteer equipment watch",
-    "window_type": "Opening soon",
-    "notify": "VMR, rural fire, surf lifesaving, wildlife rescue, disaster kiosk projects and relevant community safety partners.",
-    "tip": "Emergency grants need practical proof: equipment gaps, training need, volunteer capacity, risk maps, communications, evacuation logic and maintenance responsibility.",
-    "action": "Keep an emergency-readiness wishlist ready before disaster, not after it.",
-    "source": "Queensland Reconstruction Authority and emergency service grant pathways"
+    "source_key": "island-partner-watch",
+    "title": "Island sponsorship and partner support watch",
+    "window_type": "Local support",
+    "notify": "Businesses, venues, clubs, artists, project leads and community partners.",
+    "tip": "Not every useful pathway is a government grant. Local support may be cash, in-kind, a venue, a letter, a noticeboard slot, a market table or a media partnership.",
+    "action": "Build a local partner list beside each grant-ready project and record asks, offers and follow-up dates.",
+    "source": "Island entities and local partner research"
   }
 ]

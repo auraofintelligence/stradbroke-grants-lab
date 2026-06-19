@@ -20,18 +20,16 @@ def read_json(relative):
 
 
 def window_for(grant, windows):
-    grant_text = f"{grant['name']} {grant['level_label']} {grant['best_for']}".lower()
-    for window in windows:
-        source = window["source"].lower()
-        if any(token in source for token in grant_text.split()[:3]):
-            return window
-    for window in windows:
-        if grant["level"] in window["notify"].lower() or grant["level_label"].split()[0].lower() in window["source"].lower():
-            return window
+    source_key = grant.get("source_key")
+    if source_key:
+        for window in windows:
+            if window.get("source_key") == source_key:
+                return window
     return {
         "window_type": "Source watch",
         "action": "Check current round, eligibility, deadline, evidence and reporting duties before drafting.",
         "tip": grant["best_for"],
+        "source": grant["name"],
     }
 
 
@@ -52,6 +50,8 @@ def main():
             "action": window["action"],
             "source_url": grant["url"],
             "last_checked": grant["last_checked"],
+            "status": grant["status"],
+            "source_key": grant.get("source_key", ""),
         })
 
     watchlist.sort(key=lambda item: (

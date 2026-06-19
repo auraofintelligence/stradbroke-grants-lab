@@ -1,84 +1,93 @@
 [
   {
-    "name": "GrantConnect",
-    "level": "federal",
-    "level_label": "Australian Government",
-    "status": "Search portal",
-    "best_for": "Current and future Australian Government grant opportunities, including programs administered through departments and agencies.",
-    "url": "https://www.grants.gov.au/",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "business.gov.au Grants and Programs Finder",
-    "level": "federal",
-    "level_label": "Australian Government",
-    "status": "Search portal",
-    "best_for": "Business support, funding, subsidies, regional filters, Indigenous business filters, online and digital, events, training and equipment searches.",
-    "url": "https://business.gov.au/grants-and-programs",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Community Grants Hub",
-    "level": "federal",
-    "level_label": "Australian Government",
-    "status": "Active listings",
-    "best_for": "Community, Indigenous, sport, employment, homelessness and social service grant rounds administered through the hub.",
-    "url": "https://www.communitygrants.gov.au/grants",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Gambling Community Benefit Fund",
-    "level": "queensland",
-    "level_label": "Queensland Government",
-    "status": "Round closed, next round TBA",
-    "best_for": "One-off not-for-profit community projects in Queensland. The official page says Round 126 is closed and the new online grants system is being introduced.",
-    "url": "https://www.justice.qld.gov.au/initiatives/community-grants",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Queensland Grants Finder",
-    "level": "queensland",
-    "level_label": "Queensland Government",
-    "status": "Search portal",
-    "best_for": "State grants across business, community, sport, events, arts, environment and regional development.",
-    "url": "https://www.grants.services.qld.gov.au/",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Queensland Sport and Recreation Funding",
-    "level": "queensland",
-    "level_label": "Queensland Government",
-    "status": "Program list",
-    "best_for": "Grassroots sport, active recreation, First Nations sport, inclusive facilities and 2032 legacy infrastructure.",
-    "url": "https://www.qld.gov.au/recreation/sports/funding",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Arts Queensland Funding",
-    "level": "queensland",
-    "level_label": "Queensland Government",
-    "status": "Program list",
-    "best_for": "Artists, arts organisations, cultural projects, events, touring, First Nations arts and creative development.",
-    "url": "https://www.qld.gov.au/recreation/arts/funding",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
     "name": "Redland City Council Community Support Grant",
     "level": "council",
     "level_label": "Redland City Council",
-    "status": "Council program",
-    "best_for": "Collaborative not-for-profit community projects with social, cultural or environmental outcomes. The official page highlights reporting, milestones, acquittal and EFTsure onboarding obligations.",
+    "status": "Future round - Round 1 opens 27 July 2026 and closes 16 August 2026",
+    "best_for": "Up to $20,000 for Redland City community projects with social, cultural, recreational or environmental outcomes. Requires not-for-profit eligibility, Redland location, insurance, quotes and reporting capacity.",
     "url": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Community-Support-Grant",
-    "last_checked": "Checked 2026-05-06"
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "redland-community-support"
   },
   {
     "name": "Redland City Council Grants and Sponsorship",
     "level": "council",
     "level_label": "Redland City Council",
-    "status": "Council portal",
-    "best_for": "Council grant programs, awarded grants, workshops and local funding finder links.",
+    "status": "Council portal - current programs and round links",
+    "best_for": "Council grant programs, awarded grants, workshops, local funding finder links and program-specific pages including Community Support, RADF, events and rapid response pathways.",
     "url": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Community-Grants",
-    "last_checked": "Checked 2026-05-06"
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "redland-grants"
+  },
+  {
+    "name": "Australian Government Health, Disability and Ageing grants and tenders",
+    "level": "federal",
+    "level_label": "Australian Government",
+    "status": "Program information - public grants listed through GrantConnect",
+    "best_for": "Health, disability and aged-care grants and tenders; use for Yulu-Burri-Ba, Moopi, health, disability, aged-care and service-delivery scans, then confirm on GrantConnect or Community Grants Hub.",
+    "url": "https://www.health.gov.au/about-us/what-we-do/grants-and-tenders",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "health-grants"
+  },
+  {
+    "name": "business.gov.au Grants and Programs Finder",
+    "level": "federal",
+    "level_label": "Australian Government",
+    "status": "Search portal - filters open, coming soon and closed programs",
+    "best_for": "Business support, Indigenous business, digital, disaster, environmental, equipment, events and training filters for Queensland businesses, sole traders and not-for-profits.",
+    "url": "https://business.gov.au/grants-and-programs",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "business-gov"
+  },
+  {
+    "name": "Community Grants Hub",
+    "level": "federal",
+    "level_label": "Australian Government",
+    "status": "Open listings page - current rounds visible",
+    "best_for": "Current Australian Government administered grant rounds, including drought, multicultural infrastructure, commemorative, business transition and other open competitive opportunities.",
+    "url": "https://www.communitygrants.gov.au/grants",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "community-grants-hub"
+  },
+  {
+    "name": "GrantConnect",
+    "level": "federal",
+    "level_label": "Australian Government",
+    "status": "Authoritative federal portal - JavaScript/manual check required",
+    "best_for": "Authoritative Australian Government grants source. Use Community Grants Hub and department pages for accessible summaries, then confirm final details on GrantConnect before drafting.",
+    "url": "https://www.grants.gov.au/",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "grantconnect"
+  },
+  {
+    "name": "Modernised Multicultural Grants Program: Infrastructure for Multicultural Communities",
+    "level": "federal",
+    "level_label": "Australian Government",
+    "status": "Open - Batch 2 closes 4:00pm AEDT 12 November 2026",
+    "best_for": "Not-for-profit multicultural infrastructure projects: community hubs, art spaces, amenities, meeting spaces, stages, sporting and physical activity spaces. Requires co-contribution and landowner or ownership evidence.",
+    "url": "https://www.homeaffairs.gov.au/about-us/our-portfolios/multicultural-grants/current-grants/grant-opportunities/infrastructure-for-multicultural-communities-grants",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "multicultural-infrastructure"
+  },
+  {
+    "name": "First Nations Clean Energy Advice Grants Round 1",
+    "level": "first-nations",
+    "level_label": "Australian Government",
+    "status": "Open - closes 5:00pm AEST 3 September 2026, or earlier if funding is allocated",
+    "best_for": "First Nations organisations and groups seeking $5,000 to $80,000 for technical advice, planning, skills and informed decision-making around clean energy opportunities.",
+    "url": "https://business.gov.au/grants-and-programs/first-nations-clean-energy-advice-grants",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "first-nations-clean-energy-advice"
+  },
+  {
+    "name": "First Nations Digital Support Hub Program",
+    "level": "first-nations",
+    "level_label": "Australian Government",
+    "status": "Open - full applications due 5:00pm AEST 30 June 2026",
+    "best_for": "Large First Nations digital inclusion support, online safety, connectivity literacy, resources and telephone/email support. Likely partnership or lead-provider fit rather than a small local grant.",
+    "url": "https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "first-nations-digital-support-hub"
   },
   {
     "name": "Indigenous.gov.au Grants",
@@ -87,69 +96,127 @@
     "status": "Program list",
     "best_for": "Country and environment, economic development, employment, health, local investment and GrantConnect-linked First Nations opportunities.",
     "url": "https://www.indigenous.gov.au/grants",
-    "last_checked": "Checked 2026-05-06"
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "indigenous-gov"
+  },
+  {
+    "name": "Network of Digital Mentors Program",
+    "level": "first-nations",
+    "level_label": "Australian Government",
+    "status": "Open - full applications due 5:00pm AEST 30 June 2026",
+    "best_for": "Training digital mentors in participating First Nations communities; possible alignment with local digital capability, noticeboard and community media concepts if authority and eligibility are real.",
+    "url": "https://www.infrastructure.gov.au/media-communications/first-nations-digital-inclusion",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "first-nations-digital-mentors"
+  },
+  {
+    "name": "PBC Capacity Building Grant Opportunity",
+    "level": "first-nations",
+    "level_label": "Australian Government",
+    "status": "Open - closes 30 June 2026",
+    "best_for": "Native title holding corporations and Prescribed Bodies Corporate building organisational capacity and economic benefit from land. Check applicant status and invitation/eligibility detail before drafting.",
+    "url": "https://www.indigenous.gov.au/grants",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "pbc-capacity-building"
   },
   {
     "name": "Queensland First Nations Grants and Funding",
     "level": "first-nations",
     "level_label": "Queensland Government",
     "status": "Program list",
-    "best_for": "NAIDOC, Indigenous languages, reconciliation, wellbeing, business, arts, sport, Looking after Country and other First Nations Queensland programs.",
+    "best_for": "Queensland First Nations grants including NAIDOC, languages, reconciliation, wellbeing, business, housing, arts, sport, Looking after Country and health pathways.",
     "url": "https://www.qld.gov.au/firstnations/grants-funding",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Australian Government Health, Disability and Ageing grants and tenders",
-    "level": "federal",
-    "level_label": "Australian Government",
-    "status": "Program list",
-    "best_for": "Health, disability, ageing and aged-care grant opportunities, with public grants generally listed through GrantConnect and Community Grants Hub.",
-    "url": "https://www.health.gov.au/about-us/what-we-do/grants-and-tenders",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Queensland Reconstruction Authority resilience funding programs",
-    "level": "queensland",
-    "level_label": "Queensland Government",
-    "status": "Program list",
-    "best_for": "Disaster recovery, resilience, natural hazard risk reduction and community resilience funding pathways.",
-    "url": "https://www.qra.qld.gov.au/funding-programs/resilience-funding-programs",
-    "last_checked": "Checked 2026-05-06"
-  },
-  {
-    "name": "Queensland disaster grants and financial assistance",
-    "level": "queensland",
-    "level_label": "Queensland Government",
-    "status": "Support information",
-    "best_for": "Personal hardship and disaster support pathways after activated events; useful for emergency noticeboard routing rather than project funding.",
-    "url": "https://www.qld.gov.au/community/disasters-emergencies/disasters/money-finance/types-grants",
-    "last_checked": "Checked 2026-05-06"
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "qld-first-nations"
   },
   {
     "name": "Queensland First Nations housing support",
     "level": "first-nations",
     "level_label": "Queensland Government",
     "status": "Support information",
-    "best_for": "Housing support, community housing context and First Nations housing pathways that may inform referrals, partnerships and grant framing.",
+    "best_for": "Housing support entry points: renting, buying, public and community housing, remote community housing, emergency accommodation and aged-care housing context.",
     "url": "https://www.qld.gov.au/firstnations/managing-home-money/housing-support",
-    "last_checked": "Checked 2026-05-06"
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "qld-first-nations-housing"
   },
   {
     "name": "UNOPS Small Grants",
     "level": "global",
     "level_label": "UN / global",
     "status": "Global program information",
-    "best_for": "Environment, climate adaptation, biodiversity, Indigenous peoples, human rights, women-led initiatives and sustainable livelihoods partnerships.",
+    "best_for": "Global small grants and programme support around environment, climate, Indigenous peoples, human rights, women?s empowerment and sustainable livelihoods. Treat as partnership development, not a quick local application.",
     "url": "https://www.unops.org/small-grants",
-    "last_checked": "Checked 2026-05-06"
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "unops-small-grants"
   },
   {
     "name": "Island sponsorship and partner support watchlist",
     "level": "island",
     "level_label": "Local / island",
-    "status": "To build",
-    "best_for": "Local business sponsorship, in-kind support, venue support, media partnerships, market stalls, public notices and community partner letters.",
+    "status": "Local support list to build",
+    "best_for": "Local sponsorship, in-kind support, venue support, media partnerships, market stalls, public notices, letters of support and business partnerships.",
     "url": "entities.html",
-    "last_checked": "Started 2026-05-06"
+    "last_checked": "Updated 2026-06-19",
+    "source_key": "island-partner-watch"
+  },
+  {
+    "name": "Arts Queensland Funding",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Program list",
+    "best_for": "Arts funding for individuals and organisations. Use this as the arts entry point, then check individual program pages for open dates.",
+    "url": "https://www.qld.gov.au/recreation/arts/funding",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "arts-qld"
+  },
+  {
+    "name": "Gambling Community Benefit Fund",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Round 126 closed; next round date still not announced",
+    "best_for": "One-off not-for-profit community projects in Queensland. Round 126 is closed, a new online grants system is being introduced, and the next round date is still being finalised.",
+    "url": "https://www.justice.qld.gov.au/initiatives/community-grants",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "gcbf"
+  },
+  {
+    "name": "Queensland disaster grants and financial assistance",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Support information - activated disaster support, not normal project funding",
+    "best_for": "Emergency hardship, essential services, household contents, structural assistance and disaster support routing after activated events. Good for noticeboard triage, not ordinary project grant writing.",
+    "url": "https://www.qld.gov.au/community/disasters-emergencies/disasters/money-finance/types-grants",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "qld-disaster-support"
+  },
+  {
+    "name": "Queensland Grants Finder",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Search portal",
+    "best_for": "Queensland Government grants across business, community, sport, events, arts, environment and regional development. Use as a broad scan, then confirm on the program page.",
+    "url": "https://www.grants.services.qld.gov.au/",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "qld-grants-finder"
+  },
+  {
+    "name": "Queensland Reconstruction Authority resilience funding programs",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Current resilience funding programs listed",
+    "best_for": "Disaster resilience and risk reduction, including QRRRP, DRFA efficiencies, Protecting Our Communities, North Queensland resilience, DRF and other recovery/resilience programs.",
+    "url": "https://www.qra.qld.gov.au/funding-programs/resilience-funding-programs",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "qra-resilience"
+  },
+  {
+    "name": "Queensland Sport and Recreation Funding",
+    "level": "queensland",
+    "level_label": "Queensland Government",
+    "status": "Program list - multiple sport and recovery streams",
+    "best_for": "Active Clubs, First Nations sport and recreation, grassroots infrastructure, inclusive facilities, recovery and active industry programs. Check each listed program before promising a round.",
+    "url": "https://www.qld.gov.au/recreation/sports/funding",
+    "last_checked": "Checked 2026-06-19",
+    "source_key": "qld-sport"
   }
 ]

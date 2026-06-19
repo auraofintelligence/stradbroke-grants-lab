@@ -44,6 +44,7 @@ Use `profiles/templates/` to make reusable markdown packs for grant drafting:
 - `grant-readiness-checklist.md`
 - `milestone-report.md`
 - `grant-notice.md`
+- `grant-watchlist-agent.md`
 
 ## Validation
 
@@ -55,6 +56,10 @@ python tools/validate_data.py
 ```
 
 The GitHub Action runs the same check.
+
+## Watchlist Refresh
+
+Use `profiles/templates/grant-watchlist-agent.md` as the agent brief for regular grant scans. It explains the source order, timing-window labels and the `source_key` rule that prevents one program's round status from leaking into unrelated grants.
 
 ## Entity Boundary
 

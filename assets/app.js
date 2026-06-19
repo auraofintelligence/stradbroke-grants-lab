@@ -367,7 +367,7 @@ async function renderWatchlist() {
   const grid = document.querySelector("#watchlistGrid");
   const draw = (filter = "All") => {
     const items = filter === "All" ? data : data.filter((item) => item.level === filter || item.window_type === filter);
-    grid.innerHTML = items.map((item) => card(item.title, item.priority, item.summary, `${item.level_label} | ${item.window_type} | ${item.action}`, item.source_url)).join("");
+    grid.innerHTML = items.map((item) => card(item.title, item.priority, item.summary, `${item.level_label} | ${item.window_type} | ${item.status || "Status check needed"} | Action: ${item.action}`, item.source_url)).join("");
   };
   renderFilters(document.querySelector("#watchlistFilters"), unique(data.flatMap((item) => [item.level, item.window_type])), draw);
   draw();
