@@ -20,7 +20,7 @@ const navHtml = `
 
 const footerHtml = `
   <p>Stradbroke Grants Lab. Built as a Strange But True service layer for practical grant work.</p>
-  <p><a href="https://auraofintelligence.github.io/strange-but-true/grants-ideas.html">Grant writing service</a> | <a href="https://auraofintelligence.github.io/strange-but-true/">Strange But True</a></p>`;
+  <p><a href="https://auraofintelligence.github.io/strange-but-true/grants-ideas.html">Grant writing service</a> | <a href="https://auraofintelligence.github.io/strange-but-true/">Strange But True</a> | <a href="https://auraofintelligence.github.io/straddie-tenders-lab/">Straddie Tenders Lab</a></p>`;
 
 document.querySelectorAll(".site-header").forEach((header) => {
   if (!header.children.length) header.innerHTML = navHtml;
