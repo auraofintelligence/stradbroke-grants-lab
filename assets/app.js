@@ -223,13 +223,17 @@ function renderProfileKit() {
 }
 
 async function renderHome() {
+  const homeCards = document.querySelector("#homeCards");
+  const sourceDocs = document.querySelector("#sourceDocs");
+  const windowPreview = document.querySelector("#windowPreview");
+  if (!homeCards && !sourceDocs && !windowPreview) return;
+
   const [grants, projects, entities, docs] = await Promise.all([
     loadJson("data/grants.json"),
     loadJson("data/projects.json"),
     loadJson("data/entities.json"),
     loadJson("data/source-docs.json"),
   ]);
-  const homeCards = document.querySelector("#homeCards");
   if (homeCards) {
     homeCards.innerHTML = [
       ["Grant watchlist", "Generated shortlist from all grant sources, levels and timing windows.", "grant-watchlist.html"],
@@ -238,11 +242,9 @@ async function renderHome() {
       ["Grant windows", "Noticeboard-ready hints for new, closing, future and rolling grant opportunities.", "grant-windows.html"],
     ].map(([title, body, href]) => `<a class="link-card" href="${href}"><p class="tag">Open</p><h3>${title}</h3><p>${body}</p></a>`).join("");
   }
-  const sourceDocs = document.querySelector("#sourceDocs");
   if (sourceDocs) {
     sourceDocs.innerHTML = docs.map((doc) => `<article class="source-item"><p class="tag">${doc.type}</p><h3>${doc.title}</h3><p>${doc.summary}</p></article>`).join("");
   }
-  const windowPreview = document.querySelector("#windowPreview");
   if (windowPreview) {
     const windows = await loadJson("data/grant-windows.json");
     windowPreview.innerHTML = windows.slice(0, 3).map((item) => `<a class="link-card" href="grant-windows.html"><p class="tag">${item.window_type}</p><h3>${item.title}</h3><p>${item.tip}</p></a>`).join("");
