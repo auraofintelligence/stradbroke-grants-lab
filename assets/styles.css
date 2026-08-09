@@ -346,6 +346,18 @@ p { margin: 0; }
   color: var(--soft-white);
   margin: 0;
 }
+.card-facts > div:first-child {
+  background: rgba(255, 209, 102, 0.08);
+  border: 1px solid rgba(255, 209, 102, 0.28);
+  border-radius: 8px;
+  padding: 0.7rem 0.8rem;
+}
+.card-facts > div:first-child dd {
+  color: var(--idea-gold);
+  font-family: var(--heading);
+  font-size: 1.05rem;
+  font-weight: 900;
+}
 .card-actions {
   display: flex;
   flex-wrap: wrap;
