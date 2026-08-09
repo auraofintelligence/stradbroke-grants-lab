@@ -31,6 +31,9 @@ http://localhost:4180/
 - `data/grant-watchlist.json`: generated shortlist from grant sources and window hints
 - `data/entities.json`: island businesses, groups, artists and other possible applicants
 - `data/projects.json`: Strange But True and island project ideas
+- `data/ledger-projects.json`: generated copy of the public Community Ledger project cards
+- `data/grant-project-matches.json`: reviewed grant-to-project research matches
+- `data/partner-pathways.json`: role-based partner planning with explicit assent boundaries
 - `data/source-docs.json`: summaries of the supplied research documents
 - `data/grant-windows.json`: noticeboard-ready grant timing hints
 
@@ -51,6 +54,7 @@ Use `profiles/templates/` to make reusable markdown packs for grant drafting:
 Run:
 
 ```powershell
+python tools/sync_ledger_projects.py
 python tools/build_watchlist.py
 python tools/validate_data.py
 ```
@@ -60,6 +64,8 @@ The GitHub Action runs the same check.
 ## Watchlist Refresh
 
 Use `profiles/templates/grant-watchlist-agent.md` as the agent brief for regular grant scans. It explains the source order, timing-window labels and the `source_key` rule that prevents one program's round status from leaking into unrelated grants.
+
+The weekly scan also refreshes the Community Ledger intake, records credible grant-to-project matches and prepares partner roles for human review. It must not contact anyone or imply eligibility, endorsement, authority, site control or assent.
 
 ## Entity Boundary
 

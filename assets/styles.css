@@ -461,6 +461,15 @@ select.search-input {
   color: var(--idea-gold);
   padding: 1rem;
 }
+.empty-state {
+  border-style: dashed;
+  grid-column: 1 / -1;
+  max-width: 760px;
+}
+.partner-boundary {
+  margin-top: 1.6rem;
+  max-width: 860px;
+}
 @media (max-width: 860px) {
   .nav-toggle { display: inline-flex; }
   .nav-links {

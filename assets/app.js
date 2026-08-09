@@ -5,6 +5,9 @@ const navHtml = `
     <div class="nav-links" id="nav-links">
       <a href="entities.html">Island Entities</a>
       <a href="projects.html">Projects</a>
+      <a href="ledger-projects.html">Ledger Projects</a>
+      <a href="grant-matches.html">Grant Matches</a>
+      <a href="partner-pathways.html">Partner Pathways</a>
       <a href="grant-watchlist.html">Watchlist</a>
       <a href="federal-grants.html">Federal</a>
       <a href="queensland-grants.html">Queensland</a>
@@ -345,6 +348,103 @@ async function renderProjects() {
   draw();
 }
 
+function emptyState(container, message) {
+  container.innerHTML = `<article class="data-card empty-state"><p class="tag">Awaiting research</p><h3>No reviewed records yet</h3><p>${message}</p></article>`;
+}
+
+async function renderLedgerProjects() {
+  const data = await loadJson("data/ledger-projects.json");
+  const grid = document.querySelector("#ledgerProjectGrid");
+  const draw = (filter = "All") => {
+    const items = filter === "All" ? data : data.filter((item) => item.lane === filter);
+    grid.innerHTML = items.map((item) => {
+      const actions = [
+        { label: "Open public project", url: item.public_url },
+        item.repository_url ? { label: "Open repository", url: item.repository_url } : null,
+        { label: "Open Community Ledger", url: item.source_page }
+      ];
+      return card(item.title, item.lane, item.summary, `Project key: ${item.project_key}`, "", actions.filter(Boolean));
+    }).join("");
+  };
+  renderFilters(document.querySelector("#ledgerProjectFilters"), unique(data.map((item) => item.lane)), draw);
+  draw();
+}
+
+async function renderGrantMatches() {
+  const [matches, projects, grants] = await Promise.all([
+    loadJson("data/grant-project-matches.json"),
+    loadJson("data/ledger-projects.json"),
+    loadJson("data/grants.json")
+  ]);
+  const projectByKey = new Map(projects.map((item) => [item.project_key, item]));
+  const grantByKey = new Map(grants.map((item) => [item.source_key, item]));
+  const grid = document.querySelector("#grantMatchGrid");
+  if (!matches.length) {
+    emptyState(grid, "The weekly scan will place source-backed project matches here after it finds a credible fit.");
+    return;
+  }
+  const draw = (filter = "All") => {
+    const items = filter === "All" ? matches : matches.filter((item) => item.fit_status === filter);
+    grid.innerHTML = items.map((item) => {
+      const project = projectByKey.get(item.project_key);
+      const grant = grantByKey.get(item.grant_source_key);
+      const evidence = item.evidence_needed.length ? item.evidence_needed.join(", ") : "No evidence list recorded";
+      const actions = [
+        project ? { label: "Open project", url: project.public_url } : null,
+        grant ? { label: "Open grant source", url: grant.url } : null
+      ];
+      return card(
+        `${project?.title || item.project_key} × ${grant?.name || item.grant_source_key}`,
+        item.fit_status,
+        item.fit_reason,
+        `Eligibility: ${item.eligibility_status} | Evidence: ${evidence} | Checked: ${item.last_checked}`,
+        "",
+        actions.filter(Boolean)
+      );
+    }).join("");
+  };
+  renderFilters(document.querySelector("#grantMatchFilters"), unique(matches.map((item) => item.fit_status)), draw);
+  draw();
+}
+
+async function renderPartnerPathways() {
+  const [pathways, projects, grants] = await Promise.all([
+    loadJson("data/partner-pathways.json"),
+    loadJson("data/ledger-projects.json"),
+    loadJson("data/grants.json")
+  ]);
+  const projectByKey = new Map(projects.map((item) => [item.project_key, item]));
+  const grantByKey = new Map(grants.map((item) => [item.source_key, item]));
+  const grid = document.querySelector("#partnerPathwayGrid");
+  if (!pathways.length) {
+    emptyState(grid, "The weekly scan will add role-based planning here. Named organisations remain uncontacted research leads until Luke reviews them.");
+    return;
+  }
+  const draw = (filter = "All") => {
+    const items = filter === "All" ? pathways : pathways.filter((item) => item.planning_status === filter);
+    grid.innerHTML = items.map((item) => {
+      const project = projectByKey.get(item.project_key);
+      const grant = grantByKey.get(item.grant_source_key);
+      const candidates = item.candidate_partners.length
+        ? item.candidate_partners.map((candidate) => `${candidate.name} — ${candidate.proposed_role} — ${candidate.assent_status}`).join("; ")
+        : "No candidate organisations recorded";
+      return card(
+        project?.title || item.project_key,
+        item.planning_status,
+        `Roles needed: ${item.roles_needed.join(", ")}. ${item.boundary_note}`,
+        `Grant: ${grant?.name || item.grant_source_key} | Leads: ${candidates} | Checked: ${item.last_checked}`,
+        "",
+        [
+          project ? { label: "Open project", url: project.public_url } : null,
+          grant ? { label: "Open grant source", url: grant.url } : null
+        ].filter(Boolean)
+      );
+    }).join("");
+  };
+  renderFilters(document.querySelector("#partnerPathwayFilters"), unique(pathways.map((item) => item.planning_status)), draw);
+  draw();
+}
+
 async function renderGrants() {
   const data = await loadJson("data/grants.json");
   const level = document.body.dataset.level;
@@ -381,6 +481,9 @@ async function boot() {
     if (page === "home") await renderHome();
     if (page === "entities") await renderEntities();
     if (page === "projects") await renderProjects();
+    if (page === "ledger-projects") await renderLedgerProjects();
+    if (page === "grant-matches") await renderGrantMatches();
+    if (page === "partner-pathways") await renderPartnerPathways();
     if (page === "grants") await renderGrants();
     if (page === "windows") await renderWindows();
     if (page === "watchlist") await renderWatchlist();

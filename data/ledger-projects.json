@@ -1,0 +1,362 @@
+[
+  {
+    "project_key": "ready-s-e-t-co-op-trust-hub",
+    "title": "Ready S.E.T. Co-op Trust Hub",
+    "lane": "Co-op trust",
+    "summary": "Co-working, trust building, 9 Ballow Road, AI assisted jobs and shared-asset readiness for Straddie residents and businesses.",
+    "public_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/",
+    "repository_url": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-noticeboard-network",
+    "title": "Straddie Noticeboard Network",
+    "lane": "Noticeboard",
+    "summary": "A shared local publishing pattern for notices, groups, events and updates while each publisher keeps their own voice.",
+    "public_url": "https://auraofintelligence.github.io/straddie-noticeboard-network/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-noticeboard-network",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "stradbroke-grants-lab",
+    "title": "Stradbroke Grants Lab",
+    "lane": "Grants lab",
+    "summary": "Grant research, watchlists, notices and AI-ready markdown profiles for Minjerribah projects and local organisations.",
+    "public_url": "https://auraofintelligence.github.io/stradbroke-grants-lab/",
+    "repository_url": "https://github.com/auraofintelligence/stradbroke-grants-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "quandamooka-country-events-engine",
+    "title": "Quandamooka Country Events Engine",
+    "lane": "Events",
+    "summary": "A public-safe event atlas, planning doorway and Markdown builder system for events on Quandamooka Country.",
+    "public_url": "https://auraofintelligence.github.io/quandamooka-country-events-engine/",
+    "repository_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "ballow-road-sand-screen-hub",
+    "title": "Ballow Road Sand & Screen Hub",
+    "lane": "Hub",
+    "summary": "A public concept for sand sports, screen culture, night-market activity and community wellbeing around 10-12 Ballow Road.",
+    "public_url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/",
+    "repository_url": "https://github.com/auraofintelligence/ballow-road-sand-screen-hub",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "community-club-builder-sandy-sports",
+    "title": "Community Club Builder + Sandy Sports",
+    "lane": "Club builder",
+    "summary": "A public club-building playbook using a proposed Minjerribah sand-sports club as a worked example, without assuming approval or site control.",
+    "public_url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/",
+    "repository_url": "https://github.com/auraofintelligence/community-club-builder-sandy-sports",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "legal-memory-workbench",
+    "title": "Legal Memory Workbench",
+    "lane": "Legal memory",
+    "summary": "A practical markdown setup guide for source, jurisdiction, risk and evidence preparation before using AI for legal information.",
+    "public_url": "https://auraofintelligence.github.io/legal-memory-workbench/",
+    "repository_url": "https://github.com/auraofintelligence/legal-memory-workbench",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "dunwich-gumpi-ferry-terminal-lab",
+    "title": "Dunwich (Gumpi) Ferry Terminal Lab",
+    "lane": "Ferry data",
+    "summary": "Open-data and simulation prototype for terminal changes, movement questions and community-readable evidence.",
+    "public_url": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/",
+    "repository_url": "https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-maker-space-lab",
+    "title": "Straddie Maker-Space Lab",
+    "lane": "Maker-space",
+    "summary": "Repair, recycling, light industry, local materials and practical training for a Dunwich / Goompi maker-space.",
+    "public_url": "https://auraofintelligence.github.io/straddie-makerspace-lab/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-makerspace-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-tip-loop-lab",
+    "title": "Straddie Tip Loop Lab",
+    "lane": "Material loop",
+    "summary": "A lawful local materials-recovery and recycling concept linked to the maker-space, repair skills and circular community value.",
+    "public_url": "https://auraofintelligence.github.io/straddie-tip-loop-lab/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-tip-loop-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-clean-energy-superpower",
+    "title": "Straddie Clean Energy Superpower",
+    "lane": "Clean energy",
+    "summary": "Question-led exploration of energy resilience on Minjerribah, with options, trade-offs, evidence and next questions kept visible.",
+    "public_url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-clean-energy-superpower",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-digital-twin-builders",
+    "title": "Straddie Digital Twin Builders",
+    "lane": "Digital twin",
+    "summary": "Plain-English prompt builders for private rooms, local places, bioregion scenes and future simulation workflows.",
+    "public_url": "https://auraofintelligence.github.io/straddie-digital-twin-builders/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-digital-twin-builders",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-content-assets-kit",
+    "title": "Straddie Content Assets Kit",
+    "lane": "Media kit",
+    "summary": "Portable markdown tools for camera, audio, lighting and local media asset planning.",
+    "public_url": "https://auraofintelligence.github.io/straddie-content-assets-kit/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-content-assets-kit",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "film-club-documentary-builders",
+    "title": "Film Club Documentary Builders",
+    "lane": "Documentary",
+    "summary": "Interview prep, source trails, scene assembly, screening notes and clear handoffs for community documentary work.",
+    "public_url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
+    "repository_url": "https://github.com/auraofintelligence/film-club-documentary-builders",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "grain-by-grain-documentary",
+    "title": "Grain by Grain Documentary",
+    "lane": "Documentary world",
+    "summary": "Planning tools for a 90-minute documentary connecting local projects, source trails, community review and seven-generation thinking.",
+    "public_url": "https://auraofintelligence.github.io/grain-by-grain-documentary/",
+    "repository_url": "https://github.com/auraofintelligence/grain-by-grain-documentary",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "quandamooka-film-festival",
+    "title": "Quandamooka Film Festival",
+    "lane": "Festival",
+    "summary": "Smartphone films, local documentary prompts, story preparation and practical pathways for first-time creators and organisers.",
+    "public_url": "https://auraofintelligence.github.io/quandamooka-film-festival/",
+    "repository_url": "https://github.com/auraofintelligence/quandamooka-film-festival",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-vitality-network-builders",
+    "title": "Straddie Vitality Network Builders",
+    "lane": "Wellbeing",
+    "summary": "Co-op planning tools for venues, funding notes, evidence trails and local health infrastructure.",
+    "public_url": "https://auraofintelligence.github.io/straddie-vitality-network-builders/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-vitality-network-builders",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-night-market-lab",
+    "title": "Straddie Night Market Lab",
+    "lane": "Markets",
+    "summary": "Market onboarding, stallholder checks, transport notes and public links for organisers, artists and food providers.",
+    "public_url": "https://auraofintelligence.github.io/straddie-night-market-lab/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-night-market-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "grey-area-commons",
+    "title": "Grey Area Commons",
+    "lane": "Grey area",
+    "summary": "An adult-only, privacy-preserving question path for consent, gentle connection, public notices and private AI context.",
+    "public_url": "https://auraofintelligence.github.io/grey-area-commons/index.html",
+    "repository_url": "https://github.com/auraofintelligence/grey-area-commons",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-shared-table",
+    "title": "Straddie Shared Table",
+    "lane": "Food",
+    "summary": "Surplus food sharing, volunteer time, safety checks, public notices and opt-in contribution records.",
+    "public_url": "https://auraofintelligence.github.io/shared-table-initiative/ledger.html",
+    "repository_url": "https://github.com/auraofintelligence/shared-table-initiative",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "bees-and-allies",
+    "title": "Bees and Allies",
+    "lane": "Bee resilience",
+    "summary": "A question-led Straddie bee-resilience lab for beekeepers, gardens, habitat, learning and practical local partnerships.",
+    "public_url": "https://auraofintelligence.github.io/bees-and-allies/",
+    "repository_url": "https://github.com/auraofintelligence/bees-and-allies",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "wildlife-rescue-minjerribah",
+    "title": "Wildlife Rescue Minjerribah",
+    "lane": "Wildlife rescue",
+    "summary": "Offline-first wildlife guidance, accurate reporting and local rescue coordination for Minjerribah.",
+    "public_url": "https://wildlife-rescue-minjerribah.auraofintelligence.workers.dev/",
+    "repository_url": "",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "health-and-culture",
+    "title": "Health and Culture",
+    "lane": "Sports",
+    "summary": "Local sport, outdoor cinema, youth, visitors, wellbeing and place-based activity.",
+    "public_url": "https://auraofintelligence.github.io/amity-point/",
+    "repository_url": "https://github.com/auraofintelligence/amity-point",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "amity-outdoor-fitness-and-safer-access",
+    "title": "Amity Outdoor Fitness and Safer Access",
+    "lane": "Outdoor",
+    "summary": "Grant-ready framing for an Amity Point activity park, safer access, movement and healthy outdoor gathering.",
+    "public_url": "https://auraofintelligence.github.io/amity-outdoor-fitness-grant/",
+    "repository_url": "https://github.com/auraofintelligence/amity-outdoor-fitness-grant",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "disaster-resilience",
+    "title": "Disaster resilience",
+    "lane": "Kiosks",
+    "summary": "Offline-first community information, emergency coordination and local digital access points.",
+    "public_url": "https://auraofintelligence.github.io/straddie-disaster-kiosks/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-disaster-kiosks",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "minjerribah-resilience",
+    "title": "Minjerribah Resilience",
+    "lane": "Resilience",
+    "summary": "Foundational resilience framing for natural hazards, rare threats, preparedness and practical local continuity.",
+    "public_url": "https://auraofintelligence.github.io/Minjerribah-Resilience/",
+    "repository_url": "https://github.com/auraofintelligence/Minjerribah-Resilience",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "grain-by-grain",
+    "title": "Grain by Grain",
+    "lane": "Local spine",
+    "summary": "A public pathway from the Gumpi ferry terminal to long-horizon Minjerribah resilience, built through practical projects and clear approval boundaries.",
+    "public_url": "https://auraofintelligence.github.io/grain-by-grain/",
+    "repository_url": "https://github.com/auraofintelligence/grain-by-grain",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "civilisation-of-sand",
+    "title": "Civilisation of Sand",
+    "lane": "Story world",
+    "summary": "A science-fiction story backbone connecting Minjerribah materials, care, skills, digital twins and long-horizon civilisation building.",
+    "public_url": "https://auraofintelligence.github.io/civilisation-of-sand/",
+    "repository_url": "https://github.com/auraofintelligence/civilisation-of-sand",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "sandworm-subterranean-systems",
+    "title": "Sandworm Subterranean Systems",
+    "lane": "Subterranean systems",
+    "summary": "Exploratory transport, wildlife, erosion, recovered-material and infrastructure questions, beginning with the Gumpi gateway.",
+    "public_url": "https://auraofintelligence.github.io/sandworm-subterranean-systems/",
+    "repository_url": "https://github.com/auraofintelligence/sandworm-subterranean-systems",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "moreton-bay-community-wealth-and-mutuals",
+    "title": "Moreton Bay Community Wealth and Mutuals",
+    "lane": "Community wealth",
+    "summary": "Plain-English pathways for community wealth, mutual care, data sovereignty and regional cooperation across the Moreton Bay archipelago.",
+    "public_url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/",
+    "repository_url": "https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "bigger-local-picture",
+    "title": "Bigger Local Picture",
+    "lane": "Region",
+    "summary": "A broader island-and-region frame for linking local projects, futures, stories and systems.",
+    "public_url": "https://auraofintelligence.github.io/Archipelago/",
+    "repository_url": "https://github.com/auraofintelligence/Archipelago",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "ready-set-co-op-hyperlocal-media",
+    "title": "Ready SET Co-op + HyperLocal Media",
+    "lane": "Media",
+    "summary": "Training, local capability, practical digital work and community storytelling.",
+    "public_url": "https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/",
+    "repository_url": "https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "minjerribah-screen-media-network",
+    "title": "Minjerribah Screen & Media Network",
+    "lane": "Screen and media",
+    "summary": "A proposed local network connecting screen culture, community media, practical training, shared tools and pathways into paid or volunteer work.",
+    "public_url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/",
+    "repository_url": "https://github.com/auraofintelligence/minjerribah-screen-media-network",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-tenders-lab",
+    "title": "Straddie Tenders Lab",
+    "lane": "Tenders lab",
+    "summary": "Government tender sources, keyword-watch routines, timelines and bid-readiness pathways for Straddie-connected local capacity.",
+    "public_url": "https://auraofintelligence.github.io/straddie-tenders-lab/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-tenders-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "straddie-capsule-surge-lab",
+    "title": "Straddie Capsule Surge Lab",
+    "lane": "Surge space",
+    "summary": "Site-neutral capsule hotel, civic simulation and health-surge capacity concept for spare-room island resilience.",
+    "public_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-capsule-surge-lab",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "p4a-purple-civic-lab",
+    "title": "P4A / Purple Civic Lab",
+    "lane": "Civic lab",
+    "summary": "A young pre-party civic experiment exploring joyful responsible abundance, democratic repair and a protopian Cyber-Republic pathway for Australia.",
+    "public_url": "https://auraofintelligence.github.io/p4a_xyz/",
+    "repository_url": "https://github.com/auraofintelligence/p4a_xyz",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "mineral-moonshots",
+    "title": "Mineral Moonshots",
+    "lane": "Moonshots",
+    "summary": "A crystal-and-metal island atlas for mineral sands, public honour, Aura context, profiles and science-fiction civic imagination.",
+    "public_url": "https://auraofintelligence.github.io/mineral-moonshots/",
+    "repository_url": "https://github.com/auraofintelligence/mineral-moonshots",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "cosmic-nexus",
+    "title": "Cosmic Nexus",
+    "lane": "Mystery atlas",
+    "summary": "Source trails, travel routes, film prompts and governance habits for the wider Strange But True mystery-building lane.",
+    "public_url": "https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/",
+    "repository_url": "https://github.com/auraofintelligence/strange-but-true-cosmic-nexus",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "i-c-infinity-music-universe",
+    "title": "i C. infinity Music Universe",
+    "lane": "Music world",
+    "summary": "Albums, listening challenges and creative builder tools that can feed lyric videos, comics and community music work.",
+    "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/",
+    "repository_url": "https://github.com/auraofintelligence/i-C-infinity-music-universe",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  },
+  {
+    "project_key": "gajra-earth",
+    "title": "GAJRA Earth",
+    "lane": "Planet",
+    "summary": "A planetary intelligence sample for joyful responsible abundance, whole-system thinking and global civic imagination.",
+    "public_url": "https://auraofintelligence.github.io/GAJRA-earth/",
+    "repository_url": "https://github.com/auraofintelligence/GAJRA-earth",
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+  }
+]

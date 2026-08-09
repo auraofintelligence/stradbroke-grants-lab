@@ -4,7 +4,7 @@ Use this brief when an AI agent updates the Stradbroke Grants Lab watchlist and 
 
 ## Job
 
-Refresh `data/grants.json`, `data/grant-windows.json` and the generated `data/grant-watchlist.json` for North Stradbroke Island / Minjerribah grant matching.
+Refresh `data/grants.json`, `data/grant-windows.json` and the generated `data/grant-watchlist.json` for North Stradbroke Island / Minjerribah grant matching. Sync `data/ledger-projects.json`, then place credible matches in `data/grant-project-matches.json` and cautious role planning in `data/partner-pathways.json`.
 
 The watchlist is a triage layer, not a promise that an applicant is eligible.
 
@@ -57,6 +57,23 @@ For each grant or source:
 - last checked date
 - `source_key`
 
+## Project Matching
+
+- Run `python tools/sync_ledger_projects.py` before matching.
+- Use the exact `project_key` from `data/ledger-projects.json`.
+- Use one fit status: `pursue`, `prepare`, `clarify`, `watch` or `do_not_pursue`.
+- Record why the fit is credible, what eligibility remains unresolved and what evidence is needed.
+- Do not force every grant onto a project or every project onto a grant.
+- Keep the project idea separate from the legal applicant.
+
+## Partner Planning
+
+- Plan roles before names: lead applicant, co-applicant, auspice, cultural authority, site or asset controller, delivery partner, supplier, supporter and beneficiary are distinct.
+- Named organisations are source-backed research leads only.
+- Use `not_contacted` unless a human has supplied evidence of a later assent stage.
+- Do not contact anyone, send drafts or imply endorsement, eligibility, cultural authority, site control or agreement.
+- Cultural authority and First Nations governance cannot be inferred from location, project topic or an organisation name.
+
 ## Window Types
 
 Use one of these where possible:
@@ -85,13 +102,15 @@ Do not send whole-island panic notices for closing-soon grants. Target only like
 
 ## Update Steps
 
-1. Check official source pages.
-2. Update `data/grants.json` statuses, close dates, best-fit notes and `last_checked`.
-3. Update or add matching `data/grant-windows.json` entries using exact `source_key`.
-4. Run `python tools/build_watchlist.py`.
-5. Run `python tools/validate_data.py`.
-6. Preview `grant-watchlist.html` and `grant-windows.html`.
-7. Commit with a short message that names the refresh date or major change.
+1. Run `python tools/sync_ledger_projects.py`.
+2. Check official source pages.
+3. Update `data/grants.json` statuses, close dates, best-fit notes and `last_checked`.
+4. Update or add matching `data/grant-windows.json` entries using exact `source_key`.
+5. Update `data/grant-project-matches.json` and `data/partner-pathways.json`.
+6. Run `python tools/build_watchlist.py`.
+7. Run `python tools/validate_data.py`.
+8. Preview the watchlist, windows, matches and partner pathways pages.
+9. Commit or publish only when the current task explicitly authorises it.
 
 ## Safety Checks
 
