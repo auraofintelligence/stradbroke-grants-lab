@@ -33,11 +33,14 @@ Check primary sources first:
 - Community Grants Hub for accessible federal grant listings.
 - business.gov.au for business and Indigenous business filters.
 - Queensland Grants Finder and program pages for state grants.
+- Business Queensland, Queensland State Development and SEQ City Deal program pages for digital, infrastructure, connectivity, skills, jobs and regional initiatives.
 - Redland City Council grant pages for council rounds.
 - Indigenous.gov.au, NIAA, ORIC, QYAC-relevant and Queensland First Nations pages for First Nations pathways.
 - Official UN, UNOPS, GEF or programme pages for global opportunities.
 
 Use secondary sources only as leads. Do not treat them as final evidence.
+
+Do not limit the scan to programs already present in `data/grants.json`. Search current official announcement and application pages using the actual themes of every Ledger project. Each weekly scan must include a fresh check for digital/connectivity/jobs, infrastructure/resilience, First Nations, council, arts/media and environment opportunities.
 
 ## What To Capture
 
