@@ -3,21 +3,31 @@ const navHtml = `
     <a class="brand-mark" href="index.html"><span>Stradbroke</span><span>Grants Lab</span></a>
     <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-links">Menu</button>
     <div class="nav-links" id="nav-links">
-      <a href="entities.html">Island Entities</a>
-      <a href="projects.html">Projects</a>
-      <a href="ledger-projects.html">Ledger Projects</a>
-      <a href="grant-matches.html">Grant Matches</a>
-      <a href="partner-pathways.html">Partner Pathways</a>
-      <a href="grant-watchlist.html">Watchlist</a>
-      <a href="federal-grants.html">Federal</a>
-      <a href="queensland-grants.html">Queensland</a>
-      <a href="council-grants.html">Council</a>
-      <a href="indigenous-grants.html">First Nations</a>
-      <a href="global-grants.html">Global</a>
-      <a href="island-grants.html">Island</a>
-      <a href="grant-windows.html">Windows</a>
-      <a href="profile-kit.html">Profile Kit</a>
-      <a href="workflow.html">Workflow</a>
+      <a href="grant-matches.html">Matches</a>
+      <a href="partner-pathways.html">Partners</a>
+      <a href="ledger-projects.html">Projects</a>
+      <details class="nav-group">
+        <summary>Grant Sources</summary>
+        <div class="nav-menu">
+          <a href="grant-watchlist.html">Watchlist</a>
+          <a href="grant-windows.html">Opening &amp; closing</a>
+          <a href="federal-grants.html">Federal</a>
+          <a href="queensland-grants.html">Queensland</a>
+          <a href="council-grants.html">Council</a>
+          <a href="indigenous-grants.html">First Nations</a>
+          <a href="global-grants.html">Global</a>
+          <a href="island-grants.html">Island</a>
+        </div>
+      </details>
+      <details class="nav-group">
+        <summary>Tools</summary>
+        <div class="nav-menu">
+          <a href="entities.html">Island entities</a>
+          <a href="projects.html">Earlier project ideas</a>
+          <a href="profile-kit.html">Profile kit</a>
+          <a href="workflow.html">Workflow</a>
+        </div>
+      </details>
     </div>
   </nav>`;
 
@@ -43,7 +53,19 @@ if (toggle && navLinks) {
 
 const currentFile = window.location.pathname.split("/").pop() || "index.html";
 document.querySelectorAll(".nav-links a").forEach((link) => {
-  if (link.getAttribute("href") === currentFile) link.setAttribute("aria-current", "page");
+  if (link.getAttribute("href") === currentFile) {
+    link.setAttribute("aria-current", "page");
+    link.closest(".nav-group")?.classList.add("has-current-page");
+  }
+});
+
+document.querySelectorAll(".nav-group").forEach((group) => {
+  group.addEventListener("toggle", () => {
+    if (!group.open) return;
+    document.querySelectorAll(".nav-group").forEach((other) => {
+      if (other !== group) other.removeAttribute("open");
+    });
+  });
 });
 
 const topButton = document.querySelector("[data-to-top]");
