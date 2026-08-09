@@ -50,15 +50,19 @@ For each grant or source:
 - level
 - source URL
 - current status
+- opportunity type: actual grant, closed grant, program directory, search portal, support information or partner watch
+- funding amount or range as a prominent field, never buried only in prose
 - exact close date and time if open
 - next opening date if announced
-- applicant type
+- applicant type as a prominent field
 - project fit
 - evidence needed
 - cultural authority or governance checks
 - reporting and acquittal obligations
 - last checked date
 - `source_key`
+
+For directories and portals, use `Varies by program` rather than inventing a single amount. For support information or partner watches, use `Not applicable — not a grant`. Program-wide envelopes must be labelled as envelopes, not presented as the amount available to one local project.
 
 ## Project Matching
 

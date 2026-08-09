@@ -52,6 +52,10 @@ def main():
             "last_checked": grant["last_checked"],
             "status": grant["status"],
             "source_key": grant.get("source_key", ""),
+            "opportunity_type": grant["opportunity_type"],
+            "funding": grant["funding"],
+            "deadline": grant["deadline"],
+            "applicants": grant["applicants"],
         })
 
     watchlist.sort(key=lambda item: (

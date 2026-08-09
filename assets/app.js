@@ -97,7 +97,19 @@ function card(title, tag, body, meta, url, actions = [], id = "", className = ""
     : "";
   const anchor = id ? ` id="${id}"` : "";
   const classes = className ? ` ${className}` : "";
-  return `<article class="data-card${classes}"${anchor}><p class="tag">${tag || "Item"}</p><h3>${title}</h3><p>${body}</p>${meta ? `<p class="meta">${meta}</p>` : ""}${actionLinks}</article>`;
+  return `<article class="data-card${classes}"${anchor}><p class="tag">${tag || "Item"}</p><h3>${title}</h3><p>${body}</p>${meta ? `<div class="meta">${meta}</div>` : ""}${actionLinks}</article>`;
+}
+
+function grantFacts(grant, extraFacts = []) {
+  if (!grant) return "Grant details unavailable";
+  const facts = [
+    ["Funding", grant.funding],
+    ["Deadline", grant.deadline],
+    ["Applicants", grant.applicants],
+    ["Type", grant.opportunity_type],
+    ...extraFacts,
+  ];
+  return `<dl class="card-facts">${facts.map(([label, value]) => `<div><dt>${label}</dt><dd>${value}</dd></div>`).join("")}</dl>`;
 }
 
 function unique(items) {
@@ -419,7 +431,12 @@ async function renderGrantMatches() {
         `${project?.title || item.project_key} × ${grant?.name || item.grant_source_key}`,
         item.fit_status,
         item.fit_reason,
-        `Eligibility: ${item.eligibility_status} | Evidence: ${evidence} | Checked: ${item.last_checked}`,
+        grantFacts(grant, [
+          ["Fit", item.fit_status],
+          ["Eligibility", item.eligibility_status],
+          ["Evidence needed", evidence],
+          ["Checked", item.last_checked]
+        ]),
         "",
         actions.filter(Boolean)
       );
@@ -454,7 +471,11 @@ async function renderPartnerPathways() {
         project?.title || item.project_key,
         item.planning_status,
         `Roles needed: ${item.roles_needed.join(", ")}. ${item.boundary_note}`,
-        `Grant: ${grant?.name || item.grant_source_key} | Leads: ${candidates} | Checked: ${item.last_checked}`,
+        grantFacts(grant, [
+          ["Grant", grant?.name || item.grant_source_key],
+          ["Leads", candidates],
+          ["Checked", item.last_checked]
+        ]),
         "",
         [
           project ? { label: "Open project", url: project.public_url } : null,
@@ -472,15 +493,19 @@ async function renderGrants() {
   const level = document.body.dataset.level;
   const items = data.filter((item) => item.level === level);
   const grid = document.querySelector("#grantGrid");
-  grid.innerHTML = items.map((item) => card(item.name, item.status, item.best_for, `${item.level_label} | ${item.last_checked}`, item.url)).join("");
+  grid.innerHTML = items.map((item) => card(item.name, item.status, item.best_for, grantFacts(item, [["Checked", item.last_checked]]), item.url)).join("");
 }
 
 async function renderWindows() {
-  const data = await loadJson("data/grant-windows.json");
+  const [data, grants] = await Promise.all([
+    loadJson("data/grant-windows.json"),
+    loadJson("data/grants.json")
+  ]);
+  const grantByKey = new Map(grants.map((item) => [item.source_key, item]));
   const grid = document.querySelector("#windowGrid");
   const draw = (filter = "All") => {
     const items = filter === "All" ? data : data.filter((item) => item.window_type === filter);
-    grid.innerHTML = items.map((item) => card(item.title, item.window_type, item.tip, `Notify: ${item.notify} | Action: ${item.action}`)).join("");
+    grid.innerHTML = items.map((item) => card(item.title, item.window_type, item.tip, grantFacts(grantByKey.get(item.source_key), [["Who should care", item.notify], ["Action", item.action]]))).join("");
   };
   renderFilters(document.querySelector("#windowFilters"), unique(data.map((item) => item.window_type)), draw);
   draw();
@@ -491,7 +516,7 @@ async function renderWatchlist() {
   const grid = document.querySelector("#watchlistGrid");
   const draw = (filter = "All") => {
     const items = filter === "All" ? data : data.filter((item) => item.level === filter || item.window_type === filter);
-    grid.innerHTML = items.map((item) => card(item.title, item.priority, item.summary, `${item.level_label} | ${item.window_type} | ${item.status || "Status check needed"} | Action: ${item.action}`, item.source_url)).join("");
+    grid.innerHTML = items.map((item) => card(item.title, item.priority, item.summary, grantFacts(item, [["Status", item.status || "Status check needed"], ["Action", item.action], ["Checked", item.last_checked]]), item.source_url)).join("");
   };
   renderFilters(document.querySelector("#watchlistFilters"), unique(data.flatMap((item) => [item.level, item.window_type])), draw);
   draw();

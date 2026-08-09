@@ -4,12 +4,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = {
-    "data/grants.json": ["name", "level", "status", "best_for", "url", "last_checked", "source_key"],
+    "data/grants.json": ["name", "level", "status", "best_for", "url", "last_checked", "source_key", "opportunity_type", "funding", "deadline", "applicants"],
     "data/entities.json": ["name", "category", "location", "status", "grant_fit", "place_area"],
     "data/projects.json": ["title", "domain", "summary", "grant_angles"],
     "data/source-docs.json": ["title", "type", "summary"],
     "data/grant-windows.json": ["source_key", "title", "window_type", "notify", "tip", "action", "source"],
-    "data/grant-watchlist.json": ["title", "priority", "summary", "level", "level_label", "window_type", "action", "status", "source_key"],
+    "data/grant-watchlist.json": ["title", "priority", "summary", "level", "level_label", "window_type", "action", "status", "source_key", "opportunity_type", "funding", "deadline", "applicants"],
     "data/ledger-projects.json": ["project_key", "title", "lane", "summary", "public_url", "source_page"],
 }
 
