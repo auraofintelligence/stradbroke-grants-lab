@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "pathway_key": "qld-local-digital-priority-projects--ready-s-e-t-co-op-trust-hub--roles",
+    "grant_source_key": "qld-local-digital-priority-projects",
+    "project_key": "ready-s-e-t-co-op-trust-hub",
+    "planning_status": "needs_human_review",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "Ready S.E.T. Co-op is a proposed pathway, not a registered co-op or current applicant. No organisation has been approached or named, and the 9 Ballow Road concept does not establish site control.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "redland-rapid-response-2026-27--straddie-noticeboard-network--roles",
+    "grant_source_key": "redland-rapid-response-2026-27",
+    "project_key": "straddie-noticeboard-network",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "auda-community-grants-2026--stradbroke-grants-lab--roles",
+    "grant_source_key": "auda-community-grants-2026",
+    "project_key": "stradbroke-grants-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "auda-community-grants-2026--quandamooka-country-events-engine--roles",
+    "grant_source_key": "auda-community-grants-2026",
+    "project_key": "quandamooka-country-events-engine",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "cbf-development-operations-2026-27-r2--ballow-road-sand-screen-hub--roles",
+    "grant_source_key": "cbf-development-operations-2026-27-r2",
+    "project_key": "ballow-road-sand-screen-hub",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-11"
+  },
+  {
+    "pathway_key": "redland-build-thrive--community-club-builder-sandy-sports--roles",
+    "grant_source_key": "redland-build-thrive",
+    "project_key": "community-club-builder-sandy-sports",
+    "planning_status": "needs_human_review",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The public concept does not establish a club, applicant, site approval or partnership. No organisation has been approached or named.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "auda-community-grants-2026--legal-memory-workbench--roles",
+    "grant_source_key": "auda-community-grants-2026",
+    "project_key": "legal-memory-workbench",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "federal-thriving-suburbs-growing-regions-forecast-2026--dunwich-gumpi-ferry-terminal-lab--roles",
+    "grant_source_key": "federal-thriving-suburbs-growing-regions-forecast-2026",
+    "project_key": "dunwich-gumpi-ferry-terminal-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "frrr-src-small-vital-round-30--straddie-maker-space-lab--roles",
+    "grant_source_key": "frrr-src-small-vital-round-30",
+    "project_key": "straddie-maker-space-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "qld-grassroots-environmental-legacy-r2-2026--straddie-tip-loop-lab--roles",
+    "grant_source_key": "qld-grassroots-environmental-legacy-r2-2026",
+    "project_key": "straddie-tip-loop-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "first-nations-clean-energy-advice--straddie-clean-energy-superpower--roles",
+    "grant_source_key": "first-nations-clean-energy-advice",
+    "project_key": "straddie-clean-energy-superpower",
+    "planning_status": "needs_human_review",
+    "roles_needed": [
+      "Authorised First Nations decision-maker or applicant representative",
+      "Project lead",
+      "Legal, cultural and financial reviewers appropriate to the project"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "No organisation has been approached or named. Applicant eligibility, community authority and FPIC must be established by people with the right standing before any application work.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "screen-australia-emerging-gamemakers-2026--straddie-digital-twin-builders--roles",
+    "grant_source_key": "screen-australia-emerging-gamemakers-2026",
+    "project_key": "straddie-digital-twin-builders",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "cbf-content-2026-27-r2--straddie-content-assets-kit--roles",
+    "grant_source_key": "cbf-content-2026-27-r2",
+    "project_key": "straddie-content-assets-kit",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-11"
+  },
+  {
+    "pathway_key": "cbf-content-2026-27-r2--film-club-documentary-builders--roles",
+    "grant_source_key": "cbf-content-2026-27-r2",
+    "project_key": "film-club-documentary-builders",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-11"
+  },
+  {
+    "pathway_key": "screen-australia-first-nations-documentary-development--grain-by-grain-documentary--roles",
+    "grant_source_key": "screen-australia-first-nations-documentary-development",
+    "project_key": "grain-by-grain-documentary",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Authorised First Nations decision-maker or applicant representative",
+      "Project lead",
+      "Legal, cultural and financial reviewers appropriate to the project"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "creative-australia-arts-projects-organisations-sept-2026--quandamooka-film-festival--roles",
+    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
+    "project_key": "quandamooka-film-festival",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible arts applicant or auspice decision-maker",
+      "Festival artistic and production leads",
+      "Cultural authority, ICIP, venue, rights and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "frrr-in-a-good-place-round-12--straddie-vitality-network-builders--roles",
+    "grant_source_key": "frrr-in-a-good-place-round-12",
+    "project_key": "straddie-vitality-network-builders",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "redland-events-grant-2026-27--straddie-night-market-lab--roles",
+    "grant_source_key": "redland-events-grant-2026-27",
+    "project_key": "straddie-night-market-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "qld-safe-futures-scoping-2026--grey-area-commons--roles",
+    "grant_source_key": "qld-safe-futures-scoping-2026",
+    "project_key": "grey-area-commons",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "frrr-in-a-good-place-round-12--straddie-shared-table--roles",
+    "grant_source_key": "frrr-in-a-good-place-round-12",
+    "project_key": "straddie-shared-table",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "qld-grassroots-environmental-legacy-r2-2026--bees-and-allies--roles",
+    "grant_source_key": "qld-grassroots-environmental-legacy-r2-2026",
+    "project_key": "bees-and-allies",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "redland-community-support--wildlife-rescue-minjerribah--roles",
+    "grant_source_key": "redland-community-support",
+    "project_key": "wildlife-rescue-minjerribah",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "frrr-in-a-good-place-round-12--health-and-culture--roles",
+    "grant_source_key": "frrr-in-a-good-place-round-12",
+    "project_key": "health-and-culture",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "redland-build-thrive--amity-outdoor-fitness-and-safer-access--roles",
+    "grant_source_key": "redland-build-thrive",
+    "project_key": "amity-outdoor-fitness-and-safer-access",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "get-ready-qld-2026-27-council--disaster-resilience--roles",
+    "grant_source_key": "get-ready-qld-2026-27-council",
+    "project_key": "disaster-resilience",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "frrr-src-prepare-recover-round-30--minjerribah-resilience--roles",
+    "grant_source_key": "frrr-src-prepare-recover-round-30",
+    "project_key": "minjerribah-resilience",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "frrr-src-small-vital-round-30--grain-by-grain--roles",
+    "grant_source_key": "frrr-src-small-vital-round-30",
+    "project_key": "grain-by-grain",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "creative-australia-arts-projects-organisations-sept-2026--civilisation-of-sand--roles",
+    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
+    "project_key": "civilisation-of-sand",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "federal-thriving-suburbs-growing-regions-forecast-2026--sandworm-subterranean-systems--roles",
+    "grant_source_key": "federal-thriving-suburbs-growing-regions-forecast-2026",
+    "project_key": "sandworm-subterranean-systems",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "ilsc-our-country-our-future-2026--moreton-bay-community-wealth-and-mutuals--roles",
+    "grant_source_key": "ilsc-our-country-our-future-2026",
+    "project_key": "moreton-bay-community-wealth-and-mutuals",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Authorised First Nations decision-maker or applicant representative",
+      "Project lead",
+      "Legal, cultural and financial reviewers appropriate to the project"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "creative-australia-arts-projects-organisations-sept-2026--bigger-local-picture--roles",
+    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
+    "project_key": "bigger-local-picture",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "cbf-content-2026-27-r2--ready-set-co-op-hyperlocal-media--roles",
+    "grant_source_key": "cbf-content-2026-27-r2",
+    "project_key": "ready-set-co-op-hyperlocal-media",
+    "planning_status": "needs_human_review",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The public proposal is not a registered co-op, employer or training organisation. No organisation has been approached or named, and all delivery and partnership claims remain to be confirmed.",
+    "last_checked": "2026-08-11"
+  },
+  {
+    "pathway_key": "cbf-development-operations-2026-27-r2--minjerribah-screen-media-network--roles",
+    "grant_source_key": "cbf-development-operations-2026-27-r2",
+    "project_key": "minjerribah-screen-media-network",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-11"
+  },
+  {
+    "pathway_key": "auda-community-grants-2026--straddie-tenders-lab--roles",
+    "grant_source_key": "auda-community-grants-2026",
+    "project_key": "straddie-tenders-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "nab-foundation-community-grants-r2-2026--straddie-capsule-surge-lab--roles",
+    "grant_source_key": "nab-foundation-community-grants-r2-2026",
+    "project_key": "straddie-capsule-surge-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "auda-community-grants-2026--p4a-purple-civic-lab--roles",
+    "grant_source_key": "auda-community-grants-2026",
+    "project_key": "p4a-purple-civic-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "screen-australia-emerging-gamemakers-2026--mineral-moonshots--roles",
+    "grant_source_key": "screen-australia-emerging-gamemakers-2026",
+    "project_key": "mineral-moonshots",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "creative-australia-arts-projects-organisations-sept-2026--cosmic-nexus--roles",
+    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
+    "project_key": "cosmic-nexus",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "creative-australia-arts-projects-organisations-sept-2026--i-c-infinity-music-universe--roles",
+    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
+    "project_key": "i-c-infinity-music-universe",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  },
+  {
+    "pathway_key": "creative-australia-arts-projects-organisations-sept-2026--gajra-earth--roles",
+    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
+    "project_key": "gajra-earth",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-08-09"
+  }
+]

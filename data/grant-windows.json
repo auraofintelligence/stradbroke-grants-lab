@@ -1,6 +1,6 @@
 [
   {
-    "source_key": "gcbf",
+    "source_key": "gcbf-next-round-watch",
     "title": "GCBF future round watch",
     "window_type": "Future round",
     "notify": "Not-for-profit clubs, community groups, sport groups, arts groups and auspiced informal groups.",
@@ -10,11 +10,11 @@
   },
   {
     "source_key": "redland-community-support",
-    "title": "Redland Council Community Support Grant Round 1 readiness",
-    "window_type": "Future round",
+    "title": "Redland Council Community Support Grant Round 1",
+    "window_type": "Closing soon",
     "notify": "Redland-based not-for-profits, community groups, environment groups, wildlife carers, clubs and local project leads.",
-    "tip": "Round 1 for 2026/27 is scheduled for 27 July 2026 to 16 August 2026. Funding is up to $20,000 and applications are open quarterly.",
-    "action": "Prepare applicant eligibility, ABN, insurance, quotes over $5,000, project plan, risk assessment, budget and reporting plan before 27 July.",
+    "tip": "Round 1 for 2026/27 is open and closes 16 August 2026. Funding is up to $20,000 and applications are open quarterly.",
+    "action": "Only proceed if applicant eligibility, ABN, insurance, quotes, project plan, risk assessment, budget and reporting capacity can be confirmed in time.",
     "source": "Redland City Council Community Support Grant"
   },
   {
@@ -25,6 +25,24 @@
     "tip": "Council keeps multiple grant streams and support pages. The portal should be checked before assuming Community Support is the best fit.",
     "action": "Scan council program pages monthly and before any local event, arts, environment or community application.",
     "source": "Redland City Council Grants and Sponsorship"
+  },
+  {
+    "source_key": "redland-radf",
+    "title": "Redland RADF Round 1 readiness",
+    "window_type": "Future round",
+    "notify": "Redland-based artists, arts organisations, festivals, screen and community cultural projects with a real eligible applicant.",
+    "tip": "The 2026/27 Round 1 window is scheduled for 31 August to 28 September 2026.",
+    "action": "Confirm the applicant, artistic outcome, community benefit, budget, permissions and delivery evidence before the round opens.",
+    "source": "Redland City Council Regional Arts Development Fund"
+  },
+  {
+    "source_key": "redland-build-thrive",
+    "title": "Redland Build and Thrive Round 1",
+    "window_type": "Open grant",
+    "notify": "Incorporated Redland City not-for-profits with genuinely build-ready community infrastructure, accessibility or sustainability projects.",
+    "tip": "Round 1 opened 10 August and closes 6 September 2026. Applicants can request up to $85,500 over as many as three years.",
+    "action": "Confirm legal applicant, active ABN or supplier statement, $20 million public liability insurance, bank account, site control, build readiness, quotes and acquittal capacity before drafting.",
+    "source": "Redland City Council Build and Thrive Grant"
   },
   {
     "source_key": "multicultural-infrastructure",
@@ -47,28 +65,28 @@
   {
     "source_key": "first-nations-digital-support-hub",
     "title": "First Nations Digital Support Hub deadline",
-    "window_type": "Closing soon",
+    "window_type": "Manual check",
     "notify": "First Nations digital inclusion partners with capacity for national or staged support delivery.",
-    "tip": "Full applications are due 5:00pm AEST 30 June 2026. This is likely a large lead-provider or partnership opportunity, not a casual small grant.",
-    "action": "Triage immediately: confirm eligibility, lead applicant, delivery capacity, cultural authority, partners and whether the island project is a partner rather than applicant.",
+    "tip": "The full application deadline passed at 5:00pm AEST 30 June 2026. Keep the program only as a future-round and funded-delivery watch.",
+    "action": "Do not draft an application. Watch the department and GrantConnect for any future round or partnership update.",
     "source": "Department of Infrastructure First Nations Digital Inclusion"
   },
   {
     "source_key": "first-nations-digital-mentors",
     "title": "Network of Digital Mentors deadline",
-    "window_type": "Closing soon",
+    "window_type": "Manual check",
     "notify": "First Nations digital mentors, community media, local access, training and capability projects with eligible lead partners.",
-    "tip": "Full applications are due 5:00pm AEST 30 June 2026. It could align with noticeboard, kiosks and community media, but only if eligibility and authority are real.",
-    "action": "Treat as a rapid partner check, not a cold application: identify eligible lead, mentors, communities, training evidence and delivery budget.",
+    "tip": "The full application deadline passed at 5:00pm AEST 30 June 2026. Keep the program only as a future-round and funded-delivery watch.",
+    "action": "Do not draft an application. Watch the department and GrantConnect for any future round or partnership update.",
     "source": "Department of Infrastructure First Nations Digital Inclusion"
   },
   {
     "source_key": "pbc-capacity-building",
     "title": "PBC capacity closing check",
-    "window_type": "Closing soon",
+    "window_type": "Manual check",
     "notify": "Native title holding corporations, PBCs and authorised First Nations governance bodies.",
-    "tip": "Indigenous.gov.au lists this as closing 30 June 2026. It is only relevant if the applicant is the right kind of native-title corporation or has a proper role.",
-    "action": "Check applicant status and authority before drafting. Do not bend a community project into a PBC grant without governance fit.",
+    "tip": "The listed deadline passed on 30 June 2026 and the program is no longer shown among current open grants on Indigenous.gov.au.",
+    "action": "Do not draft an application. Watch for a new round and keep native-title corporation eligibility and authority as firm gates.",
     "source": "Indigenous.gov.au Grants"
   },
   {
@@ -171,6 +189,15 @@
     "source": "Queensland disaster grants and financial assistance"
   },
   {
+    "source_key": "qld-local-digital-priority-projects",
+    "title": "Local Digital Priority Projects closing window",
+    "window_type": "Closing soon",
+    "notify": "Eligible Redland and South East Queensland digital infrastructure, capability, inclusion and high-skilled-jobs project leads with a legal applicant and secured co-funding.",
+    "tip": "Applications close at 5:00pm Monday 24 August 2026. Stream 1 offers $1 million to $5 million; Streams 2 and 3 offer $100,000 to $1 million.",
+    "action": "Immediately confirm the legal applicant, ABN, GST, registered eligible place of business, funding stream, secured co-funding, delivery by 31 December 2028 and any site-owner approval. Do not treat an early project proposal as application-ready.",
+    "source": "Business Queensland Local Digital Priority Projects"
+  },
+  {
     "source_key": "qld-grants-finder",
     "title": "Queensland grants finder broad scan",
     "window_type": "Rolling search",
@@ -196,5 +223,320 @@
     "tip": "Not every useful pathway is a government grant. Local support may be cash, in-kind, a venue, a letter, a noticeboard slot, a market table or a media partnership.",
     "action": "Build a local partner list beside each grant-ready project and record asks, offers and follow-up dates.",
     "source": "Island entities and local partner research"
-  }
-]
+  },
+  {
+    "source_key": "nab-foundation-community-grants-r2-2026",
+    "title": "Local Digital Priority Projects funding program",
+    "window_type": "Future round",
+    "notify": "Eligible ACNC charities, organisations or enterprises with an ABN and charitable purpose, and some local government or community facilities; individuals and sole traders are excluded.",
+    "tip": "Up to $25,000; selected recipients may receive an additional $25,000 Impact Grant, for up to $50,000 total. The $1.2 million annual amount is a program envelope.. No current Round 2 deadline published on the official page as at 9 August 2026.. South East Queensland digital projects addressing economic, business or social priorities. Stream 1 offers $1 million to $5 million for connectivity and productivity infrastructure; Streams 2 and 3 offer $100,000 to $1 million for digital capability, inclusion and high-skilled jobs. Legal entity, active ABN, GST registration, eligible SEQ place of business, secured co-funding and stream-specific eligibility are required.",
+    "action": "Do not treat this as open. Build the applicant, authority, evidence, site or asset control, budget and co-funding pack while watching for official dates and guidelines.",
+    "source": "Queensland and Australian governments"
+  },
+  {
+    "source_key": "qld-grassroots-wildlife-carers-r2-2026",
+    "title": "Queensland Grassroots Wildlife Carers Assistance Round 2",
+    "window_type": "Open grant",
+    "notify": "Eligible registered wildlife carers and eligible wildlife care organisations meeting the current program rules.",
+    "tip": "Individual wildlife carers up to $1,000 including GST; wildlife care organisations up to $5,000 including GST. The $300,000 amount is the round envelope.. Closes when funds are committed or 4:00pm AEST 22 September 2026. Reimbursement for essential wildlife rescue, rehabilitation and care items. This is a direct small-grant path for genuine registered carers and wildlife care organisations, not general app development.",
+    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "source": "Queensland Government"
+  },
+  {
+    "source_key": "redland-rapid-response-2026-27",
+    "title": "Redland City Council Rapid Response Grant 2026–27",
+    "window_type": "Rolling pathway",
+    "notify": "Redland-based incorporated not-for-profits or Act entities, with ABN or supplier statement, viability, bank account and $20 million public liability insurance; registered wildlife carers are a limited individual exception.",
+    "tip": "$500–$3,000. Rolling until 30 April 2027 or until funds are exhausted. Urgent community needs, organisational capacity, volunteer support, governance, digital improvements, seed funding, wildlife care and small portable equipment. It is for a ready, urgent, local need rather than a speculative long-range project.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Redland City Council"
+  },
+  {
+    "source_key": "ilsc-our-country-our-future-2026",
+    "title": "ILSC Our Country Our Future 2026",
+    "window_type": "Rolling pathway",
+    "notify": "Indigenous-controlled incorporated organisations and businesses, land trusts, PBCs, eligible Indigenous land or water interest holders, and limited non-Indigenous entities acting on Indigenous-held land or water with holder consent.",
+    "tip": "Plan: up to $100,000 or $100,000–$300,000; Manage: up to $100,000, $100,000–$300,000 or over $300,000; Return acquisitions: any value. Projects over $2 million must meet exceptional criteria.. Rolling EOI; no single closing date. First Nations-led return, management and development of Country, including planning, clean energy, land and water enterprise, infrastructure, equipment, culture, jobs and caring for Country. Land or water interests, consent and real Indigenous benefit are firm gates.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Indigenous Land and Sea Corporation"
+  },
+  {
+    "source_key": "arena-community-electrification-arp-2026",
+    "title": "ARENA Community Electrification under the Advancing Renewables Program",
+    "window_type": "Rolling pathway",
+    "notify": "Project developers, technology providers, utilities, retailers, network service providers and capable consortia. Community groups are encouraged to align with experienced delivery organisations.",
+    "tip": "ARENA aims to provide at least $4 million to each selected high-impact jurisdictional demonstration; the page does not publish a general per-applicant maximum.. Rolling EOI; invited full-application dates are issued to selected applicants. Large, innovative community electrification demonstrations, ideally around 1,000 homes, with proven technology, delivery finance, grid and community capability. A small local concept needs an experienced developer, utility or consortium and cannot be treated as a standalone community grant.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Australian Renewable Energy Agency"
+  },
+  {
+    "source_key": "federal-thriving-suburbs-growing-regions-forecast-2026",
+    "title": "Future Thriving Suburbs and Growing Regions rounds — 2026 Budget forecast",
+    "window_type": "Future round",
+    "notify": "To be confirmed in new-round guidelines; previous rounds involved local governments and eligible incorporated not-for-profits with capital works, site control and co-funding requirements.",
+    "tip": "Applicant grant ranges not yet published; $750 million over three years is the combined future-program envelope, not an applicant cap.. No new-round opening or closing date published as at 9 August 2026. Future capital works for community infrastructure through council or eligible community-organisation pathways. This is a planning watch only until program guidelines confirm whether Minjerribah falls under the next Thriving Suburbs or Growing Regions geography.",
+    "action": "Do not treat this as open. Build the applicant, authority, evidence, site or asset control, budget and co-funding pack while watching for official dates and guidelines.",
+    "source": "Australian Government Department of Infrastructure"
+  },
+  {
+    "source_key": "screen-qld-screen-culture-fund",
+    "title": "Screen Queensland Screen Culture Fund",
+    "window_type": "Future round",
+    "notify": "Incorporated Australian entities with ABN, relevant track record, Queensland delivery, community support and required third-party finance.",
+    "tip": "$2,000–$8,000 for screenings and festivals; up to $25,000 for touring to at least six regional centres; up to $150,000 per year for significant events, subject to stream and round rules.. The July–December 2026 activity round closed 12 March 2026; next round date not published as at 9 August 2026. Queensland screenings, festivals, touring programs and established screen events. It supports public screen culture, not film production, and does not publish shared LED equipment purchase as an eligible use.",
+    "action": "Do not treat this as open. Build the applicant, authority, evidence, site or asset control, budget and co-funding pack while watching for official dates and guidelines.",
+    "source": "Screen Queensland"
+  },
+  {
+    "source_key": "redland-signature-events-2026-27",
+    "title": "Redland City Council Signature Events Attraction and Retention Fund 2026–27",
+    "window_type": "Rolling pathway",
+    "notify": "Eligible not-for-profit or for-profit legal entities with ABN, financial viability, $20 million public liability insurance and an event successfully held for at least two years.",
+    "tip": "Up to $60,000 per year for one to three years; up to an additional $1,500 for eligible Quandamooka cultural awareness activity with a quote.. Open until 30 April 2027, subject to available funds. Established events with a demonstrated history, tourism and economic impact. It can fund event delivery and limited essential equipment, but a shared LED cinema asset needs a written eligibility ruling and a costed asset-use plan.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Redland City Council"
+  },
+  {
+    "source_key": "teq-homegrown-2026-round-2",
+    "title": "Tourism and Events Queensland Homegrown — Round 2 2026",
+    "window_type": "Future round",
+    "notify": "Eligible event legal entities meeting the relevant category history, tourism, event-location, insurance and co-investment requirements. Kickstarter requires matched or greater council or regional tourism cash.",
+    "tip": "Destination Kickstarter up to $25,000 per year for two years; Signature $15,000–$40,000; Significant $40,000–$100,000; Indigenous $15,000–$40,000, subject to category history and co-funding rules.. Round 2 is planned for August–October 2026; exact opening and closing dates are to be announced. Destination events with tourism growth, visitation evidence and local co-investment. It funds event growth rather than a general-purpose cinema asset.",
+    "action": "Do not treat this as open. Build the applicant, authority, evidence, site or asset control, budget and co-funding pack while watching for official dates and guidelines.",
+    "source": "Tourism and Events Queensland"
+  },
+  {
+    "source_key": "screen-qld-development-fund",
+    "title": "Screen Queensland Development Program",
+    "window_type": "Rolling pathway",
+    "notify": "Eligible Queensland-resident key creatives or Queensland screen businesses under the program rules, with chain of title, team capability and appropriate First Nations cultural safety and ICIP where relevant.",
+    "tip": "Tier 1 up to $15,000; Tier 2 $15,001–$30,000; slate development $25,000–$50,000. Rolling; no single closing date. Queensland screen-story development with rights, experienced key creatives and a clear development milestone. It is for screen projects, not a community film-club program or outdoor cinema equipment.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Screen Queensland"
+  },
+  {
+    "source_key": "screen-australia-documentary-development",
+    "title": "Screen Australia Documentary Development",
+    "window_type": "Rolling pathway",
+    "notify": "Eligible Australian individuals or companies under Screen Australia rules, with required comparable documentary credit, rights and project materials.",
+    "tip": "Up to $30,000. Always open. Development of Australian documentary projects with an experienced key creative, rights, audience pathway and a specific development plan.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-documentary-production-sept-2026",
+    "title": "Screen Australia Documentary Production Program — September 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible Australian production applicants and projects meeting Screen Australia experience, rights, finance, marketplace and content requirements.",
+    "tip": "Documentary Producer Program: up to 80% of budget, capped at $300,000 where budget is $500,000 or less; Platform First: up to $500,000, subject to program percentage and marketplace rules.. Closes 5:00pm AEST 24 September 2026. Production funding for market-ready Australian documentary with an experienced team, rights, finance plan and the relevant distribution or platform pathway.",
+    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-first-nations-industry-support",
+    "title": "Screen Australia First Nations Sector Development — Industry Support",
+    "window_type": "Rolling pathway",
+    "notify": "Eligible First Nations screen-sector organisations with demonstrated expertise and delivery capability; applications are by invitation.",
+    "tip": "Up to $50,000. Always open for invitation-only consideration. First Nations screen-sector organisations delivering professional development, opportunities and capacity building, particularly for regional and remote practitioners. It is not open self-application funding.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "qld-arts-project-fund-round-3-2026",
+    "title": "Queensland Arts Project Fund Round 3 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible Queensland artists, arts workers, groups and organisations under the stream rules; First Nations stream requires genuine First Nations leadership and cultural authority.",
+    "tip": "General and First Nations streams up to $70,000; individuals up to $20,000; additional access costs up to $10,000. Closes 2:00pm AEST 21 September 2026 for activity from 25 January 2027. Queensland arts and cultural projects, including a First Nations stream. Film, screen, gaming, infrastructure and equipment or software over $3,000 are ineligible, so only clearly arts-led, non-screen project components should be matched.",
+    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "source": "Arts Queensland"
+  },
+  {
+    "source_key": "screen-australia-emerging-gamemakers-2026",
+    "title": "Screen Australia Emerging Gamemakers Fund — August 2026",
+    "window_type": "Open grant",
+    "notify": "Australian citizens or permanent residents, or eligible Australian incorporated companies, with ABN, required GST status and chain of title.",
+    "tip": "Up to $30,000 for projects with budgets up to $500,000. Closes 5:00pm AEST 27 August 2026; next round opens 14 December 2026 and closes 25 February 2027. Original Australian game prototypes or micro-scale games by emerging independent gamemakers. A digital twin, simulator or story world must become an actual original game project, not a civic-data website.",
+    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-games-production-2026",
+    "title": "Screen Australia Games Production Fund — August 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible incorporated Australian companies with ABN, required GST registration and chain of title; sole traders, trusts and public companies are not eligible.",
+    "tip": "Up to $100,000 for projects with budgets up to $500,000. Closes 5:00pm AEST 27 August 2026; next round opens 14 December 2026 and closes 25 February 2027. Original Australian independent games that already have an early-stage playable prototype and a defined production milestone. It is not for an unbuilt simulation concept.",
+    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "redland-mayor-councillors-community-benefit-2026-27",
+    "title": "Redland Mayor and Councillors’ Community Benefit Fund 2026–27",
+    "window_type": "Rolling pathway",
+    "notify": "Not-for-profit incorporated organisations or eligible sponsored groups; public and private education institutions are ineligible, with a limited P&C exception.",
+    "tip": "Up to $3,000 for organisations; a higher amount may be considered for cross-division community benefit, but no fixed higher cap is published.. Apply at least 20 business days before the project or event; funding is subject to the 2026–27 allocation. Small equipment and incidental project costs for local not-for-profits. It is a useful co-funding layer but not a substitute for a major capital grant.",
+    "action": "Complete the eligibility and authority gates first; obtain human approval before an EOI, funder approach or application is made.",
+    "source": "Redland City Council"
+  },
+    {
+      "source_key": "cbf-development-operations-2026-27-r2",
+      "title": "CBF Development and Operations Round 2",
+      "window_type": "Open grant",
+      "notify": "Eligible licensed community broadcasters and eligible First Nations community media organisations.",
+      "tip": "No fixed request maximum; $25,000-plus requests need other financial contribution. Closes 2:00pm AEST 11 August 2026.",
+      "action": "Confirm broadcaster eligibility and obtain written CBF advice on the proposed LED asset before any application.",
+      "source": "Community Broadcasting Foundation"
+    },
+    {
+      "source_key": "cbf-content-2026-27-r2",
+      "title": "CBF Content Round 2",
+      "window_type": "Open grant",
+      "notify": "Eligible community broadcasters, First Nations community media, sector bodies and incorporated not-for-profits with a first-broadcast distribution agreement.",
+      "tip": "No fixed project maximum; $20,000-plus requests need other contributions. Closes 2:00pm AEST 11 August 2026.",
+      "action": "Confirm applicant or distribution agreement, first-broadcast pathway, content rights, budget and co-funding before drafting.",
+      "source": "Community Broadcasting Foundation"
+    },
+    {
+      "source_key": "qld-safe-futures-scoping-2026",
+      "title": "Safe Futures Scoping Grants 2026",
+      "window_type": "Open grant",
+      "notify": "Eligible organisations with a genuine evidence-based domestic and family violence primary-prevention scoping project.",
+      "tip": "Up to $30,000. Closes 5:00pm AEST 14 August 2026.",
+      "action": "Only proceed with an eligible legal applicant, specialist safety method, free community benefit and a realistic three-month scope.",
+      "source": "Queensland Government"
+    },
+    {
+      "source_key": "frrr-in-a-good-place-round-12",
+      "title": "FRRR In a Good Place Round 12",
+      "window_type": "Open grant",
+      "notify": "Local charitable not-for-profits delivering mental, social and emotional wellbeing outcomes in a small rural community.",
+      "tip": "Up to $20,000. Closes 5:00pm AEST 18 August 2026.",
+      "action": "Confirm local applicant or endorsed local pathway, participant need, wellbeing method, budget and delivery capacity.",
+      "source": "FRRR"
+    },
+    {
+      "source_key": "screen-australia-first-nations-documentary-development",
+      "title": "First Nations Documentary Development",
+      "window_type": "Open grant",
+      "notify": "Genuinely First Nations-led documentary key creatives and eligible applicant structures.",
+      "tip": "Up to $30,000 for feature or series and up to $20,000 for one-hour television or online documentary. Next deadline 20 August 2026.",
+      "action": "Confirm First Nations creative leadership, cultural authority, ICIP, rights and the defined development milestone.",
+      "source": "Screen Australia"
+    },
+    {
+      "source_key": "creative-australia-arts-projects-organisations-sept-2026",
+      "title": "Arts Projects for Organisations — September 2026",
+      "window_type": "Open grant",
+      "notify": "Legally constituted Australian arts organisations with an eligible arts project.",
+      "tip": "$20,000–$100,000. Closes 3:00pm AEST 1 September 2026.",
+      "action": "Confirm the work is arts-led rather than conventional film or television, then lock applicant, artistic team, permissions, budget and outcomes.",
+      "source": "Creative Australia"
+    },
+    {
+      "source_key": "auda-community-grants-2026",
+      "title": "auDA Community Grants 2026",
+      "window_type": "Open grant",
+      "notify": "ACNC-registered not-for-profits or eligible research institutions delivering a public-benefit internet project.",
+      "tip": "Exactly $50,000 with at least a 10% applicant contribution. Closes 5:00pm AEST 31 August 2026.",
+      "action": "Test the idea against the exclusions for equipment, basic digital skills and generic websites before preparing the public-benefit case.",
+      "source": "auDA"
+    },
+    {
+      "source_key": "get-ready-qld-2026-27-council",
+      "title": "Get Ready Queensland 2026–27",
+      "window_type": "Open to councils",
+      "notify": "Redland City Council as the invited applicant; community projects can only be authorised delivery collaborators.",
+      "tip": "Per-council allocation is not public; $2 million is the statewide envelope. Final council deadline 31 August 2026.",
+      "action": "Do not prepare a direct community application. First seek an authorised council decision on whether the activity belongs in its submission.",
+      "source": "Queensland Reconstruction Authority"
+    },
+    {
+      "source_key": "redland-events-grant-2026-27",
+      "title": "Redland Events Grant Round 1",
+      "window_type": "Opening soon",
+      "notify": "Eligible Redland City event organisations and auspiced groups.",
+      "tip": "Up to $20,000 per year for up to three years. Opens 24 August and closes 20 September 2026.",
+      "action": "Separate event delivery from capital equipment, then confirm applicant, insurance, event plan, permits, budget and community benefit.",
+      "source": "Redland City Council"
+    },
+    {
+      "source_key": "redland-community-celebration-2026-27",
+      "title": "Redland Community Celebration Grant",
+      "window_type": "Future round",
+      "notify": "Eligible Redland City not-for-profits and auspiced community groups.",
+      "tip": "Up to $15,000. Next round opens 28 September and closes 18 October 2026.",
+      "action": "Build the celebration program and cultural-permission process; do not include capital works or equipment purchases.",
+      "source": "Redland City Council"
+    },
+    {
+      "source_key": "frrr-src-small-vital-round-30",
+      "title": "FRRR Small & Vital Round 30",
+      "window_type": "Open grant",
+      "notify": "Eligible charitable not-for-profits or auspiced groups serving a small rural, regional or remote community.",
+      "tip": "Up to $10,000; targeted Larger Leverage up to $50,000 only where its current focus applies. Closes 17 September 2026.",
+      "action": "Select only one SRC stream, confirm charitable purpose and shape one practical locally led project.",
+      "source": "FRRR"
+    },
+    {
+      "source_key": "frrr-src-prepare-recover-round-30",
+      "title": "FRRR Prepare & Recover Round 30",
+      "window_type": "Open grant",
+      "notify": "Eligible rural and regional community groups with a genuine climate-preparedness or medium- to long-term disaster-recovery project.",
+      "tip": "Up to $25,000. Closes 5:00pm AEST 17 September 2026.",
+      "action": "Select only one SRC stream and evidence the specific hazard, community leadership, preparedness or recovery outcome and deliverable budget.",
+      "source": "FRRR"
+    },
+    {
+      "source_key": "qld-grassroots-environmental-legacy-r2-2026",
+      "title": "Grassroots Environmental Legacy Round 2",
+      "window_type": "Open grant",
+      "notify": "Eligible Queensland community organisations with a site-authorised environmental project.",
+      "tip": "Up to $25,000 excluding GST. Closes 4:00pm AEST 8 September 2026.",
+      "action": "Confirm site permission, ecological method, community participation, maintenance, eligible costs and quotes before drafting.",
+      "source": "Queensland Government"
+    },
+    {
+      "source_key": "cbf-specialist-radio-programming-2026-27-r2",
+      "title": "CBF Specialist Radio Programming Round 2",
+      "window_type": "Closing soon",
+      "notify": "Eligible community radio broadcasters or grant managers with a defined ethnic, First Nations or radio-reading program and real broadcast authority.",
+      "tip": "No fixed applicant maximum is published. Closes 2:00pm AEST 11 August 2026.",
+      "action": "Only proceed if the eligible broadcaster, program authority, editorial lead, schedule and budget already exist; otherwise prepare for the next round.",
+      "source": "Community Broadcasting Foundation"
+    },
+    {
+      "source_key": "cbf-stolen-generations-truth-telling-2026",
+      "title": "CBF Stolen Generations Truth Telling Grants",
+      "window_type": "Open grant",
+      "notify": "First Nations media organisations or content makers with survivor- and descendant-led or centred authority and an eligible community-media grant manager.",
+      "tip": "No cap; similar grants are about $5,000–$40,000, plus up to $1,000 administration. Closes 2:00pm AEST 1 September 2026.",
+      "action": "Do not draft from a repo concept. Confirm survivor consent, cultural authority, ICIP, wellbeing support, eligible grant manager and first-broadcast agreement first.",
+      "source": "Community Broadcasting Foundation and The Healing Foundation"
+    },
+    {
+      "source_key": "qld-waste-resource-recovery-funding-watch-2026",
+      "title": "Queensland waste and resource-recovery funding watch",
+      "window_type": "Source watch",
+      "notify": "Council, industry, charity or community applicants only where a specific program, lawful scope and applicant class are confirmed.",
+      "tip": "Amounts and dates vary by program; announced fund totals are not local applicant caps.",
+      "action": "Track new program releases and build the waste-licence, material-safety, site-control, council-role, budget and market evidence before matching a round.",
+      "source": "Queensland Government"
+    },
+    {
+      "source_key": "niaa-indigenous-procurement-policy-2026-27",
+      "title": "Indigenous Procurement Policy tender pathway",
+      "window_type": "Source watch",
+      "notify": "Verified First Nations-owned and controlled businesses and eligible ORIC corporations only.",
+      "tip": "Tender values and deadlines vary. This is a procurement pathway, not a grant.",
+      "action": "Confirm ownership, control, registration and tender-specific capability before describing any project as eligible or First Nations controlled.",
+      "source": "National Indigenous Australians Agency"
+    },
+    {
+      "source_key": "creative-australia-four-year-organisations-2029-32",
+      "title": "Creative Australia Four Year Investment pre-application",
+      "window_type": "Open grant",
+      "notify": "Mature legally constituted small-to-medium arts and cultural organisations with a strong artistic record and four-year vision.",
+      "tip": "$100,000–$550,000 per year for four years. Pre-applications close 3:00pm AEDT 27 October 2026.",
+      "action": "Treat this as an organisation-readiness gate, not project funding: confirm legal form, artistic track record, governance, financial capacity and four-year program before a pre-application.",
+      "source": "Creative Australia"
+    }
+  ]
