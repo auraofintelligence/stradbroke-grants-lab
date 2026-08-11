@@ -3,20 +3,33 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Island Entities | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=watchlist-20260619">
+    <meta name="description" content="A sourced research map of potential applicants, advisers, suppliers, sponsors and other useful island connections.">
+    <title>Potential Connections | Stradbroke Grants Lab</title>
+    <link rel="stylesheet" href="assets/styles.css?v=workbench-20260809">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
 </head>
   <body data-page="entities">
+    <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
     <main id="main" class="page-shell">
-      <p class="eyebrow">Island Entities</p>
-      <h1>Businesses, groups, artists and local applicants.</h1>
-      <p class="hero-lede">A public research map from the wider island and noticeboard catalogue. Search, sort and filter before starting any outreach.</p>
+      <p class="eyebrow">Potential connections</p>
+      <h1>Find possible roles across the island.</h1>
+      <p class="hero-lede">A public research map of businesses, groups, artists, services and organisations that may be relevant as applicants, advisers, suppliers, sponsors, venues, supporters or beneficiaries.</p>
+      <section class="entity-summary" id="entitySummary" aria-live="polite"></section>
+      <figure class="page-banner connections-banner">
+        <img src="assets/hero-potential-connections.webp" alt="An open island constellation of possible connections with unjoined nodes" width="1280" height="640">
+        <figcaption>Possibility is shown openly; relationships are not assumed.</figcaption>
+      </figure>
+      <aside class="note-panel connection-boundary">
+        <h2>A listing is a research lead.</h2>
+        <p>It does not establish consent, eligibility, endorsement, cultural authority, site control, capacity or a relationship. Check the source, identify the role and let a human approve any approach.</p>
+      </aside>
       <div class="entity-tools" aria-label="Entity search and sorting">
-        <label class="search-label" for="entitySearch">Quick search</label>
-        <input id="entitySearch" class="search-input" type="search" placeholder="Search name, town, category or grant fit">
+        <label class="search-label" for="entitySearch">Search potential connections</label>
+        <input id="entitySearch" class="search-input" type="search" placeholder="Search name, place, category or possible contribution">
+        <label class="search-label" for="entityCategoryFilter">Capability</label>
+        <select id="entityCategoryFilter" class="search-input"><option value="All">All capabilities</option></select>
         <label class="search-label" for="placeAreaFilter">Place area</label>
         <select id="placeAreaFilter" class="search-input">
           <option value="All">All place areas</option>
@@ -32,10 +45,10 @@
           <button type="button" data-entity-sort="za">Z-A</button>
         </div>
       </div>
-      <div class="filter-bar" id="entityFilters"></div>
       <div class="data-grid" id="entityGrid"></div>
     </main>
     <footer class="site-footer"></footer>
-    <script src="assets/app.js?v=watchlist-20260619"></script>
+    <button class="to-top" type="button" data-to-top aria-label="Back to top">Top</button>
+    <script src="assets/app.js?v=workbench-20260809"></script>
   </body>
 </html>

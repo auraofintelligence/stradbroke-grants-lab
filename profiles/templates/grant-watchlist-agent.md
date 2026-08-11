@@ -55,6 +55,8 @@ For each grant or source:
 - exact close date and time if open
 - next opening date if announced
 - applicant type as a prominent field
+- `availability`: `open`, `rolling`, `opening_soon`, `future`, `directory`, `support` or `closed`
+- `deadline_date`: ISO date for reliable sorting, or `null` when no date is published
 - project fit
 - evidence needed
 - cultural authority or governance checks
@@ -70,10 +72,10 @@ For directories and portals, use `Varies by program` rather than inventing a sin
 - Use the exact `project_key` from `data/ledger-projects.json`.
 - Use one fit status: `pursue`, `prepare`, `clarify`, `watch` or `do_not_pursue`.
 - Record why the fit is credible, what eligibility remains unresolved and what evidence is needed.
-- Do not force every grant onto a project or every project onto a grant.
+- Do not force an unsuitable current grant onto a project. Every project still keeps a truthful pathway through a grant, tender, finance, fundraising or future-round lane, with the qualifying reframe and eligibility gates stated plainly.
 - Keep the project idea separate from the legal applicant.
 
-## Partner Planning
+## Potential Connection Planning
 
 - Plan roles before names: lead applicant, co-applicant, auspice, cultural authority, site or asset controller, delivery partner, supplier, supporter and beneficiary are distinct.
 - Named organisations are source-backed research leads only.
@@ -92,7 +94,7 @@ Use one of these where possible:
 - `Source watch`
 - `Manual check`
 - `Activated support`
-- `Partnership watch`
+- `Potential connection watch`
 - `Local support`
 
 ## Noticeboard Logic
@@ -105,6 +107,31 @@ A public notice should answer:
 - who is probably not eligible
 - whether the deadline is realistic
 
+## Project Funding Queue
+
+Every Community Ledger project must keep at least one credible funding pathway. Do not discard a project because its current public framing is unusual: identify the smallest truthful reframe that makes its public benefit legible to a real grant or tender without changing its core intent.
+
+Order project actions by:
+
+1. open rounds and the earliest closing date
+2. whether a legal applicant and required authority could realistically be assembled in time
+3. funding range and the project's present readiness
+4. future rounds that need evidence, confirmed roles, site control or quotes built now
+
+Do not exclude small grants. Record their place in a funding stack, such as seed, planning, permissions, pilot, evidence, program delivery, equipment, capital infrastructure or scale. A grant does not need to cover the whole project cost. Describe a cautious co-funding path using possible resident or member fundraising, sponsorship, philanthropy, visitor giving, earned income and cash or in-kind support from organisations that later confirm a role, but never describe any contribution as secured without evidence.
+
+Every `data/grant-project-matches.json` record must include:
+
+- `action_priority`: `act_now`, `prepare_next`, `build_pathway` or `watch`
+- `action_by`: an ISO closing/action date or `null`
+- `stack_role`: what this money unlocks in the sequence
+- `cofunding_plan`: possible complementary sources, with unsecured support clearly labelled
+- `readiness_check`: the eligibility, authority, quote, site, budget or governance work that must be completed before proceeding
+- `qualifying_reframe`: the smallest truthful reframe needed for fit
+- `next_move`: the next human-checkable action
+- `human_roles`: the people or accountable roles needed
+- `ai_tasks`: research, drafting, evidence and coordination work AI can prepare for human approval
+
 Do not send whole-island panic notices for closing-soon grants. Target only likely eligible applicants.
 
 ## Update Steps
@@ -113,11 +140,13 @@ Do not send whole-island panic notices for closing-soon grants. Target only like
 2. Check official source pages.
 3. Update `data/grants.json` statuses, close dates, best-fit notes and `last_checked`.
 4. Update or add matching `data/grant-windows.json` entries using exact `source_key`.
-5. Update `data/grant-project-matches.json` and `data/partner-pathways.json`.
-6. Run `python tools/build_watchlist.py`.
-7. Run `python tools/validate_data.py`.
-8. Preview the watchlist, windows, matches and partner pathways pages.
-9. Commit or publish only when the current task explicitly authorises it.
+5. Update `data/grant-project-matches.json`.
+6. Run `python tools/normalise_funding_stacks.py` so readiness work and possible co-funding remain distinct.
+7. Run `python tools/build_partner_pathways.py` to keep role planning aligned without assigning organisations.
+8. Run `python tools/build_watchlist.py`.
+9. Run `python tools/validate_data.py`.
+10. Preview the funding desk, project stacks and potential-connections pages.
+11. Commit or publish only when the current task explicitly authorises it.
 
 ## Safety Checks
 
@@ -125,5 +154,5 @@ Do not send whole-island panic notices for closing-soon grants. Target only like
 - Closed grants should not be framed as open.
 - Support information is not the same as project funding.
 - First Nations grants require authority, eligibility and permission checks before drafting.
-- Global grants usually need partnerships and long lead time.
+- Global grants usually need confirmed delivery relationships and long lead time.
 - Council grants usually need insurance, quotes, budget, delivery plan and reporting capacity.

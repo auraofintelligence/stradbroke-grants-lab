@@ -3,21 +3,73 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Grant Watchlist | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=watchlist-20260619">
+    <meta name="description" content="A practical funding desk separating open grants, preparation windows, source directories and past rounds.">
+    <title>Funding | Stradbroke Grants Lab</title>
+    <link rel="stylesheet" href="assets/styles.css?v=workbench-20260809">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
-</head>
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+  </head>
   <body data-page="watchlist">
+    <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
-    <main id="main" class="page-shell">
-      <p class="eyebrow">Grant Watchlist</p>
-      <h1>Shortlisted grant opportunities across every level.</h1>
-      <p class="hero-lede">A generated shortlist from grant programs, source pages and timing windows. Some items are open grants, some are future rounds, and some are source watches that need a final eligibility check before drafting.</p>
-      <div class="filter-bar" id="watchlistFilters"></div>
-      <div class="data-grid" id="watchlistGrid"></div>
+    <main id="main" class="page-shell funding-desk">
+      <p class="eyebrow">Funding desk</p>
+      <h1>Find the next useful funding layer.</h1>
+      <p class="hero-lede">Open grants, rounds worth preparing for, research sources and past opportunities stay separate. Small amounts remain visible when they can fund a useful stage or strengthen the next application.</p>
+
+      <nav class="funding-view-tabs" id="fundingViewTabs" aria-label="Funding views">
+        <button type="button" class="is-active" data-funding-view="open" aria-controls="fundingOpenPanel" aria-selected="true">Open now</button>
+        <button type="button" data-funding-view="prepare" aria-controls="fundingPreparePanel" aria-selected="false">Prepare next</button>
+        <button type="button" data-funding-view="sources" aria-controls="fundingSourcesPanel" aria-selected="false">Research sources</button>
+        <button type="button" data-funding-view="past" aria-controls="fundingPastPanel" aria-selected="false">Past and watch</button>
+      </nav>
+
+      <section class="funding-view" id="fundingOpenPanel" data-funding-panel="open" aria-labelledby="fundingOpenTitle">
+        <div class="section-heading compact-heading">
+          <p class="eyebrow">Open now</p>
+          <h2 id="fundingOpenTitle">Credible rounds with time to act</h2>
+          <p>Actual grant opportunities only, ordered by the practical action date.</p>
+        </div>
+        <div class="data-grid" id="fundingOpenGrid" aria-live="polite"></div>
+      </section>
+
+      <section class="funding-view" id="fundingPreparePanel" data-funding-panel="prepare" aria-labelledby="fundingPrepareTitle">
+        <div class="section-heading compact-heading">
+          <p class="eyebrow">Prepare next</p>
+          <h2 id="fundingPrepareTitle">Future rounds and evidence-building windows</h2>
+          <p>Use the quiet period to confirm the applicant, authority, budget, quotes, permissions and delivery evidence.</p>
+        </div>
+        <div class="data-grid" id="fundingPrepareGrid" aria-live="polite"></div>
+      </section>
+
+      <section class="funding-view" id="fundingSourcesPanel" data-funding-panel="sources" aria-labelledby="fundingSourcesTitle">
+        <div class="section-heading compact-heading">
+          <p class="eyebrow">Research sources</p>
+          <h2 id="fundingSourcesTitle">Directories and official search points</h2>
+          <p>These pages help find opportunities. They are not grant rounds and should not appear as application-ready money.</p>
+        </div>
+        <div class="data-grid" id="fundingSourcesGrid" aria-live="polite"></div>
+      </section>
+
+      <section class="funding-view" id="fundingPastPanel" data-funding-panel="past" aria-labelledby="fundingPastTitle">
+        <div class="section-heading compact-heading">
+          <p class="eyebrow">Past and watch</p>
+          <h2 id="fundingPastTitle">Closed rounds, support information and long watches</h2>
+          <p>Keep useful precedent and future signals without confusing them with open opportunities.</p>
+        </div>
+        <div class="data-grid" id="fundingPastGrid" aria-live="polite"></div>
+      </section>
+
+      <aside class="note-panel funding-boundary">
+        <h2>A grant does not need to cover the whole project.</h2>
+        <p>Possible resident or member fundraising, sponsorship, visitor giving, philanthropy, earned income and cash or in-kind support from organisations that later confirm a role can sit beside grants. Nothing is described as secured without evidence.</p>
+      </aside>
+
+      <div id="watchlistFilters" hidden aria-hidden="true"></div>
+      <div id="watchlistGrid" hidden aria-hidden="true"></div>
     </main>
     <footer class="site-footer"></footer>
-    <script src="assets/app.js?v=watchlist-20260619"></script>
+    <button class="to-top" type="button" data-to-top aria-label="Back to top">Top</button>
+    <script src="assets/app.js?v=workbench-20260809"></script>
   </body>
 </html>

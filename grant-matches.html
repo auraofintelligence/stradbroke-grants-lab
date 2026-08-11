@@ -3,23 +3,43 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Source-backed grant matches for Community Ledger projects.">
-    <title>Grant Matches | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=grant-matching-20260809">
+    <meta name="description" content="Project funding stacks combining grants, fundraising, sponsorship, visitor giving and in-kind support over time.">
+    <title>Project Funding Stacks | Stradbroke Grants Lab</title>
+    <link rel="stylesheet" href="assets/styles.css?v=workbench-20260809">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
   </head>
   <body data-page="grant-matches">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
     <main id="main" class="page-shell">
-      <p class="eyebrow">Weekly matching desk</p>
-      <h1>Grant leads matched to real project pages.</h1>
-      <p class="hero-lede">A match is a research lead, not an eligibility decision. Legal applicant, authority, budget, timing and evidence still need human confirmation.</p>
+      <p class="eyebrow">Project funding stacks</p>
+      <h1>Move each project one useful layer forward.</h1>
+      <p class="hero-lede">Projects are ordered by the next practical action. A small grant can fund planning, permission, a pilot or evidence; later grants, fundraising and contributions can fund delivery, assets and scale.</p>
+      <section class="queue-summary" id="grantMatchSummary" aria-live="polite"></section>
+      <aside class="note-panel stack-boundary">
+        <h2>Possible money is not secured money.</h2>
+        <p>Resident and member fundraising, sponsorship, visitor giving, philanthropy, earned income and cash or in-kind support from organisations that later confirm a role remain possible layers until evidenced.</p>
+      </aside>
       <div class="filter-bar" id="grantMatchFilters"></div>
+      <figure class="page-banner funding-banner">
+        <img src="assets/hero-funding-stacks.webp" alt="Luminous layers gathering over time into practical shared island infrastructure" width="1280" height="640">
+        <figcaption>One useful layer can make the next one credible.</figcaption>
+      </figure>
       <div class="data-grid" id="grantMatchGrid"></div>
+      <details class="stack-pathways" id="stackPathways">
+        <summary>Show every additional funding layer</summary>
+        <div class="data-grid" id="grantStackGrid"></div>
+      </details>
+      <section class="section compact stack-next-step" aria-labelledby="stackNextTitle">
+        <p class="eyebrow">No pathway yet?</p>
+        <h2 id="stackNextTitle">Keep the project visible while the route is researched.</h2>
+        <p class="hero-lede">A missing match means the pathway needs more work. It does not mean the project or a small contribution should be excluded.</p>
+        <div class="hero-actions"><a class="button secondary" href="ledger-projects.html">Return to projects</a><a class="button secondary" href="profile-kit.html">Prepare the evidence</a></div>
+      </section>
     </main>
     <footer class="site-footer"></footer>
     <button class="to-top" type="button" data-to-top aria-label="Back to top">Top</button>
-    <script src="assets/app.js?v=grant-matching-20260809"></script>
+    <script src="assets/app.js?v=workbench-20260809"></script>
   </body>
 </html>

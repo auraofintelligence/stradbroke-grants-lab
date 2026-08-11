@@ -3,62 +3,152 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Grant research and preparation workbench for North Stradbroke Island / Minjerribah projects.">
+    <meta name="description" content="A project-to-funding workbench for building practical momentum on North Stradbroke Island / Minjerribah.">
     <title>Stradbroke Grants Lab</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Nunito+Sans:wght@700;800;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="assets/styles.css?v=watchlist-20260619">
+    <link rel="stylesheet" href="assets/styles.css?v=workbench-20260809">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
-</head>
+    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
+  </head>
   <body data-page="home">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
     <main id="main">
-      <section class="hero">
+      <section class="hero hero-workbench" id="homeHero">
         <div class="hero-copy">
           <p class="eyebrow">North Stradbroke Island / Minjerribah</p>
-          <h1>Grant legwork before the clock starts.</h1>
-          <p class="hero-lede">A practical research hub for matching island businesses, community groups, artists and sample-world projects with grant programs, profile packs and reporting checklists.</p>
+          <h1>Fund Straddie projects, one layer at a time.</h1>
+          <p class="hero-lede">Match real island projects with grants, resident and member fundraising, sponsors, potential connections, visitor giving and in-kind support. Start small, build proof, then stack the next round.</p>
           <div class="hero-actions">
-            <a class="button primary" href="grant-watchlist.html">Open watchlist</a>
-            <a class="button secondary" href="profile-kit.html">Open profile kit</a>
+            <a class="button primary" href="ledger-projects.html">Explore projects</a>
+            <a class="button secondary" href="grant-watchlist.html">See funding pathways</a>
+            <a class="text-link" href="profile-kit.html">Prepare a project</a>
+          </div>
+          <div class="mobile-hero-stats" aria-label="Workbench overview">
+            <a href="ledger-projects.html"><strong id="mobileProjectCount">40</strong><span>projects</span></a>
+            <a href="grant-watchlist.html"><strong id="mobileFundingSourceCount">25</strong><span>funding leads</span></a>
+            <a href="entities.html"><strong id="mobileConnectionCount">149</strong><span>connections</span></a>
+            <a href="grant-matches.html"><strong id="mobileReviewedMatchCount">6</strong><span>pathways</span></a>
           </div>
         </div>
-        <div class="hero-panel" aria-label="Workflow summary">
-          <div class="workflow-step"><strong>1</strong><span>Find the right program</span></div>
-          <div class="workflow-step"><strong>2</strong><span>Match entity, project and evidence</span></div>
-          <div class="workflow-step"><strong>3</strong><span>Build a markdown profile pack</span></div>
-          <div class="workflow-step"><strong>4</strong><span>Draft, check, submit and report</span></div>
+        <figure class="hero-media">
+          <img src="assets/hero-straddie-momentum.webp" alt="A layered island landscape representing projects gathering support over time" width="960" height="720">
+          <figcaption>Many practical layers can move one project forward.</figcaption>
+        </figure>
+      </section>
+
+      <section class="workbench-dashboard" id="homeDashboard" aria-labelledby="homeDashboardTitle">
+        <div class="dashboard-stats" aria-live="polite">
+          <a class="stat-card" href="ledger-projects.html"><strong id="homeProjectCount">40</strong><span>Community Ledger projects</span></a>
+          <a class="stat-card" href="grant-watchlist.html"><strong id="homeFundingSourceCount">25</strong><span>funding sources and watches</span></a>
+          <a class="stat-card" href="entities.html"><strong id="homeConnectionCount">149</strong><span>potential local connections</span></a>
+          <a class="stat-card" href="grant-matches.html"><strong id="homeReviewedMatchCount">6</strong><span>reviewed project matches</span></a>
+        </div>
+        <div class="section-heading">
+          <p class="eyebrow">Live workbench</p>
+          <h2 id="homeDashboardTitle">Projects first. Funding serves the work.</h2>
+          <p>These counts describe the current public research surface. A listing is not proof of eligibility, agreement or authority.</p>
         </div>
       </section>
-      <section class="intro-band">
-        <div>
-          <strong>Plain-English purpose:</strong> do the research once, keep it tidy, then customise applications in one or two focused sessions instead of starting from scratch every time.
+
+      <section class="section" aria-labelledby="momentumTitle">
+        <div class="section-heading">
+          <p class="eyebrow">Momentum stacks</p>
+          <h2 id="momentumTitle">What can move next?</h2>
+          <p>Each reviewed pathway keeps small, useful amounts visible alongside later planning, program, equipment or capital layers.</p>
         </div>
+        <div class="data-grid" id="homeMomentumStacks" aria-live="polite">
+          <article class="data-card empty-state"><p class="tag">Loading reviewed pathways</p><h3>Building the project view</h3><p>Source-backed project matches will appear here with their next move and possible funding layers.</p></article>
+        </div>
+        <div class="section-actions"><a class="button secondary" href="grant-matches.html">Open every project stack</a></div>
       </section>
-      <section class="section split">
+
+      <section class="section funding-mix" aria-labelledby="fundingMixTitle">
+        <div class="section-heading">
+          <p class="eyebrow">More than one money doorway</p>
+          <h2 id="fundingMixTitle">Fund the next stage, not necessarily the whole cost.</h2>
+          <p>A small amount can unlock a quote, permission, pilot, event, evidence or piece of equipment that makes the next layer possible.</p>
+        </div>
+        <div class="funding-layer-grid" id="homeFundingWays">
+          <article><strong>Grants</strong><span>Local, state, national, First Nations and global programs.</span></article>
+          <article><strong>Residents and members</strong><span>Fundraisers, memberships, small recurring contributions and community campaigns.</span></article>
+          <article><strong>Local sponsors</strong><span>Cash, materials, venues, promotion, skills or practical services.</span></article>
+          <article><strong>Visitor giving</strong><span>Careful donation and philanthropic pathways for people who value the island.</span></article>
+          <article><strong>Potential connections</strong><span>Possible applicants, auspices, advisers, delivery organisations and supporters.</span></article>
+          <article><strong>Earned and in-kind support</strong><span>Tickets, sales, services, volunteer time, equipment and shared assets.</span></article>
+        </div>
+        <p class="boundary-note">Possible contributions remain unsecured until the right people confirm them.</p>
+      </section>
+
+      <section class="section" aria-labelledby="actNowTitle">
+        <div class="section-heading">
+          <p class="eyebrow">Action now</p>
+          <h2 id="actNowTitle">Real windows that need a decision.</h2>
+          <p>Only source-checked opportunities with a practical next action belong in this strip.</p>
+        </div>
+        <div class="action-strip" id="homeActNowGrants" aria-live="polite">
+          <p>Checking the nearest credible funding windows...</p>
+        </div>
+        <div class="section-actions"><a class="button secondary" href="grant-watchlist.html">Open the funding desk</a></div>
+      </section>
+
+      <section class="section split connection-insight" aria-labelledby="connectionsTitle">
         <div>
-          <p class="eyebrow">Tender companion</p>
-          <h2>When government is buying, use the Tenders Lab.</h2>
-          <p>The Grants Lab helps prepare for funding rounds. The Straddie Tenders Lab sits beside it for procurement: source watching, supplier readiness, capability statements, no-bid checks and contract-response habits.</p>
+          <p class="eyebrow">Potential connections</p>
+          <h2 id="connectionsTitle">Find the role before naming the organisation.</h2>
+          <p>The island research map can help identify possible applicants, auspices, cultural authorities, site controllers, advisers, suppliers, sponsors and delivery organisations. Every role still needs a separate source check and human conversation.</p>
           <div class="hero-actions">
-            <a class="button primary" href="https://auraofintelligence.github.io/straddie-tenders-lab/">Open Straddie Tenders Lab</a>
-            <a class="button secondary" href="workflow.html">Return to grant workflow</a>
+            <a class="button primary" href="entities.html">Explore potential connections</a>
+            <a class="button secondary" href="partner-pathways.html">Review role pathways</a>
           </div>
         </div>
-        <aside class="note-panel">
-          <h3>Simple distinction</h3>
-          <p>A grant usually funds a project. A tender usually asks a supplier to deliver something government wants to buy.</p>
+        <aside class="note-panel" id="homeConnectionInsight">
+          <h3>Research lead, not agreement</h3>
+          <p>Public visibility does not prove eligibility, consent, endorsement, cultural authority, site control or capacity.</p>
         </aside>
       </section>
+
+      <section class="section" aria-labelledby="howItWorksTitle">
+        <div class="section-heading">
+          <p class="eyebrow">How the workbench works</p>
+          <h2 id="howItWorksTitle">Build momentum without starting over.</h2>
+        </div>
+        <ol class="timeline" id="homeWorkflowSteps">
+          <li><strong>Choose the next project stage:</strong> define the smallest useful outcome, its cost and who benefits.</li>
+          <li><strong>Build the funding stack:</strong> keep every credible grant, fundraiser, sponsor and in-kind layer visible.</li>
+          <li><strong>Confirm people and authority:</strong> identify the legal applicant, permissions, roles and decision pathways.</li>
+          <li><strong>Prepare the evidence once:</strong> maintain profiles, quotes, budgets, risks, milestones and public-benefit proof.</li>
+          <li><strong>Apply, fundraise, deliver and report:</strong> record what was promised and collect evidence as the work happens.</li>
+        </ol>
+        <div class="section-actions"><a class="button primary" href="profile-kit.html">Get a project ready</a><a class="button secondary" href="workflow.html">See the full workflow</a></div>
+      </section>
+
+      <section class="section split source-boundary" aria-labelledby="sourcesTitle">
+        <div>
+          <p class="eyebrow">Source-led research</p>
+          <h2 id="sourcesTitle">What the source material contributes</h2>
+          <div id="sourceDocs" class="stack" aria-live="polite"></div>
+        </div>
+        <aside class="note-panel">
+          <h3>Public boundary</h3>
+          <p>This site can publish sourced opportunities, public project summaries and opt-in profile facts. Private client notes, budgets, eligibility doubts, financial records and cultural permissions stay private until deliberately approved for release.</p>
+        </aside>
+      </section>
+
+      <section class="section split tender-companion" aria-labelledby="tenderTitle">
+        <div>
+          <p class="eyebrow">Tender companion</p>
+          <h2 id="tenderTitle">When government is buying, use the Tenders Lab.</h2>
+          <p>The Grants Lab builds funding pathways for projects. The Straddie Tenders Lab handles procurement, supplier readiness and bid decisions.</p>
+          <div class="hero-actions"><a class="button secondary" href="https://auraofintelligence.github.io/straddie-tenders-lab/">Open Straddie Tenders Lab</a></div>
+        </div>
+        <aside class="note-panel"><h3>Keep the workflows distinct</h3><p>A grant usually supports a proposed project. A tender asks a supplier to deliver something a buyer has specified.</p></aside>
+      </section>
     </main>
-    <footer class="site-footer">
-      <p>Stradbroke Grants Lab. Built as a Strange But True service layer for joyful, responsible, practical grant work.</p>
-      <p><a href="https://auraofintelligence.github.io/strange-but-true/grants-ideas.html">Strange But True grants service</a> | <a href="https://auraofintelligence.github.io/straddie-tenders-lab/">Straddie Tenders Lab</a></p>
-    </footer>
+    <footer class="site-footer"></footer>
     <button class="to-top" type="button" data-to-top aria-label="Back to top">Top</button>
-    <script src="assets/app.js?v=watchlist-20260619"></script>
+    <script src="assets/app.js?v=workbench-20260809"></script>
   </body>
 </html>

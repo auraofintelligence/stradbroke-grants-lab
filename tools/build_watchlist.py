@@ -12,7 +12,7 @@ PRIORITY_BY_LEVEL = {
     "global": "Partnership",
 }
 
-LEVEL_ORDER = ["council", "queensland", "first-nations", "federal", "island", "global"]
+AVAILABILITY_ORDER = ["open", "rolling", "opening_soon", "future", "directory", "support", "closed"]
 
 
 def read_json(relative):
@@ -56,10 +56,13 @@ def main():
             "funding": grant["funding"],
             "deadline": grant["deadline"],
             "applicants": grant["applicants"],
+            "availability": grant["availability"],
+            "deadline_date": grant.get("deadline_date"),
         })
 
     watchlist.sort(key=lambda item: (
-        LEVEL_ORDER.index(item["level"]) if item["level"] in LEVEL_ORDER else 99,
+        AVAILABILITY_ORDER.index(item["availability"]) if item["availability"] in AVAILABILITY_ORDER else 99,
+        item["deadline_date"] or "9999-12-31",
         item["title"],
     ))
     (ROOT / "data/grant-watchlist.json").write_text(json.dumps(watchlist, indent=2) + "\n", encoding="utf-8")

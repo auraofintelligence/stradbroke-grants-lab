@@ -1,12 +1,12 @@
 # Stradbroke Grants Lab
 
-A public-facing grant research and preparation site for North Stradbroke Island / Minjerribah projects.
+A public-facing project-to-funding workbench for North Stradbroke Island / Minjerribah projects.
 
 The goal is simple:
 
 - map local businesses, non-profits, artists, clubs, health services, housing services, emergency services and community groups
 - map Strange But True sample-world projects that could become grant applications
-- keep a live watchlist of grant programs by level
+- keep a deadline-led funding desk and project funding stacks without excluding small amounts
 - publish grant-window notices for new, closing and future rounds
 - create small markdown profile files that AI agents can use to draft grant applications quickly
 - keep checks and balances for budgets, milestones, reporting and acquittals
@@ -29,11 +29,11 @@ http://localhost:4180/
 
 - `data/grants.json`: grant programs and search portals
 - `data/grant-watchlist.json`: generated shortlist from grant sources and window hints
-- `data/entities.json`: island businesses, groups, artists and other possible applicants
+- `data/entities.json`: public research leads for possible local connections; inclusion is not assent
 - `data/projects.json`: Strange But True and island project ideas
 - `data/ledger-projects.json`: generated copy of the public Community Ledger project cards
 - `data/grant-project-matches.json`: reviewed grant-to-project research matches
-- `data/partner-pathways.json`: role-based partner planning with explicit assent boundaries
+- `data/partner-pathways.json`: role-based potential-connection planning with explicit assent boundaries
 - `data/source-docs.json`: summaries of the supplied research documents
 - `data/grant-windows.json`: noticeboard-ready grant timing hints
 
@@ -55,6 +55,8 @@ Run:
 
 ```powershell
 python tools/sync_ledger_projects.py
+python tools/normalise_funding_stacks.py
+python tools/build_partner_pathways.py
 python tools/build_watchlist.py
 python tools/validate_data.py
 ```
@@ -65,7 +67,7 @@ The GitHub Action runs the same check.
 
 Use `profiles/templates/grant-watchlist-agent.md` as the agent brief for regular grant scans. It explains the source order, timing-window labels and the `source_key` rule that prevents one program's round status from leaking into unrelated grants.
 
-The weekly scan also refreshes the Community Ledger intake, records credible grant-to-project matches and prepares partner roles for human review. It must not contact anyone or imply eligibility, endorsement, authority, site control or assent.
+The weekly scan also refreshes the Community Ledger intake, keeps at least one truthful funding pathway for every project and prepares connection roles for human review. It must not contact anyone or imply eligibility, endorsement, authority, site control or assent.
 
 ## Entity Boundary
 
