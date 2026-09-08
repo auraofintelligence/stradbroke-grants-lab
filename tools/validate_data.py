@@ -7,10 +7,11 @@ REQUIRED = {
     "data/grants.json": ["name", "level", "status", "best_for", "url", "last_checked", "source_key", "opportunity_type", "funding", "deadline", "applicants", "availability"],
     "data/entities.json": ["name", "category", "location", "status", "grant_fit", "place_area"],
     "data/projects.json": ["title", "domain", "summary", "grant_angles"],
+    "data/project-atlas-scope.json": ["atlas_name", "project_key", "lane", "grant_angles", "selection_reason"],
     "data/source-docs.json": ["title", "type", "summary"],
     "data/grant-windows.json": ["source_key", "title", "window_type", "notify", "tip", "action", "source"],
     "data/grant-watchlist.json": ["title", "priority", "summary", "level", "level_label", "window_type", "action", "status", "source_key", "opportunity_type", "funding", "deadline", "applicants", "availability"],
-    "data/ledger-projects.json": ["project_key", "title", "lane", "summary", "public_url", "source_page"],
+    "data/ledger-projects.json": ["project_key", "title", "lane", "summary", "public_url", "source_page", "source_type"],
 }
 
 OPTIONAL_LISTS = {
@@ -99,10 +100,33 @@ def main():
     if watchlist_keys != grant_keys:
         fail("data/grant-watchlist.json source_key values must match data/grants.json; rebuild the watchlist")
     ledger_projects = json.loads((ROOT / "data/ledger-projects.json").read_text(encoding="utf-8"))
+    atlas_scope = json.loads((ROOT / "data/project-atlas-scope.json").read_text(encoding="utf-8"))
+    atlas_names = [item["atlas_name"] for item in atlas_scope]
+    duplicate_atlas_names = sorted({name for name in atlas_names if atlas_names.count(name) > 1})
+    if duplicate_atlas_names:
+        fail(f"data/project-atlas-scope.json has duplicate atlas names: {', '.join(duplicate_atlas_names)}")
+    scoped_project_keys = [item["project_key"] for item in atlas_scope]
+    duplicate_scoped_project_keys = sorted({key for key in scoped_project_keys if scoped_project_keys.count(key) > 1})
+    if duplicate_scoped_project_keys:
+        fail(f"data/project-atlas-scope.json has duplicate project keys: {', '.join(duplicate_scoped_project_keys)}")
+    for item in atlas_scope:
+        if not isinstance(item["grant_angles"], list) or not item["grant_angles"]:
+            fail(f"Project Atlas scope grant_angles must be a non-empty list: {item['atlas_name']}")
     project_keys = [item["project_key"] for item in ledger_projects]
     duplicate_project_keys = sorted({key for key in project_keys if project_keys.count(key) > 1})
     if duplicate_project_keys:
         fail(f"data/ledger-projects.json has duplicate project keys: {', '.join(duplicate_project_keys)}")
+    allowed_project_sources = {"community_ledger", "project_atlas_2026"}
+    for item in ledger_projects:
+        if item["source_type"] not in allowed_project_sources:
+            fail(f"ledger project uses unsupported source_type: {item['source_type']}")
+        if item["source_type"] == "project_atlas_2026":
+            if not item.get("first_built", "").startswith("2026-"):
+                fail(f"Project Atlas ledger item is not dated 2026: {item['project_key']}")
+            if not item.get("atlas_name"):
+                fail(f"Project Atlas ledger item is missing atlas_name: {item['project_key']}")
+            if not isinstance(item.get("grant_angles"), list) or not item["grant_angles"]:
+                fail(f"Project Atlas ledger item needs grant_angles: {item['project_key']}")
     project_key_set = set(project_keys)
     matches = json.loads((ROOT / "data/grant-project-matches.json").read_text(encoding="utf-8"))
     allowed_fit_statuses = {"pursue", "prepare", "clarify", "watch", "do_not_pursue"}

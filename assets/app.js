@@ -302,7 +302,7 @@ async function renderHome() {
   const stats = document.querySelector("#homeStats");
   if (stats) {
     stats.innerHTML = [
-      [ledgerProjects.length, "Community Ledger projects", "ledger-projects.html"],
+      [ledgerProjects.length, "tracked funding projects", "ledger-projects.html"],
       [actualFundingSources || grants.length, "funding opportunities", "grant-watchlist.html"],
       [entities.length, "potential local connections", "entities.html"],
       [`${projectKeysWithPaths.size}/${ledgerProjects.length}`, "projects with a mapped path", "grant-matches.html"],
@@ -508,14 +508,17 @@ async function renderLedgerProjects() {
   });
   const priorityWeight = { act_now: 0, prepare_next: 1, build_pathway: 2, watch: 3 };
   matchesByProject.forEach((items) => items.sort((a, b) => (priorityWeight[a.action_priority] ?? 9) - (priorityWeight[b.action_priority] ?? 9) || (a.action_by || "9999").localeCompare(b.action_by || "9999")));
-  if (summary) summary.innerHTML = `<div><strong>${data.length}</strong><span>ledger projects</span></div><div><strong>${matchesByProject.size}</strong><span>mapped funding pathways</span></div><div><strong>${matches.length}</strong><span>funding layers retained</span></div>`;
+  const atlasProjectCount = data.filter((item) => item.source_type === "project_atlas_2026").length;
+  const ledgerProjectCount = data.length - atlasProjectCount;
+  if (summary) summary.innerHTML = `<div><strong>${data.length}</strong><span>tracked projects</span></div><div><strong>${ledgerProjectCount} + ${atlasProjectCount}</strong><span>Ledger + Atlas 2026</span></div><div><strong>${matchesByProject.size}</strong><span>mapped funding pathways</span></div><div><strong>${matches.length}</strong><span>funding layers retained</span></div>`;
   const draw = () => {
     const query = state.query.toLowerCase();
     const items = data.filter((item) => {
       const hasPath = matchesByProject.has(item.project_key);
       const pathwayText = (matchesByProject.get(item.project_key) || []).map((match) => `${match.next_move || ""} ${match.qualifying_reframe || ""}`).join(" ");
       const coverageMatch = state.coverage === "All" || (state.coverage === "Mapped" && hasPath) || (state.coverage === "Needs pathway" && !hasPath);
-      const searchMatch = !query || `${item.title} ${item.lane} ${item.summary} ${pathwayText}`.toLowerCase().includes(query);
+      const grantAngles = Array.isArray(item.grant_angles) ? item.grant_angles.join(" ") : "";
+      const searchMatch = !query || `${item.title} ${item.lane} ${item.summary} ${grantAngles} ${item.selection_reason || ""} ${pathwayText}`.toLowerCase().includes(query);
       return coverageMatch && searchMatch;
     });
     grid.innerHTML = items.map((item) => {
@@ -527,7 +530,11 @@ async function renderLedgerProjects() {
         item.repository_url ? { label: "Open repository", url: item.repository_url } : null,
         { label: "Open funding stack", url: `grant-matches.html#project-${item.project_key}` }
       ];
+      const sourceLabel = item.source_type === "project_atlas_2026"
+        ? `Project Atlas 2026${item.first_built ? `, first built ${formatActionDate(item.first_built)}` : ""}`
+        : "Community Ledger";
       return card(item.title, item.lane, item.summary, grantFacts(grant, [
+        ["Project source", sourceLabel],
         ["Pathway coverage", layers.length ? `${layers.length} funding layer${layers.length === 1 ? "" : "s"}` : "Needs a source-backed pathway"],
         ["Next move", primary?.next_move || "Research the strongest grant, tender, finance or fundraising pathway."],
         ["Qualifying frame", primary?.qualifying_reframe || "Keep the public-benefit outcome clear without inventing eligibility."],
@@ -626,9 +633,9 @@ async function renderGrantActionQueue() {
   if (summary) {
     summary.innerHTML = `
       <div><strong>${actNowCount}</strong><span>projects need action now</span></div>
-      <div><strong>${matchesByProject.size}/${projects.length}</strong><span>ledger projects have a mapped pathway</span></div>
+      <div><strong>${matchesByProject.size}/${projects.length}</strong><span>tracked projects have a mapped pathway</span></div>
       <div><strong>${matches.length}</strong><span>small and large funding layers retained</span></div>
-      <p>${pathwayGapCount ? `${pathwayGapCount} project pathways still need a source-backed route added.` : "Every ledger project has at least one funding pathway. Small grants stay in the stack."}</p>`;
+      <p>${pathwayGapCount ? `${pathwayGapCount} project pathways still need a source-backed route added.` : "Every tracked project has at least one funding pathway. Small grants stay in the stack."}</p>`;
   }
 
   const renderProjectStack = (item) => {

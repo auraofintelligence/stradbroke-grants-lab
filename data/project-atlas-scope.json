@@ -1,0 +1,138 @@
+[
+  {
+    "atlas_name": "songline_interface",
+    "project_key": "songline-interface",
+    "lane": "Cultural and community data interfaces",
+    "grant_angles": ["First Nations-led digital innovation", "cultural data governance", "community co-design", "digital inclusion"],
+    "selection_reason": "A 2026 cultural-data interface proposal that may support a locally authorised, First Nations-led pathway; it is not itself evidence of cultural authority."
+  },
+  {
+    "atlas_name": "PLFC_2026_Data",
+    "project_key": "plfc-2026-data",
+    "lane": "Point Lookout community capability",
+    "grant_angles": ["club governance", "community data", "volunteer capability", "digital inclusion"],
+    "selection_reason": "A 2026 Point Lookout Fishing Club evidence and discussion tool that can support locally controlled planning and grant readiness."
+  },
+  {
+    "atlas_name": "PLFC_Live",
+    "project_key": "plfc-live",
+    "lane": "Point Lookout media and participation",
+    "grant_angles": ["community equipment", "digital participation", "live streaming", "volunteer skills"],
+    "selection_reason": "A 2026 Point Lookout Fishing Club proposal for portable live-streaming and digital meeting equipment with a direct local delivery context."
+  },
+  {
+    "atlas_name": "plfc-community-platform",
+    "project_key": "plfc-community-platform",
+    "lane": "Point Lookout community capability",
+    "grant_angles": ["digital capability", "club participation", "volunteer coordination", "community communications"],
+    "selection_reason": "A 2026 Point Lookout Fishing Club platform prototype for public, member, committee and field-operation needs."
+  },
+  {
+    "atlas_name": "straddie-space-station-simulator",
+    "project_key": "straddie-space-station-simulator",
+    "lane": "STEM and resilience simulation",
+    "grant_angles": ["STEM engagement", "design education", "habitat simulation", "youth learning"],
+    "selection_reason": "A 2026 Dunwich simulator that can be reframed as a finite, hands-on STEM and resilient-design learning project."
+  },
+  {
+    "atlas_name": "plfc-ai-agent-md-forms",
+    "project_key": "plfc-ai-agent-md-forms",
+    "lane": "Point Lookout digital skills",
+    "grant_angles": ["AI literacy", "digital skills", "volunteer capability", "community documentation"],
+    "selection_reason": "A 2026 Point Lookout Fishing Club tool that can support practical, human-reviewed digital and AI literacy activities."
+  },
+  {
+    "atlas_name": "explorer-music-video-lab",
+    "project_key": "explorer-music-video-lab",
+    "lane": "Local music and screen production",
+    "grant_angles": ["arts development", "music production", "youth media", "creative skills"],
+    "selection_reason": "A 2026 production-planning tool connected to the Minjerribah media network and useful for defined local arts workshops or productions."
+  },
+  {
+    "atlas_name": "straddie-headline-open-mic",
+    "project_key": "straddie-headline-open-mic",
+    "lane": "Local performance and public storytelling",
+    "grant_angles": ["community events", "live performance", "local storytelling", "media participation"],
+    "selection_reason": "A 2026 Straddie open-mic and public-story prompt that can become a finite, locally delivered event series."
+  },
+  {
+    "atlas_name": "straddie-digital-twin-explainer",
+    "project_key": "straddie-digital-twin-explainer",
+    "lane": "Community digital-twin literacy",
+    "grant_angles": ["STEM engagement", "digital literacy", "community education", "public data"],
+    "selection_reason": "A 2026 plain-English Minjerribah digital-twin explainer with a clear community learning and engagement pathway."
+  },
+  {
+    "atlas_name": "minjerribah-living-twin",
+    "project_key": "minjerribah-living-twin",
+    "lane": "Community-controlled digital infrastructure",
+    "grant_angles": ["First Nations-led innovation", "public data", "digital infrastructure", "community planning"],
+    "selection_reason": "A 2026 public-record digital-twin prototype that is locally relevant but requires Traditional Owner review and authority before any cultural framing or application."
+  },
+  {
+    "atlas_name": "second-island",
+    "project_key": "second-island",
+    "lane": "Island instruments and ground truth",
+    "grant_angles": ["STEM engagement", "citizen science", "public data", "environmental monitoring"],
+    "selection_reason": "A distinct 2026 Minjerribah digital-twin build focused on instruments, real data and ground truth rather than invented data."
+  },
+  {
+    "atlas_name": "moreton-bay-autonomous-mobility",
+    "project_key": "moreton-bay-autonomous-mobility",
+    "lane": "Island access and mobility",
+    "grant_angles": ["transport access", "digital infrastructure", "regional innovation", "community mobility"],
+    "selection_reason": "A 2026 public-interest proposal for mobility across the Moreton Bay island and mainland transport network."
+  },
+  {
+    "atlas_name": "Amity-Cinema-Circle",
+    "project_key": "amity-cinema-circle",
+    "lane": "Amity screen culture and shared meals",
+    "grant_angles": ["screen culture", "community events", "social connection", "local participation"],
+    "selection_reason": "A public 2026 Amity cinema-night demonstration with a direct Minjerribah community context; private household data and the private service path remain outside the Grants Lab.",
+    "summary_override": "A public browser-local demonstration for outdoor cinema nights, friend circles, shared meals and community participation in Amity on Minjerribah."
+  },
+  {
+    "atlas_name": "sovereign-music-australia",
+    "project_key": "sovereign-music-australia",
+    "lane": "Music ecosystem and local artist pathways",
+    "grant_angles": ["music development", "artist rights", "creative industries", "local performance"],
+    "selection_reason": "A 2026 Australian music ecosystem connected to the local media and music-video tools; funding searches must target a defined Minjerribah or regional pilot rather than the whole national vision.",
+    "summary_override": "A public music ecosystem proposal covering artist pathways, rights, deals, stages and shared revenue, with potential for a defined Minjerribah pilot."
+  },
+  {
+    "atlas_name": "Oceania-healthy-de-slop-co-ops",
+    "project_key": "oceania-healthy-de-slop-co-ops",
+    "lane": "Community wellbeing co-operatives",
+    "grant_angles": ["co-operative development", "community wellbeing", "local digital infrastructure", "regional access"],
+    "selection_reason": "A 2026 regional co-operative concept directly connected to Straddie Vitality Network Builders; each local version requires its own governance, evidence and permissions.",
+    "summary_override": "A regional public project exploring community-shaped co-operative pathways for affordable wellbeing spaces, local compute and personal data stewardship across Oceania."
+  },
+  {
+    "atlas_name": "ready-set-co-op-cultural-intelligence-node",
+    "project_key": "ready-set-co-op-cultural-intelligence-node",
+    "lane": "Dunwich cultural and digital capability",
+    "grant_angles": ["First Nations-led innovation", "digital infrastructure", "skills and jobs", "community-controlled data"],
+    "selection_reason": "A 2026 Dunwich cultural-compute proposal with direct local skills and infrastructure relevance; authority and control must be confirmed before application."
+  },
+  {
+    "atlas_name": "straddie-twins",
+    "project_key": "straddie-twins",
+    "lane": "Community digital-twin literacy",
+    "grant_angles": ["STEM engagement", "public data literacy", "community education", "transparent modelling"],
+    "selection_reason": "A 2026 public companion explaining Minjerribah's two digital twins and their evidence boundaries."
+  },
+  {
+    "atlas_name": "straddie-twin-prototype",
+    "project_key": "straddie-twin-prototype",
+    "lane": "Island evidence and transport simulation",
+    "grant_angles": ["STEM engagement", "transport planning", "public data", "community participation"],
+    "selection_reason": "A working 2026 Minjerribah prototype for inspecting satellite and panorama evidence and testing a transparent transport exercise."
+  },
+  {
+    "atlas_name": "multi-site-Minjerribah-network",
+    "project_key": "minjerribah-site-and-service-ideas",
+    "lane": "Island sites, services and community wealth",
+    "grant_angles": ["community planning", "housing and ageing", "sport and screen infrastructure", "regional development"],
+    "selection_reason": "A 2026 public workbench for 7 Mile and other Minjerribah site and service ideas, requiring project-by-project applicant, site and authority checks."
+  }
+]

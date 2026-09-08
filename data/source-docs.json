@@ -28,5 +28,10 @@
     "title": "Straddie Noticeboard Network",
     "type": "Noticeboard pipeline",
     "summary": "Adds the public_noticeboard.md idea: simple markdown notices with frontmatter can become public-safe feeds for different screens, provided consent, source checks, expiry dates, cultural care and privacy review are handled first."
+  },
+  {
+    "title": "Project Atlas",
+    "type": "2026 project source",
+    "summary": "Adds selected public projects first built in 2026 when they have a direct Minjerribah, Point Lookout, Amity, Dunwich, Moreton Bay island-access or concrete local delivery connection. The Atlas source date remains visible and selection does not imply applicant readiness or cultural authority."
   }
 ]

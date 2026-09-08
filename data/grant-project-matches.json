@@ -2441,5 +2441,632 @@
       "Flag unsupported applicant, cultural, visitor, venue, rights, co-investment or event-history claims"
     ],
     "readiness_check": "Confirm applicant, stream eligibility, event history, April 2027-June 2028 date, cultural authority and ICIP, venue, rights, insurance, tourism outcomes, budget and co-investment."
+  },
+  {
+    "match_key": "first-nations-innovation-acceleration-qld-2026--songline-interface",
+    "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+    "project_key": "songline-interface",
+    "fit_status": "clarify",
+    "fit_reason": "A culturally governed interface could fit only if an established First Nations-owned business chooses, owns and leads a defined digital product or service. The existing proposal is not evidence of that authority.",
+    "eligibility_status": "TO BE CONFIRMED: First Nations ownership, cultural authority, established Queensland trading business, product scope and provider assessment",
+    "evidence_needed": [
+      "authorised First Nations project owner and decision rights",
+      "defined users, problem and locally chosen cultural-data boundaries",
+      "eligible business and delivery capability",
+      "budget, milestones, privacy and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2027-02-04",
+    "stack_role": "First Nations-led digital product pathway",
+    "funding_ask": "Advisory services and possible grants up to $100,000",
+    "cofunding_plan": "A genuinely authorised project could combine this pathway with member or resident fundraising, local sponsorship, philanthropy, earned income and verified in-kind cultural, design or technical support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Treat the current interface as an invitation for a First Nations-controlled team to define its own product, data rules and outcomes, not as a pre-authorised cultural system.",
+    "next_move": "Ask no one to endorse the current design; first identify whether an eligible First Nations-owned project lead wants to define and control a suitable version.",
+    "human_roles": [
+      "First Nations project and cultural authority",
+      "Eligible business decision-maker",
+      "Community, privacy, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a blank co-design and data-governance brief",
+      "Map program eligibility and evidence without drafting authority claims",
+      "Flag any language that presumes cultural permission or ownership"
+    ],
+    "readiness_check": "Confirm First Nations ownership, cultural authority, applicant status, product definition, community benefit, privacy, budget, milestones and provider fit."
+  },
+  {
+    "match_key": "redland-community-support--plfc-2026-data",
+    "grant_source_key": "redland-community-support",
+    "project_key": "plfc-2026-data",
+    "fit_status": "clarify",
+    "fit_reason": "A member-approved club data and planning project may support participation, governance and volunteer capability, but a static discussion dashboard alone is not a complete funded program.",
+    "eligibility_status": "TO BE CONFIRMED: eligible club applicant, committee authority, Redland benefit, privacy boundaries, insurance and project delivery scope",
+    "evidence_needed": [
+      "committee-approved project purpose",
+      "member and volunteer needs",
+      "eligible applicant and insurance",
+      "delivery plan, budget and measurable capability outcomes"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "club governance and digital-capability project",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This capability layer could sit beside member fundraising, local sponsor support, eligible club cash, philanthropy, earned activity income where permitted and verified in-kind volunteer or technical support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Turn the dated dashboard into a finite member-led governance, records and volunteer-capability project with clear outputs.",
+    "next_move": "Confirm the committee's priorities and choose one deliverable program before the Community Support round opens on 12 October.",
+    "human_roles": [
+      "Club committee decision-maker",
+      "Member and volunteer representatives",
+      "Privacy, governance and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a member-needs and outcomes worksheet",
+      "Separate public data from member-only information",
+      "Draft a budget and evidence checklist for committee review"
+    ],
+    "readiness_check": "Confirm committee authority, applicant eligibility, member need, privacy, insurance, delivery resources, quotes, budget and reporting capacity."
+  },
+  {
+    "match_key": "gcbf-next-round-watch--plfc-live",
+    "grant_source_key": "gcbf-next-round-watch",
+    "project_key": "plfc-live",
+    "fit_status": "clarify",
+    "fit_reason": "Portable streaming and meeting equipment may fit GCBF if an eligible club or sponsor owns the equipment and can show broad community benefit beyond routine club administration.",
+    "eligibility_status": "TO BE CONFIRMED: eligible legal applicant or sponsor, asset ownership, equipment eligibility, quotes and public-benefit use",
+    "evidence_needed": [
+      "committee authority and eligible applicant",
+      "equipment list and current quotes",
+      "asset register, storage and maintenance plan",
+      "community access, training and usage outcomes"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-28",
+    "stack_role": "portable community media equipment",
+    "funding_ask": "Up to $35,000",
+    "cofunding_plan": "This equipment layer could combine with member fundraising, local sponsorship, eligible applicant cash, philanthropy and verified in-kind training, venue or technical support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Specify a portable, shared community-media kit with training and public-benefit uses rather than a general technology wish list.",
+    "next_move": "Confirm applicant and asset ownership, then cost only the eligible equipment, training and setup needed for a working shared kit before 28 September.",
+    "human_roles": [
+      "Club committee and legal applicant",
+      "Asset and equipment custodian",
+      "Community-media, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the equipment, quote and asset-register worksheet",
+      "Map community uses and measurable outcomes",
+      "Flag duplicated, private-use or unsupported equipment costs"
+    ],
+    "readiness_check": "Confirm applicant, sponsor if needed, asset owner, eligible equipment, quotes, storage, insurance, maintenance, access and acquittal capacity."
+  },
+  {
+    "match_key": "redland-community-support--plfc-community-platform",
+    "grant_source_key": "redland-community-support",
+    "project_key": "plfc-community-platform",
+    "fit_status": "clarify",
+    "fit_reason": "A member-approved platform can support participation and volunteer coordination if it is a finite community project with accessible outputs, not routine website maintenance.",
+    "eligibility_status": "TO BE CONFIRMED: eligible club applicant, committee authority, user need, privacy, accessibility, insurance and delivery capacity",
+    "evidence_needed": [
+      "committee-approved scope and user groups",
+      "public, member and committee information boundaries",
+      "accessibility and privacy approach",
+      "delivery plan, budget and measurable participation outcomes"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "community participation platform pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This pilot could combine with member fundraising, local sponsor cash or in-kind support, eligible club cash, philanthropy, earned income where permitted and verified volunteer time. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Define one accessible participation and volunteer-coordination pilot with clear users, governance and handover.",
+    "next_move": "Have the committee choose the first users and three essential functions before the round opens on 12 October.",
+    "human_roles": [
+      "Club committee decision-maker",
+      "Member, volunteer and accessibility representatives",
+      "Privacy, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare user stories and a minimum-scope brief",
+      "Create privacy, accessibility and handover checklists",
+      "Draft a costed delivery plan for committee review"
+    ],
+    "readiness_check": "Confirm applicant, committee authority, user need, data boundaries, accessibility, insurance, delivery support, budget and maintenance ownership."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--straddie-space-station-simulator",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-space-station-simulator",
+    "fit_status": "clarify",
+    "fit_reason": "The simulator can fit as an evidence-grounded, hands-on STEM program about habitat design, energy, water and resilience; it does not fit as speculative property or general software development.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland applicant, qualified facilitators, participant group, safety, site and educational evidence",
+    "evidence_needed": [
+      "defined hands-on activities and learning outcomes",
+      "qualified STEM facilitators",
+      "participant safety and safeguarding",
+      "applicant, site, budget and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "hands-on resilient-habitat STEM pilot",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This program could combine with participant or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned workshop income where permitted and verified in-kind venue or equipment support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Build a finite learning program where participants test measurable habitat, water, energy and emergency-design choices.",
+    "next_move": "Choose the participant group, facilitator and four hands-on activities, then cost the program before 29 September.",
+    "human_roles": [
+      "Eligible applicant decision-maker",
+      "STEM education and safeguarding lead",
+      "Site, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Draft the learning sequence and evaluation plan",
+      "Prepare the evidence and budget worksheets",
+      "Separate tested science from speculative worldbuilding"
+    ],
+    "readiness_check": "Confirm applicant, facilitators, participants, site, safety, hands-on method, evidence base, budget, quotes and evaluation."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--plfc-ai-agent-md-forms",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "plfc-ai-agent-md-forms",
+    "fit_status": "clarify",
+    "fit_reason": "The forms can support a hands-on AI and data-literacy activity if people learn, test and evaluate the workflow; maintaining club forms alone is not sufficient STEM engagement.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant, qualified facilitator, hands-on STEM content, privacy, participant safety and evaluation",
+    "evidence_needed": [
+      "defined digital and AI literacy learning outcomes",
+      "qualified facilitator and session plan",
+      "privacy-safe sample information",
+      "participant, budget and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "community AI and data-literacy workshops",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This workshop layer could combine with member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned workshop income where permitted and verified in-kind devices, venue or mentoring. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Deliver practical sessions where participants create, inspect and improve human-readable AI handoffs using non-sensitive examples.",
+    "next_move": "Define the learners, facilitator, exercises and privacy boundary, then test one workshop outline before 29 September.",
+    "human_roles": [
+      "Club and eligible applicant decision-maker",
+      "Digital-literacy facilitator",
+      "Privacy, safeguarding and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a beginner workshop plan and safe sample records",
+      "Draft learning and evaluation measures",
+      "Flag personal data, unsupported AI claims and accessibility gaps"
+    ],
+    "readiness_check": "Confirm applicant, facilitator, learner need, hands-on STEM content, privacy, accessibility, safeguarding, budget and evaluation."
+  },
+  {
+    "match_key": "redland-radf--explorer-music-video-lab",
+    "grant_source_key": "redland-radf",
+    "project_key": "explorer-music-video-lab",
+    "fit_status": "clarify",
+    "fit_reason": "An artist-led workshop or development process using the planning lab may fit RADF, but routine software work and screen production costs must remain outside the arts-funded scope.",
+    "eligibility_status": "TO BE CONFIRMED: eligible artist or auspice, Redland benefit, artistic merit, participants, rights, cultural permissions and budget",
+    "evidence_needed": [
+      "artist-led local program and participants",
+      "artistic development outcomes",
+      "music, image and contributor rights",
+      "applicant, auspice, budget and cultural permissions"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-28",
+    "stack_role": "local artist development workshops",
+    "funding_ask": "Up to $10,000",
+    "cofunding_plan": "This arts layer could combine with participant or member fundraising, local sponsor cash or in-kind support, philanthropy, eligible applicant cash, earned workshop income where permitted and later screen-production funding. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Use the tool inside a finite artist-led development program with local participants and clear creative outputs.",
+    "next_move": "Confirm the artist lead, participants, workshop sequence, rights and non-screen eligible costs before 28 September.",
+    "human_roles": [
+      "Eligible artist or auspice decision-maker",
+      "Music and workshop lead",
+      "Rights, cultural, accessibility and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the workshop and artistic-development outline",
+      "Separate arts development from ineligible screen-production costs",
+      "Build the rights, budget and evidence checklists"
+    ],
+    "readiness_check": "Confirm applicant, artist lead, participants, Redland benefit, rights, cultural permissions, eligible arts scope, budget and reporting."
+  },
+  {
+    "match_key": "redland-events-grant-2026-27--straddie-headline-open-mic",
+    "grant_source_key": "redland-events-grant-2026-27",
+    "project_key": "straddie-headline-open-mic",
+    "fit_status": "clarify",
+    "fit_reason": "A defined public open-mic series may fit as a Redland event if it has a real venue, audience, program and delivery team; an online prompt board alone does not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, Redland venue, public liability insurance, event program, rights and safety",
+    "evidence_needed": [
+      "defined event dates, venue and audience",
+      "performer and editorial arrangements",
+      "insurance, safety and accessibility",
+      "applicant, budget, promotion and evaluation"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-20",
+    "stack_role": "local performance and participation series",
+    "funding_ask": "Up to $20,000 per year for up to three years",
+    "cofunding_plan": "This event layer could combine with ticket or earned income where eligible, resident and member fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind venue or production support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Define a welcoming public performance series with human editorial control, local participation and a practical event plan.",
+    "next_move": "Confirm applicant, venue, dates, program lead and insurance before deciding whether the 20 September round is realistic.",
+    "human_roles": [
+      "Eligible event applicant",
+      "Venue and program lead",
+      "Performer, editorial, safety and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the event brief, run sheet and budget",
+      "Draft performer, rights and moderation checklists",
+      "Flag missing venue, insurance, accessibility or applicant evidence"
+    ],
+    "readiness_check": "Confirm applicant, venue, dates, insurance, performers, rights, moderation, safety, accessibility, budget and audience plan."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--straddie-digital-twin-explainer",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-digital-twin-explainer",
+    "fit_status": "clarify",
+    "fit_reason": "The explainer can support hands-on public learning about maps, sensors, models and uncertainty if delivered as an interactive program rather than routine website publication.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant, qualified facilitators, participants, cultural permissions, public-data rights and evaluation",
+    "evidence_needed": [
+      "interactive activities and learning outcomes",
+      "facilitator capability",
+      "public-data and cultural boundaries",
+      "participant, budget, safety and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "community digital-twin literacy program",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This learning layer could combine with resident or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned workshop income where permitted and verified in-kind devices, venue or technical mentoring. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Run a finite series where people inspect real public data, test a simple model and label what is observed, modelled, proposed or unknown.",
+    "next_move": "Choose the learners, facilitator and public datasets, then prepare a hands-on session and evaluation plan before 29 September.",
+    "human_roles": [
+      "Eligible applicant decision-maker",
+      "STEM and community-learning lead",
+      "Cultural, data-rights, accessibility and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the activity and uncertainty-labelling guide",
+      "Build the public-data source register and evaluation sheet",
+      "Flag invented data, cultural assumptions and unsupported technical claims"
+    ],
+    "readiness_check": "Confirm applicant, facilitators, participants, public-data rights, cultural boundaries, activities, safeguarding, budget and evaluation."
+  },
+  {
+    "match_key": "first-nations-innovation-acceleration-qld-2026--minjerribah-living-twin",
+    "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+    "project_key": "minjerribah-living-twin",
+    "fit_status": "clarify",
+    "fit_reason": "A community-controlled digital-twin service may fit only if an established First Nations-owned business chooses and governs the project. The current public prototype has not been reviewed by Traditional Owners.",
+    "eligibility_status": "TO BE CONFIRMED: First Nations ownership and authority, established business, community purpose, data governance, product scope and delivery capability",
+    "evidence_needed": [
+      "First Nations-owned project and decision rights",
+      "community-chosen public and restricted data rules",
+      "defined product, users and benefits",
+      "business, technical, privacy, budget and milestone evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2027-02-04",
+    "stack_role": "First Nations-controlled digital infrastructure pathway",
+    "funding_ask": "Advisory services and possible grants up to $100,000",
+    "cofunding_plan": "An authorised project could combine this pathway with member or resident fundraising, local sponsorship, philanthropy, earned service income and verified in-kind data, technical or site support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Offer the prototype as optional research material for a First Nations-controlled team to accept, change or reject while defining its own service and data rules.",
+    "next_move": "Do not present the prototype as community-controlled yet; first confirm whether an eligible First Nations-owned lead wants to govern a defined digital-twin service.",
+    "human_roles": [
+      "First Nations project and data authority",
+      "Eligible business decision-maker",
+      "Community, cultural, privacy, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a blank governance and data-classification framework",
+      "Map applicant and product evidence for human review",
+      "Flag any implied Traditional Owner approval or ownership"
+    ],
+    "readiness_check": "Confirm First Nations ownership, authority, applicant status, community-defined purpose, data rights, privacy, product scope, capability, budget and milestones."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--second-island",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "second-island",
+    "fit_status": "clarify",
+    "fit_reason": "The ground-truth focus can fit an interactive citizen-science program using real observations and instruments; general platform development and cultural mapping without authority do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant, scientific facilitator, lawful data collection, participants, site access, safety and cultural permissions",
+    "evidence_needed": [
+      "defined citizen-science question and method",
+      "qualified facilitator and instruments",
+      "site, data and cultural permissions",
+      "participant, safety, budget and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "island ground-truth citizen-science pilot",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This pilot could combine with resident or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned workshop income where permitted and verified in-kind instruments, venue or scientific mentoring. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Select one measurable public question and let participants collect, inspect and explain real observations without creating cultural or environmental claims beyond the evidence.",
+    "next_move": "Choose one research question, facilitator, instrument set and permitted site before 29 September.",
+    "human_roles": [
+      "Eligible applicant decision-maker",
+      "Scientific and citizen-science lead",
+      "Site, cultural, data, safety and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the method, field sheet and data dictionary",
+      "Draft the learning and evaluation plan",
+      "Flag invented measurements, missing permissions and unsupported conclusions"
+    ],
+    "readiness_check": "Confirm applicant, research question, facilitator, instruments, lawful site and data access, cultural permissions, safety, budget and evaluation."
+  },
+  {
+    "match_key": "qld-local-digital-priority-projects--moreton-bay-autonomous-mobility",
+    "grant_source_key": "qld-local-digital-priority-projects",
+    "project_key": "moreton-bay-autonomous-mobility",
+    "fit_status": "watch",
+    "fit_reason": "Connected mobility, access data and regional digital capability align with the former program themes, but that round is closed and no successor eligibility is confirmed.",
+    "eligibility_status": "TO BE CONFIRMED: future round, eligible lead applicant, transport authority, operators, safety case, infrastructure scope, co-funding and island access evidence",
+    "evidence_needed": [
+      "defined access problem and beneficiaries",
+      "authorised transport and infrastructure roles",
+      "safety, regulatory and technical pathway",
+      "future applicant, co-funding, budget and outcomes evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "future regional mobility and digital-infrastructure pathway",
+    "funding_ask": "Former Streams 2-3 were $100,000-$1 million; any future amount is TO BE CONFIRMED",
+    "cofunding_plan": "A future pilot could combine later grants with council or operator funding where authorised, resident and member research support, local sponsorship, philanthropy, earned service income and verified in-kind technical or site contributions. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Start with one real island access problem, a small evidence and simulation phase, and a human-led safety and regulatory pathway rather than promising autonomous transport deployment.",
+    "next_move": "Prepare a source-backed access problem, route, user group and governance map while watching for a successor digital-infrastructure or mobility program.",
+    "human_roles": [
+      "Transport and public-infrastructure authority",
+      "Eligible future applicant",
+      "Community access, safety, regulatory, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Maintain the future-program and procurement watch",
+      "Prepare an access-needs and route-evidence brief",
+      "Flag untested safety, authority, operator or funding assumptions"
+    ],
+    "readiness_check": "Confirm the access need, authority, applicant, operators, users, route, safety and regulatory pathway, technical evidence, co-funding and future program rules."
+  },
+  {
+    "match_key": "screen-qld-screen-culture-fund--amity-cinema-circle",
+    "grant_source_key": "screen-qld-screen-culture-fund",
+    "project_key": "amity-cinema-circle",
+    "fit_status": "clarify",
+    "fit_reason": "A genuine public Amity screening program may fit the standard Screen Culture tier, but the public browser demo, private home invitations and general equipment are not the funded event itself.",
+    "eligibility_status": "TO BE CONFIRMED: incorporated applicant, public Queensland screenings, track record, venue, rights, insurance, community support and third-party finance",
+    "evidence_needed": [
+      "public screening program and audience",
+      "eligible applicant and delivery track record",
+      "venue, licences, screening rights and insurance",
+      "budget, access and community-support evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2026-09-14",
+    "stack_role": "public Amity screening program",
+    "funding_ask": "$2,000-$8,000 standard screening and festival tier",
+    "cofunding_plan": "This public program could combine with ticket or earned income where eligible, resident and member fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind venue or volunteer support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Separate a public, accessible cinema program from the fictional browser demo and any private household event or service data.",
+    "next_move": "Treat 14 September as a go or no-go only if an incorporated applicant, public venue, rights and near-complete program already exist; otherwise prepare the next round.",
+    "human_roles": [
+      "Eligible screen-culture applicant",
+      "Public venue and program lead",
+      "Rights, privacy, access, insurance and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the public-program brief and budget",
+      "Keep public demo and private service boundaries explicit",
+      "Build the venue, rights, access and evidence checklists"
+    ],
+    "readiness_check": "Confirm applicant, public program, venue, rights, insurance, access, audience, community support, third-party finance and separation from private household data."
+  },
+  {
+    "match_key": "qld-arts-project-fund-round-3-2026--sovereign-music-australia",
+    "grant_source_key": "qld-arts-project-fund-round-3-2026",
+    "project_key": "sovereign-music-australia",
+    "fit_status": "clarify",
+    "fit_reason": "A defined Queensland artist-development, rights-literacy or live-music pilot may fit, but the national ecosystem vision, software, screen production and large equipment are not one eligible arts project.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland artist or organisation, local pilot, artistic merit, participants, rights, budget and non-screen scope",
+    "evidence_needed": [
+      "defined Minjerribah or regional arts pilot",
+      "eligible artist or organisation",
+      "participants, artistic outcomes and rights",
+      "budget, delivery and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-21",
+    "stack_role": "local music ecosystem pilot",
+    "funding_ask": "Up to $70,000 for eligible organisations or groups; individuals up to $20,000",
+    "cofunding_plan": "This arts pilot could combine with artist or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned performance income where permitted and verified in-kind venue, mentoring or production support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Choose one artist-led local pilot such as rights literacy, live development or shared professional practice, separate from the whole national platform.",
+    "next_move": "Confirm applicant, artist lead, participants, eligible arts activities and non-screen costs before deciding whether 21 September is realistic.",
+    "human_roles": [
+      "Eligible artist or organisation decision-maker",
+      "Music and rights lead",
+      "Participant, cultural, access and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a one-pilot scope and artistic outcomes map",
+      "Separate eligible arts work from software, screen and equipment costs",
+      "Build the rights, budget and evidence checklists"
+    ],
+    "readiness_check": "Confirm applicant, artist leadership, local benefit, participants, rights, eligible non-screen activities, budget, access and reporting."
+  },
+  {
+    "match_key": "frrr-src-small-vital-round-30--oceania-healthy-de-slop-co-ops",
+    "grant_source_key": "frrr-src-small-vital-round-30",
+    "project_key": "oceania-healthy-de-slop-co-ops",
+    "fit_status": "clarify",
+    "fit_reason": "A small, non-clinical Minjerribah co-operative wellbeing and access pilot may fit rural community capacity funding; the regional vision, medical equipment and unverified treatment claims do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible rural not-for-profit or auspice, charitable purpose, community-led local pilot, non-clinical scope and one SRC stream",
+    "evidence_needed": [
+      "locally chosen pilot and beneficiaries",
+      "eligible applicant or auspice",
+      "non-clinical wellbeing and co-operative scope",
+      "budget, safety, privacy and community-support evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-17",
+    "stack_role": "small community wellbeing co-operative pilot",
+    "funding_ask": "Up to $10,000",
+    "cofunding_plan": "This small pilot could combine with member or resident fundraising, local sponsorship, philanthropy, eligible applicant cash, earned activity income where permitted and verified in-kind venue or facilitation support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Select one affordable, non-clinical community wellbeing or co-operative-development activity on Minjerribah, with health claims and private data kept out of scope.",
+    "next_move": "Confirm a local applicant, community-chosen activity and safe non-clinical scope before deciding whether the 17 September round is realistic.",
+    "human_roles": [
+      "Eligible local applicant or auspice",
+      "Community and co-operative development lead",
+      "Health-boundary, privacy, safety and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a small-pilot and community-benefit brief",
+      "Separate non-clinical activity from health-treatment claims",
+      "Build applicant, budget, privacy and evaluation checklists"
+    ],
+    "readiness_check": "Confirm applicant, charitable purpose, local ownership, activity scope, non-clinical boundary, participants, venue, privacy, safety, budget and one-stream rule."
+  },
+  {
+    "match_key": "first-nations-innovation-acceleration-qld-2026--ready-set-co-op-cultural-intelligence-node",
+    "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+    "project_key": "ready-set-co-op-cultural-intelligence-node",
+    "fit_status": "clarify",
+    "fit_reason": "A cultural-compute node may fit only where an established First Nations-owned business defines, governs and operates a real product or service. Public project links do not establish authority.",
+    "eligibility_status": "TO BE CONFIRMED: First Nations ownership, cultural and data authority, established business, Dunwich delivery model, workloads, infrastructure and provider assessment",
+    "evidence_needed": [
+      "First Nations-owned project and decision rights",
+      "community-chosen workloads and data rules",
+      "eligible business and operating model",
+      "infrastructure, skills, budget and outcome evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2027-02-04",
+    "stack_role": "First Nations-owned cultural and digital capability pathway",
+    "funding_ask": "Advisory services and possible grants up to $100,000",
+    "cofunding_plan": "An authorised node could combine this pathway with member or resident fundraising, local sponsorship, philanthropy, earned service income and verified in-kind site, technical or training support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Let a First Nations-owned operator define the node's actual workloads, data boundaries, jobs and public value rather than treating the current concept as authorised.",
+    "next_move": "Confirm whether an eligible First Nations-owned lead wants to control a defined Dunwich node, then document its chosen workloads and evidence needs.",
+    "human_roles": [
+      "First Nations project, cultural and data authority",
+      "Eligible business decision-maker",
+      "Community, site, technical, skills and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a blank workloads, governance and infrastructure brief",
+      "Map program evidence without assigning partners",
+      "Flag implied authority, consent, site control or business eligibility"
+    ],
+    "readiness_check": "Confirm First Nations ownership and authority, applicant status, workloads, users, site, data rules, skills outcomes, infrastructure, budget and provider fit."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--straddie-twins",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-twins",
+    "fit_status": "clarify",
+    "fit_reason": "The comparison of two transparent models can support public STEM and data literacy if people actively inspect evidence and uncertainty; publishing an explainer alone is not enough.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant, facilitators, participants, lawful public data, cultural boundaries and evaluation",
+    "evidence_needed": [
+      "interactive comparison activities",
+      "facilitator and learner group",
+      "public-data rights and cultural boundaries",
+      "budget, accessibility and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "transparent modelling and data-literacy program",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This learning program could combine with resident or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned workshop income where permitted and verified in-kind devices, venue or mentoring. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Let participants compare what each twin observes, models, proposes and does not know using lawful public examples.",
+    "next_move": "Define the learner group, facilitator, comparison exercise and public datasets before 29 September.",
+    "human_roles": [
+      "Eligible applicant decision-maker",
+      "STEM and data-literacy facilitator",
+      "Cultural, data-rights, access and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the comparison activity and uncertainty rubric",
+      "Build the source and evaluation registers",
+      "Flag invented data, cultural assumptions and overclaimed model capability"
+    ],
+    "readiness_check": "Confirm applicant, facilitator, learners, public data, cultural boundaries, interactive method, accessibility, safeguarding, budget and evaluation."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--straddie-twin-prototype",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-twin-prototype",
+    "fit_status": "clarify",
+    "fit_reason": "The working satellite and panorama interface can support hands-on STEM learning about evidence and transport modelling; general platform development or planning claims without authority do not fit.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant, facilitators, participants, imagery and data rights, transport and cultural boundaries, safety and evaluation",
+    "evidence_needed": [
+      "defined hands-on evidence exercise",
+      "facilitator and learner group",
+      "imagery, public-data and cultural permissions",
+      "budget, accessibility and evaluation evidence"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "island evidence and modelling workshop pilot",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This workshop pilot could combine with resident or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned workshop income where permitted and verified in-kind devices, venue or technical support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Run an evidence-literacy exercise where participants inspect permitted imagery, test one transparent transport model and distinguish observation from proposal.",
+    "next_move": "Choose the learners, facilitator, permitted imagery and one transport exercise before 29 September.",
+    "human_roles": [
+      "Eligible applicant decision-maker",
+      "STEM and transport-modelling facilitator",
+      "Data-rights, cultural, access, safety and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the evidence exercise and transparent model notes",
+      "Build imagery-rights and evaluation checklists",
+      "Flag planning, cultural or technical claims that exceed the evidence"
+    ],
+    "readiness_check": "Confirm applicant, facilitators, learners, imagery and data rights, cultural boundaries, activity, accessibility, safety, budget and evaluation."
+  },
+  {
+    "match_key": "redland-community-support--minjerribah-site-and-service-ideas",
+    "grant_source_key": "redland-community-support",
+    "project_key": "minjerribah-site-and-service-ideas",
+    "fit_status": "clarify",
+    "fit_reason": "A community-led feasibility and prioritisation project may fit, but the fourteen-page network is too broad for one application and no site, service owner or authority is established by the public workbench.",
+    "eligibility_status": "TO BE CONFIRMED: eligible local applicant or auspice, community-selected priority, site or service authority, insurance, scope and budget",
+    "evidence_needed": [
+      "one community-selected site or service question",
+      "eligible applicant and decision pathway",
+      "site, service and cultural authority where relevant",
+      "engagement method, budget and practical output"
+    ],
+    "last_checked": "2026-09-08",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "community feasibility and priority-setting stage",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This planning layer could combine with resident or member fundraising, local sponsorship, philanthropy, eligible applicant cash and verified in-kind venue, facilitation, site or technical support, followed by later program or capital grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Choose one site or service issue and fund a transparent community evidence, options and feasibility stage rather than the whole network.",
+    "next_move": "Identify the first community-selected question, responsible decision pathway and concrete planning output before the round opens on 12 October.",
+    "human_roles": [
+      "Eligible local applicant or auspice",
+      "Community and project decision lead",
+      "Site, service, cultural, planning and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a one-project options and evidence brief",
+      "Build site, authority and community-engagement checklists",
+      "Separate planning costs from later program, equipment and capital layers"
+    ],
+    "readiness_check": "Confirm applicant, community priority, site or service authority, cultural permissions, engagement method, insurance, scope, budget, output and later ownership."
   }
 ]

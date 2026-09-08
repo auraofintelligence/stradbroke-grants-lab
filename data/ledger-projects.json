@@ -6,7 +6,9 @@
     "summary": "Co-working, trust building, 9 Ballow Road, AI assisted jobs and shared-asset readiness for Straddie residents and businesses.",
     "public_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/",
     "repository_url": "https://github.com/auraofintelligence/ready-set-co-op-trust-hub",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-noticeboard-network",
@@ -15,7 +17,9 @@
     "summary": "A shared local publishing pattern for notices, groups, events and updates while each publisher keeps their own voice.",
     "public_url": "https://auraofintelligence.github.io/straddie-noticeboard-network/",
     "repository_url": "https://github.com/auraofintelligence/straddie-noticeboard-network",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "stradbroke-grants-lab",
@@ -24,7 +28,9 @@
     "summary": "Grant research, watchlists, notices and AI-ready markdown profiles for Minjerribah projects and local organisations.",
     "public_url": "https://auraofintelligence.github.io/stradbroke-grants-lab/",
     "repository_url": "https://github.com/auraofintelligence/stradbroke-grants-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "quandamooka-country-events-engine",
@@ -33,7 +39,9 @@
     "summary": "A public-safe event atlas, planning doorway and Markdown builder system for events on Quandamooka Country.",
     "public_url": "https://auraofintelligence.github.io/quandamooka-country-events-engine/",
     "repository_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "ballow-road-sand-screen-hub",
@@ -42,7 +50,9 @@
     "summary": "A public concept for sand sports, screen culture, night-market activity and community wellbeing around 10-12 Ballow Road.",
     "public_url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/",
     "repository_url": "https://github.com/auraofintelligence/ballow-road-sand-screen-hub",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "community-club-builder-sandy-sports",
@@ -51,7 +61,9 @@
     "summary": "A public club-building playbook using a proposed Minjerribah sand-sports club as a worked example, without assuming approval or site control.",
     "public_url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/",
     "repository_url": "https://github.com/auraofintelligence/community-club-builder-sandy-sports",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "legal-memory-workbench",
@@ -60,7 +72,9 @@
     "summary": "A practical markdown setup guide for source, jurisdiction, risk and evidence preparation before using AI for legal information.",
     "public_url": "https://auraofintelligence.github.io/legal-memory-workbench/",
     "repository_url": "https://github.com/auraofintelligence/legal-memory-workbench",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "dunwich-gumpi-ferry-terminal-lab",
@@ -69,7 +83,9 @@
     "summary": "Open-data and simulation prototype for terminal changes, movement questions and community-readable evidence.",
     "public_url": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/",
     "repository_url": "https://github.com/auraofintelligence/dunwich-gumpi-ferry-terminal-open-data-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-maker-space-lab",
@@ -78,7 +94,9 @@
     "summary": "Repair, recycling, light industry, local materials and practical training for a Dunwich / Goompi maker-space.",
     "public_url": "https://auraofintelligence.github.io/straddie-makerspace-lab/",
     "repository_url": "https://github.com/auraofintelligence/straddie-makerspace-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-tip-loop-lab",
@@ -87,7 +105,9 @@
     "summary": "A lawful local materials-recovery and recycling concept linked to the maker-space, repair skills and circular community value.",
     "public_url": "https://auraofintelligence.github.io/straddie-tip-loop-lab/",
     "repository_url": "https://github.com/auraofintelligence/straddie-tip-loop-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-clean-energy-superpower",
@@ -96,7 +116,9 @@
     "summary": "Question-led exploration of energy resilience on Minjerribah, with options, trade-offs, evidence and next questions kept visible.",
     "public_url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/",
     "repository_url": "https://github.com/auraofintelligence/straddie-clean-energy-superpower",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-digital-twin-builders",
@@ -105,7 +127,9 @@
     "summary": "Plain-English prompt builders for private rooms, local places, bioregion scenes and future simulation workflows.",
     "public_url": "https://auraofintelligence.github.io/straddie-digital-twin-builders/",
     "repository_url": "https://github.com/auraofintelligence/straddie-digital-twin-builders",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-content-assets-kit",
@@ -114,7 +138,9 @@
     "summary": "Portable markdown tools for camera, audio, lighting and local media asset planning.",
     "public_url": "https://auraofintelligence.github.io/straddie-content-assets-kit/",
     "repository_url": "https://github.com/auraofintelligence/straddie-content-assets-kit",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "film-club-documentary-builders",
@@ -123,7 +149,9 @@
     "summary": "Interview prep, source trails, scene assembly, screening notes and clear handoffs for community documentary work.",
     "public_url": "https://auraofintelligence.github.io/film-club-documentary-builders/",
     "repository_url": "https://github.com/auraofintelligence/film-club-documentary-builders",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "grain-by-grain-documentary",
@@ -132,7 +160,9 @@
     "summary": "Planning tools for a 90-minute documentary connecting local projects, source trails, community review and seven-generation thinking.",
     "public_url": "https://auraofintelligence.github.io/grain-by-grain-documentary/",
     "repository_url": "https://github.com/auraofintelligence/grain-by-grain-documentary",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "quandamooka-film-festival",
@@ -141,7 +171,9 @@
     "summary": "Smartphone films, local documentary prompts, story preparation and practical pathways for first-time creators and organisers.",
     "public_url": "https://auraofintelligence.github.io/quandamooka-film-festival/",
     "repository_url": "https://github.com/auraofintelligence/quandamooka-film-festival",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-vitality-network-builders",
@@ -150,7 +182,9 @@
     "summary": "Co-op planning tools for venues, funding notes, evidence trails and local health infrastructure.",
     "public_url": "https://auraofintelligence.github.io/straddie-vitality-network-builders/",
     "repository_url": "https://github.com/auraofintelligence/straddie-vitality-network-builders",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-night-market-lab",
@@ -159,7 +193,9 @@
     "summary": "Market onboarding, stallholder checks, transport notes and public links for organisers, artists and food providers.",
     "public_url": "https://auraofintelligence.github.io/straddie-night-market-lab/",
     "repository_url": "https://github.com/auraofintelligence/straddie-night-market-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "grey-area-commons",
@@ -168,7 +204,9 @@
     "summary": "An adult-only, privacy-preserving question path for consent, gentle connection, public notices and private AI context.",
     "public_url": "https://auraofintelligence.github.io/grey-area-commons/index.html",
     "repository_url": "https://github.com/auraofintelligence/grey-area-commons",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-shared-table",
@@ -177,7 +215,9 @@
     "summary": "Surplus food sharing, volunteer time, safety checks, public notices and opt-in contribution records.",
     "public_url": "https://auraofintelligence.github.io/shared-table-initiative/ledger.html",
     "repository_url": "https://github.com/auraofintelligence/shared-table-initiative",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "bees-and-allies",
@@ -186,7 +226,9 @@
     "summary": "A question-led Straddie bee-resilience lab for beekeepers, gardens, habitat, learning and practical local partnerships.",
     "public_url": "https://auraofintelligence.github.io/bees-and-allies/",
     "repository_url": "https://github.com/auraofintelligence/bees-and-allies",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "wildlife-rescue-minjerribah",
@@ -195,7 +237,9 @@
     "summary": "Offline-first wildlife guidance, accurate reporting and local rescue coordination for Minjerribah.",
     "public_url": "https://wildlife-rescue-minjerribah.auraofintelligence.workers.dev/",
     "repository_url": "",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "health-and-culture",
@@ -204,7 +248,9 @@
     "summary": "Local sport, outdoor cinema, youth, visitors, wellbeing and place-based activity.",
     "public_url": "https://auraofintelligence.github.io/amity-point/",
     "repository_url": "https://github.com/auraofintelligence/amity-point",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "amity-outdoor-fitness-and-safer-access",
@@ -213,7 +259,9 @@
     "summary": "Grant-ready framing for an Amity Point activity park, safer access, movement and healthy outdoor gathering.",
     "public_url": "https://auraofintelligence.github.io/amity-outdoor-fitness-grant/",
     "repository_url": "https://github.com/auraofintelligence/amity-outdoor-fitness-grant",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "disaster-resilience",
@@ -222,7 +270,9 @@
     "summary": "Offline-first community information, emergency coordination and local digital access points.",
     "public_url": "https://auraofintelligence.github.io/straddie-disaster-kiosks/",
     "repository_url": "https://github.com/auraofintelligence/straddie-disaster-kiosks",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "minjerribah-resilience",
@@ -231,7 +281,9 @@
     "summary": "Foundational resilience framing for natural hazards, rare threats, preparedness and practical local continuity.",
     "public_url": "https://auraofintelligence.github.io/Minjerribah-Resilience/",
     "repository_url": "https://github.com/auraofintelligence/Minjerribah-Resilience",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "grain-by-grain",
@@ -240,7 +292,9 @@
     "summary": "A public pathway from the Gumpi ferry terminal to long-horizon Minjerribah resilience, built through practical projects and clear approval boundaries.",
     "public_url": "https://auraofintelligence.github.io/grain-by-grain/",
     "repository_url": "https://github.com/auraofintelligence/grain-by-grain",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "civilisation-of-sand",
@@ -249,7 +303,9 @@
     "summary": "A science-fiction story backbone connecting Minjerribah materials, care, skills, digital twins and long-horizon civilisation building.",
     "public_url": "https://auraofintelligence.github.io/civilisation-of-sand/",
     "repository_url": "https://github.com/auraofintelligence/civilisation-of-sand",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "sandworm-subterranean-systems",
@@ -258,7 +314,9 @@
     "summary": "Exploratory transport, wildlife, erosion, recovered-material and infrastructure questions, beginning with the Gumpi gateway.",
     "public_url": "https://auraofintelligence.github.io/sandworm-subterranean-systems/",
     "repository_url": "https://github.com/auraofintelligence/sandworm-subterranean-systems",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "moreton-bay-community-wealth-and-mutuals",
@@ -267,7 +325,9 @@
     "summary": "Plain-English pathways for community wealth, mutual care, data sovereignty and regional cooperation across the Moreton Bay archipelago.",
     "public_url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/",
     "repository_url": "https://github.com/auraofintelligence/moreton-bay-community-wealth-and-mutuals",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "bigger-local-picture",
@@ -276,7 +336,9 @@
     "summary": "A broader island-and-region frame for linking local projects, futures, stories and systems.",
     "public_url": "https://auraofintelligence.github.io/Archipelago/",
     "repository_url": "https://github.com/auraofintelligence/Archipelago",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "ready-set-co-op-hyperlocal-media",
@@ -285,7 +347,9 @@
     "summary": "Training, local capability, practical digital work and community storytelling.",
     "public_url": "https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/",
     "repository_url": "https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "minjerribah-screen-media-network",
@@ -294,7 +358,9 @@
     "summary": "A proposed local network connecting screen culture, community media, practical training, shared tools and pathways into paid or volunteer work.",
     "public_url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/",
     "repository_url": "https://github.com/auraofintelligence/minjerribah-screen-media-network",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-tenders-lab",
@@ -303,7 +369,9 @@
     "summary": "Government tender sources, keyword-watch routines, timelines and bid-readiness pathways for Straddie-connected local capacity.",
     "public_url": "https://auraofintelligence.github.io/straddie-tenders-lab/",
     "repository_url": "https://github.com/auraofintelligence/straddie-tenders-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "straddie-capsule-surge-lab",
@@ -312,7 +380,9 @@
     "summary": "Site-neutral capsule hotel, civic simulation and health-surge capacity concept for spare-room island resilience.",
     "public_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/",
     "repository_url": "https://github.com/auraofintelligence/straddie-capsule-surge-lab",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "p4a-purple-civic-lab",
@@ -321,7 +391,9 @@
     "summary": "A young pre-party civic experiment exploring joyful responsible abundance, democratic repair and a protopian Cyber-Republic pathway for Australia.",
     "public_url": "https://auraofintelligence.github.io/p4a_xyz/",
     "repository_url": "https://github.com/auraofintelligence/p4a_xyz",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "mineral-moonshots",
@@ -330,7 +402,9 @@
     "summary": "A crystal-and-metal island atlas for mineral sands, public honour, Aura context, profiles and science-fiction civic imagination.",
     "public_url": "https://auraofintelligence.github.io/mineral-moonshots/",
     "repository_url": "https://github.com/auraofintelligence/mineral-moonshots",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "cosmic-nexus",
@@ -339,7 +413,9 @@
     "summary": "Source trails, travel routes, film prompts and governance habits for the wider Strange But True mystery-building lane.",
     "public_url": "https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/",
     "repository_url": "https://github.com/auraofintelligence/strange-but-true-cosmic-nexus",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "i-c-infinity-music-universe",
@@ -348,7 +424,9 @@
     "summary": "Albums, listening challenges and creative builder tools that can feed lyric videos, comics and community music work.",
     "public_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/",
     "repository_url": "https://github.com/auraofintelligence/i-C-infinity-music-universe",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
   },
   {
     "project_key": "gajra-earth",
@@ -357,6 +435,369 @@
     "summary": "A planetary intelligence sample for joyful responsible abundance, whole-system thinking and global civic imagination.",
     "public_url": "https://auraofintelligence.github.io/GAJRA-earth/",
     "repository_url": "https://github.com/auraofintelligence/GAJRA-earth",
-    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
+    "source_page": "https://auraofintelligence.github.io/strange-but-true/community-ledger.html",
+    "source_type": "community_ledger",
+    "grant_angles": []
+  },
+  {
+    "project_key": "songline-interface",
+    "title": "Songline Interface",
+    "lane": "Cultural and community data interfaces",
+    "summary": "Static design proposal exploring layered place, memory and knowledge interfaces; not an authorised cultural system.",
+    "public_url": "https://auraofintelligence.github.io/songline_interface/",
+    "repository_url": "https://github.com/auraofintelligence/songline_interface",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-01-08",
+    "atlas_name": "songline_interface",
+    "grant_angles": [
+      "First Nations-led digital innovation",
+      "cultural data governance",
+      "community co-design",
+      "digital inclusion"
+    ],
+    "selection_reason": "A 2026 cultural-data interface proposal that may support a locally authorised, First Nations-led pathway; it is not itself evidence of cultural authority."
+  },
+  {
+    "project_key": "plfc-2026-data",
+    "title": "PLFC 2026 Data",
+    "lane": "Point Lookout community capability",
+    "summary": "Static Point Lookout Fishing Club AGM discussion dashboard presenting a dated snapshot of club activity and possible next steps.",
+    "public_url": "https://auraofintelligence.github.io/PLFC_2026_Data/",
+    "repository_url": "https://github.com/auraofintelligence/PLFC_2026_Data",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-04-13",
+    "atlas_name": "PLFC_2026_Data",
+    "grant_angles": [
+      "club governance",
+      "community data",
+      "volunteer capability",
+      "digital inclusion"
+    ],
+    "selection_reason": "A 2026 Point Lookout Fishing Club evidence and discussion tool that can support locally controlled planning and grant readiness."
+  },
+  {
+    "project_key": "plfc-live",
+    "title": "PLFC Live",
+    "lane": "Point Lookout media and participation",
+    "summary": "Concept page for a proposed portable live-streaming and digital meeting setup for Point Lookout Fishing Club.",
+    "public_url": "https://auraofintelligence.github.io/PLFC_Live/",
+    "repository_url": "https://github.com/auraofintelligence/PLFC_Live",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-04-13",
+    "atlas_name": "PLFC_Live",
+    "grant_angles": [
+      "community equipment",
+      "digital participation",
+      "live streaming",
+      "volunteer skills"
+    ],
+    "selection_reason": "A 2026 Point Lookout Fishing Club proposal for portable live-streaming and digital meeting equipment with a direct local delivery context."
+  },
+  {
+    "project_key": "plfc-community-platform",
+    "title": "PLFC Community Platform",
+    "lane": "Point Lookout community capability",
+    "summary": "Exploratory open-source prototype for Point Lookout Fishing Club public, member, committee and field-operation tools.",
+    "public_url": "https://auraofintelligence.github.io/plfc-community-platform/",
+    "repository_url": "https://github.com/auraofintelligence/plfc-community-platform",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-05-03",
+    "atlas_name": "plfc-community-platform",
+    "grant_angles": [
+      "digital capability",
+      "club participation",
+      "volunteer coordination",
+      "community communications"
+    ],
+    "selection_reason": "A 2026 Point Lookout Fishing Club platform prototype for public, member, committee and field-operation needs."
+  },
+  {
+    "project_key": "straddie-space-station-simulator",
+    "title": "Straddie Space Station Simulator",
+    "lane": "STEM and resilience simulation",
+    "summary": "Static browser simulator for a Dunwich small-lot terrestrial space-station capsule habitat.",
+    "public_url": "https://auraofintelligence.github.io/straddie-space-station-simulator/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-space-station-simulator",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-05-31",
+    "atlas_name": "straddie-space-station-simulator",
+    "grant_angles": [
+      "STEM engagement",
+      "design education",
+      "habitat simulation",
+      "youth learning"
+    ],
+    "selection_reason": "A 2026 Dunwich simulator that can be reframed as a finite, hands-on STEM and resilient-design learning project."
+  },
+  {
+    "project_key": "plfc-ai-agent-md-forms",
+    "title": "PLFC AI Agent Md Forms",
+    "lane": "Point Lookout digital skills",
+    "summary": "Static Point Lookout Fishing Club forms that turn plain-English answers into portable, AI-ready Markdown files.",
+    "public_url": "https://auraofintelligence.github.io/plfc-ai-agent-md-forms/",
+    "repository_url": "https://github.com/auraofintelligence/plfc-ai-agent-md-forms",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-06-04",
+    "atlas_name": "plfc-ai-agent-md-forms",
+    "grant_angles": [
+      "AI literacy",
+      "digital skills",
+      "volunteer capability",
+      "community documentation"
+    ],
+    "selection_reason": "A 2026 Point Lookout Fishing Club tool that can support practical, human-reviewed digital and AI literacy activities."
+  },
+  {
+    "project_key": "explorer-music-video-lab",
+    "title": "Explorer Music Video Lab",
+    "lane": "Local music and screen production",
+    "summary": "Static music-video planning lab with Markdown builders for turning songs into practical clip briefs and production handoffs.",
+    "public_url": "https://auraofintelligence.github.io/explorer-music-video-lab/",
+    "repository_url": "https://github.com/auraofintelligence/explorer-music-video-lab",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-06-10",
+    "atlas_name": "explorer-music-video-lab",
+    "grant_angles": [
+      "arts development",
+      "music production",
+      "youth media",
+      "creative skills"
+    ],
+    "selection_reason": "A 2026 production-planning tool connected to the Minjerribah media network and useful for defined local arts workshops or productions."
+  },
+  {
+    "project_key": "straddie-headline-open-mic",
+    "title": "Straddie Headline Open Mic",
+    "lane": "Local performance and public storytelling",
+    "summary": "Weekly dog-related headline board and open-mic prompt for The Two Dogs Podcast, linking to sources without copying article bodies.",
+    "public_url": "https://auraofintelligence.github.io/straddie-headline-open-mic/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-headline-open-mic",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-06-12",
+    "atlas_name": "straddie-headline-open-mic",
+    "grant_angles": [
+      "community events",
+      "live performance",
+      "local storytelling",
+      "media participation"
+    ],
+    "selection_reason": "A 2026 Straddie open-mic and public-story prompt that can become a finite, locally delivered event series."
+  },
+  {
+    "project_key": "straddie-digital-twin-explainer",
+    "title": "Straddie Digital Twin Explainer",
+    "lane": "Community digital-twin literacy",
+    "summary": "Plain-English explainer showing how phone scans could support a proposed community-controlled Minjerribah digital twin.",
+    "public_url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-digital-twin-explainer",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-07-25",
+    "atlas_name": "straddie-digital-twin-explainer",
+    "grant_angles": [
+      "STEM engagement",
+      "digital literacy",
+      "community education",
+      "public data"
+    ],
+    "selection_reason": "A 2026 plain-English Minjerribah digital-twin explainer with a clear community learning and engagement pathway."
+  },
+  {
+    "project_key": "minjerribah-living-twin",
+    "title": "Minjerribah Living Twin",
+    "lane": "Community-controlled digital infrastructure",
+    "summary": "Browser-based living digital-twin prototype for Minjerribah built from public records; not reviewed by Traditional Owners.",
+    "public_url": "https://auraofintelligence.github.io/minjerribah-living-twin/",
+    "repository_url": "https://github.com/auraofintelligence/minjerribah-living-twin",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-08-09",
+    "atlas_name": "minjerribah-living-twin",
+    "grant_angles": [
+      "First Nations-led innovation",
+      "public data",
+      "digital infrastructure",
+      "community planning"
+    ],
+    "selection_reason": "A 2026 public-record digital-twin prototype that is locally relevant but requires Traditional Owner review and authority before any cultural framing or application."
+  },
+  {
+    "project_key": "second-island",
+    "title": "Second Island",
+    "lane": "Island instruments and ground truth",
+    "summary": "Second build of a Minjerribah living digital twin, prioritising instruments, real data and ground truth over invented data.",
+    "public_url": "https://auraofintelligence.github.io/second-island/",
+    "repository_url": "https://github.com/auraofintelligence/second-island",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-08-18",
+    "atlas_name": "second-island",
+    "grant_angles": [
+      "STEM engagement",
+      "citizen science",
+      "public data",
+      "environmental monitoring"
+    ],
+    "selection_reason": "A distinct 2026 Minjerribah digital-twin build focused on instruments, real data and ground truth rather than invented data."
+  },
+  {
+    "project_key": "moreton-bay-autonomous-mobility",
+    "title": "Moreton Bay Autonomous Mobility",
+    "lane": "Island access and mobility",
+    "summary": "Independent public-interest proposal exploring autonomous mobility across the Moreton Bay island and mainland transport network.",
+    "public_url": "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/",
+    "repository_url": "https://github.com/auraofintelligence/moreton-bay-autonomous-mobility",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-08-26",
+    "atlas_name": "moreton-bay-autonomous-mobility",
+    "grant_angles": [
+      "transport access",
+      "digital infrastructure",
+      "regional innovation",
+      "community mobility"
+    ],
+    "selection_reason": "A 2026 public-interest proposal for mobility across the Moreton Bay island and mainland transport network."
+  },
+  {
+    "project_key": "amity-cinema-circle",
+    "title": "Amity Cinema Circle",
+    "lane": "Amity screen culture and shared meals",
+    "summary": "A public browser-local demonstration for outdoor cinema nights, friend circles, shared meals and community participation in Amity on Minjerribah.",
+    "public_url": "https://auraofintelligence.github.io/Amity-Cinema-Circle/",
+    "repository_url": "https://github.com/auraofintelligence/Amity-Cinema-Circle",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-08-29",
+    "atlas_name": "Amity-Cinema-Circle",
+    "grant_angles": [
+      "screen culture",
+      "community events",
+      "social connection",
+      "local participation"
+    ],
+    "selection_reason": "A public 2026 Amity cinema-night demonstration with a direct Minjerribah community context; private household data and the private service path remain outside the Grants Lab."
+  },
+  {
+    "project_key": "sovereign-music-australia",
+    "title": "Sovereign Music Australia",
+    "lane": "Music ecosystem and local artist pathways",
+    "summary": "A public music ecosystem proposal covering artist pathways, rights, deals, stages and shared revenue, with potential for a defined Minjerribah pilot.",
+    "public_url": "https://auraofintelligence.github.io/sovereign-music-australia/",
+    "repository_url": "https://github.com/auraofintelligence/sovereign-music-australia",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-08-29",
+    "atlas_name": "sovereign-music-australia",
+    "grant_angles": [
+      "music development",
+      "artist rights",
+      "creative industries",
+      "local performance"
+    ],
+    "selection_reason": "A 2026 Australian music ecosystem connected to the local media and music-video tools; funding searches must target a defined Minjerribah or regional pilot rather than the whole national vision."
+  },
+  {
+    "project_key": "oceania-healthy-de-slop-co-ops",
+    "title": "Oceania Healthy De-Slop Co-ops",
+    "lane": "Community wellbeing co-operatives",
+    "summary": "A regional public project exploring community-shaped co-operative pathways for affordable wellbeing spaces, local compute and personal data stewardship across Oceania.",
+    "public_url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/",
+    "repository_url": "https://github.com/auraofintelligence/Oceania-healthy-de-slop-co-ops",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-08-30",
+    "atlas_name": "Oceania-healthy-de-slop-co-ops",
+    "grant_angles": [
+      "co-operative development",
+      "community wellbeing",
+      "local digital infrastructure",
+      "regional access"
+    ],
+    "selection_reason": "A 2026 regional co-operative concept directly connected to Straddie Vitality Network Builders; each local version requires its own governance, evidence and permissions."
+  },
+  {
+    "project_key": "ready-set-co-op-cultural-intelligence-node",
+    "title": "Ready S.E.T. Co-op Cultural Intelligence Node",
+    "lane": "Dunwich cultural and digital capability",
+    "summary": "A public exploration of one local cultural compute node in Dunwich, connecting community-held decisions, practical workloads, skills, infrastructure and chosen project links.",
+    "public_url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/",
+    "repository_url": "https://github.com/auraofintelligence/ready-set-co-op-cultural-intelligence-node",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-09-02",
+    "atlas_name": "ready-set-co-op-cultural-intelligence-node",
+    "grant_angles": [
+      "First Nations-led innovation",
+      "digital infrastructure",
+      "skills and jobs",
+      "community-controlled data"
+    ],
+    "selection_reason": "A 2026 Dunwich cultural-compute proposal with direct local skills and infrastructure relevance; authority and control must be confirmed before application."
+  },
+  {
+    "project_key": "straddie-twins",
+    "title": "The Straddie Twins",
+    "lane": "Community digital-twin literacy",
+    "summary": "A public companion that explains the two Minjerribah digital twins part by part, separating what is real, modelled, proposed and not known.",
+    "public_url": "https://auraofintelligence.github.io/straddie-twins/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-twins",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-09-03",
+    "atlas_name": "straddie-twins",
+    "grant_angles": [
+      "STEM engagement",
+      "public data literacy",
+      "community education",
+      "transparent modelling"
+    ],
+    "selection_reason": "A 2026 public companion explaining Minjerribah's two digital twins and their evidence boundaries."
+  },
+  {
+    "project_key": "straddie-twin-prototype",
+    "title": "Straddie Twin Prototype",
+    "lane": "Island evidence and transport simulation",
+    "summary": "A working browser interface for inspecting island satellite and panorama evidence, testing a transparent transport exercise and keeping local observations.",
+    "public_url": "https://auraofintelligence.github.io/straddie-twin-prototype/",
+    "repository_url": "https://github.com/auraofintelligence/straddie-twin-prototype",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-09-05",
+    "atlas_name": "straddie-twin-prototype",
+    "grant_angles": [
+      "STEM engagement",
+      "transport planning",
+      "public data",
+      "community participation"
+    ],
+    "selection_reason": "A working 2026 Minjerribah prototype for inspecting satellite and panorama evidence and testing a transparent transport exercise."
+  },
+  {
+    "project_key": "minjerribah-site-and-service-ideas",
+    "title": "Minjerribah Site and Service Ideas",
+    "lane": "Island sites, services and community wealth",
+    "summary": "A public workbench for 7 Mile and other Minjerribah site and service ideas across living, culture, sand sport, screen work, recovery, safety, housing, ageing, research and community wealth.",
+    "public_url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/",
+    "repository_url": "https://github.com/auraofintelligence/multi-site-Minjerribah-network",
+    "source_page": "https://auraofintelligence.github.io/project-atlas/",
+    "source_type": "project_atlas_2026",
+    "first_built": "2026-09-07",
+    "atlas_name": "multi-site-Minjerribah-network",
+    "grant_angles": [
+      "community planning",
+      "housing and ageing",
+      "sport and screen infrastructure",
+      "regional development"
+    ],
+    "selection_reason": "A 2026 public workbench for 7 Mile and other Minjerribah site and service ideas, requiring project-by-project applicant, site and authority checks."
   }
 ]

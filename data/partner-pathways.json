@@ -559,5 +559,271 @@
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
     "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "first-nations-innovation-acceleration-qld-2026--songline-interface--roles",
+    "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+    "project_key": "songline-interface",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "First Nations project and cultural authority",
+      "Eligible business decision-maker",
+      "Community, privacy, technical and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "redland-community-support--plfc-2026-data--roles",
+    "grant_source_key": "redland-community-support",
+    "project_key": "plfc-2026-data",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Club committee decision-maker",
+      "Member and volunteer representatives",
+      "Privacy, governance and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "gcbf-next-round-watch--plfc-live--roles",
+    "grant_source_key": "gcbf-next-round-watch",
+    "project_key": "plfc-live",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Club committee and legal applicant",
+      "Asset and equipment custodian",
+      "Community-media, technical and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "redland-community-support--plfc-community-platform--roles",
+    "grant_source_key": "redland-community-support",
+    "project_key": "plfc-community-platform",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Club committee decision-maker",
+      "Member, volunteer and accessibility representatives",
+      "Privacy, technical and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-stem-engagement-2027--straddie-space-station-simulator--roles",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-space-station-simulator",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible applicant decision-maker",
+      "STEM education and safeguarding lead",
+      "Site, technical and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-stem-engagement-2027--plfc-ai-agent-md-forms--roles",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "plfc-ai-agent-md-forms",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Club and eligible applicant decision-maker",
+      "Digital-literacy facilitator",
+      "Privacy, safeguarding and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "redland-radf--explorer-music-video-lab--roles",
+    "grant_source_key": "redland-radf",
+    "project_key": "explorer-music-video-lab",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible artist or auspice decision-maker",
+      "Music and workshop lead",
+      "Rights, cultural, accessibility and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "redland-events-grant-2026-27--straddie-headline-open-mic--roles",
+    "grant_source_key": "redland-events-grant-2026-27",
+    "project_key": "straddie-headline-open-mic",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible event applicant",
+      "Venue and program lead",
+      "Performer, editorial, safety and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-stem-engagement-2027--straddie-digital-twin-explainer--roles",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-digital-twin-explainer",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible applicant decision-maker",
+      "STEM and community-learning lead",
+      "Cultural, data-rights, accessibility and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "first-nations-innovation-acceleration-qld-2026--minjerribah-living-twin--roles",
+    "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+    "project_key": "minjerribah-living-twin",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "First Nations project and data authority",
+      "Eligible business decision-maker",
+      "Community, cultural, privacy, technical and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-stem-engagement-2027--second-island--roles",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "second-island",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible applicant decision-maker",
+      "Scientific and citizen-science lead",
+      "Site, cultural, data, safety and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-local-digital-priority-projects--moreton-bay-autonomous-mobility--roles",
+    "grant_source_key": "qld-local-digital-priority-projects",
+    "project_key": "moreton-bay-autonomous-mobility",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Transport and public-infrastructure authority",
+      "Eligible future applicant",
+      "Community access, safety, regulatory, technical and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "screen-qld-screen-culture-fund--amity-cinema-circle--roles",
+    "grant_source_key": "screen-qld-screen-culture-fund",
+    "project_key": "amity-cinema-circle",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible screen-culture applicant",
+      "Public venue and program lead",
+      "Rights, privacy, access, insurance and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-arts-project-fund-round-3-2026--sovereign-music-australia--roles",
+    "grant_source_key": "qld-arts-project-fund-round-3-2026",
+    "project_key": "sovereign-music-australia",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible artist or organisation decision-maker",
+      "Music and rights lead",
+      "Participant, cultural, access and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "frrr-src-small-vital-round-30--oceania-healthy-de-slop-co-ops--roles",
+    "grant_source_key": "frrr-src-small-vital-round-30",
+    "project_key": "oceania-healthy-de-slop-co-ops",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible local applicant or auspice",
+      "Community and co-operative development lead",
+      "Health-boundary, privacy, safety and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "first-nations-innovation-acceleration-qld-2026--ready-set-co-op-cultural-intelligence-node--roles",
+    "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+    "project_key": "ready-set-co-op-cultural-intelligence-node",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "First Nations project, cultural and data authority",
+      "Eligible business decision-maker",
+      "Community, site, technical, skills and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-stem-engagement-2027--straddie-twins--roles",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-twins",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible applicant decision-maker",
+      "STEM and data-literacy facilitator",
+      "Cultural, data-rights, access and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "qld-stem-engagement-2027--straddie-twin-prototype--roles",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "straddie-twin-prototype",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible applicant decision-maker",
+      "STEM and transport-modelling facilitator",
+      "Data-rights, cultural, access, safety and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
+  },
+  {
+    "pathway_key": "redland-community-support--minjerribah-site-and-service-ideas--roles",
+    "grant_source_key": "redland-community-support",
+    "project_key": "minjerribah-site-and-service-ideas",
+    "planning_status": "research_only",
+    "roles_needed": [
+      "Eligible local applicant or auspice",
+      "Community and project decision lead",
+      "Site, service, cultural, planning and financial reviewers"
+    ],
+    "candidate_partners": [],
+    "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+    "last_checked": "2026-09-08"
   }
 ]
