@@ -4,7 +4,7 @@
     "grant_source_key": "screen-qld-screen-culture-fund",
     "project_key": "ballow-road-sand-screen-hub",
     "fit_status": "clarify",
-    "fit_reason": "Screen Culture can support screenings and festivals, but no next round is published and equipment purchase is not stated.",
+    "fit_reason": "Screen Culture can support screenings and festivals in the current round, but equipment purchase and permanent LED capital are not the funded project.",
     "eligibility_status": "TO BE CONFIRMED: current round, incorporated entity, screen-culture track record, third-party support and eligible non-capital costs",
     "evidence_needed": [
       "confirmed legal applicant and authority to apply",
@@ -12,14 +12,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-10",
     "action_priority": "act_now",
-    "action_by": "2026-09-14",
+    "action_by": "2026-09-28",
     "stack_role": "future screen-program layer",
     "funding_ask": "$2,000–$8,000 for a local screening program in the standard stream",
     "cofunding_plan": "This future screen-program layer can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Frame a curated public screen-culture program independent of the capital asset acquisition.",
-    "next_move": "Decide the eligible January-June 2027 screen program now, then confirm applicant, venue, rights, authority, audience plan and budget before 14 September.",
+    "next_move": "Use the extension to decide the eligible January-June 2027 screen program, then confirm applicant, venue, rights, authority, audience plan and budget before 28 September.",
     "human_roles": [
       "Legal applicant or grant-manager decision-maker",
       "Rights-owning producer, creative or broadcast lead",
@@ -37,7 +37,7 @@
     "grant_source_key": "screen-qld-screen-culture-fund",
     "project_key": "quandamooka-film-festival",
     "fit_status": "clarify",
-    "fit_reason": "The fund directly supports festivals, but the ordinary local tier is well below the screen capital requirement and no next round is published.",
+    "fit_reason": "The current round directly supports festivals and screenings, but the $2,000-$8,000 local tier is a programming layer well below the screen capital requirement.",
     "eligibility_status": "TO BE CONFIRMED: current round, incorporated applicant, screen-culture track record and eligible programming costs",
     "evidence_needed": [
       "confirmed legal applicant and authority to apply",
@@ -45,14 +45,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-10",
     "action_priority": "act_now",
-    "action_by": "2026-09-14",
+    "action_by": "2026-09-28",
     "stack_role": "future festival program",
-    "funding_ask": "$2,000–$8,000 standard festival range; larger tiers require touring or significant-event evidence",
+    "funding_ask": "$2,000-$8,000 current screenings and festivals range; larger touring and significant-event tiers are not available in this round",
     "cofunding_plan": "This future festival program can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Apply for curation, access and audience activity, not the shared LED purchase.",
-    "next_move": "Decide the eligible January-June 2027 screen program now, then confirm applicant, venue, rights, authority, audience plan and budget before 14 September.",
+    "next_move": "Use the extension to decide the eligible January-June 2027 festival program, then confirm applicant, venue, rights, authority, audience plan and budget before 28 September.",
     "human_roles": [
       "Legal applicant or grant-manager decision-maker",
       "Rights-owning producer, creative or broadcast lead",
@@ -1387,39 +1387,6 @@
     "readiness_check": "Confirm the actual hazard, responsible service owner, safety approvals, applicant and real round."
   },
   {
-    "match_key": "qld-regional-tourism-infrastructure-r2-2026--ballow-road-sand-screen-hub",
-    "grant_source_key": "qld-regional-tourism-infrastructure-r2-2026",
-    "project_key": "ballow-road-sand-screen-hub",
-    "fit_status": "clarify",
-    "fit_reason": "A fixed all-weather LED cinema installation may fit only as a genuine tourism experience or tourism infrastructure element with measurable visitor benefit; the fund is not a general community-equipment grant.",
-    "eligibility_status": "TO BE CONFIRMED: eligible tourism operator or other legal applicant, ABN, GST registration, tourism evidence, site control, permits and legal ownership of the funded asset",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "near-complete tourism business case, visitor evidence and delivery plan",
-      "site control, permits, technical specification, budget and current quotes",
-      "legal asset ownership, insurance, maintenance and cultural permissions where relevant"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "act_now",
-    "action_by": "2026-09-09",
-    "stack_role": "conditional tourism capital layer",
-    "funding_ask": "Up to $300,000 excluding GST",
-    "cofunding_plan": "This conditional tourism capital layer can sit beside later capital or equipment grants, resident or member fundraising, local business sponsorship, visitor giving, philanthropy, eligible applicant cash, earned event income and verified in-kind site or technical support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define the screen as part of a bookable, all-weather regional tourism and screen-culture experience with measurable visitor stays and expenditure, while keeping community programming costs separate.",
-    "next_move": "Human go/no-go today only if an eligible applicant with ABN, GST, tourism evidence, site and asset ownership and a near-complete submission already exists; otherwise do not rush a weak application.",
-    "human_roles": [
-      "Eligible tourism applicant and authorised decision-maker",
-      "Site and asset controller",
-      "Tourism, technical, planning, cultural and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a grant-specific eligibility and evidence checklist for human review",
-      "Separate tourism capital, screen programming and community-event costs",
-      "Flag missing applicant, asset ownership, site, permit, quote, visitor or authority evidence"
-    ],
-    "readiness_check": "Confirm applicant eligibility, ABN, GST, tourism operating evidence, visitor outcomes, site control, asset ownership, permits, current quotes, budget, insurance, maintenance and submission readiness."
-  },
-  {
     "match_key": "qld-stem-engagement-2027--straddie-maker-space-lab",
     "grant_source_key": "qld-stem-engagement-2027",
     "project_key": "straddie-maker-space-lab",
@@ -1861,14 +1828,14 @@
       "venue, licences, screening rights and insurance",
       "budget, access and community-support evidence"
     ],
-    "last_checked": "2026-09-08",
+    "last_checked": "2026-09-10",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-14",
+    "action_by": "2026-09-28",
     "stack_role": "public Amity screening program",
     "funding_ask": "$2,000-$8,000 standard screening and festival tier",
     "cofunding_plan": "This public program could combine with ticket or earned income where eligible, resident and member fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind venue or volunteer support. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Separate a public, accessible cinema program from the fictional browser demo and any private household event or service data.",
-    "next_move": "Treat 14 September as a go or no-go only if an incorporated applicant, public venue, rights and near-complete program already exist; otherwise prepare the next round.",
+    "next_move": "Use the extension to confirm an incorporated applicant, public venue, rights and a viable January-June 2027 program before 28 September; otherwise prepare the next round.",
     "human_roles": [
       "Eligible screen-culture applicant",
       "Public venue and program lead",
@@ -2111,6 +2078,72 @@
       "Draft a work-sample, budget and permission register for human review"
     ],
     "readiness_check": "Confirm individual eligibility, personal and cultural authority, non-screen scope, work samples, rights, ABN or auspice, registration, budget and timeline."
+  },
+  {
+    "match_key": "creative-australia-first-nations-deaf-disability-arts-2026--quandamooka-film-festival",
+    "grant_source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
+    "project_key": "quandamooka-film-festival",
+    "fit_status": "clarify",
+    "fit_reason": "A defined access-led arts or screen-culture project may fit, but only through an eligible First Nations d/Deaf artist or arts worker, First Nations artist or arts worker with disability, eligible group, or qualifying First Nations organisation with relevant delivery history.",
+    "eligibility_status": "TO BE CONFIRMED: eligible First Nations applicant, d/Deaf or disability eligibility where required, organisational board control and delivery history where applicable, cultural authority, participant assent and eligible project scope",
+    "evidence_needed": [
+      "eligible applicant and explicit authority to apply",
+      "identity, disability and organisational-control evidence supplied by the applicant, never inferred",
+      "defined access-led creative project, participants, consent and cultural authority",
+      "work samples, access plan, budget, timeline and registration"
+    ],
+    "last_checked": "2026-09-10",
+    "action_priority": "prepare_next",
+    "action_by": "2026-10-13",
+    "stack_role": "small access and inclusive creative-practice layer",
+    "funding_ask": "$5,000-$10,000",
+    "cofunding_plan": "This small access layer could combine with Screen Culture or event funding for distinct eligible costs, ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or access support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Fund one applicant-led access, creative-development or professional-development project that benefits eligible First Nations d/Deaf artists or arts workers or First Nations artists or arts workers with disability, separate from general festival operations and permanent LED capital.",
+    "next_move": "By 25 September, confirm whether a willing eligible applicant and a specific access-led project already exist; if so, complete registration, authority, consent, access, budget and work-sample checks before 13 October.",
+    "human_roles": [
+      "Eligible First Nations applicant and authorised decision-maker",
+      "Participating d/Deaf artist, arts worker or artist with disability and access lead",
+      "Cultural authority, consent, creative, access and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the official eligibility and registration checklist",
+      "Draft an access-plan, budget, work-sample and permission register for human review",
+      "Flag any inferred identity, disability, authority, consent, organisational control or duplicated costs"
+    ],
+    "readiness_check": "Confirm applicant eligibility, identity and disability evidence supplied by the applicant, organisational control and track record where relevant, cultural authority, participant assent, access design, work samples, budget, registration and February 2027 or later start."
+  },
+  {
+    "match_key": "sedi-capability-building-2026-27--ready-s-e-t-co-op-trust-hub",
+    "grant_source_key": "sedi-capability-building-2026-27",
+    "project_key": "ready-s-e-t-co-op-trust-hub",
+    "fit_status": "clarify",
+    "fit_reason": "SEDI may fund specialist capability support for an existing eligible social enterprise that directly benefits people facing entrenched disadvantage, but it does not fund formation of an unconfirmed co-op, general project delivery or ordinary equipment.",
+    "eligibility_status": "TO BE CONFIRMED: existing legal and trading social enterprise, direct vulnerable-beneficiary impact, turnover, governance, capability gap, eligible provider and successful expression-of-interest assessment",
+    "evidence_needed": [
+      "legal entity, governance, trading history and annual turnover",
+      "defined beneficiary group and evidence of direct social or economic benefit",
+      "specific capability gap and specialist provider scope",
+      "outcomes measures, budget, authority and First Nations control evidence where that pathway is considered"
+    ],
+    "last_checked": "2026-09-10",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "social-enterprise governance and investment-readiness layer",
+    "funding_ask": "Up to $120,000, capped at the eligible enterprise's annual turnover",
+    "cofunding_plan": "This capability layer could sit beside member contributions, earned trading income, philanthropy, later project grants, impact finance and verified in-kind professional support. Every contribution and finance pathway is unsecured until evidenced.",
+    "qualifying_reframe": "Use SEDI only for an existing social enterprise's defined legal, financial, contract, evaluation or finance-readiness need tied to measurable benefit for people facing disadvantage, not for forming the co-op or delivering its whole program.",
+    "next_move": "Confirm whether an existing eligible social enterprise and direct beneficiary evidence already exist; only then map the capability gap, annual turnover and suitable provider before an expression of interest.",
+    "human_roles": [
+      "Authorised social-enterprise board or owner",
+      "Beneficiary and community accountability lead",
+      "Governance, legal, finance, impact-measurement and provider decision-makers"
+    ],
+    "ai_tasks": [
+      "Prepare the eligibility, turnover and evidence checklist",
+      "Draft a capability-gap and provider-scope options paper for human review",
+      "Separate formation, project delivery, equipment and capability-building costs"
+    ],
+    "readiness_check": "Confirm legal structure, trading history, vulnerable-beneficiary impact, governance, turnover, authority, capability gap, provider, budget, outcomes measures and any First Nations ownership or control evidence before proceeding."
   },
   {
     "match_key": "support-at-home-thin-markets-round-3-2026--health-and-culture",

@@ -56,18 +56,18 @@
     "last_checked": "2026-09-09"
   },
   {
-    "pathway_key": "qld-regional-tourism-infrastructure-r2-2026--ballow-road-sand-screen-hub--roles",
-    "grant_source_key": "qld-regional-tourism-infrastructure-r2-2026",
+    "pathway_key": "redland-events-grant-2026-27--ballow-road-sand-screen-hub--roles",
+    "grant_source_key": "redland-events-grant-2026-27",
     "project_key": "ballow-road-sand-screen-hub",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible tourism applicant and authorised decision-maker",
-      "Site and asset controller",
-      "Tourism, technical, planning, cultural and financial reviewers"
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, subject-matter and financial reviewers appropriate to the scope"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-09-01"
   },
   {
     "pathway_key": "redland-build-thrive--community-club-builder-sandy-sports--roles",
@@ -210,8 +210,8 @@
     "last_checked": "2026-09-01"
   },
   {
-    "pathway_key": "screen-qld-screen-culture-fund--quandamooka-film-festival--roles",
-    "grant_source_key": "screen-qld-screen-culture-fund",
+    "pathway_key": "redland-events-grant-2026-27--quandamooka-film-festival--roles",
+    "grant_source_key": "redland-events-grant-2026-27",
     "project_key": "quandamooka-film-festival",
     "planning_status": "research_only",
     "roles_needed": [
@@ -740,7 +740,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-09-10"
   },
   {
     "pathway_key": "creative-australia-young-first-nations-arts-2026--sovereign-music-australia--roles",
