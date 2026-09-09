@@ -488,10 +488,10 @@
   {
     "source_key": "qld-grassroots-environmental-legacy-r2-2026",
     "title": "Grassroots Environmental Legacy Round 2",
-    "window_type": "Future round",
-    "notify": "Eligible Queensland community organisations preparing a site-authorised environmental project for a future round.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Round 2 is retained only as a checked historical source.",
     "tip": "Round 2 closed 4:00pm AEST 8 September 2026. No next opening date is published.",
-    "action": "Retain the site permission, ecological method, community participation, maintenance, eligible-cost and quote pack for a future official round.",
+    "action": "Do not apply to this round. Retain the site permission, ecological method, community participation, maintenance, eligible-cost and quote pack for a future official round.",
     "source": "Queensland Government"
   },
   {

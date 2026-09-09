@@ -92,6 +92,7 @@ def main():
     if len(watchlist) != len(grants):
         fail("data/grant-watchlist.json must be rebuilt from data/grants.json")
     grant_keys = {item["source_key"] for item in grants}
+    grants_by_key = {item["source_key"]: item for item in grants}
     window_keys = {item["source_key"] for item in json.loads((ROOT / "data/grant-windows.json").read_text(encoding="utf-8"))}
     missing_windows = sorted(grant_keys - window_keys)
     if missing_windows:
@@ -136,6 +137,12 @@ def main():
             fail(f"grant match uses unknown project_key: {item['project_key']}")
         if item["grant_source_key"] not in grant_keys:
             fail(f"grant match uses unknown grant_source_key: {item['grant_source_key']}")
+        matched_grant = grants_by_key[item["grant_source_key"]]
+        if matched_grant["availability"] == "closed":
+            fail(f"grant match uses a closed funding pathway: {item['match_key']}")
+        matched_deadline = matched_grant.get("deadline_date")
+        if matched_deadline is not None and date.fromisoformat(matched_deadline) < date.today():
+            fail(f"grant match uses an expired funding pathway: {item['match_key']}")
         if item["fit_status"] not in allowed_fit_statuses:
             fail(f"grant match uses unsupported fit_status: {item['fit_status']}")
         missing_action_fields = [field for field in MATCH_ACTION_FIELDS if field not in item or item[field] in ("", None)]
@@ -145,9 +152,11 @@ def main():
             fail(f"grant match uses unsupported action_priority: {item['action_priority']}")
         if item.get("action_by") is not None:
             try:
-                date.fromisoformat(item["action_by"])
+                action_by = date.fromisoformat(item["action_by"])
             except (TypeError, ValueError):
                 fail(f"grant match action_by must be an ISO date or null: {item['match_key']}")
+            if action_by < date.today():
+                fail(f"grant match action_by date has passed: {item['match_key']}")
         if not isinstance(item["evidence_needed"], list):
             fail(f"grant match evidence_needed must be a list: {item['match_key']}")
         for field in ("human_roles", "ai_tasks"):
@@ -169,6 +178,12 @@ def main():
             fail(f"partner pathway uses unknown project_key: {item['project_key']}")
         if item["grant_source_key"] not in grant_keys:
             fail(f"partner pathway uses unknown grant_source_key: {item['grant_source_key']}")
+        pathway_grant = grants_by_key[item["grant_source_key"]]
+        if pathway_grant["availability"] == "closed":
+            fail(f"partner pathway uses a closed funding source: {item['pathway_key']}")
+        pathway_deadline = pathway_grant.get("deadline_date")
+        if pathway_deadline is not None and date.fromisoformat(pathway_deadline) < date.today():
+            fail(f"partner pathway uses an expired funding source: {item['pathway_key']}")
         if item["planning_status"] not in allowed_planning_statuses:
             fail(f"partner pathway uses unsupported planning_status: {item['planning_status']}")
         if not isinstance(item["roles_needed"], list) or not item["roles_needed"]:

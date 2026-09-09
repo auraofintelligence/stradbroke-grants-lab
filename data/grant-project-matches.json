@@ -1,269 +1,5 @@
 [
   {
-    "match_key": "creative-australia-arts-projects-organisations-sept-2026--bigger-local-picture",
-    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
-    "project_key": "bigger-local-picture",
-    "fit_status": "clarify",
-    "fit_reason": "A multi-project public story may fit if it becomes a coherent artist-led work rather than a promotional umbrella.",
-    "eligibility_status": "TO BE CONFIRMED: legally constituted arts organisation, eligible arts activity, artistic leadership, rights and contributor permissions",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2027-03-02",
-    "stack_role": "participatory arts synthesis",
-    "funding_ask": "$20,000–$100,000",
-    "cofunding_plan": "This participatory arts synthesis can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Commission one public artwork, participatory program or exhibition that connects local perspectives without claiming authority for every project.",
-    "next_move": "Fund the artistic program here and keep repository maintenance, business promotion and general media outside the ask.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm organisation, artistic concept, contributors, permissions, public outcome and budget."
-  },
-  {
-    "match_key": "creative-australia-arts-projects-organisations-sept-2026--civilisation-of-sand",
-    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
-    "project_key": "civilisation-of-sand",
-    "fit_status": "clarify",
-    "fit_reason": "The story world can fit as contemporary art, participatory practice or screen-based art, but not as conventional film, television or game production.",
-    "eligibility_status": "TO BE CONFIRMED: legally constituted arts organisation, eligible arts form, artistic track record, rights and cultural permissions",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2027-03-02",
-    "stack_role": "arts-led story world",
-    "funding_ask": "$20,000–$100,000",
-    "cofunding_plan": "This arts-led story world can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define an artist-led public work with audience participation, artistic method, rights and cultural boundaries.",
-    "next_move": "Use Creative Australia for artistic creation and presentation; use games or screen funds for separately eligible works.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm organisation, artistic lead, work samples, rights, permissions, audience plan and budget."
-  },
-  {
-    "match_key": "creative-australia-arts-projects-organisations-sept-2026--cosmic-nexus",
-    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
-    "project_key": "cosmic-nexus",
-    "fit_status": "clarify",
-    "fit_reason": "The cosmic story world may fit as experimental, participatory or interdisciplinary art if it has a coherent artistic project and audience.",
-    "eligibility_status": "TO BE CONFIRMED: legally constituted arts organisation, eligible art form, track record, rights and public outcome",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2027-03-02",
-    "stack_role": "public arts work",
-    "funding_ask": "$20,000–$100,000",
-    "cofunding_plan": "This public arts work can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Select one finished artist-led public work or program, not an open-ended universe of repos.",
-    "next_move": "Use arts funding for creation and presentation; fund screen production, games or infrastructure separately.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm organisation, artists, work samples, rights, audience access, permissions and budget."
-  },
-  {
-    "match_key": "creative-australia-arts-projects-organisations-sept-2026--gajra-earth",
-    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
-    "project_key": "gajra-earth",
-    "fit_status": "clarify",
-    "fit_reason": "The earth-systems concept can fit as participatory or interdisciplinary art, but not as a generic sustainability platform.",
-    "eligibility_status": "TO BE CONFIRMED: legally constituted arts organisation, eligible art form, rights, cultural and ecological permissions",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2027-03-02",
-    "stack_role": "arts-led systems story",
-    "funding_ask": "$20,000–$100,000",
-    "cofunding_plan": "This arts-led systems story can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Produce one public artwork or artist-led community process with clear authorship, permissions and audience experience.",
-    "next_move": "Fund the art here; environmental works, digital infrastructure and global partnerships need separate programs.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm artistic lead, organisation, work samples, cultural and ecological review, public outcome and budget."
-  },
-  {
-    "match_key": "creative-australia-arts-projects-organisations-sept-2026--i-c-infinity-music-universe",
-    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
-    "project_key": "i-c-infinity-music-universe",
-    "fit_status": "clarify",
-    "fit_reason": "The music universe can fit new work, artist development and public participation if it is framed as a finite arts project.",
-    "eligibility_status": "TO BE CONFIRMED: legally constituted arts organisation, artist track record, music rights, eligible activity and public outcome",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2027-03-02",
-    "stack_role": "music creation and participation",
-    "funding_ask": "$20,000–$100,000",
-    "cofunding_plan": "Use this music creation and participation to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Package one album, performance, participatory program or cross-artform commission with rights and audience plan.",
-    "next_move": "Use arts funding for creation and presentation; keep catalogue commerce and general website work outside the ask.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm organisation, artists, rights, work samples, activity plan, access and budget."
-  },
-  {
-    "match_key": "creative-australia-arts-projects-organisations-sept-2026--quandamooka-film-festival",
-    "grant_source_key": "creative-australia-arts-projects-organisations-sept-2026",
-    "project_key": "quandamooka-film-festival",
-    "fit_status": "clarify",
-    "fit_reason": "A public film festival can fit as artist-led screen culture, exhibition and audience participation, but the fund does not support conventional film or television production costs.",
-    "eligibility_status": "TO BE CONFIRMED: eligible arts organisation or auspice, artistic program, cultural authority and ICIP permissions, venue rights and public-benefit budget",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "artist-led public program, delivery plan, budget and quotes",
-      "audience demand, community benefit and measurable outcomes",
-      "cultural authority, ICIP, screening rights, venue and safety permissions"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2027-03-02",
-    "stack_role": "festival development and public program layer",
-    "funding_ask": "$20,000–$100,000",
-    "cofunding_plan": "This festival program layer can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define an artist-led public screen-culture program with participation, access, artistic merit, rights and cultural boundaries, separate from film production costs.",
-    "next_move": "Prepare the eligible arts applicant, cultural authority, program and budget for the next published Creative Australia close on 2 March 2027.",
-    "human_roles": [
-      "Eligible arts applicant or auspice decision-maker",
-      "Festival artistic and production leads",
-      "Cultural authority, ICIP, venue, rights and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Draft the public-program logic, budget worksheet and evidence register for human review",
-      "Separate eligible arts activity from film production and capital equipment costs",
-      "Flag unsupported cultural, applicant, venue, rights or funding claims"
-    ],
-    "readiness_check": "Confirm applicant, governance, artistic program, cultural authority and ICIP, screening rights, venue, audience plan, budget and non-production scope."
-  },
-  {
-    "match_key": "qld-grassroots-environmental-legacy-r2-2026--bees-and-allies",
-    "grant_source_key": "qld-grassroots-environmental-legacy-r2-2026",
-    "project_key": "bees-and-allies",
-    "fit_status": "clarify",
-    "fit_reason": "Pollinator habitat and community participation can fit environmental legacy outcomes; beekeeper business costs and animal welfare alone do not.",
-    "eligibility_status": "TO BE CONFIRMED: eligible community organisation, site permission, ecological method, biosecurity and long-term maintenance",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-09",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "habitat and participation project",
-    "funding_ask": "Up to $25,000 excluding GST",
-    "cofunding_plan": "Use this habitat and participation project to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Deliver permitted native pollinator habitat, citizen learning and long-term ecological monitoring at an authorised site.",
-    "next_move": "Round 2 is closed. Keep the applicant, site, ecological method, quote and maintenance pack ready for a future official environmental round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm ecological adviser, site permission, biosecurity, plant plan, volunteers, maintenance and measures."
-  },
-  {
-    "match_key": "qld-grassroots-environmental-legacy-r2-2026--straddie-tip-loop-lab",
-    "grant_source_key": "qld-grassroots-environmental-legacy-r2-2026",
-    "project_key": "straddie-tip-loop-lab",
-    "fit_status": "clarify",
-    "fit_reason": "A lawful repair and material-recovery project can fit environmental participation where it produces a real habitat, rewilding or waste-reduction outcome; general tip operations do not.",
-    "eligibility_status": "TO BE CONFIRMED: eligible organisation, lawful waste and material handling, site permission, environmental method and ongoing care",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-09",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "environmental pilot",
-    "funding_ask": "Up to $25,000 excluding GST",
-    "cofunding_plan": "This environmental pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Select one permitted community repair, reuse or reclaimed-material green-space project with measurable diversion and environmental benefit.",
-    "next_move": "Round 2 is closed. Keep the applicant, site, ecological method, quote and maintenance pack ready for a future official environmental round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm legal applicant, Council or landowner permission, lawful material handling, ecological method, quotes and maintenance."
-  },
-  {
     "match_key": "screen-qld-screen-culture-fund--ballow-road-sand-screen-hub",
     "grant_source_key": "screen-qld-screen-culture-fund",
     "project_key": "ballow-road-sand-screen-hub",
@@ -1123,39 +859,6 @@
     "readiness_check": "Confirm the project is genuinely an eligible original game, then prove applicant, prototype, rights, team, budget and milestone readiness."
   },
   {
-    "match_key": "qld-safe-futures-scoping-2026--grey-area-commons",
-    "grant_source_key": "qld-safe-futures-scoping-2026",
-    "project_key": "grey-area-commons",
-    "fit_status": "clarify",
-    "fit_reason": "The concept has no automatic DFV fit; it qualifies only if an eligible specialist-led partnership turns it into evidence-based primary prevention.",
-    "eligibility_status": "TO BE CONFIRMED: eligible organisation, specialist DFSV prevention competence, safety governance, insurance and a genuine prevention scope",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": "2027-01-11",
-    "stack_role": "specialist prevention scoping only",
-    "funding_ask": "Up to $30,000",
-    "cofunding_plan": "This specialist prevention scoping only can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Remove any dating or adult-social framing and scope free, safe respectful-relationships prevention with survivor-informed safeguards.",
-    "next_move": "Use scoping funds only for co-design, evidence and evaluation planning; do not fund an unrelated platform.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "A qualified human must decide whether this reframe is authentic and safe before any application work."
-  },
-  {
     "match_key": "first-nations-innovation-acceleration-qld-2026--ready-s-e-t-co-op-trust-hub",
     "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
     "project_key": "ready-s-e-t-co-op-trust-hub",
@@ -1187,270 +890,6 @@
       "Draft a product, traction, budget and acceleration summary for human approval",
       "Flag unsupported ownership, eligibility, endorsement or investment claims"
     ]
-  },
-  {
-    "match_key": "cbf-development-operations-2026-27-r2--ballow-road-sand-screen-hub",
-    "grant_source_key": "cbf-development-operations-2026-27-r2",
-    "project_key": "ballow-road-sand-screen-hub",
-    "fit_status": "clarify",
-    "fit_reason": "CBF can fund broadcasting equipment and infrastructure, but an outdoor modular LED cinema screen is not expressly confirmed and the applicant class is narrow.",
-    "eligibility_status": "TO BE CONFIRMED: eligible community broadcaster, asset ownership, equipment eligibility, contribution for requests of $25,000 or more and delivery readiness",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "capital equipment anchor",
-    "funding_ask": "$50,000-plus request only after written eligibility advice and confirmed eligible asset owner",
-    "cofunding_plan": "This capital equipment anchor can sit beside later capital or equipment grants, a resident and member campaign, local business sponsorship, visitor giving or major gifts, eligible applicant cash and verified in-kind site or technical support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Treat the 6m × 4m recombinable all-weather LED system as shared community-broadcast infrastructure only if CBF confirms that use in writing.",
-    "next_move": "Use CBF only for eligible broadcast asset components; stack site works through Build and Thrive and event operations through event funds.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Obtain an immediate written CBF eligibility ruling and identify the licensed broadcaster or eligible First Nations community-media asset owner before drafting."
-  },
-  {
-    "match_key": "cbf-content-2026-27-r2--film-club-documentary-builders",
-    "grant_source_key": "cbf-content-2026-27-r2",
-    "project_key": "film-club-documentary-builders",
-    "fit_status": "clarify",
-    "fit_reason": "Film-club training can fit only where it creates defined community-broadcast content with an eligible grant manager or broadcast agreement.",
-    "eligibility_status": "TO BE CONFIRMED: eligible applicant or distribution agreement, broadcast outcome, participant safety, rights and contribution where required",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "broadcast workshop and content pilot",
-    "funding_ask": "Request amount to be costed; $20,000-plus requires other contribution",
-    "cofunding_plan": "This broadcast workshop and content pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Build a short workshop-to-broadcast series with participant releases, mentoring, editorial review and first-broadcast slots.",
-    "next_move": "Use CBF for content-making and broadcast; use Council or Screen Culture funds for public screenings and club activity.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm broadcaster pathway, eligible grant manager, trainers, rights, program schedule and budget."
-  },
-  {
-    "match_key": "frrr-in-a-good-place-round-12--health-and-culture",
-    "grant_source_key": "frrr-in-a-good-place-round-12",
-    "project_key": "health-and-culture",
-    "fit_status": "clarify",
-    "fit_reason": "A local culture-and-health program may fit wellbeing outcomes where the community authority, safety and delivery partner are real.",
-    "eligibility_status": "TO BE CONFIRMED: eligible charitable applicant, community and cultural authority, wellbeing method, safety and service boundaries",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "culturally safe wellbeing activity",
-    "funding_ask": "Up to $20,000",
-    "cofunding_plan": "This culturally safe wellbeing activity can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Select one community-led wellbeing activity with culturally safe governance and clear non-clinical boundaries.",
-    "next_move": "Use this for community wellbeing activity; clinical services and cultural authority work require their own authorised pathways.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm applicant, cultural authority, health referral boundaries, facilitator competence, participants and outcomes."
-  },
-  {
-    "match_key": "cbf-content-2026-27-r2--minjerribah-screen-media-network",
-    "grant_source_key": "cbf-content-2026-27-r2",
-    "project_key": "minjerribah-screen-media-network",
-    "fit_status": "clarify",
-    "fit_reason": "The network could produce local broadcast content if it has an eligible grant manager and licensed first-broadcast path.",
-    "eligibility_status": "TO BE CONFIRMED: eligible grant manager, licensed first broadcast, editorial accountability, rights and contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "broadcast content layer",
-    "funding_ask": "Request to be costed; $20,000-plus requires other contribution",
-    "cofunding_plan": "This broadcast content layer can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Package a finite content slate with editorial governance, rights, training and distribution.",
-    "next_move": "Keep production costs separate from the D&O equipment request and document shared contributions.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm applicant or distribution agreement, slate, licences, rights, budget and contribution."
-  },
-  {
-    "match_key": "cbf-development-operations-2026-27-r2--minjerribah-screen-media-network",
-    "grant_source_key": "cbf-development-operations-2026-27-r2",
-    "project_key": "minjerribah-screen-media-network",
-    "fit_status": "clarify",
-    "fit_reason": "The network is a strong thematic fit only if anchored by an eligible broadcaster or First Nations community-media organisation with real delivery responsibility.",
-    "eligibility_status": "TO BE CONFIRMED: eligible licensed broadcaster or First Nations community-media organisation, asset control, contribution and operational capacity",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "broadcast equipment and operations",
-    "funding_ask": "Request to be costed; $25,000-plus requires other contribution",
-    "cofunding_plan": "This broadcast equipment and operations can sit beside later capital or equipment grants, a resident and member campaign, local business sponsorship, visitor giving or major gifts, eligible applicant cash and verified in-kind site or technical support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define the licensed broadcast service, equipment, training use, asset owner and community-broadcast outcomes.",
-    "next_move": "Use CBF for eligible broadcast assets and operations; use RADF for workshops and LDPP for wider jobs infrastructure.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm eligible organisation, licence status, asset ownership, equipment quotes, contribution and operating plan."
-  },
-  {
-    "match_key": "cbf-specialist-radio-programming-2026-27-r2--minjerribah-screen-media-network",
-    "grant_source_key": "cbf-specialist-radio-programming-2026-27-r2",
-    "project_key": "minjerribah-screen-media-network",
-    "fit_status": "clarify",
-    "fit_reason": "A defined ongoing First Nations radio program could fit the specialist stream, but a proposed screen-media network is not evidence of a licensed station, eligible grant manager, program authority or editorial consent.",
-    "eligibility_status": "TO BE CONFIRMED: eligible broadcaster or grant manager, genuine First Nations program leadership, editorial authority, schedule, budget and broadcast capacity",
-    "evidence_needed": [
-      "confirmed eligible broadcaster or grant manager and authority to apply",
-      "First Nations program leadership and editorial decision rights",
-      "regular program format, schedule, audience need and delivery budget",
-      "cultural authority, contributor consent, rights and wellbeing safeguards"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "specialist First Nations radio program layer",
-    "funding_ask": "No fixed applicant maximum is published; request only the evidenced program budget",
-    "cofunding_plan": "A confirmed broadcaster could combine this content layer with memberships or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define one regular First Nations-led radio service for a real local community, separate from the broader network, festival and equipment concepts.",
-    "next_move": "Human go/no-go before 2:00pm AEST: proceed only if the eligible broadcaster, program authority and near-complete submission already exist; otherwise prepare for the next CBF round.",
-    "human_roles": [
-      "Eligible broadcaster or grant-manager decision-maker",
-      "First Nations program and editorial authority",
-      "Producer, rights, cultural, wellbeing and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a next-round eligibility and evidence checklist for human review",
-      "Separate program, equipment and festival costs",
-      "Flag unsupported authority, consent, broadcaster, rights or funding claims"
-    ],
-    "readiness_check": "Do not start a cold application. Confirm broadcaster eligibility, First Nations program authority, schedule, contributors, rights, budget and submission readiness immediately."
-  },
-  {
-    "match_key": "cbf-content-2026-27-r2--ready-set-co-op-hyperlocal-media",
-    "grant_source_key": "cbf-content-2026-27-r2",
-    "project_key": "ready-set-co-op-hyperlocal-media",
-    "fit_status": "clarify",
-    "fit_reason": "A hyperlocal content pilot can fit CBF more directly than the entire jobs platform if first broadcast is secured.",
-    "eligibility_status": "TO BE CONFIRMED: eligible grant manager, licensed first broadcast, editorial control, rights and contribution where required",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "broadcast content pilot",
-    "funding_ask": "Request to be costed; $20,000-plus requires other contribution",
-    "cofunding_plan": "This broadcast content pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Produce a finite community-broadcast series with training, human editorial approval and contributor rights.",
-    "next_move": "Use CBF for the content pilot and LDPP for scaled digital jobs infrastructure.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm eligible grant manager, broadcaster distribution, slate, editorial governance, rights and budget."
-  },
-  {
-    "match_key": "cbf-content-2026-27-r2--straddie-content-assets-kit",
-    "grant_source_key": "cbf-content-2026-27-r2",
-    "project_key": "straddie-content-assets-kit",
-    "fit_status": "clarify",
-    "fit_reason": "A reusable local content kit may support community broadcast if it produces specific programs for first broadcast, not a generic asset library.",
-    "eligibility_status": "TO BE CONFIRMED: eligible grant manager, licensed first-broadcast pathway, editorial control, rights and contribution where required",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "broadcast content package",
-    "funding_ask": "Request amount to be costed; $20,000-plus requires other contribution",
-    "cofunding_plan": "This broadcast content package can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define a finite series of broadcast-ready stories with rights, contributors, editorial responsibility and distribution agreement.",
-    "next_move": "Separate broadcast production from reusable website assets; document required contribution above $20,000.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm eligible applicant or broadcaster agreement, episode plan, rights releases and budget immediately."
   },
   {
     "match_key": "redland-rapid-response-2026-27--straddie-noticeboard-network",
@@ -1486,72 +925,6 @@
     "readiness_check": "Confirm a Redland not-for-profit applicant, urgent need, quote and six-week-ready scope."
   },
   {
-    "match_key": "frrr-in-a-good-place-round-12--straddie-shared-table",
-    "grant_source_key": "frrr-in-a-good-place-round-12",
-    "project_key": "straddie-shared-table",
-    "fit_status": "clarify",
-    "fit_reason": "Shared meals can reduce isolation and strengthen wellbeing if locally led, inclusive and safely delivered.",
-    "eligibility_status": "TO BE CONFIRMED: eligible local charitable applicant, food safety, venue permission, safeguarding and measurable wellbeing outcomes",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "shared-meal wellbeing program",
-    "funding_ask": "Up to $20,000",
-    "cofunding_plan": "This shared-meal wellbeing program can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define a recurring free or low-cost shared-table program for an evidenced cohort, with food safety and referral boundaries.",
-    "next_move": "Use the grant for coordination, food, venue and evaluation; use environmental funding separately for a community garden.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm applicant, venue, food safety lead, participant need, accessibility and delivery calendar."
-  },
-  {
-    "match_key": "frrr-in-a-good-place-round-12--straddie-vitality-network-builders",
-    "grant_source_key": "frrr-in-a-good-place-round-12",
-    "project_key": "straddie-vitality-network-builders",
-    "fit_status": "clarify",
-    "fit_reason": "A locally led connection and wellbeing network could fit, but the grant must deliver specific mental, social or emotional wellbeing outcomes.",
-    "eligibility_status": "TO BE CONFIRMED: eligible charitable applicant, local endorsement, wellbeing method, safeguarding and delivery capacity",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "prepare_next",
-    "action_by": null,
-    "stack_role": "wellbeing participation pilot",
-    "funding_ask": "Up to $20,000",
-    "cofunding_plan": "This wellbeing participation pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define one facilitated, free local program that reduces isolation for a named community cohort.",
-    "next_move": "Use FRRR for delivery and evaluation; keep general platform development outside the ask.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm local charitable applicant, participant cohort, safeguarding, facilitators, referral boundaries and outcomes."
-  },
-  {
     "match_key": "redland-rapid-response-2026-27--wildlife-rescue-minjerribah",
     "grant_source_key": "redland-rapid-response-2026-27",
     "project_key": "wildlife-rescue-minjerribah",
@@ -1583,39 +956,6 @@
       "Flag unsupported claims, missing authority, duplicated costs and source changes"
     ],
     "readiness_check": "Confirm applicant or registered individual exception, urgent need, quote, insurance requirements and readiness."
-  },
-  {
-    "match_key": "get-ready-qld-2026-27-council--disaster-resilience",
-    "grant_source_key": "get-ready-qld-2026-27-council",
-    "project_key": "disaster-resilience",
-    "fit_status": "watch",
-    "fit_reason": "The work may fit Get Ready activities, but only Council can submit and the preferred date has passed.",
-    "eligibility_status": "TO BE CONFIRMED: Redland City Council invitation, authorised inclusion, compliant activity, budget and 30 June 2027 delivery",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "council-authorised readiness activity",
-    "funding_ask": "Council allocation not publicly stated",
-    "cofunding_plan": "This council-authorised readiness activity can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Offer one defined preparedness activity that Council could independently assess and authorise; do not claim it as a partnership.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
   },
   {
     "match_key": "screen-australia-documentary-development--grain-by-grain-documentary",
@@ -1684,39 +1024,6 @@
     "readiness_check": "Choose the correct tier after a rights and team audit."
   },
   {
-    "match_key": "auda-community-grants-2026--legal-memory-workbench",
-    "grant_source_key": "auda-community-grants-2026",
-    "project_key": "legal-memory-workbench",
-    "fit_status": "watch",
-    "fit_reason": "A public tool for organising community legal memory may fit digital inclusion, but it cannot present unverified legal advice or be a generic database.",
-    "eligibility_status": "TO BE CONFIRMED: ACNC applicant, public-benefit internet outcome, legal accuracy governance, privacy controls and 10% contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "public digital information tool",
-    "funding_ask": "Exactly $50,000 plus at least 10% contribution",
-    "cofunding_plan": "Use this public digital information tool to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Build a public, accessible provenance and referral tool with lawyer-reviewed boundaries, privacy controls and no claim of legal advice.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
-  },
-  {
     "match_key": "arena-community-electrification-arp-2026--minjerribah-resilience",
     "grant_source_key": "arena-community-electrification-arp-2026",
     "project_key": "minjerribah-resilience",
@@ -1783,72 +1090,6 @@
     "readiness_check": "Seek an authorised First Nations governance decision on Country, control, benefit and applicant before an EOI."
   },
   {
-    "match_key": "auda-community-grants-2026--p4a-purple-civic-lab",
-    "grant_source_key": "auda-community-grants-2026",
-    "project_key": "p4a-purple-civic-lab",
-    "fit_status": "watch",
-    "fit_reason": "A civic tool may fit digital inclusion if it is non-partisan, public-benefit and genuinely innovative; campaigning or a generic website would not.",
-    "eligibility_status": "TO BE CONFIRMED: ACNC applicant, public internet benefit, non-partisan governance, privacy, accessibility and 10% contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "non-partisan civic digital inclusion",
-    "funding_ask": "Exactly $50,000 plus at least 10% contribution",
-    "cofunding_plan": "Use this non-partisan civic digital inclusion to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Create accessible civic literacy and participation infrastructure with transparent sources and no party advocacy.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
-  },
-  {
-    "match_key": "auda-community-grants-2026--quandamooka-country-events-engine",
-    "grant_source_key": "auda-community-grants-2026",
-    "project_key": "quandamooka-country-events-engine",
-    "fit_status": "watch",
-    "fit_reason": "A public events discovery and access tool could support regional digital inclusion, but a calendar website alone is not sufficiently innovative.",
-    "eligibility_status": "TO BE CONFIRMED: ACNC-registered applicant, public annual report, innovation evidence and 10% contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "public digital access layer",
-    "funding_ask": "Exactly $50,000 plus at least 10% applicant contribution",
-    "cofunding_plan": "Use this public digital access layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Prove a reusable internet-access innovation for dispersed communities, accessible participation and trusted event provenance.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
-  },
-  {
     "match_key": "redland-signature-events-2026-27--quandamooka-film-festival",
     "grant_source_key": "redland-signature-events-2026-27",
     "project_key": "quandamooka-film-festival",
@@ -1880,138 +1121,6 @@
       "Flag unsupported claims, missing authority, duplicated costs and source changes"
     ],
     "readiness_check": "Create an event-history and visitation evidence register; do not apply without two successful stagings."
-  },
-  {
-    "match_key": "auda-community-grants-2026--ready-s-e-t-co-op-trust-hub",
-    "grant_source_key": "auda-community-grants-2026",
-    "project_key": "ready-s-e-t-co-op-trust-hub",
-    "fit_status": "watch",
-    "fit_reason": "A discrete public internet inclusion tool could be separated from the larger Trust Hub capital concept.",
-    "eligibility_status": "TO BE CONFIRMED: ACNC applicant, public annual report, eligible internet innovation and 10% contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "$50,000 public digital layer",
-    "funding_ask": "Exactly $50,000 plus at least 10% contribution",
-    "cofunding_plan": "Use this $50,000 public digital layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Make the ask one reusable public-benefit service, not premises, devices or a generic hub website.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
-  },
-  {
-    "match_key": "qld-local-digital-priority-projects--ready-s-e-t-co-op-trust-hub",
-    "grant_source_key": "qld-local-digital-priority-projects",
-    "project_key": "ready-s-e-t-co-op-trust-hub",
-    "fit_status": "clarify",
-    "fit_reason": "The Trust Hub could combine connectivity, shared digital infrastructure and jobs, but the proposal is not evidence of an eligible Stream 1 applicant, secured co-funding or site control.",
-    "eligibility_status": "TO BE CONFIRMED: eligible council or private-sector Stream 1 lead, active ABN, GST, Redland place of business, site control and secured co-funding",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "major digital infrastructure lead",
-    "funding_ask": "Stream 1: $1–$5 million only if the applicant and integrated infrastructure scope qualify",
-    "cofunding_plan": "This major digital infrastructure lead can sit beside later capital or equipment grants, a resident and member campaign, local business sponsorship, visitor giving or major gifts, eligible applicant cash and verified in-kind site or technical support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define one integrated SEQ digital infrastructure project with measurable productivity and inclusion outcomes; do not submit a loose bundle of repos.",
-    "next_move": "Keep a future-round evidence pack only: confirm applicant, site control, co-funding evidence and a single eligible digital outcome before a new round is announced.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Run a human go/no-go meeting against Stream 1 legal-entity, GST, Redland business-location, site-control and co-funding gates."
-  },
-  {
-    "match_key": "qld-local-digital-priority-projects--ready-set-co-op-hyperlocal-media",
-    "grant_source_key": "qld-local-digital-priority-projects",
-    "project_key": "ready-set-co-op-hyperlocal-media",
-    "fit_status": "clarify",
-    "fit_reason": "The training, hyperlocal media and human-approved production model aligns with digital capability and skilled jobs, but Ready SET is not yet an evidenced eligible applicant with co-funding.",
-    "eligibility_status": "TO BE CONFIRMED: eligible Stream 2 or 3 legal applicant, ABN, GST, Redland place of business, secured co-funding and jobs evidence",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "digital skills and jobs scale-up",
-    "funding_ask": "Streams 2–3: $100,000–$1 million",
-    "cofunding_plan": "Use this digital skills and jobs scale-up to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define one employment and training program with participant numbers, employer demand, qualifications or skills outcomes and accountable human editorial control.",
-    "next_move": "Keep a future-round evidence pack only: confirm applicant, site control, co-funding evidence and a single eligible digital outcome before a new round is announced.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm legal applicant, ABN, GST, Redland business location, co-funding, curriculum, employers and delivery authority."
-  },
-  {
-    "match_key": "auda-community-grants-2026--stradbroke-grants-lab",
-    "grant_source_key": "auda-community-grants-2026",
-    "project_key": "stradbroke-grants-lab",
-    "fit_status": "watch",
-    "fit_reason": "The lab could improve rural access to trustworthy funding information, but a generic website or internal grant database is excluded in substance.",
-    "eligibility_status": "TO BE CONFIRMED: ACNC-registered applicant, public annual report, eligible public internet outcome and 10% contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "public-benefit digital product",
-    "funding_ask": "Exactly $50,000 plus at least 10% applicant contribution",
-    "cofunding_plan": "Use this public-benefit digital product to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Frame a public, reusable internet innovation that materially reduces rural grant-access barriers, not a repo refresh or AI subscription.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
   },
   {
     "match_key": "arena-community-electrification-arp-2026--straddie-clean-energy-superpower",
@@ -2047,39 +1156,6 @@
     "readiness_check": "Map required developer, network, retailer, technology, finance and community roles without naming any unassented partner."
   },
   {
-    "match_key": "first-nations-clean-energy-advice--straddie-clean-energy-superpower",
-    "grant_source_key": "first-nations-clean-energy-advice",
-    "project_key": "straddie-clean-energy-superpower",
-    "fit_status": "watch",
-    "fit_reason": "The question-led concept aligns with technical advice and informed decision-making, but only a real First Nations-authorised opportunity with an eligible applicant can proceed.",
-    "eligibility_status": "TO BE CONFIRMED: eligible First Nations applicant or auspice, ABN, community authority, FPIC and actual clean-energy opportunity",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "First Nations-led feasibility and advice",
-    "funding_ask": "$5,000–$80,000",
-    "cofunding_plan": "Use this First Nations-led feasibility and advice to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Narrow to an authorised clean-energy decision on Country, with FPIC, technical questions and a defined advice output.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Authorised First Nations decision-maker or applicant representative",
-      "Project lead",
-      "Legal, cultural and financial reviewers appropriate to the project"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
-  },
-  {
     "match_key": "qld-waste-resource-recovery-funding-watch-2026--straddie-maker-space-lab",
     "grant_source_key": "qld-waste-resource-recovery-funding-watch-2026",
     "project_key": "straddie-maker-space-lab",
@@ -2111,39 +1187,6 @@
       "Keep current facts separate from future program assumptions"
     ],
     "readiness_check": "Confirm applicant, waste licences, lawful materials, site control, insurance, safety plan, council interfaces, quotes, budget and governance before any application."
-  },
-  {
-    "match_key": "auda-community-grants-2026--straddie-tenders-lab",
-    "grant_source_key": "auda-community-grants-2026",
-    "project_key": "straddie-tenders-lab",
-    "fit_status": "watch",
-    "fit_reason": "A public tool that improves rural access to procurement information may fit, but an internal tender tracker or generic website does not.",
-    "eligibility_status": "TO BE CONFIRMED: ACNC applicant, public annual report, eligible public internet innovation and 10% contribution",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "public procurement access tool",
-    "funding_ask": "Exactly $50,000 plus at least 10% contribution",
-    "cofunding_plan": "Use this public procurement access tool to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Build an accessible public internet service that reduces a demonstrated rural information barrier and clearly separates grants from tenders.",
-    "next_move": "The 2026 window is closed. Keep only the eligibility, authority, evidence, budget and readiness pack for a future official round.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Do not submit late. Confirm applicant, authority, eligible scope, budget, evidence and any contribution before a future round opens."
   },
   {
     "match_key": "niaa-indigenous-procurement-policy-2026-27--straddie-tenders-lab",
@@ -2806,39 +1849,6 @@
     "readiness_check": "Confirm applicant, research question, facilitator, instruments, lawful site and data access, cultural permissions, safety, budget and evaluation."
   },
   {
-    "match_key": "qld-local-digital-priority-projects--moreton-bay-autonomous-mobility",
-    "grant_source_key": "qld-local-digital-priority-projects",
-    "project_key": "moreton-bay-autonomous-mobility",
-    "fit_status": "watch",
-    "fit_reason": "Connected mobility, access data and regional digital capability align with the former program themes, but that round is closed and no successor eligibility is confirmed.",
-    "eligibility_status": "TO BE CONFIRMED: future round, eligible lead applicant, transport authority, operators, safety case, infrastructure scope, co-funding and island access evidence",
-    "evidence_needed": [
-      "defined access problem and beneficiaries",
-      "authorised transport and infrastructure roles",
-      "safety, regulatory and technical pathway",
-      "future applicant, co-funding, budget and outcomes evidence"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "build_pathway",
-    "action_by": null,
-    "stack_role": "future regional mobility and digital-infrastructure pathway",
-    "funding_ask": "Former Streams 2-3 were $100,000-$1 million; any future amount is TO BE CONFIRMED",
-    "cofunding_plan": "A future pilot could combine later grants with council or operator funding where authorised, resident and member research support, local sponsorship, philanthropy, earned service income and verified in-kind technical or site contributions. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Start with one real island access problem, a small evidence and simulation phase, and a human-led safety and regulatory pathway rather than promising autonomous transport deployment.",
-    "next_move": "Prepare a source-backed access problem, route, user group and governance map while watching for a successor digital-infrastructure or mobility program.",
-    "human_roles": [
-      "Transport and public-infrastructure authority",
-      "Eligible future applicant",
-      "Community access, safety, regulatory, technical and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Maintain the future-program and procurement watch",
-      "Prepare an access-needs and route-evidence brief",
-      "Flag untested safety, authority, operator or funding assumptions"
-    ],
-    "readiness_check": "Confirm the access need, authority, applicant, operators, users, route, safety and regulatory pathway, technical evidence, co-funding and future program rules."
-  },
-  {
     "match_key": "screen-qld-screen-culture-fund--amity-cinema-circle",
     "grant_source_key": "screen-qld-screen-culture-fund",
     "project_key": "amity-cinema-circle",
@@ -3134,5 +2144,467 @@
       "Draft a budget and reporting evidence register for human approval"
     ],
     "readiness_check": "Confirm provider registration, service category, Specialisation Verification, cultural authority, service need, workforce, safeguarding, budget and reporting."
+  },
+  {
+    "match_key": "redland-community-support--bees-and-allies",
+    "grant_source_key": "redland-community-support",
+    "project_key": "bees-and-allies",
+    "fit_status": "clarify",
+    "fit_reason": "A defined public pollinator-learning and habitat-participation project may fit the environmental and community outcomes of the next local round.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, authorised site, lawful bee activity, ecological method, insurance and maintenance responsibility",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "pollinator education and habitat participation pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This pollinator education and habitat participation pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Deliver one site-authorised native pollinator learning, planting and citizen-observation pilot; keep commercial hive costs outside the ask.",
+    "next_move": "Confirm applicant, site and ecological lead before the round opens on 12 October, then test the pilot against the published eligible costs.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, site permission, ecological method, biosecurity, safety, insurance, participant plan, budget and maintenance."
+  },
+  {
+    "match_key": "redland-community-support--bigger-local-picture",
+    "grant_source_key": "redland-community-support",
+    "project_key": "bigger-local-picture",
+    "fit_status": "clarify",
+    "fit_reason": "A time-limited public engagement project that helps residents connect local initiatives may fit; general repository maintenance or promotion would not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, defined community need, non-commercial public benefit, participation plan and permissions",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "community mapping and engagement pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This community mapping and engagement pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Run one facilitated local mapping and public-information project with defined residents, outputs and follow-up actions.",
+    "next_move": "Choose one community question and delivery partner before 12 October; do not submit a broad umbrella covering unrelated projects.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, audience, community need, facilitator, source permissions, accessibility, outputs, budget and evaluation."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--civilisation-of-sand",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "civilisation-of-sand",
+    "fit_status": "clarify",
+    "fit_reason": "The story world may fit only when converted into evidence-grounded, hands-on materials, ecology or resilient-design learning rather than fiction development alone.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland applicant, qualified STEM lead, accurate content, defined participants, cultural permissions and hands-on program evidence",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "hands-on materials and resilient-design STEM program",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This hands-on materials and resilient-design STEM program could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Use the story frame to support one accurate, hands-on materials or resilient-design learning program with measurable STEM outcomes.",
+    "next_move": "Obtain a qualified STEM lead and make a go or no-go decision by 14 September; do not use the grant for general story development.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, STEM lead, evidence base, participants, cultural authority, learning design, safeguarding, budget and measures."
+  },
+  {
+    "match_key": "qld-stem-engagement-2027--cosmic-nexus",
+    "grant_source_key": "qld-stem-engagement-2027",
+    "project_key": "cosmic-nexus",
+    "fit_status": "clarify",
+    "fit_reason": "A source-checking, observation and science-literacy workshop may fit, but unexplained claims, tourism promotion and speculative media production do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland applicant, qualified science educators, evidence-grounded content, hands-on activity, participant safety and permissions",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "critical science and observation literacy workshop",
+    "funding_ask": "Up to $25,000 excluding GST",
+    "cofunding_plan": "This critical science and observation literacy workshop could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Deliver a hands-on program about observation, evidence quality and responsible science communication without presenting mystery claims as fact.",
+    "next_move": "Secure a science-education lead and test the workshop against the guidelines by 14 September before deciding whether to apply.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, educators, evidence standards, hands-on method, audience, safety, permissions, budget and learning measures."
+  },
+  {
+    "match_key": "creative-australia-creative-futures-2026-27--gajra-earth",
+    "grant_source_key": "creative-australia-creative-futures-2026-27",
+    "project_key": "gajra-earth",
+    "fit_status": "clarify",
+    "fit_reason": "A mature arts-led public work could fit only if it already has substantial development, Australian-majority IP, partners, co-investment and an audience pathway.",
+    "eligibility_status": "TO BE CONFIRMED: legally constituted eligible arts organisation or consortium, mature work, track record, Australian-majority IP, partners, co-investment and presentation pathway",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-29",
+    "stack_role": "mature planetary arts and civic-imagination work",
+    "funding_ask": "$150,000-$250,000 development or $250,000-$1.5 million delivery",
+    "cofunding_plan": "This mature planetary arts and civic-imagination work could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Define one developed arts work with a clear artistic team, public presentation and rights framework; do not apply for a broad philosophy platform.",
+    "next_move": "Complete a hard maturity and eligibility gate by 12 September; stop if the legal applicant, work, partners, IP or co-investment do not already exist.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm legal applicant, artistic track record, mature work, IP, partners, co-investment, presentation, audience evidence, rights and budget."
+  },
+  {
+    "match_key": "redland-community-support--grey-area-commons",
+    "grant_source_key": "redland-community-support",
+    "project_key": "grey-area-commons",
+    "fit_status": "clarify",
+    "fit_reason": "A safeguarded adult consent and healthy-connection education pilot may fit community wellbeing outcomes; private advice, clinical service and unmoderated content do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, qualified safeguarding lead, adult-only scope, privacy controls, referral boundaries and community need",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "adult consent and healthy-connection education pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This adult consent and healthy-connection education pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Deliver one adult-only, professionally reviewed public education and referral pilot with strong privacy and no personalised advice.",
+    "next_move": "Confirm a qualified safeguarding partner and written privacy/referral boundaries before preparing the October-round application.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, qualified lead, adult-only audience, safeguarding, privacy, referral pathways, content review, budget and evaluation."
+  },
+  {
+    "match_key": "redland-community-support--legal-memory-workbench",
+    "grant_source_key": "redland-community-support",
+    "project_key": "legal-memory-workbench",
+    "fit_status": "clarify",
+    "fit_reason": "A public digital and legal-information literacy workshop may fit community capacity outcomes; legal advice, casework and general software maintenance do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, qualified content review, public-information boundary, privacy method and defined local participants",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "community source and legal-information literacy pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This community source and legal-information literacy pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Teach residents how to organise sources, questions and evidence before seeking qualified help, with an explicit no-legal-advice boundary.",
+    "next_move": "Confirm an eligible applicant and qualified reviewer before 12 October, then define one workshop series and public resource.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, reviewer, no-advice boundary, participants, privacy, accessibility, curriculum, budget and evaluation."
+  },
+  {
+    "match_key": "federal-thriving-suburbs-growing-regions-forecast-2026--moreton-bay-autonomous-mobility",
+    "grant_source_key": "federal-thriving-suburbs-growing-regions-forecast-2026",
+    "project_key": "moreton-bay-autonomous-mobility",
+    "fit_status": "watch",
+    "fit_reason": "Future community-infrastructure funding may become relevant to accessible transport facilities, but the program is not open and does not validate autonomous deployment.",
+    "eligibility_status": "TO BE CONFIRMED: final program guidelines, eligible geography and applicant, council role, capital-works scope, site control, co-funding and transport approvals",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "future accessible community transport infrastructure",
+    "funding_ask": "$250,000-$15 million only if final rules and capital scope fit",
+    "cofunding_plan": "This future accessible community transport infrastructure could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Separate an evidence-led accessible transport infrastructure need from autonomous vehicle research, operations or unsupported technology claims.",
+    "next_move": "Monitor the official guidelines and build a council-led need, site and capital-scope evidence pack; do not treat this forecast as an open grant.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm published round, geography, applicant, council authority, community need, capital works, site control, approvals, co-funding and ownership."
+  },
+  {
+    "match_key": "redland-community-support--p4a-purple-civic-lab",
+    "grant_source_key": "redland-community-support",
+    "project_key": "p4a-purple-civic-lab",
+    "fit_status": "clarify",
+    "fit_reason": "A strictly non-partisan civic learning and community participation pilot may fit; party activity, election campaigning, lobbying and ideology promotion do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, non-partisan scope, defined public benefit, facilitation safeguards and no political campaign activity",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "non-partisan civic learning and participation pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This non-partisan civic learning and participation pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Run one neutral civic-literacy and community problem-solving pilot with diverse participation and published facilitation rules.",
+    "next_move": "Ask Council to confirm the non-partisan educational scope before 12 October and stop if political activity would make it ineligible.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, Council interpretation, non-partisan scope, facilitators, participants, safeguarding, accessibility, budget and evaluation."
+  },
+  {
+    "match_key": "redland-community-support--quandamooka-country-events-engine",
+    "grant_source_key": "redland-community-support",
+    "project_key": "quandamooka-country-events-engine",
+    "fit_status": "clarify",
+    "fit_reason": "A public-safe local event planning and participation resource may fit community capacity outcomes if cultural authority and contributor permissions are explicit.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, Quandamooka cultural authority where relevant, public-source permissions, privacy controls and local delivery",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "community event planning and participation resource",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This community event planning and participation resource could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Deliver one public-safe local event information and organiser-capability pilot without publishing restricted cultural or personal material.",
+    "next_move": "Confirm applicant, organiser need and cultural review pathway before the round opens on 12 October.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, organisers, cultural authority, source permissions, privacy, accessibility, moderation, budget and evaluation."
+  },
+  {
+    "match_key": "gcbf-next-round-watch--ready-set-co-op-hyperlocal-media",
+    "grant_source_key": "gcbf-next-round-watch",
+    "project_key": "ready-set-co-op-hyperlocal-media",
+    "fit_status": "clarify",
+    "fit_reason": "An eligible not-for-profit may seek equipment or a defined community media-skills program; co-op business costs, routine wages and commercial production need separate funding.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland not-for-profit or sponsor, community benefit, eligible equipment or program costs, quotes, ownership and insurance",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-28",
+    "stack_role": "community media equipment and skills layer",
+    "funding_ask": "Up to $35,000",
+    "cofunding_plan": "This community media equipment and skills layer could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Fund a defined community training program and shared eligible equipment held by the accountable not-for-profit, not a commercial media operation.",
+    "next_move": "Confirm the legal applicant, asset owner and eligible-cost list by 14 September, then obtain quotes before Round 127 closes.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, community users, trainers, eligible costs, quotes, asset ownership, insurance, safeguarding, budget and outcomes."
+  },
+  {
+    "match_key": "redland-community-support--stradbroke-grants-lab",
+    "grant_source_key": "redland-community-support",
+    "project_key": "stradbroke-grants-lab",
+    "fit_status": "clarify",
+    "fit_reason": "A time-limited public grant-readiness and digital inclusion program may fit community capacity outcomes; ongoing website maintenance and private consulting do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, defined community participants, public benefit, accessible delivery, privacy controls and non-commercial scope",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "community grant-readiness and digital inclusion pilot",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "This community grant-readiness and digital inclusion pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Deliver facilitated grant-readiness sessions and accessible public tools for local groups, separate from routine platform maintenance.",
+    "next_move": "Confirm a community applicant and participant need before 12 October, then scope a finite workshop and support program.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, participants, facilitators, public/private boundary, accessibility, curriculum, budget and evaluation."
+  },
+  {
+    "match_key": "gcbf-next-round-watch--straddie-content-assets-kit",
+    "grant_source_key": "gcbf-next-round-watch",
+    "project_key": "straddie-content-assets-kit",
+    "fit_status": "clarify",
+    "fit_reason": "Shared media equipment and practical community training may fit if an eligible not-for-profit owns, insures and manages the assets for public benefit.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland not-for-profit or sponsor, defined community users, eligible equipment, three quotes where required, ownership, storage and insurance",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-28",
+    "stack_role": "shared community media equipment and training layer",
+    "funding_ask": "Up to $35,000",
+    "cofunding_plan": "This shared community media equipment and training layer could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Purchase only an evidenced shared kit and deliver practical training under a documented booking, storage and maintenance plan.",
+    "next_move": "Confirm the applicant and asset-management plan by 14 September, then obtain compliant quotes and separate commercial production costs.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, users, equipment list, quotes, asset ownership, storage, insurance, trainers, budget and outcomes."
+  },
+  {
+    "match_key": "frrr-src-small-vital-round-30--straddie-vitality-network-builders",
+    "grant_source_key": "frrr-src-small-vital-round-30",
+    "project_key": "straddie-vitality-network-builders",
+    "fit_status": "clarify",
+    "fit_reason": "A small non-clinical community wellbeing, connection or volunteer-capacity pilot may fit if Minjerribah and the applicant meet FRRR place and charitable-purpose rules.",
+    "eligibility_status": "TO BE CONFIRMED: eligible charitable not-for-profit or auspice, qualifying small rural community, one SRC stream only, non-clinical scope and local evidence",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-17",
+    "stack_role": "community wellbeing and volunteer-capacity pilot",
+    "funding_ask": "Up to $10,000",
+    "cofunding_plan": "This community wellbeing and volunteer-capacity pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Fund one practical community connection, volunteer or wellbeing-capacity activity; keep clinical care and broad infrastructure outside the ask.",
+    "next_move": "Confirm FRRR place eligibility, applicant and one tightly scoped pilot by 11 September; do not rush an application without those gates.",
+    "human_roles": [
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare the evidence register, budget worksheet and deadline brief for human review",
+      "Flag unsupported claims, missing authority, duplicated costs and source changes"
+    ],
+    "readiness_check": "Confirm applicant, FRRR geography, charitable purpose, participants, non-clinical scope, safeguarding, budget and measures."
   }
 ]

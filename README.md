@@ -84,6 +84,8 @@ This workbench does not establish eligibility, partner assent, authority, capabi
 - First substantive build: 6 May 2026.
 - GitHub repository: [stradbroke-grants-lab](https://github.com/auraofintelligence/stradbroke-grants-lab).
 - Public site: [visit the public site](https://auraofintelligence.github.io/stradbroke-grants-lab/).
+- Strange But True Community Ledger: [browse the Community Ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html).
+- Straddie Noticeboard Network: [visit the public site](https://auraofintelligence.github.io/straddie-noticeboard-network/).
 
 ## Related public projects
 
