@@ -210,14 +210,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-08",
-    "action_priority": "act_now",
-    "action_by": "2026-09-08",
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": null,
     "stack_role": "habitat and participation project",
     "funding_ask": "Up to $25,000 excluding GST",
     "cofunding_plan": "Use this habitat and participation project to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Deliver permitted native pollinator habitat, citizen learning and long-term ecological monitoring at an authorised site.",
-    "next_move": "Use the grant for eligible habitat and community activity; source hive or commercial costs elsewhere.",
+    "next_move": "Round 2 is closed. Keep the applicant, site, ecological method, quote and maintenance pack ready for a future official environmental round.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -243,14 +243,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-08",
-    "action_priority": "act_now",
-    "action_by": "2026-09-08",
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": null,
     "stack_role": "environmental pilot",
     "funding_ask": "Up to $25,000 excluding GST",
     "cofunding_plan": "This environmental pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Select one permitted community repair, reuse or reclaimed-material green-space project with measurable diversion and environmental benefit.",
-    "next_move": "Use this grant for eligible environmental activity; use small community grants for tools and future capital programs for infrastructure.",
+    "next_move": "Round 2 is closed. Keep the applicant, site, ecological method, quote and maintenance pack ready for a future official environmental round.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -3068,5 +3068,71 @@
       "Separate planning costs from later program, equipment and capital layers"
     ],
     "readiness_check": "Confirm applicant, community priority, site or service authority, cultural permissions, engagement method, insurance, scope, budget, output and later ownership."
+  },
+  {
+    "match_key": "creative-australia-young-first-nations-arts-2026--sovereign-music-australia",
+    "grant_source_key": "creative-australia-young-first-nations-arts-2026",
+    "project_key": "sovereign-music-australia",
+    "fit_status": "clarify",
+    "fit_reason": "An eligible young First Nations artist or arts worker could fund their own non-screen music practice, skills, marketing or audience-development project; the national platform, software and screen production are not eligible through this individual fund.",
+    "eligibility_status": "TO BE CONFIRMED: individual First Nations applicant aged 18 to 35, Australian residency, non-screen arts scope, personal authority, rights, ABN or auspice and registration",
+    "evidence_needed": [
+      "eligible individual applicant and authority to apply",
+      "defined non-screen creative-practice or career project",
+      "work samples, participant and cultural permissions",
+      "budget, timeline, ABN or confirmed auspice and registration"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "act_now",
+    "action_by": "2026-09-15",
+    "stack_role": "young artist practice and audience-development layer",
+    "funding_ask": "$10,000-$20,000",
+    "cofunding_plan": "This individual creative-practice layer could combine with the artist's own earned income, member or audience fundraising, philanthropy, later arts grants and verified in-kind mentoring, venue or production support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Select one eligible young First Nations artist's own non-screen music practice, skills, marketing or audience-development project, separate from the whole platform.",
+    "next_move": "By 11 September, confirm whether a willing eligible individual already exists and can complete Creative Australia registration at least two business days before closing; otherwise do not rush an application.",
+    "human_roles": [
+      "Eligible First Nations artist or arts worker aged 18 to 35",
+      "Confirmed auspice decision-maker if needed",
+      "Cultural, rights, artistic and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the official eligibility and registration checklist",
+      "Separate the individual non-screen project from software, film and platform costs",
+      "Draft a work-sample, budget and permission register for human review"
+    ],
+    "readiness_check": "Confirm individual eligibility, personal and cultural authority, non-screen scope, work samples, rights, ABN or auspice, registration, budget and timeline."
+  },
+  {
+    "match_key": "support-at-home-thin-markets-round-3-2026--health-and-culture",
+    "grant_source_key": "support-at-home-thin-markets-round-3-2026",
+    "project_key": "health-and-culture",
+    "fit_status": "clarify",
+    "fit_reason": "The pathway may support continuity of an existing culturally responsive aged-care service, but it does not fund an unregistered new wellbeing concept, cultural authority work or general community programming.",
+    "eligibility_status": "TO BE CONFIRMED: eligible registered Support at Home provider, applicable thin-market or specialised service, Specialisation Verification where required, service evidence, cultural authority and workforce capacity",
+    "evidence_needed": [
+      "eligible existing provider and authority to apply",
+      "applicable service and thin-market or specialisation evidence",
+      "older-person need, continuity and workforce evidence",
+      "cultural authority, safeguarding, budget and reporting capacity"
+    ],
+    "last_checked": "2026-09-09",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-26",
+    "stack_role": "existing aged-care service continuity layer",
+    "funding_ask": "Varies by eligible provider and service need",
+    "cofunding_plan": "This service-continuity layer could sit beside existing service revenue, philanthropy, resident or family contributions only where lawful, later health grants and verified in-kind support from confirmed organisations. Nothing is secured without evidence.",
+    "qualifying_reframe": "Use only for an existing eligible provider's defined Support at Home service gap; keep broader community wellbeing, meals and cultural programs in separate funding streams.",
+    "next_move": "Ask a human service lead to identify whether an eligible provider and qualifying service already exist before preparing any application material.",
+    "human_roles": [
+      "Eligible Support at Home provider decision-maker",
+      "Aged-care service and safeguarding lead",
+      "Cultural authority, older-person, workforce and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a provider and service eligibility checklist",
+      "Map the service-continuity evidence and separate non-eligible concept costs",
+      "Draft a budget and reporting evidence register for human approval"
+    ],
+    "readiness_check": "Confirm provider registration, service category, Specialisation Verification, cultural authority, service need, workforce, safeguarding, budget and reporting."
   }
 ]

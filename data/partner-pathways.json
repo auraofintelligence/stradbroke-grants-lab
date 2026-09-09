@@ -126,8 +126,8 @@
     "last_checked": "2026-09-01"
   },
   {
-    "pathway_key": "qld-grassroots-environmental-legacy-r2-2026--straddie-tip-loop-lab--roles",
-    "grant_source_key": "qld-grassroots-environmental-legacy-r2-2026",
+    "pathway_key": "frrr-src-small-vital-round-30--straddie-tip-loop-lab--roles",
+    "grant_source_key": "frrr-src-small-vital-round-30",
     "project_key": "straddie-tip-loop-lab",
     "planning_status": "research_only",
     "roles_needed": [
@@ -137,7 +137,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-09-01"
   },
   {
     "pathway_key": "first-nations-clean-energy-projects-pilot-2026--straddie-clean-energy-superpower--roles",
@@ -291,7 +291,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-09-09"
   },
   {
     "pathway_key": "qld-grassroots-wildlife-carers-r2-2026--wildlife-rescue-minjerribah--roles",
@@ -308,18 +308,18 @@
     "last_checked": "2026-09-01"
   },
   {
-    "pathway_key": "frrr-in-a-good-place-round-12--health-and-culture--roles",
-    "grant_source_key": "frrr-in-a-good-place-round-12",
+    "pathway_key": "support-at-home-thin-markets-round-3-2026--health-and-culture--roles",
+    "grant_source_key": "support-at-home-thin-markets-round-3-2026",
     "project_key": "health-and-culture",
     "planning_status": "research_only",
     "roles_needed": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
+      "Eligible Support at Home provider decision-maker",
+      "Aged-care service and safeguarding lead",
+      "Cultural authority, older-person, workforce and financial reviewers"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-01"
+    "last_checked": "2026-09-09"
   },
   {
     "pathway_key": "redland-build-thrive--amity-outdoor-fitness-and-safer-access--roles",
@@ -743,18 +743,18 @@
     "last_checked": "2026-09-08"
   },
   {
-    "pathway_key": "qld-arts-project-fund-round-3-2026--sovereign-music-australia--roles",
-    "grant_source_key": "qld-arts-project-fund-round-3-2026",
+    "pathway_key": "creative-australia-young-first-nations-arts-2026--sovereign-music-australia--roles",
+    "grant_source_key": "creative-australia-young-first-nations-arts-2026",
     "project_key": "sovereign-music-australia",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible artist or organisation decision-maker",
-      "Music and rights lead",
-      "Participant, cultural, access and financial reviewers"
+      "Eligible First Nations artist or arts worker aged 18 to 35",
+      "Confirmed auspice decision-maker if needed",
+      "Cultural, rights, artistic and financial reviewers"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-09-09"
   },
   {
     "pathway_key": "frrr-src-small-vital-round-30--oceania-healthy-de-slop-co-ops--roles",

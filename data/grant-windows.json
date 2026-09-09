@@ -488,10 +488,10 @@
   {
     "source_key": "qld-grassroots-environmental-legacy-r2-2026",
     "title": "Grassroots Environmental Legacy Round 2",
-    "window_type": "Open grant",
-    "notify": "Eligible Queensland community organisations with a site-authorised environmental project.",
-    "tip": "Up to $25,000 excluding GST. Closes 4:00pm AEST 8 September 2026.",
-    "action": "Confirm site permission, ecological method, community participation, maintenance, eligible costs and quotes before drafting.",
+    "window_type": "Future round",
+    "notify": "Eligible Queensland community organisations preparing a site-authorised environmental project for a future round.",
+    "tip": "Round 2 closed 4:00pm AEST 8 September 2026. No next opening date is published.",
+    "action": "Retain the site permission, ecological method, community participation, maintenance, eligible-cost and quote pack for a future official round.",
     "source": "Queensland Government"
   },
   {
@@ -592,5 +592,23 @@
     "tip": "Development $150,000-$250,000; Delivery $250,000-$1.5 million. Stage 1 closes 3:00pm AEST 29 September 2026.",
     "action": "Do not use for a new untested concept. Confirm legal applicant, track record, majority-Australian IP, mature work, presentation pathway, co-investment, partners, budget and rights.",
     "source": "Creative Australia"
+  },
+  {
+    "source_key": "creative-australia-young-first-nations-arts-2026",
+    "title": "Young People: First Nations Arts & Culture Project Fund",
+    "window_type": "Closing soon",
+    "notify": "Australian First Nations artists and arts workers aged 18 to 35 with a defined non-screen creative-practice or career-development project.",
+    "tip": "$10,000-$20,000. Closes 3:00pm AEST 15 September 2026; registration is required at least two business days earlier.",
+    "action": "Only an eligible individual can lead. Confirm age, identity, residency, non-screen scope, cultural and contributor permissions, budget, work samples, ABN or auspice and registration before drafting.",
+    "source": "Creative Australia"
+  },
+  {
+    "source_key": "support-at-home-thin-markets-round-3-2026",
+    "title": "Support at Home Thin Markets Round 3",
+    "window_type": "Open grant",
+    "notify": "Existing eligible Support at Home providers maintaining rural, remote, specialised or culturally responsive aged-care services.",
+    "tip": "Applicant amount varies; more than $311 million is the round envelope. Closes 2:00pm AEDT 26 November 2026.",
+    "action": "Confirm provider eligibility, service thin-market category, Specialisation Verification where required, older-person needs, cultural authority, workforce, service continuity evidence and budget before proceeding.",
+    "source": "Australian Government Department of Health, Disability and Ageing"
   }
 ]
