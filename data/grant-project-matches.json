@@ -2639,5 +2639,170 @@
       "Flag unsupported claims, missing authority, duplicated costs and source changes"
     ],
     "readiness_check": "Confirm applicant, FRRR geography, charitable purpose, participants, non-clinical scope, safeguarding, budget and measures."
+  },
+  {
+    "match_key": "niaa-community-initiated-proposals--ready-set-co-op-cultural-intelligence-node",
+    "grant_source_key": "niaa-community-initiated-proposals",
+    "project_key": "ready-set-co-op-cultural-intelligence-node",
+    "fit_status": "clarify",
+    "fit_reason": "A community-developed, First Nations-controlled capability proposal may enter NIAA's initial-proposal process if the affected community identifies the need, authorises the framing and no more suitable open program exists. The public concept alone is not evidence of community authority.",
+    "eligibility_status": "TO BE CONFIRMED: affected First Nations community leadership, legal applicant, community-developed need, regional and IAS alignment, cultural authority, data governance and NIAA invitation",
+    "evidence_needed": [
+      "written evidence that the affected community developed and authorises the proposal",
+      "confirmed legal applicant and accountable governance",
+      "documented need, public benefit, regional alignment and why other programs do not fit",
+      "cultural authority, data governance, privacy, ICIP and participant assent controls"
+    ],
+    "last_checked": "2026-09-11",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "community-authorised capability and planning pathway",
+    "funding_ask": "Varies by invited Agency Collaborates proposal; no standard applicant range is published",
+    "cofunding_plan": "If the community authorises the work, this planning layer could combine with resident or member fundraising, confirmed organisational in-kind support, philanthropy, earned income from later services and later grants. Nothing is secured or approved.",
+    "qualifying_reframe": "Start with a community-defined practical capability need and accountable local governance, not a pre-labelled cultural intelligence system or technology sale.",
+    "next_move": "An authorised community lead must first decide whether there is a real need and whether to prepare a one-page initial proposal; AI can prepare evidence only after that decision.",
+    "human_roles": [
+      "Affected First Nations community decision-makers and cultural authority",
+      "Eligible legal applicant and accountable governance lead",
+      "Data governance, privacy, technical and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a blank needs, outcomes and evidence frame for authorised human completion",
+      "Map the concept against IAS priorities and alternative open programs",
+      "Flag unsupported authority, ICIP, consent, applicant and data-control claims"
+    ],
+    "readiness_check": "Confirm community authorship and authority, applicant eligibility, governance, need, regional alignment, cultural and data controls, budget and NIAA invitation before any application work."
+  },
+  {
+    "match_key": "iba-business-finance--ready-s-e-t-co-op-trust-hub",
+    "grant_source_key": "iba-business-finance",
+    "project_key": "ready-s-e-t-co-op-trust-hub",
+    "fit_status": "clarify",
+    "fit_reason": "IBA finance could support fit-out, equipment, working capital or commercial assets only if the hub becomes an eligible Indigenous-owned business with a viable trading model and repayment capacity. A co-op concept and community benefit do not establish credit eligibility.",
+    "eligibility_status": "TO BE CONFIRMED: Indigenous ownership and control, legal business structure, commercial viability, forecasts, credit, security, repayment capacity, quotes and lawful site or asset control",
+    "evidence_needed": [
+      "confirmed Indigenous-owned legal business and authorised directors",
+      "trading model, customer evidence, cash-flow forecast and repayment plan",
+      "site control, fit-out or equipment quotes and asset-ownership plan",
+      "independent financial and legal review of loan and any grant component"
+    ],
+    "last_checked": "2026-09-11",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "repayable fit-out, equipment and working-capital layer",
+    "funding_ask": "$10,000-$5 million business loan range; start-up finance up to $150,000 may include up to 30% grant for eligible capital purchases",
+    "cofunding_plan": "Repayable finance could sit behind member capital, resident fundraising, confirmed sponsor or philanthropy support, earned income, customer pre-commitments, in-kind fit-out support and later grants. No finance or contribution is secured.",
+    "qualifying_reframe": "Define one Indigenous-owned, revenue-generating co-working or shared-asset business with measurable local jobs and a conservative first-stage asset plan.",
+    "next_move": "Confirm the intended owners and legal structure, then build a small trading forecast and asset list before any IBA discussion.",
+    "human_roles": [
+      "Indigenous business owners and authorised directors",
+      "Accountant or finance adviser",
+      "Site or asset controller and operating lead"
+    ],
+    "ai_tasks": [
+      "Prepare a draft asset schedule, cash-flow model and evidence checklist",
+      "Separate grant-eligible capital items from repayable finance and operating costs",
+      "Flag unsupported ownership, site, revenue, security and repayment assumptions"
+    ],
+    "readiness_check": "Confirm Indigenous ownership, entity, business plan, demand, revenue, costs, repayment capacity, security, site, quotes, insurance and independent advice."
+  },
+  {
+    "match_key": "iba-business-finance--ballow-road-sand-screen-hub",
+    "grant_source_key": "iba-business-finance",
+    "project_key": "ballow-road-sand-screen-hub",
+    "fit_status": "watch",
+    "fit_reason": "IBA equipment or business finance could contribute to a modular outdoor LED screen only through an eligible Indigenous-owned commercial operator that will legally own, insure, maintain and repay finance from evidenced trading income. It is not a grant substitute for a community concept.",
+    "eligibility_status": "TO BE CONFIRMED: Indigenous-owned business applicant, commercial viability, broadcaster and content model where relevant, legal asset owner, site permission, permits, insurance, maintenance, credit and repayment capacity",
+    "evidence_needed": [
+      "confirmed Indigenous-owned business and authorised borrowing decision",
+      "screen specification, supplier quotes, ownership, storage, maintenance and insurance plan",
+      "written site control and permit pathway",
+      "revenue model, cash-flow forecast, audience evidence and independent finance review"
+    ],
+    "last_checked": "2026-09-11",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "conditional repayable LED equipment and commercial-asset layer",
+    "funding_ask": "Equipment or business finance within the published $10,000-$5 million loan range; a start-up package up to $150,000 may include a limited capital grant component",
+    "cofunding_plan": "If a viable operator is confirmed, finance could combine with member capital, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy, earned event income and later eligible grants. None is secured.",
+    "qualifying_reframe": "Treat the modular screen as a legally owned, insured and revenue-supported Indigenous business asset serving separately funded community programs, not as an unfunded public object.",
+    "next_move": "Do not seek finance yet. First settle the applicant, asset owner, broadcaster role, site, screen specification, permits, insurance, maintenance and conservative revenue case.",
+    "human_roles": [
+      "Indigenous business owners and borrowing decision-makers",
+      "Legal asset owner and site controller",
+      "Broadcaster or programming lead, technical adviser, accountant and insurer"
+    ],
+    "ai_tasks": [
+      "Prepare a capital-stack table separating grants, finance, fundraising and program income",
+      "Build a supplier-quote, ownership, site, permit, maintenance and insurance checklist",
+      "Stress-test attendance and revenue assumptions for human and accountant review"
+    ],
+    "readiness_check": "Confirm applicant ownership, business viability, broadcaster role, asset owner, site control, screen specification, quotes, permits, insurance, maintenance, revenue and repayment capacity."
+  },
+  {
+    "match_key": "screen-australia-narrative-content-development--civilisation-of-sand",
+    "grant_source_key": "screen-australia-narrative-content-development",
+    "project_key": "civilisation-of-sand",
+    "fit_status": "clarify",
+    "fit_reason": "A distinct narrative screen project developed from the science-fiction backbone may fit the rolling fund, but the current public concept is not yet a production-ready story package and any First Nations participation, place or content requires the correct authority and protocols.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Australian applicant and ABN, writer-director-producer team, narrative platform, rights, authentic creative connection, story materials, audience pathway and cultural authority",
+    "evidence_needed": [
+      "eligible applicant and accountable creative team",
+      "treatment or script sample, development plan and project budget",
+      "rights chain, audience and market pathway",
+      "written cultural authority, participation and ICIP controls where relevant"
+    ],
+    "last_checked": "2026-09-11",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "narrative story and market-development layer",
+    "funding_ask": "$10,000-$50,000 for eligible narrative development",
+    "cofunding_plan": "Development funding could combine with creator in-kind time, member or resident fundraising, philanthropy, confirmed producer investment, earned income and later production grants. Every layer remains unsecured until evidenced.",
+    "qualifying_reframe": "Choose one authored narrative for a defined screen platform and develop its story, characters, rights, audience and production pathway separately from the wider civic-worldbuilding system.",
+    "next_move": "Identify the authorised writer, producer, platform and one-page story premise, then prepare a rights and cultural-authority map before discussing an application.",
+    "human_roles": [
+      "Writer, director and producer with authentic connection to the story",
+      "Rights holder and eligible legal applicant",
+      "Cultural authority and community participants where relevant"
+    ],
+    "ai_tasks": [
+      "Prepare a blank treatment, development-plan and audience-pathway structure",
+      "Create a rights, source and permissions register for human review",
+      "Flag invented cultural claims, unclear authorship and unsupported market assumptions"
+    ],
+    "readiness_check": "Confirm applicant, ABN, creative team, story materials, platform, rights, budget, audience, cultural authority and Screen Australia eligibility."
+  },
+  {
+    "match_key": "qld-touring-fund-round-3-2026--i-c-infinity-music-universe",
+    "grant_source_key": "qld-touring-fund-round-3-2026",
+    "project_key": "i-c-infinity-music-universe",
+    "fit_status": "clarify",
+    "fit_reason": "A developed live music or multi-arts work could fit a regional Queensland tour, but an album universe or planning tool alone is not a tour-ready product. Artists, rights, route, presenters, audiences and delivery capacity must be real and confirmed.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland applicant, completed or developed work, artists, rights, regional route, presenters or venues, contracts, audience evidence, co-funding and tour budget",
+    "evidence_needed": [
+      "confirmed artists, repertoire, rights and tour-ready work",
+      "eligible applicant and accountable producer",
+      "regional Queensland route, venue or presenter interest and audience case",
+      "tour budget, fees, travel, access, safety, insurance and co-funding evidence"
+    ],
+    "last_checked": "2026-09-11",
+    "action_priority": "prepare_next",
+    "action_by": "2026-10-12",
+    "stack_role": "regional touring and audience-development layer",
+    "funding_ask": "Up to $100,000 for one tour or touring program",
+    "cofunding_plan": "Touring support could combine with ticket or earned income, artist or member contribution, local sponsor cash or in-kind support, venue contribution, resident fundraising, philanthropy and later grants. None is secured.",
+    "qualifying_reframe": "Select one finished live work and a realistic regional Queensland route rather than seeking support for the whole music universe.",
+    "next_move": "By 21 September, confirm the work, artist team, rights, applicant and three plausible regional stops before investing in a full application.",
+    "human_roles": [
+      "Artists and rights holders",
+      "Eligible applicant and tour producer",
+      "Regional venue or presenter decision-makers, access and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a route, venue, audience and budget worksheet",
+      "Draft a rights, contracts, access and co-funding checklist",
+      "Flag unconfirmed artists, venues, permissions and income assumptions"
+    ],
+    "readiness_check": "Confirm applicant, tour-ready work, artists, rights, route, presenters, contracts, audiences, budget, co-funding, access, insurance and delivery capacity."
   }
 ]

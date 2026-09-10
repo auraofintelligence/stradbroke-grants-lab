@@ -637,5 +637,68 @@
     "tip": "Applicant amount varies; more than $311 million is the round envelope. Closes 2:00pm AEDT 26 November 2026.",
     "action": "Confirm provider eligibility, service thin-market category, Specialisation Verification where required, older-person needs, cultural authority, workforce, service continuity evidence and budget before proceeding.",
     "source": "Australian Government Department of Health, Disability and Ageing"
+  },
+  {
+    "source_key": "creative-australia-elevate-first-nations-literature-2026",
+    "title": "Elevate: First Nations Storytelling and Literature Fund",
+    "window_type": "Closing soon",
+    "notify": "Eligible First Nations writers, poets, editors, illustrators, journalists, arts workers and literature groups with a defined career-development or literature project.",
+    "tip": "$10,000 fixed grant. Closes 3:00pm AEST 15 September 2026; registration is required at least two business days earlier.",
+    "action": "Confirm eligible individual or group, identity, ABN or administrator, non-screen literature scope, authority, contributor permissions, work samples and budget before drafting.",
+    "source": "Creative Australia"
+  },
+  {
+    "source_key": "creative-australia-first-nations-business-innovation-award-2027",
+    "title": "First Nations Arts and Culture Business Innovation Award",
+    "window_type": "Closing soon",
+    "notify": "Existing 100% First Nations-owned and led small-to-medium arts and cultural businesses or community organisations with demonstrated innovation and cultural integrity.",
+    "tip": "One $25,000 award. Self-nominations close 3:00pm AEST 15 September 2026; registration is required at least two business days earlier.",
+    "action": "Only proceed for an already eligible and established entity with evidence of ownership, leadership, innovation, cultural integrity and registration. Do not nominate a project idea as though it were a business.",
+    "source": "Creative Australia"
+  },
+  {
+    "source_key": "niaa-community-initiated-proposals",
+    "title": "NIAA Community Initiated Proposals",
+    "window_type": "Rolling search",
+    "notify": "First Nations communities, organisations, businesses or individuals with a community-developed proposal that has no better open funding pathway.",
+    "tip": "Amount varies. NIAA requires an initial discussion and proposal review before it may invite a full Agency Collaborates application.",
+    "action": "Confirm the affected community developed and authorises the proposal, document the need and regional alignment, check other open programs first, then let an authorised human decide whether to approach the NIAA regional office.",
+    "source": "National Indigenous Australians Agency"
+  },
+  {
+    "source_key": "iba-business-finance",
+    "title": "Indigenous Business Australia Business Finance",
+    "window_type": "Rolling search",
+    "notify": "Eligible Indigenous-owned businesses with a commercially viable plan for working capital, equipment, fit-out or commercial assets and a demonstrated capacity to repay finance.",
+    "tip": "Business loans range from $10,000 to $5 million. Start-up finance up to $150,000 may include up to 30% as a grant for eligible capital purchases.",
+    "action": "Confirm Indigenous ownership, legal entity, business plan, forecasts, repayment capacity, security, quotes and legal asset ownership before any finance enquiry. Treat the main amount as debt, not grant income.",
+    "source": "Indigenous Business Australia"
+  },
+  {
+    "source_key": "screen-australia-narrative-content-development",
+    "title": "Screen Australia Narrative Content Development",
+    "window_type": "Rolling search",
+    "notify": "Eligible Australian narrative creators or production companies with a developed story concept, authentic creative connection and a viable audience pathway.",
+    "tip": "$10,000-$50,000 per application. Applications are always open.",
+    "action": "Prepare the story materials, rights chain, creative-team evidence, development plan, audience pathway, budget and any First Nations or community protocols before applying.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "crc-round-28-ai-accelerator-forecast",
+    "title": "CRC Round 28 AI Accelerator forecast",
+    "window_type": "Future round",
+    "notify": "National-scale industry, research and community consortia developing commercially relevant artificial intelligence capability.",
+    "tip": "About $50 million is forecast for at least one AI CRC, but that is a program envelope. Round 28 applicant amounts, dates and final rules are not yet published.",
+    "action": "Watch for 2027 guidelines. Only build a pathway where an industry-led consortium, research partners, matching contributions, commercialisation case and genuine community role can be evidenced.",
+    "source": "business.gov.au"
+  },
+  {
+    "source_key": "qld-touring-fund-round-3-2026",
+    "title": "Queensland Touring Fund Round 3",
+    "window_type": "Open grant",
+    "notify": "Queensland artists, groups or organisations with a developed, tour-ready arts or cultural work and a credible regional Queensland audience pathway.",
+    "tip": "Up to $100,000 for a single tour or touring program up to 12 months. Closes 12 October 2026; the overview page does not publish a closing time.",
+    "action": "Confirm applicant eligibility, developed work, regional route, presenters or venues, contracts, rights, cultural authority where relevant, budget, co-funding and tour delivery capacity.",
+    "source": "Arts Queensland"
   }
 ]
