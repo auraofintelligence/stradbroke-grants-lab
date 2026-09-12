@@ -697,8 +697,26 @@
     "title": "Queensland Touring Fund Round 3",
     "window_type": "Open grant",
     "notify": "Queensland artists, groups or organisations with a developed, tour-ready arts or cultural work and a credible regional Queensland audience pathway.",
-    "tip": "Up to $100,000 for a single tour or touring program up to 12 months. Closes 12 October 2026; the overview page does not publish a closing time.",
-    "action": "Confirm applicant eligibility, developed work, regional route, presenters or venues, contracts, rights, cultural authority where relevant, budget, co-funding and tour delivery capacity.",
+    "tip": "Up to $100,000 for a single tour or touring program up to 12 months, covering up to 50% of costs. Additional access funding up to $10,000 may be available. Closes 2:00pm AEST 12 October 2026.",
+    "action": "Confirm applicant eligibility, developed work, at least three regional locations outside the home location, presenters or venues, contracts, rights, cultural authority where relevant, budget, co-funding and tour delivery capacity.",
     "source": "Arts Queensland"
+  },
+  {
+    "source_key": "qld-tourism-business-capability-subsidy-2026",
+    "title": "Queensland Tourism Business Capability Subsidy",
+    "window_type": "Open subsidy",
+    "notify": "Existing eligible Queensland tourism and events businesses seeking approved training or accreditation, not project-delivery or equipment funding.",
+    "tip": "Up to $2,000. Closes 30 September 2026 or earlier when funds are exhausted; no closing time is published.",
+    "action": "Confirm an existing eligible business, ATDW registration, ABN, GST, Queensland base, workforce size and an approved training or accreditation course before applying.",
+    "source": "business.gov.au / Queensland Tourism Industry Council"
+  },
+  {
+    "source_key": "qld-community-housing-energy-upgrades-2026",
+    "title": "Queensland Community Housing Energy Upgrades rebate",
+    "window_type": "Open rebate",
+    "notify": "Registered community housing providers that own and manage existing eligible Queensland community-housing dwellings.",
+    "tip": "Up to $4,500 excluding GST per eligible dwelling. Applications close 30 October 2026 and installations must finish by 30 June 2027.",
+    "action": "Confirm provider registration and dwelling ownership, choose eligible upgrades, obtain compliant quotes and secure QRIDA conditional approval before any purchase or installation.",
+    "source": "Queensland Government Department of Housing and Public Works"
   }
 ]

@@ -202,7 +202,7 @@
     "grant_source_key": "gcbf-next-round-watch",
     "project_key": "ballow-road-sand-screen-hub",
     "fit_status": "clarify",
-    "fit_reason": "GCBF may support equipment, facilities and machinery, but no current round or amount is published.",
+    "fit_reason": "GCBF Round 127 is open for one-off grants up to $35,000 and may support eligible equipment, facilities or machinery, but it cannot carry the full LED-screen capital cost and does not establish applicant, asset or site authority.",
     "eligibility_status": "TO BE CONFIRMED: current round, eligible not-for-profit, eligible equipment, no pre-approval purchase and asset governance",
     "evidence_needed": [
       "confirmed legal applicant and authority to apply",
@@ -540,7 +540,7 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-08",
+    "last_checked": "2026-09-12",
     "action_priority": "prepare_next",
     "action_by": "2027-02-07",
     "stack_role": "fixed access and facility works",
@@ -2785,11 +2785,11 @@
       "regional Queensland route, venue or presenter interest and audience case",
       "tour budget, fees, travel, access, safety, insurance and co-funding evidence"
     ],
-    "last_checked": "2026-09-11",
+    "last_checked": "2026-09-12",
     "action_priority": "prepare_next",
     "action_by": "2026-10-12",
     "stack_role": "regional touring and audience-development layer",
-    "funding_ask": "Up to $100,000 for one tour or touring program",
+    "funding_ask": "Up to $100,000 for one tour or touring program covering up to 50% of costs, plus up to $10,000 in eligible access funding",
     "cofunding_plan": "Touring support could combine with ticket or earned income, artist or member contribution, local sponsor cash or in-kind support, venue contribution, resident fundraising, philanthropy and later grants. None is secured.",
     "qualifying_reframe": "Select one finished live work and a realistic regional Queensland route rather than seeking support for the whole music universe.",
     "next_move": "By 21 September, confirm the work, artist team, rights, applicant and three plausible regional stops before investing in a full application.",
@@ -2803,6 +2803,72 @@
       "Draft a rights, contracts, access and co-funding checklist",
       "Flag unconfirmed artists, venues, permissions and income assumptions"
     ],
-    "readiness_check": "Confirm applicant, tour-ready work, artists, rights, route, presenters, contracts, audiences, budget, co-funding, access, insurance and delivery capacity."
+    "readiness_check": "Confirm applicant, tour-ready work, artists, rights, at least three regional locations outside the home location, presenters, contracts, audiences, budget, co-funding, access, insurance and delivery capacity."
+  },
+  {
+    "match_key": "qld-tourism-business-capability-subsidy-2026--quandamooka-country-events-engine",
+    "grant_source_key": "qld-tourism-business-capability-subsidy-2026",
+    "project_key": "quandamooka-country-events-engine",
+    "fit_status": "clarify",
+    "fit_reason": "The subsidy may help an existing eligible tourism or events business complete approved capability training that strengthens safe, accessible and sustainable event delivery. It cannot fund the events engine, a public event or capital equipment.",
+    "eligibility_status": "TO BE CONFIRMED: existing eligible Queensland tourism or events business, ATDW registration, ABN, GST, fewer than 200 FTE staff, approved training and authorised business decision",
+    "evidence_needed": [
+      "confirmed eligible tourism or events business and authorised decision-maker",
+      "ATDW registration, ABN, GST and established Queensland operating base",
+      "approved training or accreditation quote and direct capability need",
+      "clear separation from platform development, event delivery and capital costs"
+    ],
+    "last_checked": "2026-09-12",
+    "action_priority": "prepare_next",
+    "action_by": "2026-09-30",
+    "stack_role": "small organiser training and accreditation layer",
+    "funding_ask": "Up to $2,000 for eligible approved training or accreditation",
+    "cofunding_plan": "The subsidy could cover part of an eligible course, with the participating business funding any balance from its own unsecured cash or earned income. It must remain separate from event grants, sponsorship, visitor giving and other project-delivery costs; nothing is secured.",
+    "qualifying_reframe": "Use the pathway for one eligible organiser's sustainability, accessible-tourism, cultural-understanding or tourism-quality training, not for building or operating the events engine.",
+    "next_move": "By 18 September, identify whether an existing eligible organiser wants an approved course and can evidence ATDW, ABN and GST status; otherwise leave this as a public watchlist pathway.",
+    "human_roles": [
+      "Eligible tourism or events business owner and authorised applicant",
+      "Event operations or accessibility lead",
+      "Training provider and financial reviewer"
+    ],
+    "ai_tasks": [
+      "Prepare the eligibility and evidence checklist",
+      "Compare approved training options against the organiser's stated capability gap",
+      "Keep subsidy costs separate from event, platform and equipment budgets"
+    ],
+    "readiness_check": "Confirm existing business eligibility, ATDW, ABN, GST, Queensland base, workforce size, approved course, quote, business need and authority to apply."
+  },
+  {
+    "match_key": "qld-community-housing-energy-upgrades-2026--straddie-clean-energy-superpower",
+    "grant_source_key": "qld-community-housing-energy-upgrades-2026",
+    "project_key": "straddie-clean-energy-superpower",
+    "fit_status": "clarify",
+    "fit_reason": "The rebate can support defined energy-efficiency works at existing eligible community-housing dwellings, but only through the registered provider that owns and manages them. It is not funding for a whole-island energy concept or new housing.",
+    "eligibility_status": "TO BE CONFIRMED: active registered community housing provider, eligible existing provider-owned dwelling, Queensland location, compliant upgrades and quotes, conditional approval and licensed installation",
+    "evidence_needed": [
+      "registered community housing provider and authorised decision",
+      "proof the provider owns and manages each eligible existing dwelling",
+      "compliant itemised quotes and upgrade specifications",
+      "QRIDA conditional approval before purchase or installation"
+    ],
+    "last_checked": "2026-09-12",
+    "action_priority": "prepare_next",
+    "action_by": "2026-10-30",
+    "stack_role": "small dwelling-level energy upgrade and bill-reduction layer",
+    "funding_ask": "Up to $4,500 excluding GST per eligible dwelling",
+    "cofunding_plan": "The registered provider must cover any eligible upgrade cost above the rebate and all ineligible GST, administration, project management, maintenance and unrelated works. Other grants, finance or in-kind support are unconfirmed and costs must not be duplicated.",
+    "qualifying_reframe": "Start with one evidence-backed package of eligible upgrades for existing provider-owned community housing rather than a general island electrification proposal.",
+    "next_move": "By 30 September, ask an authorised registered provider to confirm whether it owns eligible Minjerribah dwellings and wants compliant quotes; do not purchase or install before conditional approval.",
+    "human_roles": [
+      "Registered community housing provider decision-maker and property manager",
+      "Tenant-engagement and access lead",
+      "Licensed contractor, energy adviser and financial reviewer"
+    ],
+    "ai_tasks": [
+      "Prepare a dwelling, ownership, registration and eligible-upgrade checklist",
+      "Compare compliant quote requirements and separate eligible from ineligible costs",
+      "Flag missing tenant access, licensing, safety, conditional approval and deadline evidence"
+    ],
+    "readiness_check": "Confirm provider registration, dwelling ownership and management, building class, existing-dwelling status, eligible upgrades, tenant access, quotes, licensing, conditional approval, budget gap and installation timing."
   }
 ]

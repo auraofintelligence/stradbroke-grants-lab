@@ -42,18 +42,18 @@
     "last_checked": "2026-09-09"
   },
   {
-    "pathway_key": "redland-community-support--quandamooka-country-events-engine--roles",
-    "grant_source_key": "redland-community-support",
+    "pathway_key": "qld-tourism-business-capability-subsidy-2026--quandamooka-country-events-engine--roles",
+    "grant_source_key": "qld-tourism-business-capability-subsidy-2026",
     "project_key": "quandamooka-country-events-engine",
     "planning_status": "research_only",
     "roles_needed": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      "Eligible tourism or events business owner and authorised applicant",
+      "Event operations or accessibility lead",
+      "Training provider and financial reviewer"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-09"
+    "last_checked": "2026-09-12"
   },
   {
     "pathway_key": "redland-events-grant-2026-27--ballow-road-sand-screen-hub--roles",
@@ -333,7 +333,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-09-12"
   },
   {
     "pathway_key": "frrr-src-prepare-recover-round-30--disaster-resilience--roles",
