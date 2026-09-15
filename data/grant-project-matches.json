@@ -627,40 +627,6 @@
     "readiness_check": "Confirm legal applicant, site owner consent, plans, approvals, quotes, insurance and maintenance responsibility."
   },
   {
-    "match_key": "cbf-community-radio-music-hubs-2026--i-c-infinity-music-universe",
-    "grant_source_key": "cbf-community-radio-music-hubs-2026",
-    "project_key": "i-c-infinity-music-universe",
-    "fit_status": "clarify",
-    "fit_reason": "The music-universe concept could become a six-activity local music and broadcast pilot, but no eligible community radio station, activity slate, venue or rights pathway is confirmed.",
-    "eligibility_status": "TO BE CONFIRMED: eligible community radio station willing to apply, active music-hub activity, six-event delivery plan, rights, venues, licences, insurance and budget.",
-    "evidence_needed": [
-      "written applicant decision and authority to apply",
-      "six-activity music program with artists, venues and audience plan",
-      "rights, licences, insurance, budget and equipment eligibility evidence",
-      "cultural authority and consent where stories, artists or Country are involved"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "prepare_next",
-    "action_by": "2026-09-14",
-    "stack_role": "small program-delivery and outside-broadcast equipment layer",
-    "funding_ask": "Up to $50,000 only if an eligible existing community radio music hub leads a six-activity program.",
-    "cofunding_plan": "This program layer can combine with ticket or earned income where eligible, resident fundraising, local sponsorship, visitor giving, philanthropy, eligible applicant cash and verified in-kind venue or technical support. Every layer is unconfirmed until evidenced.",
-    "readiness_check": "Confirm the authorised eligible station, six live activities, artists, venue access, broadcast plan, rights, licences, insurance, budget and equipment scope before any drafting.",
-    "qualifying_reframe": "Frame a small local contemporary-music and broadcast activity program, not a general music platform or cinema asset.",
-    "next_move": "Ask no one automatically; prepare a human-review brief that tests the activity against CBF eligibility and identifies the unconfirmed legal applicant.",
-    "human_roles": [
-      "Authorised community-radio applicant decision-maker",
-      "Music-program producer and broadcaster",
-      "Venue, rights and safety decision-makers",
-      "Cultural authority where relevant"
-    ],
-    "ai_tasks": [
-      "Maintain the official eligibility and deadline brief",
-      "Prepare a six-activity budget and evidence checklist for human review",
-      "Flag unverified authority, rights, equipment or co-funding claims"
-    ]
-  },
-  {
     "match_key": "first-nations-clean-energy-projects-pilot-2026--straddie-clean-energy-superpower",
     "grant_source_key": "first-nations-clean-energy-projects-pilot-2026",
     "project_key": "straddie-clean-energy-superpower",
@@ -2047,39 +2013,6 @@
     "readiness_check": "Confirm applicant, community priority, site or service authority, cultural permissions, engagement method, insurance, scope, budget, output and later ownership."
   },
   {
-    "match_key": "creative-australia-young-first-nations-arts-2026--sovereign-music-australia",
-    "grant_source_key": "creative-australia-young-first-nations-arts-2026",
-    "project_key": "sovereign-music-australia",
-    "fit_status": "clarify",
-    "fit_reason": "An eligible young First Nations artist or arts worker could fund their own non-screen music practice, skills, marketing or audience-development project; the national platform, software and screen production are not eligible through this individual fund.",
-    "eligibility_status": "TO BE CONFIRMED: individual First Nations applicant aged 18 to 35, Australian residency, non-screen arts scope, personal authority, rights, ABN or auspice and registration",
-    "evidence_needed": [
-      "eligible individual applicant and authority to apply",
-      "defined non-screen creative-practice or career project",
-      "work samples, participant and cultural permissions",
-      "budget, timeline, ABN or confirmed auspice and registration"
-    ],
-    "last_checked": "2026-09-09",
-    "action_priority": "act_now",
-    "action_by": "2026-09-15",
-    "stack_role": "young artist practice and audience-development layer",
-    "funding_ask": "$10,000-$20,000",
-    "cofunding_plan": "This individual creative-practice layer could combine with the artist's own earned income, member or audience fundraising, philanthropy, later arts grants and verified in-kind mentoring, venue or production support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Select one eligible young First Nations artist's own non-screen music practice, skills, marketing or audience-development project, separate from the whole platform.",
-    "next_move": "By 11 September, confirm whether a willing eligible individual already exists and can complete Creative Australia registration at least two business days before closing; otherwise do not rush an application.",
-    "human_roles": [
-      "Eligible First Nations artist or arts worker aged 18 to 35",
-      "Confirmed auspice decision-maker if needed",
-      "Cultural, rights, artistic and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare the official eligibility and registration checklist",
-      "Separate the individual non-screen project from software, film and platform costs",
-      "Draft a work-sample, budget and permission register for human review"
-    ],
-    "readiness_check": "Confirm individual eligibility, personal and cultural authority, non-screen scope, work samples, rights, ABN or auspice, registration, budget and timeline."
-  },
-  {
     "match_key": "creative-australia-first-nations-deaf-disability-arts-2026--quandamooka-film-festival",
     "grant_source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
     "project_key": "quandamooka-film-festival",
@@ -2870,5 +2803,71 @@
       "Flag missing tenant access, licensing, safety, conditional approval and deadline evidence"
     ],
     "readiness_check": "Confirm provider registration, dwelling ownership and management, building class, existing-dwelling status, eligible upgrades, tenant access, quotes, licensing, conditional approval, budget gap and installation timing."
+  },
+  {
+    "match_key": "federal-active-transport-fund-tranche-2-2026--amity-outdoor-fitness-and-safer-access",
+    "grant_source_key": "federal-active-transport-fund-tranche-2-2026",
+    "project_key": "amity-outdoor-fitness-and-safer-access",
+    "fit_status": "clarify",
+    "fit_reason": "A complete public walking or bicycle pathway associated with an Amity public road could fit the construction fund, but outdoor fitness equipment, park-only paths and design-only work do not. Only a state, territory or local government entity can apply.",
+    "eligibility_status": "TO BE CONFIRMED: government lead applicant, public-road-associated pathway, road and land authority, complete project, design maturity, approvals, cost estimate, cash co-contribution and delivery readiness",
+    "evidence_needed": [
+      "authorised state, territory or local government lead applicant",
+      "public-road connection, land and road authority and complete usable pathway scope",
+      "design, safety, accessibility, environmental and construction-readiness evidence",
+      "cost estimate, procurement plan and secured cash co-contribution"
+    ],
+    "last_checked": "2026-09-15",
+    "action_priority": "build_pathway",
+    "action_by": "2026-09-30",
+    "stack_role": "large council-led public walking or cycling pathway construction layer",
+    "funding_ask": "Up to $5 million for an eligible complete construction project",
+    "cofunding_plan": "The government applicant must evidence a cash co-contribution, potentially from confirmed council or state capital budgets and other eligible cash sources. In-kind contributions are not accepted. Resident fundraising, sponsorship or philanthropy are possible only if formally secured and accepted in the project finance plan; nothing is currently secured.",
+    "qualifying_reframe": "Separate one complete, publicly accessible road-associated walking or bicycle pathway from the broader outdoor fitness and park concept.",
+    "next_move": "A human decision-maker should confirm whether an authorised government applicant already has a sufficiently mature Amity pathway project before treating the 30 September deadline as realistic.",
+    "human_roles": [
+      "Authorised state, territory or local government applicant decision-maker",
+      "Road, land and site controller",
+      "Transport design, accessibility, safety, procurement and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the eligibility and evidence checklist for human review",
+      "Separate road-associated pathway construction from ineligible park, equipment and design-only costs",
+      "Draft a gap register for authority, design, approvals, cost, cash co-contribution and delivery evidence"
+    ],
+    "readiness_check": "Confirm government applicant, public-road association, land and road control, complete usable scope, design maturity, safety and access standards, approvals, environmental requirements, cost estimate, secured cash co-contribution, procurement, delivery timing and reporting capacity."
+  },
+  {
+    "match_key": "creative-australia-young-first-nations-arts-2026--sovereign-music-australia",
+    "grant_source_key": "creative-australia-young-first-nations-arts-2026",
+    "project_key": "sovereign-music-australia",
+    "fit_status": "clarify",
+    "fit_reason": "An eligible young First Nations artist or arts worker could fund their own non-screen music practice, skills, marketing or audience-development project; the national platform, software and screen production are not eligible through this individual fund.",
+    "eligibility_status": "TO BE CONFIRMED: individual First Nations applicant aged 18 to 35, Australian residency, non-screen arts scope, personal authority, rights, ABN or auspice and registration",
+    "evidence_needed": [
+      "eligible individual applicant and authority to apply",
+      "defined non-screen creative-practice or career project",
+      "work samples, participant and cultural permissions",
+      "budget, timeline, ABN or confirmed auspice and registration"
+    ],
+    "last_checked": "2026-09-15",
+    "action_priority": "act_now",
+    "action_by": "2026-09-15",
+    "stack_role": "young artist practice and audience-development layer",
+    "funding_ask": "$10,000-$20,000",
+    "cofunding_plan": "This individual creative-practice layer could combine with the artist's own earned income, member or audience fundraising, philanthropy, later arts grants and verified in-kind mentoring, venue or production support. Every layer is unconfirmed until evidenced.",
+    "qualifying_reframe": "Select one eligible young First Nations artist's own non-screen music practice, skills, marketing or audience-development project, separate from the whole platform.",
+    "next_move": "Only proceed before 3:00pm AEST today if an eligible individual is already registered and the application is near-complete; otherwise do not rush an unsupported application.",
+    "human_roles": [
+      "Eligible First Nations artist or arts worker aged 18 to 35",
+      "Confirmed auspice decision-maker if needed",
+      "Cultural, rights, artistic and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the official eligibility and registration checklist",
+      "Separate the individual non-screen project from software, film and platform costs",
+      "Draft a work-sample, budget and permission register for human review"
+    ],
+    "readiness_check": "Confirm individual eligibility, personal and cultural authority, non-screen scope, work samples, rights, ABN or auspice, registration, budget and timeline."
   }
 ]
