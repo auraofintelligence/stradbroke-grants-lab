@@ -727,5 +727,14 @@
     "tip": "Up to $5 million per project; a cash co-contribution is required and in-kind support is not accepted. Closes 5:00pm AEST 30 September 2026.",
     "action": "Only a government applicant can proceed. Confirm the public-road connection, complete construction scope, land and road authority, design maturity, cost estimate, cash co-contribution, procurement and delivery evidence.",
     "source": "Australian Government Department of Infrastructure"
+  },
+  {
+    "source_key": "on-farm-connectivity-round-3-2026",
+    "title": "On Farm Connectivity Program Round 3",
+    "window_type": "Open rebate",
+    "notify": "Established eligible primary producers considering approved connectivity or ag-tech equipment through a Round 3 Approved Supplier.",
+    "tip": "$1,000-$20,000 excluding GST, covering up to 50% of eligible equipment costs. Applications close 5:00pm AEDT 15 October 2026 and the demand-driven pool may exhaust earlier.",
+    "action": "Confirm primary-producer ANZSIC activity, 12-month ABN, $40,000-$4 million average gross income, approved supplier, eligible equipment, itemised quote and 50% purchaser contribution. Do not purchase before approval.",
+    "source": "business.gov.au / Australian Government Department of Infrastructure"
   }
 ]

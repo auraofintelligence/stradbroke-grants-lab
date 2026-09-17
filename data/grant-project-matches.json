@@ -2836,5 +2836,39 @@
       "Draft a gap register for authority, design, approvals, cost, cash co-contribution and delivery evidence"
     ],
     "readiness_check": "Confirm government applicant, public-road association, land and road control, complete usable scope, design maturity, safety and access standards, approvals, environmental requirements, cost estimate, secured cash co-contribution, procurement, delivery timing and reporting capacity."
+  },
+  {
+    "match_key": "on-farm-connectivity-round-3-2026--bees-and-allies",
+    "grant_source_key": "on-farm-connectivity-round-3-2026",
+    "project_key": "bees-and-allies",
+    "fit_status": "clarify",
+    "fit_reason": "The rebate could support approved environmental monitoring, connectivity or remote-control equipment only where an existing eligible primary-production business leads the purchase. It does not fund the public bee-resilience lab, habitat planting or hobby beekeeping.",
+    "eligibility_status": "TO BE CONFIRMED: eligible primary producer, ANZSIC activity, 12-month ABN, income threshold, approved supplier, eligible equipment and purchaser contribution",
+    "evidence_needed": [
+      "eligible primary-producer declaration and ABN evidence",
+      "three-year gross-income evidence within the published range",
+      "approved supplier and itemised eligible-equipment quote",
+      "lawful apiary or horticulture use, site control and biosecurity checks"
+    ],
+    "last_checked": "2026-09-17",
+    "action_priority": "build_pathway",
+    "action_by": "2026-10-15",
+    "stack_role": "conditional connected apiary or horticulture equipment rebate",
+    "funding_ask": "$1,000-$20,000 excluding GST rebate, covering up to 50% of eligible equipment costs",
+    "cofunding_plan": "The eligible primary producer must fund at least the remaining 50% of approved costs. Business cash, finance or later verified sponsor support may complement the rebate, but no contribution or eligibility is secured without evidence.",
+    "qualifying_reframe": "Limit the ask to approved connectivity or environmental-monitoring equipment used by a genuine eligible primary-production business for lawful apiary or horticulture operations; keep the public learning lab, habitat work and hobby activity outside the rebate.",
+    "next_move": "First identify whether a real eligible primary producer wants the equipment, then compare approved suppliers and obtain a compliant itemised quote. Do not purchase anything before approval.",
+    "human_roles": [
+      "Eligible primary-producer decision-maker",
+      "Round 3 Approved Supplier",
+      "Apiary or horticulture technical and biosecurity adviser",
+      "Financial reviewer confirming income and co-payment capacity"
+    ],
+    "ai_tasks": [
+      "Compare the official approved-supplier and eligible-equipment lists for human review",
+      "Prepare an eligibility and evidence checklist without handling private financial records",
+      "Draft a cost comparison and equipment-purpose note after the producer chooses a scope"
+    ],
+    "readiness_check": "Confirm eligible ANZSIC primary production, 12-month ABN, $40,000-$4 million three-year average gross income, non-hobby status, approved supplier, eligible equipment, itemised quote, site and biosecurity requirements, and capacity to pay the unfunded share."
   }
 ]
