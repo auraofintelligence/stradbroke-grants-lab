@@ -330,8 +330,8 @@
     "readiness_check": "Confirm eligible legal applicant or sponsor, current-round rules, authority, site or asset control, insurance, quotes, budget and acquittal capacity."
   },
   {
-    "match_key": "frrr-src-prepare-recover-round-30--disaster-resilience",
-    "grant_source_key": "frrr-src-prepare-recover-round-30",
+    "match_key": "frrr-src-prepare-recover-round-31--disaster-resilience",
+    "grant_source_key": "frrr-src-prepare-recover-round-31",
     "project_key": "disaster-resilience",
     "fit_status": "clarify",
     "fit_reason": "A locally led preparedness and information-sharing project aligns strongly if it addresses a specific climate or disaster risk.",
@@ -342,9 +342,9 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-18",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-17",
+    "action_by": "2026-12-03",
     "stack_role": "community preparedness",
     "funding_ask": "Up to $25,000",
     "cofunding_plan": "Use this community preparedness to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
@@ -363,8 +363,8 @@
     "readiness_check": "Confirm applicant, hazard evidence, local leadership, emergency-service boundaries, delivery plan and measures."
   },
   {
-    "match_key": "frrr-src-small-vital-round-30--grain-by-grain",
-    "grant_source_key": "frrr-src-small-vital-round-30",
+    "match_key": "frrr-src-small-vital-round-31--grain-by-grain",
+    "grant_source_key": "frrr-src-small-vital-round-31",
     "project_key": "grain-by-grain",
     "fit_status": "clarify",
     "fit_reason": "The long-horizon framework needs one practical, locally led charitable activity to fit a small grant.",
@@ -375,9 +375,9 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-18",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-17",
+    "action_by": "2026-12-03",
     "stack_role": "small community activation",
     "funding_ask": "Up to $10,000",
     "cofunding_plan": "Use this small community activation to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
@@ -396,8 +396,8 @@
     "readiness_check": "Choose the single deliverable with local demand, applicant, venue, budget and community benefit."
   },
   {
-    "match_key": "frrr-src-prepare-recover-round-30--minjerribah-resilience",
-    "grant_source_key": "frrr-src-prepare-recover-round-30",
+    "match_key": "frrr-src-prepare-recover-round-31--minjerribah-resilience",
+    "grant_source_key": "frrr-src-prepare-recover-round-31",
     "project_key": "minjerribah-resilience",
     "fit_status": "clarify",
     "fit_reason": "A broad resilience umbrella can fit only after it selects a specific climate risk and community-led response.",
@@ -408,9 +408,9 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-18",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-17",
+    "action_by": "2026-12-03",
     "stack_role": "community resilience delivery",
     "funding_ask": "Up to $25,000",
     "cofunding_plan": "This community resilience delivery can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
@@ -429,8 +429,8 @@
     "readiness_check": "Confirm applicant, risk evidence, local leadership, delivery plan and one SRC stream choice."
   },
   {
-    "match_key": "frrr-src-small-vital-round-30--straddie-maker-space-lab",
-    "grant_source_key": "frrr-src-small-vital-round-30",
+    "match_key": "frrr-src-small-vital-round-31--straddie-maker-space-lab",
+    "grant_source_key": "frrr-src-small-vital-round-31",
     "project_key": "straddie-maker-space-lab",
     "fit_status": "clarify",
     "fit_reason": "A small rural makerspace pilot may fit community capacity and equipment, but a proposed facility is not a charitable project or eligible applicant by itself.",
@@ -441,9 +441,9 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-18",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-17",
+    "action_by": "2026-12-03",
     "stack_role": "small maker activation",
     "funding_ask": "Up to $10,000; $50,000 only if the targeted Larger Leverage focus genuinely applies",
     "cofunding_plan": "Use this small maker activation to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
@@ -462,8 +462,8 @@
     "readiness_check": "Confirm applicant or auspice, charitable purpose, venue permission, participant demand and a ten-thousand-dollar pilot budget."
   },
   {
-    "match_key": "frrr-src-small-vital-round-30--straddie-shared-table",
-    "grant_source_key": "frrr-src-small-vital-round-30",
+    "match_key": "frrr-src-small-vital-round-31--straddie-shared-table",
+    "grant_source_key": "frrr-src-small-vital-round-31",
     "project_key": "straddie-shared-table",
     "fit_status": "clarify",
     "fit_reason": "Small & Vital can support practical community connection infrastructure, but the organisation must choose between this and other SRC stream applications.",
@@ -474,9 +474,9 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-18",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-17",
+    "action_by": "2026-12-03",
     "stack_role": "small kitchen or garden capacity layer",
     "funding_ask": "Up to $10,000",
     "cofunding_plan": "Use this small kitchen or garden capacity layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
@@ -495,8 +495,8 @@
     "readiness_check": "Choose the stronger single SRC application and confirm venue, food safety or site permissions."
   },
   {
-    "match_key": "frrr-src-small-vital-round-30--straddie-tip-loop-lab",
-    "grant_source_key": "frrr-src-small-vital-round-30",
+    "match_key": "frrr-src-small-vital-round-31--straddie-tip-loop-lab",
+    "grant_source_key": "frrr-src-small-vital-round-31",
     "project_key": "straddie-tip-loop-lab",
     "fit_status": "clarify",
     "fit_reason": "A community repair and reuse activity can fit Small & Vital if lawful, charitable and locally led.",
@@ -507,9 +507,9 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-09-18",
     "action_priority": "prepare_next",
-    "action_by": "2026-09-17",
+    "action_by": "2026-12-03",
     "stack_role": "small repair and reuse pilot",
     "funding_ask": "Up to $10,000",
     "cofunding_plan": "This small repair and reuse pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
@@ -1848,8 +1848,8 @@
     "readiness_check": "Confirm applicant, artist leadership, local benefit, participants, rights, eligible non-screen activities, budget, access and reporting."
   },
   {
-    "match_key": "frrr-src-small-vital-round-30--oceania-healthy-de-slop-co-ops",
-    "grant_source_key": "frrr-src-small-vital-round-30",
+    "match_key": "frrr-src-small-vital-round-31--oceania-healthy-de-slop-co-ops",
+    "grant_source_key": "frrr-src-small-vital-round-31",
     "project_key": "oceania-healthy-de-slop-co-ops",
     "fit_status": "clarify",
     "fit_reason": "A small, non-clinical Minjerribah co-operative wellbeing and access pilot may fit rural community capacity funding; the regional vision, medical equipment and unverified treatment claims do not.",
@@ -1860,14 +1860,14 @@
       "non-clinical wellbeing and co-operative scope",
       "budget, safety, privacy and community-support evidence"
     ],
-    "last_checked": "2026-09-08",
-    "action_priority": "act_now",
-    "action_by": "2026-09-17",
+    "last_checked": "2026-09-18",
+    "action_priority": "prepare_next",
+    "action_by": "2026-12-03",
     "stack_role": "small community wellbeing co-operative pilot",
     "funding_ask": "Up to $10,000",
     "cofunding_plan": "This small pilot could combine with member or resident fundraising, local sponsorship, philanthropy, eligible applicant cash, earned activity income where permitted and verified in-kind venue or facilitation support. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Select one affordable, non-clinical community wellbeing or co-operative-development activity on Minjerribah, with health claims and private data kept out of scope.",
-    "next_move": "Confirm a local applicant, community-chosen activity and safe non-clinical scope before deciding whether the 17 September round is realistic.",
+    "next_move": "Confirm a local applicant, community-chosen activity and safe non-clinical scope before deciding whether Round 31 is realistic.",
     "human_roles": [
       "Eligible local applicant or auspice",
       "Community and co-operative development lead",
@@ -2197,7 +2197,7 @@
     "funding_ask": "Up to $25,000 excluding GST",
     "cofunding_plan": "This hands-on materials and resilient-design STEM program could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Use the story frame to support one accurate, hands-on materials or resilient-design learning program with measurable STEM outcomes.",
-    "next_move": "Obtain a qualified STEM lead and make a go or no-go decision by 14 September; do not use the grant for general story development.",
+    "next_move": "Obtain a qualified STEM lead and make an immediate go or no-go decision; do not use the grant for general story development.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -2230,7 +2230,7 @@
     "funding_ask": "Up to $25,000 excluding GST",
     "cofunding_plan": "This critical science and observation literacy workshop could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Deliver a hands-on program about observation, evidence quality and responsible science communication without presenting mystery claims as fact.",
-    "next_move": "Secure a science-education lead and test the workshop against the guidelines by 14 September before deciding whether to apply.",
+    "next_move": "Secure a science-education lead and test the workshop against the guidelines immediately before deciding whether to apply.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -2263,7 +2263,7 @@
     "funding_ask": "$150,000-$250,000 development or $250,000-$1.5 million delivery",
     "cofunding_plan": "This mature planetary arts and civic-imagination work could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Define one developed arts work with a clear artistic team, public presentation and rights framework; do not apply for a broad philosophy platform.",
-    "next_move": "Complete a hard maturity and eligibility gate by 12 September; stop if the legal applicant, work, partners, IP or co-investment do not already exist.",
+    "next_move": "Complete a hard maturity and eligibility gate immediately; stop if the legal applicant, work, partners, IP or co-investment do not already exist.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -2461,7 +2461,7 @@
     "funding_ask": "Up to $35,000",
     "cofunding_plan": "This community media equipment and skills layer could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Fund a defined community training program and shared eligible equipment held by the accountable not-for-profit, not a commercial media operation.",
-    "next_move": "Confirm the legal applicant, asset owner and eligible-cost list by 14 September, then obtain quotes before Round 127 closes.",
+    "next_move": "Confirm the legal applicant, asset owner and eligible-cost list immediately, then obtain quotes before Round 127 closes.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -2527,7 +2527,7 @@
     "funding_ask": "Up to $35,000",
     "cofunding_plan": "This shared community media equipment and training layer could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Purchase only an evidenced shared kit and deliver practical training under a documented booking, storage and maintenance plan.",
-    "next_move": "Confirm the applicant and asset-management plan by 14 September, then obtain compliant quotes and separate commercial production costs.",
+    "next_move": "Confirm the applicant and asset-management plan immediately, then obtain compliant quotes and separate commercial production costs.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -2541,8 +2541,8 @@
     "readiness_check": "Confirm applicant, users, equipment list, quotes, asset ownership, storage, insurance, trainers, budget and outcomes."
   },
   {
-    "match_key": "frrr-src-small-vital-round-30--straddie-vitality-network-builders",
-    "grant_source_key": "frrr-src-small-vital-round-30",
+    "match_key": "frrr-src-small-vital-round-31--straddie-vitality-network-builders",
+    "grant_source_key": "frrr-src-small-vital-round-31",
     "project_key": "straddie-vitality-network-builders",
     "fit_status": "clarify",
     "fit_reason": "A small non-clinical community wellbeing, connection or volunteer-capacity pilot may fit if Minjerribah and the applicant meet FRRR place and charitable-purpose rules.",
@@ -2553,14 +2553,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-09",
-    "action_priority": "act_now",
-    "action_by": "2026-09-17",
+    "last_checked": "2026-09-18",
+    "action_priority": "prepare_next",
+    "action_by": "2026-12-03",
     "stack_role": "community wellbeing and volunteer-capacity pilot",
     "funding_ask": "Up to $10,000",
     "cofunding_plan": "This community wellbeing and volunteer-capacity pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Fund one practical community connection, volunteer or wellbeing-capacity activity; keep clinical care and broad infrastructure outside the ask.",
-    "next_move": "Confirm FRRR place eligibility, applicant and one tightly scoped pilot by 11 September; do not rush an application without those gates.",
+    "next_move": "Confirm FRRR place eligibility, applicant and one tightly scoped pilot; do not rush an application without those gates.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",

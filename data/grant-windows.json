@@ -470,18 +470,36 @@
   {
     "source_key": "frrr-src-small-vital-round-30",
     "title": "FRRR Small & Vital Round 30",
-    "window_type": "Open grant",
-    "notify": "Eligible charitable not-for-profits or auspiced groups serving a small rural, regional or remote community.",
-    "tip": "Up to $10,000; targeted Larger Leverage up to $50,000 only where its current focus applies. Round 30 closes 5:00pm AEST 17 September 2026; Round 31 opens 18 September and closes 3 December.",
-    "action": "Select only one SRC stream, confirm charitable purpose and shape one practical locally led project.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Round 30 is retained only as a checked historical source.",
+    "tip": "Round 30 closed 5:00pm AEST 17 September 2026.",
+    "action": "Do not apply to Round 30. Use the distinct Round 31 record for current preparation.",
     "source": "FRRR"
   },
   {
     "source_key": "frrr-src-prepare-recover-round-30",
     "title": "FRRR Prepare & Recover Round 30",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Round 30 is retained only as a checked historical source.",
+    "tip": "Round 30 closed 5:00pm AEST 17 September 2026.",
+    "action": "Do not apply to Round 30. Use the distinct Round 31 record for current preparation.",
+    "source": "FRRR"
+  },
+  {
+    "source_key": "frrr-src-small-vital-round-31",
+    "title": "FRRR Small & Vital Round 31",
+    "window_type": "Open grant",
+    "notify": "Eligible charitable not-for-profits or auspiced groups serving a small rural, regional or remote community.",
+    "tip": "Up to $10,000; targeted Larger Leverage up to $50,000 only where its current focus applies. Round 31 opens 18 September and closes 3 December 2026; no closing time is published on the current page.",
+    "action": "Select only one SRC stream, confirm charitable purpose and shape one practical locally led project.",
+    "source": "FRRR"
+  },
+  {
+    "source_key": "frrr-src-prepare-recover-round-31",
+    "title": "FRRR Prepare & Recover Round 31",
     "window_type": "Open grant",
     "notify": "Eligible rural and regional community groups with a genuine climate-preparedness or medium- to long-term disaster-recovery project.",
-    "tip": "Up to $25,000. Round 30 closes 5:00pm AEST 17 September 2026; Round 31 opens 18 September and closes 3 December.",
+    "tip": "Up to $25,000. Round 31 opens 18 September and closes 3 December 2026; no closing time is published on the current page.",
     "action": "Select only one SRC stream and evidence the specific hazard, community leadership, preparedness or recovery outcome and deliverable budget.",
     "source": "FRRR"
   },
