@@ -226,12 +226,12 @@
   },
   {
     "source_key": "nab-foundation-community-grants-r2-2026",
-    "title": "Local Digital Priority Projects funding program",
-    "window_type": "Future round",
-    "notify": "Eligible ACNC charities, organisations or enterprises with an ABN and charitable purpose, and some local government or community facilities; individuals and sole traders are excluded.",
-    "tip": "Up to $25,000; selected recipients may receive an additional $25,000 Impact Grant, for up to $50,000 total. The $1.2 million annual amount is a program envelope.. No current Round 2 deadline published on the official page as at 9 August 2026.. South East Queensland digital projects addressing economic, business or social priorities. Stream 1 offers $1 million to $5 million for connectivity and productivity infrastructure; Streams 2 and 3 offer $100,000 to $1 million for digital capability, inclusion and high-skilled jobs. Legal entity, active ABN, GST registration, eligible SEQ place of business, secured co-funding and stream-specific eligibility are required.",
-    "action": "Do not treat this as open. Build the applicant, authority, evidence, site or asset control, budget and co-funding pack while watching for official dates and guidelines.",
-    "source": "Queensland and Australian governments"
+    "title": "NAB Foundation Community Grants Round 2 2026",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. The 2026 Round 2 record is retained as checked history and future recurring-round preparation.",
+    "tip": "Round 2 offered up to $25,000, with selected recipients eligible for a further $25,000 Impact Grant. It closed at midnight 14 September 2026.",
+    "action": "Do not apply to the closed round. Keep a costed disaster-preparation or recovery project, eligible charitable applicant and evidence pack ready for a future official round.",
+    "source": "NAB Foundation"
   },
   {
     "source_key": "qld-grassroots-wildlife-carers-r2-2026",
@@ -344,10 +344,10 @@
   {
     "source_key": "qld-arts-project-fund-round-3-2026",
     "title": "Queensland Arts Project Fund Round 3 2026",
-    "window_type": "Open grant",
-    "notify": "Eligible Queensland artists, arts workers, groups and organisations under the stream rules; First Nations stream requires genuine First Nations leadership and cultural authority.",
-    "tip": "General and First Nations streams up to $70,000; individuals up to $20,000; additional access costs up to $10,000. Closes 2:00pm AEST 21 September 2026 for activity from 25 January 2027. Queensland arts and cultural projects, including a First Nations stream. Film, screen, gaming, infrastructure and equipment or software over $3,000 are ineligible, so only clearly arts-led, non-screen project components should be matched.",
-    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Round 3 is retained only as a checked historical source.",
+    "tip": "Round 3 closed 2:00pm AEST 21 September 2026. Film, screen, gaming, infrastructure and equipment or software over $3,000 were ineligible.",
+    "action": "Do not apply to Round 3. Retain an eligible non-screen arts pilot and evidence pack only for a future published round.",
     "source": "Arts Queensland"
   },
   {
@@ -452,16 +452,16 @@
   {
     "source_key": "redland-events-grant-2026-27",
     "title": "Redland Events Grant Round 1",
-    "window_type": "Open grant",
-    "notify": "Eligible Redland City event organisations and auspiced groups.",
-    "tip": "Open now for up to $20,000 per year for up to three years; closes 20 September 2026. It funds event delivery, not capital equipment.",
-    "action": "Confirm applicant, event plan, venue and permits, insurance, budget, audience evidence and rights. Keep LED capital outside this application.",
+    "window_type": "Closed round",
+    "notify": "No active Round 1 notification. Eligible Redland City event organisations and auspiced groups can prepare for Round 2.",
+    "tip": "Round 1 closed 20 September 2026. Round 2 opens 25 January and closes 21 February 2027; it funds event delivery, not capital equipment.",
+    "action": "Prepare the applicant, event plan, venue and permits, insurance, budget, audience evidence and rights for Round 2. Keep LED capital outside the application.",
     "source": "Redland City Council"
   },
   {
     "source_key": "redland-community-celebration-2026-27",
     "title": "Redland Community Celebration Grant",
-    "window_type": "Future round",
+    "window_type": "Opening soon",
     "notify": "Eligible Redland City not-for-profits and auspiced community groups.",
     "tip": "Up to $15,000. Next round opens 28 September and closes 18 October 2026.",
     "action": "Build the celebration program and cultural-permission process; do not include capital works or equipment purchases.",
@@ -614,7 +614,7 @@
   {
     "source_key": "creative-australia-young-first-nations-arts-2026",
     "title": "Young People: First Nations Arts & Culture Project Fund",
-    "window_type": "Future round",
+    "window_type": "Closed round",
     "notify": "Australian First Nations artists and arts workers aged 18 to 35 with a defined non-screen creative-practice or career-development project.",
     "tip": "$10,000-$20,000. Closes 3:00pm AEST 15 September 2026; registration is required at least two business days earlier.",
     "action": "This round is closed. Keep a future-round evidence pack only for an eligible First Nations individual who meets the age, identity, residency, non-screen scope, permissions, budget, work-sample and registration gates.",
@@ -623,10 +623,10 @@
   {
     "source_key": "niaa-indigenous-business-verification-support-tender-2026",
     "title": "Indigenous Business Verification and Support Services tender",
-    "window_type": "Closing soon",
-    "notify": "Only suppliers with credible national-scale Indigenous business verification, online registry, governance, technology and support-service capability.",
-    "tip": "Contract value is not published on the NIAA notice. Submissions close 18 September 2026; detailed conditions and closing time must be checked in AusTender.",
-    "action": "Do not treat this as a local grant. Confirm the AusTender conditions and only assess a bid if a capable, authorised national delivery entity already exists.",
+    "window_type": "Closed tender",
+    "notify": "No active tender notification. This record is retained as checked history only.",
+    "tip": "Submissions closed 18 September 2026. The NIAA notice did not publish the contract value or closing time.",
+    "action": "Do not treat this as a local grant or current tender. Watch future official procurement notices without implying local capability or authority.",
     "source": "National Indigenous Australians Agency"
   },
   {
@@ -754,5 +754,32 @@
     "tip": "$1,000-$20,000 excluding GST, covering up to 50% of eligible equipment costs. Applications close 5:00pm AEDT 15 October 2026 and the demand-driven pool may exhaust earlier.",
     "action": "Confirm primary-producer ANZSIC activity, 12-month ABN, $40,000-$4 million average gross income, approved supplier, eligible equipment, itemised quote and 50% purchaser contribution. Do not purchase before approval.",
     "source": "business.gov.au / Australian Government Department of Infrastructure"
+  },
+  {
+    "source_key": "creative-australia-national-songwriting-schools-2026",
+    "title": "National Songwriting and Recording in Schools Stimulus 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible Australian education or music-learning organisations and consortia with at least one educational institution, an ABN and two years of operation.",
+    "tip": "$5,000-$100,000 in matched funding. Applications close 3:00pm AEDT 13 October 2026; system registration must be completed before 10:00am AEDT 12 October.",
+    "action": "Confirm an eligible lead institution, student cohort, matched funding, original contemporary-music program, educators, rights, child safety, budget and repeatable pathway before drafting.",
+    "source": "Creative Australia - Music Australia"
+  },
+  {
+    "source_key": "qld-transforming-manufacturing-round-2-2026",
+    "title": "Transforming Queensland Manufacturing Grants Round 2",
+    "window_type": "Open grant",
+    "notify": "Established eligible Queensland manufacturers with a ready advanced-manufacturing investment, matched funding and capacity to deliver jobs and measurable benefits.",
+    "tip": "Matched grants up to $1.5 million. Applications close 1:00pm AEST 25 November 2026; the $12.5 million figure is the whole Round 2 envelope.",
+    "action": "Confirm the manufacturing business, eligible activity, project readiness, matched funding, financial capacity, technical case, quotes, jobs, benefits and any security requirement before drafting.",
+    "source": "Business Queensland / Queensland Government"
+  },
+  {
+    "source_key": "creative-australia-ausart-day-2026",
+    "title": "Creative Australia AusArt Day 2026",
+    "window_type": "Open fundraising registration",
+    "notify": "Australian artists, collectives and arts organisations able to run a dedicated 12-hour digital fundraising campaign on 22 October.",
+    "tip": "Public donations vary; this is not a grant. Registration closes 24 September 2026 and the 2026 micro-grant applications are already closed.",
+    "action": "Confirm the artist or organisation, authority, campaign purpose, fundraising platform, public story, rights, ICIP protocol compliance where relevant, donor handling and reporting capacity before registering.",
+    "source": "Creative Australia"
   }
 ]

@@ -66,105 +66,6 @@
     "readiness_check": "Confirm incorporated applicant, track record, program dates, cultural authority, screening rights, venue, community support, budget and third-party finance."
   },
   {
-    "match_key": "redland-events-grant-2026-27--ballow-road-sand-screen-hub",
-    "grant_source_key": "redland-events-grant-2026-27",
-    "project_key": "ballow-road-sand-screen-hub",
-    "fit_status": "clarify",
-    "fit_reason": "The event grant can support a defined public screening program, not the screen purchase or fixed infrastructure.",
-    "eligibility_status": "TO BE CONFIRMED: eligible organiser, Redland event, insurance, permits, screening rights and non-capital budget",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "act_now",
-    "action_by": "2026-09-20",
-    "stack_role": "screening program layer",
-    "funding_ask": "Up to $20,000 per year",
-    "cofunding_plan": "This screening program layer can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Cost a pilot season with programming, licences, staffing, safety, access and audience outcomes.",
-    "next_move": "Confirm the eligible event-delivery scope, applicant, venue, permits, insurance, audience evidence and budget before 20 September; exclude capital equipment.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm incorporated applicant, ABN, financial viability, $20 million insurance, venue and permits, event plan, quotes, rights and reporting capacity."
-  },
-  {
-    "match_key": "redland-events-grant-2026-27--quandamooka-film-festival",
-    "grant_source_key": "redland-events-grant-2026-27",
-    "project_key": "quandamooka-film-festival",
-    "fit_status": "clarify",
-    "fit_reason": "A local film festival is explicitly within the event pathway, but the public concept is not proof of an eligible organiser, permits, insurance or a deliverable program.",
-    "eligibility_status": "TO BE CONFIRMED: eligible event organiser, ABN, $20 million insurance, Redland delivery, permits and cultural permissions",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "act_now",
-    "action_by": "2026-09-20",
-    "stack_role": "local festival delivery",
-    "funding_ask": "Up to $20,000 per year for up to three years",
-    "cofunding_plan": "This local festival delivery can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Cost one Redland festival edition with venues, program, accessibility, cultural permissions, audience targets and risk plan.",
-    "next_move": "Confirm the eligible event-delivery scope, applicant, venue, permits, insurance, audience evidence and budget before 20 September; exclude capital equipment.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm incorporated applicant, ABN, financial viability, $20 million insurance, venue and permits, event plan, quotes, rights and reporting capacity."
-  },
-  {
-    "match_key": "redland-events-grant-2026-27--straddie-night-market-lab",
-    "grant_source_key": "redland-events-grant-2026-27",
-    "project_key": "straddie-night-market-lab",
-    "fit_status": "clarify",
-    "fit_reason": "A night-market event may fit if it has an eligible organiser, local permissions, safety plan and measurable community benefit.",
-    "eligibility_status": "TO BE CONFIRMED: eligible event organiser, Redland site, permits, insurance, financially viable event plan and community benefit",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "act_now",
-    "action_by": "2026-09-20",
-    "stack_role": "event pilot",
-    "funding_ask": "Up to $20,000 per year",
-    "cofunding_plan": "This event pilot can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Plan one permitted low-risk market edition with stallholder rules, waste, transport, accessibility and local programming.",
-    "next_move": "Confirm the eligible event-delivery scope, applicant, venue, permits, insurance, audience evidence and budget before 20 September; exclude capital equipment.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm incorporated applicant, ABN, financial viability, $20 million insurance, venue and permits, event plan, quotes, rights and reporting capacity."
-  },
-  {
     "match_key": "qld-grassroots-wildlife-carers-r2-2026--wildlife-rescue-minjerribah",
     "grant_source_key": "qld-grassroots-wildlife-carers-r2-2026",
     "project_key": "wildlife-rescue-minjerribah",
@@ -1254,39 +1155,6 @@
     "readiness_check": "Watch the official new-round page and identify the asset owner and authorised planning pathway."
   },
   {
-    "match_key": "nab-foundation-community-grants-r2-2026--minjerribah-resilience",
-    "grant_source_key": "nab-foundation-community-grants-r2-2026",
-    "project_key": "minjerribah-resilience",
-    "fit_status": "watch",
-    "fit_reason": "NAB is relevant to preparedness and recovery, but the official page does not publish a current second-round date.",
-    "eligibility_status": "TO BE CONFIRMED: eligible charitable applicant, specific disaster risk, grant-ready budget and current official round",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "watch",
-    "action_by": null,
-    "stack_role": "future resilience capital layer",
-    "funding_ask": "Up to $25,000, with a possible additional $25,000 Impact Grant",
-    "cofunding_plan": "This future resilience capital layer can sit beside later capital or equipment grants, a resident and member campaign, local business sponsorship, visitor giving or major gifts, eligible applicant cash and verified in-kind site or technical support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Keep a costed resilience project ready without describing the watch as open.",
-    "next_move": "Plan NAB for equipment or resilience delivery; use FRRR for community capability and ARENA only for a large electrification demonstration.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Build the applicant, risk, budget and impact evidence pack and monitor the official page for a real round."
-  },
-  {
     "match_key": "federal-thriving-suburbs-growing-regions-forecast-2026--sandworm-subterranean-systems",
     "grant_source_key": "federal-thriving-suburbs-growing-regions-forecast-2026",
     "project_key": "sandworm-subterranean-systems",
@@ -1318,39 +1186,6 @@
       "Flag unsupported claims, missing authority, duplicated costs and source changes"
     ],
     "readiness_check": "Identify which question has a legitimate asset owner and wait for official guidelines."
-  },
-  {
-    "match_key": "nab-foundation-community-grants-r2-2026--straddie-capsule-surge-lab",
-    "grant_source_key": "nab-foundation-community-grants-r2-2026",
-    "project_key": "straddie-capsule-surge-lab",
-    "fit_status": "watch",
-    "fit_reason": "The lab may relate to emergency readiness only after it becomes a practical, evidence-based community resilience project; no current NAB round is published.",
-    "eligibility_status": "TO BE CONFIRMED: current NAB round, eligible charitable applicant, qualified service oversight, safety, need and deliverable budget",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "watch",
-    "action_by": null,
-    "stack_role": "future preparedness prototype",
-    "funding_ask": "Up to $25,000, with possible additional $25,000 Impact Grant",
-    "cofunding_plan": "Use this future preparedness prototype to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define a safe, non-clinical surge-support or emergency logistics prototype with qualified oversight.",
-    "next_move": "Use NAB for eligible preparedness equipment or delivery when a round opens; use research and small grants for scoping.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm the actual hazard, responsible service owner, safety approvals, applicant and real round."
   },
   {
     "match_key": "qld-stem-engagement-2027--straddie-maker-space-lab",
@@ -1650,39 +1485,6 @@
     "readiness_check": "Confirm applicant, artist lead, participants, Redland benefit, rights, cultural permissions, eligible arts scope, budget and reporting."
   },
   {
-    "match_key": "redland-events-grant-2026-27--straddie-headline-open-mic",
-    "grant_source_key": "redland-events-grant-2026-27",
-    "project_key": "straddie-headline-open-mic",
-    "fit_status": "clarify",
-    "fit_reason": "A defined public open-mic series may fit as a Redland event if it has a real venue, audience, program and delivery team; an online prompt board alone does not.",
-    "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, Redland venue, public liability insurance, event program, rights and safety",
-    "evidence_needed": [
-      "defined event dates, venue and audience",
-      "performer and editorial arrangements",
-      "insurance, safety and accessibility",
-      "applicant, budget, promotion and evaluation"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "act_now",
-    "action_by": "2026-09-20",
-    "stack_role": "local performance and participation series",
-    "funding_ask": "Up to $20,000 per year for up to three years",
-    "cofunding_plan": "This event layer could combine with ticket or earned income where eligible, resident and member fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind venue or production support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define a welcoming public performance series with human editorial control, local participation and a practical event plan.",
-    "next_move": "Confirm applicant, venue, dates, program lead and insurance before deciding whether the 20 September round is realistic.",
-    "human_roles": [
-      "Eligible event applicant",
-      "Venue and program lead",
-      "Performer, editorial, safety and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare the event brief, run sheet and budget",
-      "Draft performer, rights and moderation checklists",
-      "Flag missing venue, insurance, accessibility or applicant evidence"
-    ],
-    "readiness_check": "Confirm applicant, venue, dates, insurance, performers, rights, moderation, safety, accessibility, budget and audience plan."
-  },
-  {
     "match_key": "qld-stem-engagement-2027--straddie-digital-twin-explainer",
     "grant_source_key": "qld-stem-engagement-2027",
     "project_key": "straddie-digital-twin-explainer",
@@ -1813,39 +1615,6 @@
       "Build the venue, rights, access and evidence checklists"
     ],
     "readiness_check": "Confirm applicant, public program, venue, rights, insurance, access, audience, community support, third-party finance and separation from private household data."
-  },
-  {
-    "match_key": "qld-arts-project-fund-round-3-2026--sovereign-music-australia",
-    "grant_source_key": "qld-arts-project-fund-round-3-2026",
-    "project_key": "sovereign-music-australia",
-    "fit_status": "clarify",
-    "fit_reason": "A defined Queensland artist-development, rights-literacy or live-music pilot may fit, but the national ecosystem vision, software, screen production and large equipment are not one eligible arts project.",
-    "eligibility_status": "TO BE CONFIRMED: eligible Queensland artist or organisation, local pilot, artistic merit, participants, rights, budget and non-screen scope",
-    "evidence_needed": [
-      "defined Minjerribah or regional arts pilot",
-      "eligible artist or organisation",
-      "participants, artistic outcomes and rights",
-      "budget, delivery and evaluation evidence"
-    ],
-    "last_checked": "2026-09-08",
-    "action_priority": "act_now",
-    "action_by": "2026-09-21",
-    "stack_role": "local music ecosystem pilot",
-    "funding_ask": "Up to $70,000 for eligible organisations or groups; individuals up to $20,000",
-    "cofunding_plan": "This arts pilot could combine with artist or member fundraising, local sponsorship, philanthropy, eligible applicant cash, earned performance income where permitted and verified in-kind venue, mentoring or production support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Choose one artist-led local pilot such as rights literacy, live development or shared professional practice, separate from the whole national platform.",
-    "next_move": "Confirm applicant, artist lead, participants, eligible arts activities and non-screen costs before deciding whether 21 September is realistic.",
-    "human_roles": [
-      "Eligible artist or organisation decision-maker",
-      "Music and rights lead",
-      "Participant, cultural, access and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a one-pilot scope and artistic outcomes map",
-      "Separate eligible arts work from software, screen and equipment costs",
-      "Build the rights, budget and evidence checklists"
-    ],
-    "readiness_check": "Confirm applicant, artist leadership, local benefit, participants, rights, eligible non-screen activities, budget, access and reporting."
   },
   {
     "match_key": "frrr-src-small-vital-round-31--oceania-healthy-de-slop-co-ops",
@@ -2870,5 +2639,204 @@
       "Draft a cost comparison and equipment-purpose note after the producer chooses a scope"
     ],
     "readiness_check": "Confirm eligible ANZSIC primary production, 12-month ABN, $40,000-$4 million three-year average gross income, non-hobby status, approved supplier, eligible equipment, itemised quote, site and biosecurity requirements, and capacity to pay the unfunded share."
+  },
+  {
+    "match_key": "creative-australia-national-songwriting-schools-2026--i-c-infinity-music-universe",
+    "grant_source_key": "creative-australia-national-songwriting-schools-2026",
+    "project_key": "i-c-infinity-music-universe",
+    "fit_status": "clarify",
+    "fit_reason": "A defined Minjerribah or Redlands songwriting and recording program for students could fit, but the broader album, comic and music-universe concept is not itself an eligible education program. An eligible education or music-learning organisation must lead and matched funding is required.",
+    "eligibility_status": "TO BE CONFIRMED: eligible lead institution, two-year operating history, ABN, student cohort, matched funding, educators, child safety, rights, delivery plan and community or cultural permissions",
+    "evidence_needed": [
+      "authorised eligible lead institution and consortium roles",
+      "defined primary, secondary or tertiary learner cohort and access need",
+      "original contemporary-music program, educators, rights and child-safety plan",
+      "matched-funding evidence, budget, timeline and repeatable pathway"
+    ],
+    "last_checked": "2026-09-22",
+    "action_priority": "act_now",
+    "action_by": "2026-10-09",
+    "stack_role": "matched student songwriting and recording program layer",
+    "funding_ask": "$5,000-$100,000 in matched funding",
+    "cofunding_plan": "Possible matching sources include confirmed eligible-institution cash, philanthropy, local sponsorship, member or community fundraising and other permitted contributions. The match rules and every proposed contribution must be checked against the guidelines; nothing is secured.",
+    "qualifying_reframe": "Separate one inclusive, education-led songwriting and recording program for a defined learner cohort from the broader music universe and any unrelated publishing, screen or commercial activity.",
+    "next_move": "By 9 October, confirm whether an eligible lead institution and matched funding already exist. If yes, complete system registration before 10:00am AEDT 12 October and obtain human approval before any application.",
+    "human_roles": [
+      "Authorised lead-institution decision-maker",
+      "Music educator and contemporary songwriter or producer",
+      "Child-safety, rights, access and cultural-authority reviewers where relevant",
+      "Finance reviewer confirming the matched contribution"
+    ],
+    "ai_tasks": [
+      "Draft a one-page student-program outline and outcomes map for human review",
+      "Prepare an applicant, partner, match-funding and evidence gap register",
+      "Build a draft budget and rights checklist without asserting any contribution or permission"
+    ],
+    "readiness_check": "Confirm eligible applicant category, ABN, majority Australian ownership, two-year operating history, education partner, student cohort, access need, contemporary-music scope, educators, rights, child safety, cultural permissions, matched funding, budget, delivery dates and registration timing."
+  },
+  {
+    "match_key": "qld-transforming-manufacturing-round-2-2026--straddie-tip-loop-lab",
+    "grant_source_key": "qld-transforming-manufacturing-round-2-2026",
+    "project_key": "straddie-tip-loop-lab",
+    "fit_status": "clarify",
+    "fit_reason": "A lawful recovered-material manufacturing line could fit only if an established Queensland manufacturer leads a commercially and technically ready transformation project. A repair cafe, transfer-station concept or informal materials access does not qualify by itself.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland manufacturing business, lawful feedstock and site, manufacturing activity, trading and financial history, matched funding, project readiness, technical case, jobs, benefits and security",
+    "evidence_needed": [
+      "eligible Queensland manufacturing legal entity and authorised decision-maker",
+      "lawful controlled material supply, site, licences, contamination and product-market evidence",
+      "technical scope, equipment quotes, implementation plan and measurable productivity or low-emissions benefits",
+      "matched funding, financial capacity, jobs case, risk plan and any required security"
+    ],
+    "last_checked": "2026-09-22",
+    "action_priority": "build_pathway",
+    "action_by": "2026-11-25",
+    "stack_role": "conditional recovered-material manufacturing scale layer",
+    "funding_ask": "Matched grant up to $1.5 million, subject to the Round 2 guidelines and evidenced project costs",
+    "cofunding_plan": "The manufacturer must evidence the required matched contribution from confirmed business cash, finance or other accepted sources. Later sales revenue, philanthropy, sponsorship or in-kind support may assist other stages only if formally evidenced and accepted; nothing is secured.",
+    "qualifying_reframe": "Separate an industrially credible product-manufacturing line using lawful recovered feedstock from the broader community repair, collection and reuse concept.",
+    "next_move": "Identify whether a real eligible Queensland manufacturer already controls the site, feedstock, process, market and matched funds; if not, keep this as a watch rather than forcing an application.",
+    "human_roles": [
+      "Eligible manufacturing business owner and authorised applicant",
+      "Lawful material, site and environmental authority holders",
+      "Manufacturing engineer, market, jobs, safety and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the Round 2 eligibility and evidence checklist",
+      "Map feedstock, process, equipment, outputs, customers, jobs, costs and risks for human review",
+      "Flag any unsupported claim about material ownership, licences, site control, market demand, matched funds or partner assent"
+    ],
+    "readiness_check": "Confirm eligible manufacturer, ABN and trading history, lawful feedstock and site, licences, manufacturing process, technical maturity, quotes, product market, jobs and benefits, matched funds, financial capacity, security, delivery plan and authority to apply."
+  },
+  {
+    "match_key": "creative-australia-ausart-day-2026--sovereign-music-australia",
+    "grant_source_key": "creative-australia-ausart-day-2026",
+    "project_key": "sovereign-music-australia",
+    "fit_status": "clarify",
+    "fit_reason": "A defined artist-led Minjerribah music or rights-literacy pilot could use AusArt Day to test public support and build fundraising capability, but the platform does not supply grant money and the whole national ecosystem is too broad for one campaign.",
+    "eligibility_status": "TO BE CONFIRMED: eligible artist, collective or arts organisation, authorised campaign purpose, 12-hour delivery commitment, fundraising platform, rights and protocol compliance",
+    "evidence_needed": [
+      "authorised artist, collective or arts organisation and named campaign lead",
+      "one clear public arts purpose, budget and case for support",
+      "fundraising platform, donor handling, rights, privacy and reporting arrangements",
+      "First Nations cultural and intellectual property authority and protocol evidence where relevant"
+    ],
+    "last_checked": "2026-09-22",
+    "action_priority": "act_now",
+    "action_by": "2026-09-24",
+    "stack_role": "public fundraising test and supporter-building layer",
+    "funding_ask": "Varies by public donations; registration and fundraising support only, not a grant",
+    "cofunding_plan": "Public donations raised on AusArt Day could complement later eligible arts grants, earned performance income, member contributions, philanthropy or verified sponsor support. No donation, match or other contribution is secured in advance.",
+    "qualifying_reframe": "Choose one artist-led local music or rights-literacy pilot with a simple public case for support rather than fundraising for the entire national ecosystem.",
+    "next_move": "By 24 September, an authorised artist or organisation should decide whether it can run and report on the 12-hour campaign, then choose the purpose, platform, rights and human approvals before registration.",
+    "human_roles": [
+      "Eligible artist, collective or arts-organisation decision-maker",
+      "Campaign, fundraising-platform and donor-accountability lead",
+      "Music rights, cultural authority, editorial and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a one-page campaign brief, budget and evidence checklist for human approval",
+      "Draft plain-language campaign copy without inventing artists, supporters, authority or outcomes",
+      "Flag missing rights, ICIP, privacy, donor handling, platform and reporting decisions"
+    ],
+    "readiness_check": "Confirm eligible participant, authority, one arts purpose, campaign lead, fundraising platform, rights, ICIP protocol compliance where relevant, donor handling, privacy, budget, 12-hour delivery capacity and reporting."
+  },
+  {
+    "match_key": "frrr-src-prepare-recover-round-31--straddie-capsule-surge-lab",
+    "grant_source_key": "frrr-src-prepare-recover-round-31",
+    "project_key": "straddie-capsule-surge-lab",
+    "fit_status": "clarify",
+    "fit_reason": "A small community-designed emergency logistics and temporary support prototype may fit climate preparedness, but accommodation, clinical claims, unsafe occupancy and speculative capsule infrastructure do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible rural not-for-profit or auspice, locally evidenced hazard need, non-clinical safe scope, authorised site or demonstration venue and only one SRC stream application",
+    "evidence_needed": [
+      "community-led hazard and logistics need statement",
+      "eligible charitable applicant or auspice and authority to apply",
+      "safe non-clinical demonstration scope, site permission and risk controls",
+      "budget, quotes, accessibility, evaluation and disaster-management alignment"
+    ],
+    "last_checked": "2026-09-22",
+    "action_priority": "build_pathway",
+    "action_by": "2026-12-03",
+    "stack_role": "small emergency-logistics evidence and prototype layer",
+    "funding_ask": "Up to $25,000 for an eligible preparedness project",
+    "cofunding_plan": "FRRR could fund one safe evidence and logistics pilot, with any later infrastructure requiring separate verified council, philanthropy, fundraising, sponsor, finance or capital-grant support. No site, contribution or later funding is secured.",
+    "qualifying_reframe": "Test a safe, non-clinical emergency logistics and temporary-support workflow rather than proposing unapproved sleeping pods or medical accommodation.",
+    "next_move": "Ask an authorised local resilience lead to define the real hazard, beneficiaries and one safe demonstrator before choosing an applicant, site and budget.",
+    "human_roles": [
+      "Eligible not-for-profit or auspice decision-maker",
+      "Emergency management, site, safety and accessibility leads",
+      "Community beneficiary and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a hazard, logistics, safety, site and evidence gap register",
+      "Draft a non-clinical pilot scope and budget worksheet for human review",
+      "Flag unsupported medical, occupancy, site, authority or partnership claims"
+    ],
+    "readiness_check": "Confirm charitable applicant, local hazard need, disaster-management fit, non-clinical scope, site permission, safety, accessibility, community leadership, budget, quotes, evaluation and one-round SRC choice."
+  },
+  {
+    "match_key": "redland-community-celebration-2026-27--straddie-headline-open-mic",
+    "grant_source_key": "redland-community-celebration-2026-27",
+    "project_key": "straddie-headline-open-mic",
+    "fit_status": "clarify",
+    "fit_reason": "A welcoming local open-mic celebration may fit the upcoming community round if it is a real participatory event with an eligible organiser, venue, safety and community purpose; the online prompt board alone does not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, ABN, insurance, Redland venue, permits, program, rights, access and non-capital costs",
+    "evidence_needed": [
+      "eligible organiser and authorised application decision",
+      "event date, venue permission, performers, audience and participation plan",
+      "$20 million insurance, safety, access, rights and permit evidence",
+      "eligible budget, quotes, promotion and evaluation"
+    ],
+    "last_checked": "2026-09-22",
+    "action_priority": "prepare_next",
+    "action_by": "2026-10-18",
+    "stack_role": "small participatory music and community celebration layer",
+    "funding_ask": "Up to $15,000 for eligible event delivery",
+    "cofunding_plan": "The grant could combine with unsecured ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or equipment support. Nothing is secured and capital purchases remain outside the round.",
+    "qualifying_reframe": "Define one accessible, permitted local open-mic celebration with artist, audience and community outcomes rather than funding a general website or platform.",
+    "next_move": "Before the round opens on 28 September, confirm the organiser, venue, program, rights, insurance, safety, access and one-event budget.",
+    "human_roles": [
+      "Eligible organiser or auspice decision-maker",
+      "Venue, event operations and performer lead",
+      "Community, cultural, access, rights and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the eligibility, venue, program, rights and budget checklist",
+      "Draft a one-event program and outcomes map for human approval",
+      "Flag invented performers, permissions, support, audience demand or secured contributions"
+    ],
+    "readiness_check": "Confirm applicant, ABN, insurance, venue, permits, artists, rights, safety, accessibility, audience, eligible costs, quotes, budget, evaluation and authority to apply."
+  },
+  {
+    "match_key": "redland-community-celebration-2026-27--straddie-night-market-lab",
+    "grant_source_key": "redland-community-celebration-2026-27",
+    "project_key": "straddie-night-market-lab",
+    "fit_status": "clarify",
+    "fit_reason": "A small community night-market celebration may fit the upcoming round if it centres local participation and community spirit, but commercial market operations, capital equipment and an unapproved site are not an eligible project by themselves.",
+    "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, ABN, insurance, site and permits, stallholder and food-safety controls, program, access and community benefit",
+    "evidence_needed": [
+      "eligible organiser and authorised application decision",
+      "site permission, event date, local program and participant demand",
+      "$20 million insurance, permits, food safety, waste, transport, access and risk plan",
+      "eligible non-capital budget, quotes and community outcomes"
+    ],
+    "last_checked": "2026-09-22",
+    "action_priority": "prepare_next",
+    "action_by": "2026-10-18",
+    "stack_role": "small permitted community celebration pilot",
+    "funding_ask": "Up to $15,000 for eligible event delivery",
+    "cofunding_plan": "The grant could combine with unsecured stall fees or earned income where eligible, resident fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind support. No income or support is secured and capital purchases remain outside the round.",
+    "qualifying_reframe": "Plan one low-risk, accessible community celebration with local stalls and programming rather than a permanent commercial market or infrastructure build.",
+    "next_move": "Before the round opens on 28 September, confirm the organiser, site, permits, insurance, stallholder rules, food safety, waste, access and one-event budget.",
+    "human_roles": [
+      "Eligible organiser or auspice decision-maker",
+      "Site controller, event operations and stallholder lead",
+      "Council, safety, food, waste, access and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the organiser, site, permit, safety, stallholder and budget checklist",
+      "Draft a one-event operations and outcomes map for human review",
+      "Flag invented site control, vendors, permissions, demand or secured contributions"
+    ],
+    "readiness_check": "Confirm applicant, ABN, insurance, site control, permits, stallholder rules, food safety, waste, transport, accessibility, program, eligible costs, budget, evaluation and authority to apply."
   }
 ]
