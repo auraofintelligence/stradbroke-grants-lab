@@ -741,25 +741,6 @@
     "deadline_date": "2026-11-01"
   },
   {
-    "title": "Cooperative Research Centres Grants Round 28 - AI Accelerator forecast",
-    "priority": "National program",
-    "summary": "About $50 million is forecast for at least one AI CRC, but that is a program envelope. Round 28 applicant amounts, dates and final rules are not yet published.",
-    "level": "federal",
-    "level_label": "Australian Government Department of Industry, Science and Resources",
-    "window_type": "Future round",
-    "action": "Watch for 2027 guidelines. Only build a pathway where an industry-led consortium, research partners, matching contributions, commercialisation case and genuine community role can be evidenced.",
-    "source_url": "https://business.gov.au/grants-and-programs/cooperative-research-centres-crc-grants",
-    "last_checked": "Checked 2026-09-17",
-    "status": "Future round - expected to open in 2027; guidelines and dates not yet published",
-    "source_key": "crc-round-28-ai-accelerator-forecast",
-    "opportunity_type": "grant",
-    "funding": "Approximately $50 million is forecast for at least one AI CRC; this is a program envelope, and no Round 28 applicant amount is published",
-    "deadline": "Round 28 is expected to open in 2027; exact opening and closing dates are not published.",
-    "applicants": "Industry-led collaborations across business, researchers and community sectors; final Round 28 eligibility, applicant structure, matching contribution and evidence requirements are TO BE CONFIRMED when guidelines open.",
-    "availability": "opening_soon",
-    "deadline_date": null
-  },
-  {
     "title": "Screen Australia First Nations Documentary Development",
     "priority": "Cultural authority",
     "summary": "The 20 August deadline passed. Next published deadline is 22 October 2026: up to $30,000 for feature or series and up to $20,000 for one-hour television or online documentary.",
@@ -834,6 +815,25 @@
     "applicants": "Eligible incorporated Australian companies with ABN, required GST registration and chain of title; sole traders, trusts and public companies are not eligible.",
     "availability": "future",
     "deadline_date": "2027-02-25"
+  },
+  {
+    "title": "Cooperative Research Centres Grants Round 28 - AI Accelerator forecast",
+    "priority": "National program",
+    "summary": "About $50 million is forecast for at least one AI CRC, but that is a program envelope. Round 28 applicant amounts, dates and final rules are not yet published.",
+    "level": "federal",
+    "level_label": "Australian Government Department of Industry, Science and Resources",
+    "window_type": "Future round",
+    "action": "Watch for 2027 guidelines. Only build a pathway where an industry-led consortium, research partners, matching contributions, commercialisation case and genuine community role can be evidenced.",
+    "source_url": "https://business.gov.au/grants-and-programs/cooperative-research-centres-crc-grants",
+    "last_checked": "Checked 2026-09-17",
+    "status": "Future round - expected to open in 2027; guidelines and dates not yet published",
+    "source_key": "crc-round-28-ai-accelerator-forecast",
+    "opportunity_type": "grant",
+    "funding": "Approximately $50 million is forecast for at least one AI CRC; this is a program envelope, and no Round 28 applicant amount is published",
+    "deadline": "Round 28 is expected to open in 2027; exact opening and closing dates are not published.",
+    "applicants": "Industry-led collaborations across business, researchers and community sectors; final Round 28 eligibility, applicant structure, matching contribution and evidence requirements are TO BE CONFIRMED when guidelines open.",
+    "availability": "future",
+    "deadline_date": null
   },
   {
     "title": "Future Thriving Suburbs and Growing Regions rounds \u2014 2026 forecast",
