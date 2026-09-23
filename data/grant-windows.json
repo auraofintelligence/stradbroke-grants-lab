@@ -4,7 +4,7 @@
     "title": "GCBF Round 127",
     "window_type": "Open grant",
     "notify": "Not-for-profit clubs, community groups, sport groups, arts groups and auspiced informal groups.",
-    "tip": "Round 127 is open for one-off grants up to $35,000 and closes 28 September 2026.",
+    "tip": "Round 127 is open for one-off grants up to $35,000 and closes 11:59pm AEST 28 September 2026.",
     "action": "Confirm the eligible legal applicant or sponsor, current guidelines, asset ownership, quotes, public benefit, governance and reporting capacity before drafting.",
     "source": "Queensland Gambling Community Benefit Fund"
   },
@@ -236,10 +236,10 @@
   {
     "source_key": "qld-grassroots-wildlife-carers-r2-2026",
     "title": "Queensland Grassroots Wildlife Carers Assistance Round 2",
-    "window_type": "Open grant",
-    "notify": "Eligible registered wildlife carers and eligible wildlife care organisations meeting the current program rules.",
-    "tip": "Individual wildlife carers up to $1,000 including GST; wildlife care organisations up to $5,000 including GST. The $300,000 amount is the round envelope.. Closes when funds are committed or 4:00pm AEST 22 September 2026. Reimbursement for essential wildlife rescue, rehabilitation and care items. This is a direct small-grant path for genuine registered carers and wildlife care organisations, not general app development.",
-    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Round 2 is retained only as a checked historical source and future recurring-round preparation.",
+    "tip": "Individual wildlife carers could seek up to $1,000 including GST and wildlife care organisations up to $5,000 including GST. Round 2 closed at 4:00pm AEST 22 September 2026.",
+    "action": "Do not apply to the closed round. Keep registered-carer evidence, an eligible-item list and reimbursement records ready for any future official round.",
     "source": "Queensland Government"
   },
   {
@@ -781,5 +781,32 @@
     "tip": "Public donations vary; this is not a grant. Registration closes 24 September 2026 and the 2026 micro-grant applications are already closed.",
     "action": "Confirm the artist or organisation, authority, campaign purpose, fundraising platform, public story, rights, ICIP protocol compliance where relevant, donor handling and reporting capacity before registering.",
     "source": "Creative Australia"
+  },
+  {
+    "source_key": "creative-australia-acf-boost-2027",
+    "title": "Creative Australia ACF Boost 2027",
+    "window_type": "Open matched fundraising",
+    "notify": "Eligible Australian artists, collectives and arts organisations with an active ABN or auspice and one defined cultural project ready for an Australian Cultural Fund campaign.",
+    "tip": "Dollar-for-dollar matched funding up to $5,000. Applications close 12:00pm AEDT 19 October 2026; successful campaigns run from 1 February to 30 April 2027.",
+    "action": "Confirm one eligible cultural project, applicant or auspice, ABN, rights, authority, campaign target, donor strategy, balanced budget, delivery capacity and First Nations protocols where relevant before applying.",
+    "source": "Creative Australia - Australian Cultural Fund"
+  },
+  {
+    "source_key": "arena-launchpad-startup-round-2026",
+    "title": "ARENA Launchpad Startup Funding Round 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible founders and early-stage clean-energy startups with a real pre-commercial technology, capable team and commercialisation pathway.",
+    "tip": "$500,000 per grant, with up to a further $500,000 for projects with high capital expenditure. Applications close 4:00pm AEDT 28 October 2026.",
+    "action": "Confirm the legal startup, technology eligibility, intellectual property, technical evidence, team, budget, co-funding and investor or deployment pathway before drafting.",
+    "source": "Australian Renewable Energy Agency"
+  },
+  {
+    "source_key": "arena-launchpad-ecosystem-round-2026",
+    "title": "ARENA Launchpad Ecosystem Funding Round 2026",
+    "window_type": "Rolling grant",
+    "notify": "Established clean-energy accelerators, incubators and ecosystem providers capable of running a multi-year commercialisation-support program.",
+    "tip": "Up to $5 million per ecosystem partner. The round remains open until the $15 million allocation is exhausted.",
+    "action": "Confirm the legal provider, existing cohort and delivery track record, ARENA alignment, investor and customer pathways, multi-year program, budget, governance and evidence before applying.",
+    "source": "Australian Renewable Energy Agency"
   }
 ]

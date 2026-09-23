@@ -294,8 +294,8 @@
     "last_checked": "2026-09-09"
   },
   {
-    "pathway_key": "qld-grassroots-wildlife-carers-r2-2026--wildlife-rescue-minjerribah--roles",
-    "grant_source_key": "qld-grassroots-wildlife-carers-r2-2026",
+    "pathway_key": "redland-community-support--wildlife-rescue-minjerribah--roles",
+    "grant_source_key": "redland-community-support",
     "project_key": "wildlife-rescue-minjerribah",
     "planning_status": "research_only",
     "roles_needed": [
@@ -308,18 +308,18 @@
     "last_checked": "2026-09-01"
   },
   {
-    "pathway_key": "support-at-home-thin-markets-round-3-2026--health-and-culture--roles",
-    "grant_source_key": "support-at-home-thin-markets-round-3-2026",
+    "pathway_key": "redland-community-support--health-and-culture--roles",
+    "grant_source_key": "redland-community-support",
     "project_key": "health-and-culture",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible Support at Home provider decision-maker",
-      "Aged-care service and safeguarding lead",
-      "Cultural authority, older-person, workforce and financial reviewers"
+      "Eligible applicant or auspice decision-maker",
+      "Program, venue, safety, safeguarding and accessibility leads",
+      "Participant, cultural-authority, rights and financial reviewers appropriate to the chosen activity"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-09"
+    "last_checked": "2026-09-23"
   },
   {
     "pathway_key": "redland-build-thrive--amity-outdoor-fitness-and-safer-access--roles",

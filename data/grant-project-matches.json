@@ -66,39 +66,6 @@
     "readiness_check": "Confirm incorporated applicant, track record, program dates, cultural authority, screening rights, venue, community support, budget and third-party finance."
   },
   {
-    "match_key": "qld-grassroots-wildlife-carers-r2-2026--wildlife-rescue-minjerribah",
-    "grant_source_key": "qld-grassroots-wildlife-carers-r2-2026",
-    "project_key": "wildlife-rescue-minjerribah",
-    "fit_status": "clarify",
-    "fit_reason": "This is the strongest immediate operational path for genuine local carers, but it funds eligible rescue and rehabilitation items, not general app development.",
-    "eligibility_status": "TO BE CONFIRMED: registered wildlife carer or eligible organisation, code compliance, eligible rescue items and reimbursement evidence",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-09-01",
-    "action_priority": "act_now",
-    "action_by": "2026-09-22",
-    "stack_role": "direct rescue equipment",
-    "funding_ask": "Individual up to $1,000; organisation up to $5,000",
-    "cofunding_plan": "This direct rescue equipment can sit beside later capital or equipment grants, a resident and member campaign, local business sponsorship, visitor giving or major gifts, eligible applicant cash and verified in-kind site or technical support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Split urgent carer equipment and transport from the digital coordination product.",
-    "next_move": "Use this small grant for direct care; fund app improvements via Council Rapid Response and resilience communications via a separate stream.",
-    "human_roles": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, subject-matter and financial reviewers appropriate to the scope"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm the registered carer or eligible care organisation, item eligibility, receipts or quotes and immediate need."
-  },
-  {
     "match_key": "gcbf-next-round-watch--ballow-road-sand-screen-hub",
     "grant_source_key": "gcbf-next-round-watch",
     "project_key": "ballow-road-sand-screen-hub",
@@ -202,7 +169,7 @@
     "grant_source_key": "gcbf-next-round-watch",
     "project_key": "straddie-maker-space-lab",
     "fit_status": "clarify",
-    "fit_reason": "GCBF may support tools and equipment, but no current round exists and the makerspace has no confirmed applicant or site.",
+    "fit_reason": "GCBF Round 127 may support eligible tools and equipment up to $35,000, but the makerspace still has no confirmed applicant, asset owner or site and must not purchase before approval.",
     "eligibility_status": "TO BE CONFIRMED: current GCBF round, eligible not-for-profit, confirmed site, eligible tools and no pre-approval purchase",
     "evidence_needed": [
       "confirmed legal applicant and authority to apply",
@@ -1848,39 +1815,6 @@
     "readiness_check": "Confirm legal structure, trading history, vulnerable-beneficiary impact, governance, turnover, authority, capability gap, provider, budget, outcomes measures and any First Nations ownership or control evidence before proceeding."
   },
   {
-    "match_key": "support-at-home-thin-markets-round-3-2026--health-and-culture",
-    "grant_source_key": "support-at-home-thin-markets-round-3-2026",
-    "project_key": "health-and-culture",
-    "fit_status": "clarify",
-    "fit_reason": "The pathway may support continuity of an existing culturally responsive aged-care service, but it does not fund an unregistered new wellbeing concept, cultural authority work or general community programming.",
-    "eligibility_status": "TO BE CONFIRMED: eligible registered Support at Home provider, applicable thin-market or specialised service, Specialisation Verification where required, service evidence, cultural authority and workforce capacity",
-    "evidence_needed": [
-      "eligible existing provider and authority to apply",
-      "applicable service and thin-market or specialisation evidence",
-      "older-person need, continuity and workforce evidence",
-      "cultural authority, safeguarding, budget and reporting capacity"
-    ],
-    "last_checked": "2026-09-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-11-26",
-    "stack_role": "existing aged-care service continuity layer",
-    "funding_ask": "Varies by eligible provider and service need",
-    "cofunding_plan": "This service-continuity layer could sit beside existing service revenue, philanthropy, resident or family contributions only where lawful, later health grants and verified in-kind support from confirmed organisations. Nothing is secured without evidence.",
-    "qualifying_reframe": "Use only for an existing eligible provider's defined Support at Home service gap; keep broader community wellbeing, meals and cultural programs in separate funding streams.",
-    "next_move": "Ask a human service lead to identify whether an eligible provider and qualifying service already exist before preparing any application material.",
-    "human_roles": [
-      "Eligible Support at Home provider decision-maker",
-      "Aged-care service and safeguarding lead",
-      "Cultural authority, older-person, workforce and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a provider and service eligibility checklist",
-      "Map the service-continuity evidence and separate non-eligible concept costs",
-      "Draft a budget and reporting evidence register for human approval"
-    ],
-    "readiness_check": "Confirm provider registration, service category, Specialisation Verification, cultural authority, service need, workforce, safeguarding, budget and reporting."
-  },
-  {
     "match_key": "redland-community-support--bees-and-allies",
     "grant_source_key": "redland-community-support",
     "project_key": "bees-and-allies",
@@ -2741,6 +2675,39 @@
     "readiness_check": "Confirm eligible participant, authority, one arts purpose, campaign lead, fundraising platform, rights, ICIP protocol compliance where relevant, donor handling, privacy, budget, 12-hour delivery capacity and reporting."
   },
   {
+    "match_key": "creative-australia-acf-boost-2027--sovereign-music-australia",
+    "grant_source_key": "creative-australia-acf-boost-2027",
+    "project_key": "sovereign-music-australia",
+    "fit_status": "clarify",
+    "fit_reason": "A defined artist-led Minjerribah music or rights-literacy project could use ACF Boost to match public donations up to $5,000, but the broad national ecosystem is not one eligible campaign and no artist, applicant, auspice or donor plan is confirmed.",
+    "eligibility_status": "TO BE CONFIRMED: eligible artist, collective or arts organisation, active ABN or auspice, authorised cultural project, rights, campaign plan, budget and delivery capacity",
+    "evidence_needed": [
+      "eligible artist, collective or arts organisation and authorised campaign lead",
+      "active ABN or signed auspice arrangement and matching bank-account responsibility",
+      "one eligible cultural project, balanced budget, campaign target and donor strategy",
+      "rights, privacy, child-safety and First Nations cultural and intellectual property protocol evidence where relevant"
+    ],
+    "last_checked": "2026-09-23",
+    "action_priority": "prepare_next",
+    "action_by": "2026-10-19",
+    "stack_role": "matched seed fundraising and donor-evidence layer",
+    "funding_ask": "Dollar-for-dollar matched funding up to $5,000 plus eligible public donations",
+    "cofunding_plan": "Eligible public donations through the Australian Cultural Fund could be matched up to $5,000 and sit beside later arts grants, earned income, philanthropy or verified sponsor support. Sponsorship, in-kind support, government funding, participant donations, loans and earned income are not matched, and nothing is secured.",
+    "qualifying_reframe": "Choose one artist-led local music or rights-literacy project with a clear public case for support, achievable 2027 delivery and modest fundraising target rather than funding the whole national ecosystem.",
+    "next_move": "Before 19 October, an authorised artist or organisation should confirm eligibility, ABN or auspice, one project, rights, budget, donor network and capacity to run the February-April 2027 campaign.",
+    "human_roles": [
+      "Eligible artist, collective or arts-organisation decision-maker",
+      "Auspice, ABN, bank-account and financial-accountability lead",
+      "Campaign, music-rights, cultural-authority, editorial and donor-stewardship reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a one-page case for support, balanced budget and campaign evidence checklist",
+      "Draft a modest donor and communications plan for human approval",
+      "Flag missing applicant, auspice, rights, ICIP, privacy, donor and delivery decisions"
+    ],
+    "readiness_check": "Confirm eligible participant, active ABN or auspice, authority, one cultural project, rights, ICIP protocols where relevant, child safety where relevant, balanced budget, campaign target, donor strategy, delivery capacity and acquittal."
+  },
+  {
     "match_key": "frrr-src-prepare-recover-round-31--straddie-capsule-surge-lab",
     "grant_source_key": "frrr-src-prepare-recover-round-31",
     "project_key": "straddie-capsule-surge-lab",
@@ -2838,5 +2805,38 @@
       "Flag invented site control, vendors, permissions, demand or secured contributions"
     ],
     "readiness_check": "Confirm applicant, ABN, insurance, site control, permits, stallholder rules, food safety, waste, transport, accessibility, program, eligible costs, budget, evaluation and authority to apply."
+  },
+  {
+    "match_key": "redland-community-support--health-and-culture",
+    "grant_source_key": "redland-community-support",
+    "project_key": "health-and-culture",
+    "fit_status": "clarify",
+    "fit_reason": "A defined local sport, outdoor-cinema, youth or wellbeing participation program may fit the upcoming Community Support round, but the broad concept is not one fundable project and cultural activity requires confirmed authority and permissions.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, authorised program lead, insurance, venue or site permissions, safeguarding, cultural authority where relevant and deliverable budget",
+    "evidence_needed": [
+      "eligible applicant or auspice and authorised application decision",
+      "one clearly defined participant group, local need, program and measurable outcomes",
+      "venue or site permission, insurance, safety, accessibility and safeguarding evidence",
+      "cultural authority, program rights, quotes, budget and delivery plan where relevant"
+    ],
+    "last_checked": "2026-09-23",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-01",
+    "stack_role": "local participation and wellbeing pilot layer",
+    "funding_ask": "Up to $20,000",
+    "cofunding_plan": "A small council program grant could sit beside unsecured participant or member fundraising, eligible earned income, local sponsorship, philanthropy and verified in-kind venue or volunteer support. No applicant, site, contribution or support is secured.",
+    "qualifying_reframe": "Select one achievable local participation program with clear health, cultural or recreational outcomes rather than seeking funds for the whole cross-sector concept.",
+    "next_move": "Before the round opens on 12 October, ask an authorised organiser to choose one program, participant group, venue, delivery team and budget, then confirm applicant eligibility and permissions.",
+    "human_roles": [
+      "Eligible applicant or auspice decision-maker",
+      "Program, venue, safety, safeguarding and accessibility leads",
+      "Participant, cultural-authority, rights and financial reviewers appropriate to the chosen activity"
+    ],
+    "ai_tasks": [
+      "Prepare a one-program scope, outcomes map and evidence checklist",
+      "Draft a budget and delivery timeline for human review",
+      "Flag unsupported applicant, site, cultural, participant, safety or co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant or auspice, authority, one program, local need, participants, venue or site, insurance, safety, accessibility, safeguarding, cultural permissions where relevant, rights, quotes, budget, delivery team and reporting."
   }
 ]
