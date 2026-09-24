@@ -2838,5 +2838,104 @@
       "Flag unsupported applicant, site, cultural, participant, safety or co-funding claims"
     ],
     "readiness_check": "Confirm applicant or auspice, authority, one program, local need, participants, venue or site, insurance, safety, accessibility, safeguarding, cultural permissions where relevant, rights, quotes, budget, delivery team and reporting."
+  },
+  {
+    "match_key": "nbn-grants-program-2026--ready-set-co-op-hyperlocal-media",
+    "grant_source_key": "nbn-grants-program-2026",
+    "project_key": "ready-set-co-op-hyperlocal-media",
+    "fit_status": "clarify",
+    "fit_reason": "The digital participation, local media and skills concept aligns with several nbn categories only if an existing eligible regional digital business or organisation is already operating and can evidence how it uses the nbn network.",
+    "eligibility_status": "TO BE CONFIRMED: operating digital business or organisation, regional classification, nbn connection, ABN, matching Australian bank account, category and evidence of impact",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-24",
+    "action_priority": "act_now",
+    "action_by": "2026-10-12",
+    "stack_role": "small digital-business proof, equipment or service pilot",
+    "funding_ask": "$15,000 category grant, with a possible additional $20,000 only if selected as the overall Champion",
+    "cofunding_plan": "This small pilot could combine with member or resident fundraising, local sponsor cash or in-kind support, earned service income, visitor giving, philanthropy and later skills or equipment grants. Every layer is unsecured until evidenced.",
+    "qualifying_reframe": "Define one operating regional digital service that uses the nbn network to deliver measurable community media, digital skills or participation outcomes, rather than seeking funds for an unformed co-op concept.",
+    "next_move": "Confirm whether an eligible operating entity, nbn connection, ABN, bank account and real customer or community evidence already exist before selecting one category and drafting by 12 October.",
+    "human_roles": [
+      "Authorised business or organisation decision-maker",
+      "Digital service and community-outcomes lead",
+      "Finance, cultural, privacy and evidence reviewers appropriate to the proposal"
+    ],
+    "ai_tasks": [
+      "Prepare the category comparison and official eligibility checklist",
+      "Draft an impact, budget and evidence worksheet for human review",
+      "Flag unsupported operating-history, connection, ownership, authority or impact claims"
+    ],
+    "readiness_check": "Confirm existing entity, operating history, regional status, nbn connection, ABN, matching bank account, category, service, users, impact evidence, budget, ownership, permissions and delivery capacity."
+  },
+  {
+    "match_key": "stronger-communities-programme-round-10--ballow-road-sand-screen-hub",
+    "grant_source_key": "stronger-communities-programme-round-10",
+    "project_key": "ballow-road-sand-screen-hub",
+    "fit_status": "clarify",
+    "fit_reason": "Round 10 can fund a small, discrete capital component that delivers community benefit, but it cannot fund the entire LED-screen system and no MP nomination, applicant, asset ownership or site authority exists yet.",
+    "eligibility_status": "TO BE CONFIRMED: eligible entity, local Federal MP nomination and invitation, agreed project and amount, community consultation, asset owner, site control and eligible capital costs",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-24",
+    "action_priority": "prepare_next",
+    "action_by": "2026-11-30",
+    "stack_role": "small capital equipment, access, power, storage or approval layer",
+    "funding_ask": "$2,500-$20,000 for one MP-nominated and invited capital project",
+    "cofunding_plan": "This small capital layer could sit beside GCBF equipment, later fixed-works funding, member or resident fundraising, local sponsorship, visitor giving, philanthropy, earned event income and verified in-kind technical support. Nothing is secured.",
+    "qualifying_reframe": "Select one independently useful capital item or approval package with clear community benefit, ownership and site authority, rather than presenting the whole sand, screen and market concept as one grant request.",
+    "next_move": "Settle the eligible legal applicant, one capital component, asset owner, site, permissions, quotes and community evidence before any authorised MP nomination approach ahead of 30 November.",
+    "human_roles": [
+      "Eligible applicant and authorised board decision-maker",
+      "Asset owner and site controller",
+      "Community, technical, access, insurance and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a capital-component options table and official eligibility checklist",
+      "Build the quote, ownership, site, approval and community-benefit evidence register",
+      "Keep MP nomination and invitation explicitly unconfirmed until evidenced"
+    ],
+    "readiness_check": "Confirm eligible entity, authorised nomination approach, MP nomination and invitation, exact capital component, asset owner, site control, permissions, quotes, insurance, budget, delivery period and acquittal capacity."
+  },
+  {
+    "match_key": "qld-community-housing-investment-pipeline--minjerribah-site-and-service-ideas",
+    "grant_source_key": "qld-community-housing-investment-pipeline",
+    "project_key": "minjerribah-site-and-service-ideas",
+    "fit_status": "watch",
+    "fit_reason": "The always-open pipeline is a credible housing delivery route only through a registered community housing provider with a real site, landowner discussions, a viable concept and procurement capacity. The public workbench alone is not an eligible housing proposal.",
+    "eligibility_status": "TO BE CONFIRMED: registered community housing provider, selected site, landowner engagement, housing need, planning pathway, delivery team, finance and procurement compliance",
+    "evidence_needed": [
+      "confirmed legal applicant and authority to apply",
+      "grant-specific eligible scope, budget and quotes",
+      "local need, delivery plan and measurable outcomes",
+      "site, cultural, rights, safety or partner permissions where relevant"
+    ],
+    "last_checked": "2026-09-24",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "rolling social and community housing procurement and finance pathway",
+    "funding_ask": "Project-specific procurement and negotiated support; not a general grant amount",
+    "cofunding_plan": "A viable housing proposal may require provider and investor finance, government support, philanthropy, eligible land or in-kind contributions and later project-specific funding. No site, finance, partner role or contribution is secured.",
+    "qualifying_reframe": "Select one evidenced housing need and site-backed delivery concept for assessment by a registered community housing provider, rather than treating the wider site-and-service ideas catalogue as a proposal.",
+    "next_move": "Do not approach the market yet. First identify the accountable provider role, one site question, landowner decision pathway, housing need, planning constraints and a realistic delivery and finance model.",
+    "human_roles": [
+      "Registered community housing provider decision-maker",
+      "Landowner or authorised site controller",
+      "Housing-need, planning, design, finance, cultural and procurement reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare a provider-role, site-control and procurement readiness checklist",
+      "Build an options brief separating housing need, site facts, approvals, delivery and finance",
+      "Flag any implied provider agreement, land control, planning approval, finance or community assent"
+    ],
+    "readiness_check": "Confirm registered provider, authority, site, landowner discussions, housing need, cultural permissions, planning pathway, delivery team, procurement compliance, finance, ownership and long-term operations."
   }
 ]

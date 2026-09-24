@@ -808,5 +808,59 @@
     "tip": "Up to $5 million per ecosystem partner. The round remains open until the $15 million allocation is exhausted.",
     "action": "Confirm the legal provider, existing cohort and delivery track record, ARENA alignment, investor and customer pathways, multi-year program, budget, governance and evidence before applying.",
     "source": "Australian Renewable Energy Agency"
+  },
+  {
+    "source_key": "nbn-grants-program-2026",
+    "title": "Innovate with nbn Grants Program 2026",
+    "window_type": "Closing soon",
+    "notify": "Existing regional digital businesses and organisations using the nbn network, including First Nations, arts, tourism, education, environment, health and productivity ventures.",
+    "tip": "Seven category winners receive $15,000; one also receives a further $20,000 Champion Award. Applications close 12 October 2026, with no official closing time published.",
+    "action": "Confirm an existing eligible operating business, regional location, nbn connection, ABN, bank account, category fit and evidence of digital impact before drafting.",
+    "source": "nbn and business.gov.au"
+  },
+  {
+    "source_key": "stronger-communities-programme-round-10",
+    "title": "Stronger Communities Programme Round 10",
+    "window_type": "Open grant",
+    "notify": "Eligible local not-for-profits, non-distributing co-operatives, Indigenous corporations and other qualifying community asset holders seeking a small capital layer.",
+    "tip": "Projects require local Federal MP nomination by 30 November 2026 before invited applications close 19 January 2027. Funding is $2,500-$20,000.",
+    "action": "Settle one capital component, applicant, ownership, site, quotes and community benefit before any authorised nomination approach. Do not imply nomination or invitation.",
+    "source": "Australian Government business.gov.au"
+  },
+  {
+    "source_key": "screen-australia-first-nations-feature-development-oct-2026",
+    "title": "First Nations Feature Development - October 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible experienced Aboriginal and Torres Strait Islander feature writers, directors and producers with genuine authorship and control.",
+    "tip": "Up to $30,000, or $45,000 with a producer attached. The next deadline is 5:00pm AEDT 22 October 2026.",
+    "action": "Confirm applicant identity and credits, First Nations authorship, creative roles, rights, chain of title, development materials and cultural authority before proceeding.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-first-nations-tv-drama-development-oct-2026",
+    "title": "First Nations TV Drama Development - October 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible experienced Aboriginal and Torres Strait Islander television drama writers, directors and producers with genuine authorship and control.",
+    "tip": "One-offs may receive up to $30,000 or $45,000 with a producer; series may receive up to $65,000. The next deadline is 5:00pm AEDT 22 October 2026.",
+    "action": "Confirm applicant identity and credits, First Nations authorship, team, rights, chain of title, development materials and cultural authority before proceeding.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "frrr-rebuilding-futures-oct-2026",
+    "title": "FRRR Rebuilding Futures - next round",
+    "window_type": "Future round",
+    "notify": "Eligible rural and regional not-for-profits with a community-led recovery, prevention or preparedness project tied to a qualifying declared disaster.",
+    "tip": "Applications open 27 October 2026. The new round closing date and amount are not yet published; the previous round offered up to $25,000.",
+    "action": "Confirm the applicant, eligible location and disaster declaration, then prepare one practical community-led resilience project while waiting for the new guidelines.",
+    "source": "Foundation for Rural & Regional Renewal"
+  },
+  {
+    "source_key": "qld-community-housing-investment-pipeline",
+    "title": "Queensland Community Housing Investment Pipeline",
+    "window_type": "Rolling search",
+    "notify": "Registered community housing providers and site-backed delivery teams capable of developing new social and community housing.",
+    "tip": "This is an always-open procurement pathway with project-specific support, not a general community grant.",
+    "action": "Confirm a registered provider, site, landowner discussions, concept, delivery structure, finance and procurement readiness before any proposal.",
+    "source": "Queensland Department of Housing and Public Works"
   }
 ]
