@@ -326,10 +326,10 @@
   {
     "source_key": "screen-australia-documentary-production-sept-2026",
     "title": "Screen Australia Documentary Production Program — September 2026",
-    "window_type": "Open grant",
-    "notify": "Eligible Australian production applicants and projects meeting Screen Australia experience, rights, finance, marketplace and content requirements.",
-    "tip": "Documentary Producer Program: up to 80% of budget, capped at $300,000 where budget is $500,000 or less; Platform First: up to $500,000, subject to program percentage and marketplace rules.. Closes 5:00pm AEST 24 September 2026. Production funding for market-ready Australian documentary with an experienced team, rights, finance plan and the relevant distribution or platform pathway.",
-    "action": "Confirm the legal applicant, applicant authority, eligible scope, required contribution, evidence, budget and delivery capacity before any drafting or submission.",
+    "window_type": "Closed grant",
+    "notify": "The 5:00pm AEST 24 September 2026 deadline has passed.",
+    "tip": "The September 2026 Documentary Production round is closed. Retain it as history and monitor Screen Australia's official funding deadlines for later rounds.",
+    "action": "Do not submit against the closed round. Keep production-readiness, rights, budget, finance and marketplace evidence current for a future published deadline.",
     "source": "Screen Australia"
   },
   {
@@ -776,10 +776,10 @@
   {
     "source_key": "creative-australia-ausart-day-2026",
     "title": "Creative Australia AusArt Day 2026",
-    "window_type": "Open fundraising registration",
-    "notify": "Australian artists, collectives and arts organisations able to run a dedicated 12-hour digital fundraising campaign on 22 October.",
-    "tip": "Public donations vary; this is not a grant. Registration closes 24 September 2026 and the 2026 micro-grant applications are already closed.",
-    "action": "Confirm the artist or organisation, authority, campaign purpose, fundraising platform, public story, rights, ICIP protocol compliance where relevant, donor handling and reporting capacity before registering.",
+    "window_type": "Closed fundraising registration",
+    "notify": "Participant registration closed 24 September 2026; AusArt Day is 22 October 2026.",
+    "tip": "This was a fundraising pathway rather than a grant. The 2026 participant and micro-grant registration windows are closed.",
+    "action": "Do not register against the closed window. Monitor Creative Australia for a future AusArt Day pathway or use another currently open fundraising route.",
     "source": "Creative Australia"
   },
   {
@@ -862,5 +862,41 @@
     "tip": "This is an always-open procurement pathway with project-specific support, not a general community grant.",
     "action": "Confirm a registered provider, site, landowner discussions, concept, delivery structure, finance and procurement readiness before any proposal.",
     "source": "Queensland Department of Housing and Public Works"
+  },
+  {
+    "source_key": "federal-safer-local-roads-infrastructure-tranche-6-2026",
+    "title": "Safer Local Roads and Infrastructure Program - Tranche 6 2026",
+    "window_type": "Open grant",
+    "notify": "State, territory and local government applicants with a construction-ready road safety, bridge, resilience, sustainability or heavy-vehicle project.",
+    "tip": "Up to $5 million per eligible project with a required funding co-contribution. Applications close 5:00pm AEDT 31 January 2027.",
+    "action": "Only a government applicant can proceed. Confirm the road or bridge authority, problem evidence, complete construction scope, design maturity, approvals, cost estimate, co-contribution, procurement and delivery capacity.",
+    "source": "Australian Government Department of Infrastructure"
+  },
+  {
+    "source_key": "screen-australia-future-leaders-bitsummit-2027",
+    "title": "Screen Australia Future Leaders Delegation - BitSummit 2027",
+    "window_type": "Open grant",
+    "notify": "Eligible early-to-mid career Australian gamemakers with at least one publicly released game and another game ready to exhibit.",
+    "tip": "$6,000 per successful delegate for eligible BitSummit travel and participation costs. Applications close 5:00pm AEST 5 November 2026.",
+    "action": "Confirm citizenship or residency, applicant entity, ABN and GST status, released-game evidence, current-game readiness, rights, availability and career-stage fit before applying.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-narrative-content-production-dec-2026",
+    "title": "Screen Australia Narrative Content Production - December 2026",
+    "window_type": "Open grant",
+    "notify": "Eligible production-ready Australian narrative projects with an experienced team, rights, viable budget, audience pathway and marketplace finance.",
+    "tip": "Funding varies by project scale, platform, budget and additional finance under the current guidelines. Applications close 5:00pm AEST 3 December 2026.",
+    "action": "Confirm production readiness, legal applicant, team, rights, platform, audience, budget, finance and any cultural or community authority, then discuss the project with a Screen Australia Investment Manager before applying.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "cbf-quick-response",
+    "title": "Community Broadcasting Foundation Quick Response Grants",
+    "window_type": "Rolling grant",
+    "notify": "Eligible community media organisations with an unforeseen transmission or operational emergency, or a genuinely time-limited opportunity that cannot wait for the next ordinary round.",
+    "tip": "Funding varies by evidenced need: eligible emergencies may receive up to 100% of cost and eligible opportunities up to 50%. This is not routine planned capital funding.",
+    "action": "Confirm an eligible broadcaster, the unforeseen and urgent circumstance, inability to use reserves or insurance, technical evidence, quotes, budget and financial statements before discussing eligibility with CBF.",
+    "source": "Community Broadcasting Foundation"
   }
 ]

@@ -2642,39 +2642,6 @@
     "readiness_check": "Confirm eligible manufacturer, ABN and trading history, lawful feedstock and site, licences, manufacturing process, technical maturity, quotes, product market, jobs and benefits, matched funds, financial capacity, security, delivery plan and authority to apply."
   },
   {
-    "match_key": "creative-australia-ausart-day-2026--sovereign-music-australia",
-    "grant_source_key": "creative-australia-ausart-day-2026",
-    "project_key": "sovereign-music-australia",
-    "fit_status": "clarify",
-    "fit_reason": "A defined artist-led Minjerribah music or rights-literacy pilot could use AusArt Day to test public support and build fundraising capability, but the platform does not supply grant money and the whole national ecosystem is too broad for one campaign.",
-    "eligibility_status": "TO BE CONFIRMED: eligible artist, collective or arts organisation, authorised campaign purpose, 12-hour delivery commitment, fundraising platform, rights and protocol compliance",
-    "evidence_needed": [
-      "authorised artist, collective or arts organisation and named campaign lead",
-      "one clear public arts purpose, budget and case for support",
-      "fundraising platform, donor handling, rights, privacy and reporting arrangements",
-      "First Nations cultural and intellectual property authority and protocol evidence where relevant"
-    ],
-    "last_checked": "2026-09-22",
-    "action_priority": "act_now",
-    "action_by": "2026-09-24",
-    "stack_role": "public fundraising test and supporter-building layer",
-    "funding_ask": "Varies by public donations; registration and fundraising support only, not a grant",
-    "cofunding_plan": "Public donations raised on AusArt Day could complement later eligible arts grants, earned performance income, member contributions, philanthropy or verified sponsor support. No donation, match or other contribution is secured in advance.",
-    "qualifying_reframe": "Choose one artist-led local music or rights-literacy pilot with a simple public case for support rather than fundraising for the entire national ecosystem.",
-    "next_move": "By 24 September, an authorised artist or organisation should decide whether it can run and report on the 12-hour campaign, then choose the purpose, platform, rights and human approvals before registration.",
-    "human_roles": [
-      "Eligible artist, collective or arts-organisation decision-maker",
-      "Campaign, fundraising-platform and donor-accountability lead",
-      "Music rights, cultural authority, editorial and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a one-page campaign brief, budget and evidence checklist for human approval",
-      "Draft plain-language campaign copy without inventing artists, supporters, authority or outcomes",
-      "Flag missing rights, ICIP, privacy, donor handling, platform and reporting decisions"
-    ],
-    "readiness_check": "Confirm eligible participant, authority, one arts purpose, campaign lead, fundraising platform, rights, ICIP protocol compliance where relevant, donor handling, privacy, budget, 12-hour delivery capacity and reporting."
-  },
-  {
     "match_key": "creative-australia-acf-boost-2027--sovereign-music-australia",
     "grant_source_key": "creative-australia-acf-boost-2027",
     "project_key": "sovereign-music-australia",
@@ -2937,5 +2904,38 @@
       "Flag any implied provider agreement, land control, planning approval, finance or community assent"
     ],
     "readiness_check": "Confirm registered provider, authority, site, landowner discussions, housing need, cultural permissions, planning pathway, delivery team, procurement compliance, finance, ownership and long-term operations."
+  },
+  {
+    "match_key": "federal-safer-local-roads-infrastructure-tranche-6-2026--amity-outdoor-fitness-and-safer-access",
+    "grant_source_key": "federal-safer-local-roads-infrastructure-tranche-6-2026",
+    "project_key": "amity-outdoor-fitness-and-safer-access",
+    "fit_status": "clarify",
+    "fit_reason": "A council or state-led road safety or flood-resilient access construction project near Amity could fit, but outdoor fitness equipment, park-only paths, autonomous-vehicle research and a community-led application do not. No government project or authority is confirmed.",
+    "eligibility_status": "TO BE CONFIRMED: authorised state, territory or local government applicant, road or bridge authority, eligible infrastructure scope, problem evidence, design maturity, approvals, cost estimate, co-contribution and delivery readiness",
+    "evidence_needed": [
+      "authorised government lead applicant and road or bridge authority",
+      "crash, access, flood, isolation, productivity or resilience evidence tied to one eligible construction scope",
+      "design, safety, accessibility, environmental, land and approval evidence",
+      "cost estimate, secured co-contribution, procurement plan, schedule and reporting capacity"
+    ],
+    "last_checked": "2026-09-25",
+    "action_priority": "build_pathway",
+    "action_by": "2027-01-31",
+    "stack_role": "large government-led road safety or resilient access construction layer",
+    "funding_ask": "Up to $5 million for an eligible project, with a required funding co-contribution",
+    "cofunding_plan": "The government applicant must evidence the required co-contribution, potentially using confirmed council or state capital allocations, other eligible government funding or accepted private cash. Community fundraising, sponsorship or philanthropy are possible only if formally secured and accepted in the finance plan; nothing is currently secured.",
+    "qualifying_reframe": "Separate one evidenced road safety, bridge, flood-resilience or emergency-access construction need from the broader outdoor fitness concept.",
+    "next_move": "Ask no organisation for support yet. First determine whether an authorised government applicant already has a relevant Amity road or access project, evidence, design and capital plan that could realistically meet the 31 January deadline.",
+    "human_roles": [
+      "Authorised state, territory or local government applicant decision-maker",
+      "Road, bridge, land and site controller",
+      "Transport design, safety, accessibility, environmental, procurement and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the official eligibility and evidence checklist for human review",
+      "Separate eligible road or bridge construction from park, equipment, technology and design-only costs",
+      "Draft a gap register for authority, problem evidence, design, approvals, cost, co-contribution, procurement and delivery"
+    ],
+    "readiness_check": "Confirm government applicant, road or bridge authority, one eligible construction scope, evidence of need, land and site control, design maturity, safety and access standards, environmental and planning approvals, cost estimate, secured co-contribution, procurement, schedule, maintenance and reporting capacity."
   }
 ]
