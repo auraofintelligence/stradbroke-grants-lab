@@ -898,5 +898,23 @@
     "tip": "Funding varies by evidenced need: eligible emergencies may receive up to 100% of cost and eligible opportunities up to 50%. This is not routine planned capital funding.",
     "action": "Confirm an eligible broadcaster, the unforeseen and urgent circumstance, inability to use reserves or insurance, technical evidence, quotes, budget and financial statements before discussing eligibility with CBF.",
     "source": "Community Broadcasting Foundation"
+  },
+  {
+    "source_key": "federal-national-rramp-2026",
+    "title": "National Regional Roads Australia Mobile Program",
+    "window_type": "Future round",
+    "notify": "Governments, road authorities and telecommunications delivery entities preparing eligible regional-road mobile coverage projects once final applicant rules are published.",
+    "tip": "$30 million is the national program envelope, not an applicant amount. The official page says the program is expected to open in Q3 2026, but final dates and guidelines are not yet published.",
+    "action": "Do not treat this as open. Confirm whether an island road corridor is eligible, then identify the government or registered lead, coverage evidence, carriers, sites, power, backhaul, approvals, delivery model and shovel-ready scope.",
+    "source": "Australian Government Department of Infrastructure"
+  },
+  {
+    "source_key": "qld-ses-support-grant-2027-28",
+    "title": "Queensland SES Support Grant 2027-28",
+    "window_type": "Future round",
+    "notify": "Queensland local governments and recognised SES groups or units with an evidenced facility, vehicle or resource need.",
+    "tip": "The 2027-28 round is expected to open in early October 2026. New-round funding caps and the closing date are TO BE CONFIRMED.",
+    "action": "Wait for the new guidelines, then confirm the invited council applicant, SES authority, operational need, asset or site control, quotes, approvals, budget, insurance and ongoing maintenance before proposing any project.",
+    "source": "Queensland Government State Emergency Service"
   }
 ]
