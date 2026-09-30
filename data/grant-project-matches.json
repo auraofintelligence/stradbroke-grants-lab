@@ -1782,39 +1782,6 @@
     "readiness_check": "Confirm provider registration, dwelling ownership and management, building class, existing-dwelling status, eligible upgrades, tenant access, quotes, licensing, conditional approval, budget gap and installation timing."
   },
   {
-    "match_key": "federal-active-transport-fund-tranche-2-2026--amity-outdoor-fitness-and-safer-access",
-    "grant_source_key": "federal-active-transport-fund-tranche-2-2026",
-    "project_key": "amity-outdoor-fitness-and-safer-access",
-    "fit_status": "clarify",
-    "fit_reason": "A complete public walking or bicycle pathway associated with an Amity public road could fit the construction fund, but outdoor fitness equipment, park-only paths and design-only work do not. Only a state, territory or local government entity can apply.",
-    "eligibility_status": "TO BE CONFIRMED: government lead applicant, public-road-associated pathway, road and land authority, complete project, design maturity, approvals, cost estimate, cash co-contribution and delivery readiness",
-    "evidence_needed": [
-      "authorised state, territory or local government lead applicant",
-      "public-road connection, land and road authority and complete usable pathway scope",
-      "design, safety, accessibility, environmental and construction-readiness evidence",
-      "cost estimate, procurement plan and secured cash co-contribution"
-    ],
-    "last_checked": "2026-09-15",
-    "action_priority": "build_pathway",
-    "action_by": "2026-09-30",
-    "stack_role": "large council-led public walking or cycling pathway construction layer",
-    "funding_ask": "Up to $5 million for an eligible complete construction project",
-    "cofunding_plan": "The government applicant must evidence a cash co-contribution, potentially from confirmed council or state capital budgets and other eligible cash sources. In-kind contributions are not accepted. Resident fundraising, sponsorship or philanthropy are possible only if formally secured and accepted in the project finance plan; nothing is currently secured.",
-    "qualifying_reframe": "Separate one complete, publicly accessible road-associated walking or bicycle pathway from the broader outdoor fitness and park concept.",
-    "next_move": "A human decision-maker should confirm whether an authorised government applicant already has a sufficiently mature Amity pathway project before treating the 30 September deadline as realistic.",
-    "human_roles": [
-      "Authorised state, territory or local government applicant decision-maker",
-      "Road, land and site controller",
-      "Transport design, accessibility, safety, procurement and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare the eligibility and evidence checklist for human review",
-      "Separate road-associated pathway construction from ineligible park, equipment and design-only costs",
-      "Draft a gap register for authority, design, approvals, cost, cash co-contribution and delivery evidence"
-    ],
-    "readiness_check": "Confirm government applicant, public-road association, land and road control, complete usable scope, design maturity, safety and access standards, approvals, environmental requirements, cost estimate, secured cash co-contribution, procurement, delivery timing and reporting capacity."
-  },
-  {
     "match_key": "on-farm-connectivity-round-3-2026--bees-and-allies",
     "grant_source_key": "on-farm-connectivity-round-3-2026",
     "project_key": "bees-and-allies",

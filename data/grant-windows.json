@@ -740,10 +740,10 @@
   {
     "source_key": "federal-active-transport-fund-tranche-2-2026",
     "title": "Active Transport Fund - Tranche 2 2026",
-    "window_type": "Open grant",
-    "notify": "State, territory and local government applicants with a complete public-road-associated walking or bicycle pathway construction project.",
-    "tip": "Up to $5 million per project; a cash co-contribution is required and in-kind support is not accepted. Closes 5:00pm AEST 30 September 2026.",
-    "action": "Only a government applicant can proceed. Confirm the public-road connection, complete construction scope, land and road authority, design maturity, cost estimate, cash co-contribution, procurement and delivery evidence.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Tranche 2 is retained only as checked history and future government-led preparation.",
+    "tip": "Tranche 2 offered up to $5 million per project and closed 5:00pm AEST 30 September 2026. A cash co-contribution was required and in-kind support was not accepted.",
+    "action": "Do not apply to the closed tranche. Keep any government-led public-road pathway scope, authority, design, cost, cash co-contribution, procurement and delivery evidence ready for a future official tranche.",
     "source": "Australian Government Department of Infrastructure"
   },
   {
