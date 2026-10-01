@@ -463,7 +463,7 @@
     "title": "Redland Community Celebration Grant",
     "window_type": "Opening soon",
     "notify": "Eligible Redland City not-for-profits and auspiced community groups.",
-    "tip": "Up to $15,000. Next round opens 28 September and closes 18 October 2026.",
+    "tip": "Up to $15,000. The official page still labels the round opening soon and publishes a 28 September to 18 October 2026 window.",
     "action": "Build the celebration program and cultural-permission process; do not include capital works or equipment purchases.",
     "source": "Redland City Council"
   },
@@ -722,10 +722,10 @@
   {
     "source_key": "qld-tourism-business-capability-subsidy-2026",
     "title": "Queensland Tourism Business Capability Subsidy",
-    "window_type": "Open subsidy",
-    "notify": "Existing eligible Queensland tourism and events businesses seeking approved training or accreditation, not project-delivery or equipment funding.",
-    "tip": "Up to $2,000. Closes 30 September 2026 or earlier when funds are exhausted; no closing time is published.",
-    "action": "Confirm an existing eligible business, ATDW registration, ABN, GST, Queensland base, workforce size and an approved training or accreditation course before applying.",
+    "window_type": "Closed grant",
+    "notify": "No current applicant action. The published 30 September 2026 deadline has passed.",
+    "tip": "The subsidy offered up to $2,000 for approved training or accreditation and is now closed.",
+    "action": "Remove it from active funding stacks and watch for a future official round rather than preparing a late application.",
     "source": "business.gov.au / Queensland Tourism Industry Council"
   },
   {
@@ -850,7 +850,7 @@
     "title": "FRRR Rebuilding Futures - next round",
     "window_type": "Future round",
     "notify": "Eligible rural and regional not-for-profits with a community-led recovery, prevention or preparedness project tied to a qualifying declared disaster.",
-    "tip": "Applications open 27 October 2026. The new round closing date and amount are not yet published; the previous round offered up to $25,000.",
+    "tip": "Round 7 opens 27 October and closes 5:00pm 26 November 2026. The new-round amount remains TO BE CONFIRMED; the previous round offered up to $25,000.",
     "action": "Confirm the applicant, eligible location and disaster declaration, then prepare one practical community-led resilience project while waiting for the new guidelines.",
     "source": "Foundation for Rural & Regional Renewal"
   },
@@ -925,5 +925,14 @@
     "tip": "$5,000-$50,000 depending on the tour route. Applications close 3:00pm AEDT 13 October 2026; future closing dates are 2 March and 8 June 2027.",
     "action": "Confirm one tour with at least three venues or locations outside the performer's hometown, original Australian music, applicant eligibility, route, venue evidence, artist roles, budget, rights, insurance and acquittals before drafting.",
     "source": "Creative Australia"
+  },
+  {
+    "source_key": "national-science-week-public-events-2027",
+    "title": "National Science Week Public Event Grants - 2027",
+    "window_type": "Closing soon",
+    "notify": "Eligible individuals and Australian organisations with one inclusive, public science-engagement event ready for National Science Week 2027.",
+    "tip": "$5,000-$20,000 per event. Applications close 5:00pm AEDT 6 October 2026, which is 4:00pm AEST in Brisbane.",
+    "action": "Proceed only if the lead applicant, public event format, science content, audience reach, delivery team, venue or online platform, budget and evidence can be confirmed immediately.",
+    "source": "Australian Government Department of Industry, Science and Resources / business.gov.au"
   }
 ]

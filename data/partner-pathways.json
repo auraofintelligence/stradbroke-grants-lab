@@ -42,18 +42,18 @@
     "last_checked": "2026-09-09"
   },
   {
-    "pathway_key": "qld-tourism-business-capability-subsidy-2026--quandamooka-country-events-engine--roles",
-    "grant_source_key": "qld-tourism-business-capability-subsidy-2026",
+    "pathway_key": "redland-community-support--quandamooka-country-events-engine--roles",
+    "grant_source_key": "redland-community-support",
     "project_key": "quandamooka-country-events-engine",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible tourism or events business owner and authorised applicant",
-      "Event operations or accessibility lead",
-      "Training provider and financial reviewer"
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-12"
+    "last_checked": "2026-09-09"
   },
   {
     "pathway_key": "stronger-communities-programme-round-10--ballow-road-sand-screen-hub--roles",
@@ -249,7 +249,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-22"
+    "last_checked": "2026-10-01"
   },
   {
     "pathway_key": "redland-community-support--grey-area-commons--roles",
@@ -280,18 +280,18 @@
     "last_checked": "2026-09-18"
   },
   {
-    "pathway_key": "redland-community-support--bees-and-allies--roles",
-    "grant_source_key": "redland-community-support",
+    "pathway_key": "national-science-week-public-events-2027--bees-and-allies--roles",
+    "grant_source_key": "national-science-week-public-events-2027",
     "project_key": "bees-and-allies",
     "planning_status": "research_only",
     "roles_needed": [
-      "Legal applicant decision-maker",
-      "Project lead",
-      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      "Eligible lead applicant and authorised decision-maker",
+      "Qualified bee, ecology or citizen-science adviser",
+      "Event, safety, accessibility, permissions and financial reviewers"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-09"
+    "last_checked": "2026-10-01"
   },
   {
     "pathway_key": "redland-community-support--wildlife-rescue-minjerribah--roles",
@@ -544,7 +544,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-22"
+    "last_checked": "2026-10-01"
   },
   {
     "pathway_key": "redland-community-support--gajra-earth--roles",

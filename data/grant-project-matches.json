@@ -309,14 +309,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-10-01",
     "action_priority": "prepare_next",
-    "action_by": "2026-10-01",
+    "action_by": "2026-10-18",
     "stack_role": "cultural celebration layer",
     "funding_ask": "Up to $15,000",
     "cofunding_plan": "Use this cultural celebration layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Define one community celebration and storytelling program within the festival with proper cultural permissions.",
-    "next_move": "Keep this budget distinct from screen hire or purchase and main event operations.",
+    "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the applicant, cultural authority, event program, venue, rights, insurance and non-capital budget before 18 October.",
     "human_roles": [
       "Legal applicant or grant-manager decision-maker",
       "Rights-owning producer, creative or broadcast lead",
@@ -1716,39 +1716,6 @@
     "readiness_check": "Confirm applicant, tour-ready work, artists, rights, at least three regional locations outside the home location, presenters, contracts, audiences, budget, co-funding, access, insurance and delivery capacity."
   },
   {
-    "match_key": "qld-tourism-business-capability-subsidy-2026--quandamooka-country-events-engine",
-    "grant_source_key": "qld-tourism-business-capability-subsidy-2026",
-    "project_key": "quandamooka-country-events-engine",
-    "fit_status": "clarify",
-    "fit_reason": "The subsidy may help an existing eligible tourism or events business complete approved capability training that strengthens safe, accessible and sustainable event delivery. It cannot fund the events engine, a public event or capital equipment.",
-    "eligibility_status": "TO BE CONFIRMED: existing eligible Queensland tourism or events business, ATDW registration, ABN, GST, fewer than 200 FTE staff, approved training and authorised business decision",
-    "evidence_needed": [
-      "confirmed eligible tourism or events business and authorised decision-maker",
-      "ATDW registration, ABN, GST and established Queensland operating base",
-      "approved training or accreditation quote and direct capability need",
-      "clear separation from platform development, event delivery and capital costs"
-    ],
-    "last_checked": "2026-09-12",
-    "action_priority": "prepare_next",
-    "action_by": "2026-09-30",
-    "stack_role": "small organiser training and accreditation layer",
-    "funding_ask": "Up to $2,000 for eligible approved training or accreditation",
-    "cofunding_plan": "The subsidy could cover part of an eligible course, with the participating business funding any balance from its own unsecured cash or earned income. It must remain separate from event grants, sponsorship, visitor giving and other project-delivery costs; nothing is secured.",
-    "qualifying_reframe": "Use the pathway for one eligible organiser's sustainability, accessible-tourism, cultural-understanding or tourism-quality training, not for building or operating the events engine.",
-    "next_move": "By 18 September, identify whether an existing eligible organiser wants an approved course and can evidence ATDW, ABN and GST status; otherwise leave this as a public watchlist pathway.",
-    "human_roles": [
-      "Eligible tourism or events business owner and authorised applicant",
-      "Event operations or accessibility lead",
-      "Training provider and financial reviewer"
-    ],
-    "ai_tasks": [
-      "Prepare the eligibility and evidence checklist",
-      "Compare approved training options against the organiser's stated capability gap",
-      "Keep subsidy costs separate from event, platform and equipment budgets"
-    ],
-    "readiness_check": "Confirm existing business eligibility, ATDW, ABN, GST, Queensland base, workforce size, approved course, quote, business need and authority to apply."
-  },
-  {
     "match_key": "qld-community-housing-energy-upgrades-2026--straddie-clean-energy-superpower",
     "grant_source_key": "qld-community-housing-energy-upgrades-2026",
     "project_key": "straddie-clean-energy-superpower",
@@ -1828,7 +1795,7 @@
       "original contemporary-music program, educators, rights and child-safety plan",
       "matched-funding evidence, budget, timeline and repeatable pathway"
     ],
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-10-01",
     "action_priority": "act_now",
     "action_by": "2026-10-09",
     "stack_role": "matched student songwriting and recording program layer",
@@ -1968,7 +1935,7 @@
     "funding_ask": "Up to $15,000 for eligible event delivery",
     "cofunding_plan": "The grant could combine with unsecured ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or equipment support. Nothing is secured and capital purchases remain outside the round.",
     "qualifying_reframe": "Define one accessible, permitted local open-mic celebration with artist, audience and community outcomes rather than funding a general website or platform.",
-    "next_move": "Before the round opens on 28 September, confirm the organiser, venue, program, rights, insurance, safety, access and one-event budget.",
+    "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the organiser, venue, program, rights, insurance, safety, access and one-event budget before 18 October.",
     "human_roles": [
       "Eligible organiser or auspice decision-maker",
       "Venue, event operations and performer lead",
@@ -1994,14 +1961,14 @@
       "$20 million insurance, permits, food safety, waste, transport, access and risk plan",
       "eligible non-capital budget, quotes and community outcomes"
     ],
-    "last_checked": "2026-09-22",
+    "last_checked": "2026-10-01",
     "action_priority": "prepare_next",
     "action_by": "2026-10-18",
     "stack_role": "small permitted community celebration pilot",
     "funding_ask": "Up to $15,000 for eligible event delivery",
     "cofunding_plan": "The grant could combine with unsecured stall fees or earned income where eligible, resident fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind support. No income or support is secured and capital purchases remain outside the round.",
     "qualifying_reframe": "Plan one low-risk, accessible community celebration with local stalls and programming rather than a permanent commercial market or infrastructure build.",
-    "next_move": "Before the round opens on 28 September, confirm the organiser, site, permits, insurance, stallholder rules, food safety, waste, access and one-event budget.",
+    "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the organiser, site, permits, insurance, stallholder rules, food safety, waste, access and one-event budget before 18 October.",
     "human_roles": [
       "Eligible organiser or auspice decision-maker",
       "Site controller, event operations and stallholder lead",
@@ -2640,5 +2607,38 @@
       "Flag unclear provenance, authority and unsupported claims"
     ],
     "readiness_check": "Confirm applicant, public benefit, facilitators, evidence provenance, privacy, cultural authority where relevant, accessibility, insurance, budget, delivery and reporting."
+  },
+  {
+    "match_key": "national-science-week-public-events-2027--bees-and-allies",
+    "grant_source_key": "national-science-week-public-events-2027",
+    "project_key": "bees-and-allies",
+    "fit_status": "clarify",
+    "fit_reason": "A public bee-resilience and citizen-science event could fit if it uses qualified science input, lawful observation methods and genuine two-way public participation. The existing concept page alone is not an eligible event.",
+    "eligibility_status": "TO BE CONFIRMED: eligible lead applicant, public National Science Week event, science expertise, venue or interactive online delivery, safety, permissions and delivery capacity",
+    "evidence_needed": [
+      "eligible lead applicant and authorised application decision",
+      "qualified science adviser and accurate bee, habitat and biosecurity content",
+      "public audience, inclusive participation plan and measurable science-engagement outcomes",
+      "venue or online delivery, safety, land or observation permissions, budget and delivery timetable"
+    ],
+    "last_checked": "2026-10-01",
+    "action_priority": "act_now",
+    "action_by": "2026-10-06",
+    "stack_role": "small public citizen-science event and evidence-building layer",
+    "funding_ask": "$5,000-$20,000 for one eligible public National Science Week event",
+    "cofunding_plan": "The grant could combine with unsecured resident or member fundraising, local sponsorship, philanthropy and verified in-kind science, venue, promotion or equipment-hire support. Nothing is secured and any contribution must be evidenced.",
+    "qualifying_reframe": "Deliver one inclusive, public bee-resilience and citizen-science event during National Science Week 2027, rather than seeking funding for a general website or unsupported research program.",
+    "next_move": "By 2 October, decide whether a real lead applicant, science adviser, public event format, audience plan, venue or interactive online platform and credible budget can be confirmed; otherwise retain this as a future-round watch.",
+    "human_roles": [
+      "Eligible lead applicant and authorised decision-maker",
+      "Qualified bee, ecology or citizen-science adviser",
+      "Event, safety, accessibility, permissions and financial reviewers"
+    ],
+    "ai_tasks": [
+      "Prepare the eligibility, deadline and evidence checklist",
+      "Draft a public event outline, audience plan and costed budget for human review",
+      "Flag unsupported science, invented partners, missing permissions and unconfirmed contributions"
+    ],
+    "readiness_check": "Confirm applicant, science adviser, public participation, audience reach, accurate content, venue or interactive online delivery, safety, permissions, accessibility, budget, delivery capacity and authority to apply."
   }
 ]
