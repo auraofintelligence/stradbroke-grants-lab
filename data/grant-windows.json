@@ -299,10 +299,10 @@
   {
     "source_key": "teq-homegrown-2026-round-2",
     "title": "Tourism and Events Queensland Homegrown — Round 2 2026",
-    "window_type": "Open grant",
-    "notify": "Eligible event legal entities meeting the relevant category history, tourism, event-location, insurance and co-investment requirements. Kickstarter requires matched or greater council or regional tourism cash.",
-    "tip": "Destination Kickstarter up to $25,000 per year for two years; Signature $15,000–$40,000; Significant $40,000–$100,000; Indigenous $15,000–$40,000, subject to category history and co-funding rules. Round 2 closes midnight AEST 6 October 2026 for events held April 2027 to June 2028.",
-    "action": "Confirm the eligible event entity, authority, event history, visitor and overnight-stay evidence, insurance, budget and required co-investment before drafting.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Retain destination-event evidence for a future official Homegrown round.",
+    "tip": "Round 2 closed at midnight AEST 6 October 2026. The published applicant ranges were $15,000-$100,000 across streams, with Kickstarter up to $25,000 per year for two years.",
+    "action": "Do not apply to the closed round. Keep applicant authority, event history, visitor and overnight-stay evidence, cultural authority, insurance, budget and co-investment ready for a future round.",
     "source": "Tourism and Events Queensland"
   },
   {
@@ -749,10 +749,10 @@
   {
     "source_key": "on-farm-connectivity-round-3-2026",
     "title": "On Farm Connectivity Program Round 3",
-    "window_type": "Open rebate",
-    "notify": "Established eligible primary producers considering approved connectivity or ag-tech equipment through a Round 3 Approved Supplier.",
-    "tip": "$1,000-$20,000 excluding GST, covering up to 50% of eligible equipment costs. Applications close 5:00pm AEDT 15 October 2026 and the demand-driven pool may exhaust earlier.",
-    "action": "Confirm primary-producer ANZSIC activity, 12-month ABN, $40,000-$4 million average gross income, approved supplier, eligible equipment, itemised quote and 50% purchaser contribution. Do not purchase before approval.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Round 3 closed early after strong demand exhausted the demand-driven pool.",
+    "tip": "The rebate offered $1,000-$20,000 excluding GST and up to 50% of eligible equipment costs, but closed before the published 15 October deadline.",
+    "action": "Do not purchase or prepare a late application. Keep primary-producer eligibility, approved-supplier research, equipment purpose and co-payment capacity ready for any future official round.",
     "source": "business.gov.au / Australian Government Department of Infrastructure"
   },
   {
@@ -929,10 +929,19 @@
   {
     "source_key": "national-science-week-public-events-2027",
     "title": "National Science Week Public Event Grants - 2027",
-    "window_type": "Closing soon",
-    "notify": "Eligible individuals and Australian organisations with one inclusive, public science-engagement event ready for National Science Week 2027.",
-    "tip": "$5,000-$20,000 per event. Applications close 5:00pm AEDT 6 October 2026, which is 4:00pm AEST in Brisbane.",
-    "action": "Proceed only if the lead applicant, public event format, science content, audience reach, delivery team, venue or online platform, budget and evidence can be confirmed immediately.",
+    "window_type": "Closed round",
+    "notify": "No active applicant notification. Retain the concept and evidence plan for a future official National Science Week round.",
+    "tip": "$5,000-$20,000 per event. The official department page confirms the 2027 round closed 5:00pm AEST 28 September 2026.",
+    "action": "Do not apply to the closed round. Keep the lead applicant, public event format, qualified science input, audience plan, venue or online platform, permissions and budget ready for a future round.",
     "source": "Australian Government Department of Industry, Science and Resources / business.gov.au"
+  },
+  {
+    "source_key": "federal-festivals-australia-round-23-2026",
+    "title": "Festivals Australia Round 23",
+    "window_type": "Closing soon",
+    "notify": "Eligible regional artists, arts workers and organisations with one participatory arts project ready for a festival or significant one-off community celebration.",
+    "tip": "No fixed applicant cap is published. Round 23 closes 13 October 2026, with no closing time published on the official program page.",
+    "action": "First confirm the event location on the official eligibility map, then confirm one eligible project, applicant, community participation, cultural and creative authority, rights, venue, budget, insurance and February 2027 or later start.",
+    "source": "Australian Government Office for the Arts"
   }
 ]

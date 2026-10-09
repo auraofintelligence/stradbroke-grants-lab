@@ -210,18 +210,19 @@
     "last_checked": "2026-09-01"
   },
   {
-    "pathway_key": "teq-homegrown-2026-round-2--quandamooka-film-festival--roles",
-    "grant_source_key": "teq-homegrown-2026-round-2",
+    "pathway_key": "federal-festivals-australia-round-23-2026--quandamooka-film-festival--roles",
+    "grant_source_key": "federal-festivals-australia-round-23-2026",
     "project_key": "quandamooka-film-festival",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible event applicant and authorised decision-maker",
-      "Festival, tourism and venue leads",
-      "Quandamooka cultural authority, ICIP, rights, insurance and financial reviewers"
+      "Eligible legal applicant and authorised decision-maker",
+      "Festival producer, participating artists and venue lead",
+      "Quandamooka cultural authority where relevant, ICIP and rights reviewers",
+      "Financial, insurance, accessibility and delivery reviewers"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-08"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "frrr-src-small-vital-round-31--straddie-vitality-network-builders--roles",
@@ -249,7 +250,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "redland-community-support--grey-area-commons--roles",
@@ -280,18 +281,18 @@
     "last_checked": "2026-09-18"
   },
   {
-    "pathway_key": "national-science-week-public-events-2027--bees-and-allies--roles",
-    "grant_source_key": "national-science-week-public-events-2027",
+    "pathway_key": "redland-community-support--bees-and-allies--roles",
+    "grant_source_key": "redland-community-support",
     "project_key": "bees-and-allies",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible lead applicant and authorised decision-maker",
-      "Qualified bee, ecology or citizen-science adviser",
-      "Event, safety, accessibility, permissions and financial reviewers"
+      "Legal applicant decision-maker",
+      "Project lead",
+      "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-09-09"
   },
   {
     "pathway_key": "redland-community-support--wildlife-rescue-minjerribah--roles",
@@ -305,7 +306,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-01"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "redland-community-support--health-and-culture--roles",
@@ -445,7 +446,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The public proposal is not a registered co-op, employer or training organisation. No organisation has been approached or named, and all delivery and partnership claims remain to be confirmed.",
-    "last_checked": "2026-09-24"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "redland-community-support--minjerribah-screen-media-network--roles",
@@ -544,7 +545,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-01"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "redland-community-support--gajra-earth--roles",
@@ -670,7 +671,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-22"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "redland-community-support--straddie-digital-twin-explainer--roles",
@@ -754,7 +755,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-23"
+    "last_checked": "2026-10-09"
   },
   {
     "pathway_key": "frrr-src-small-vital-round-31--oceania-healthy-de-slop-co-ops--roles",
