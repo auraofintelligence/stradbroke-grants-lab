@@ -1,0 +1,1200 @@
+{
+  "as_of": "2026-11-01",
+  "purpose": "Complete pre-refresh records preserved for history, not active applications or current deadlines. Current records remain in the primary data files.",
+  "grants": [
+    {
+      "name": "Redland City Council Community Support Grant",
+      "level": "council",
+      "level_label": "Redland City Council",
+      "status": "Round 1 closed - Round 2 opens 12 October 2026 and closes 1 November 2026",
+      "best_for": "Up to $20,000 for Redland City community projects with social, cultural, recreational or environmental outcomes. Requires not-for-profit eligibility, Redland location, insurance, quotes and reporting capacity.",
+      "url": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Community-Support-Grant",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "redland-community-support",
+      "opportunity_type": "grant",
+      "funding": "Up to $20,000",
+      "deadline": "Round 2 opens 12 October 2026 and closes 1 November 2026",
+      "applicants": "Incorporated not-for-profits or Act entities; unincorporated groups through an eligible auspice; registered wildlife carers are a conservation-only exception",
+      "availability": "opening_soon",
+      "deadline_date": "2026-11-01"
+    },
+    {
+      "name": "Screen Australia First Nations Documentary Development",
+      "level": "first-nations",
+      "level_label": "Screen Australia",
+      "status": "Future round — next published deadline 5:00pm AEST 22 October 2026",
+      "best_for": "Development of documentary projects that are genuinely First Nations-led in key creative roles, with appropriate cultural authority, ICIP practice and rights.",
+      "url": "https://www.screenaustralia.gov.au/fund/first-nations-documentary-development/",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "screen-australia-first-nations-documentary-development",
+      "opportunity_type": "grant",
+      "funding": "Up to $30,000 for feature or series development; up to $20,000 for a one-hour television documentary or online documentary.",
+      "deadline": "The 20 August 2026 deadline passed; next published deadline is 5:00pm AEST 22 October 2026, then 14 January 2027.",
+      "applicants": "Eligible Australian First Nations key creatives and applicant structures under Screen Australia rules; the project must be genuinely First Nations-led, not merely about First Nations people or Country.",
+      "availability": "future",
+      "deadline_date": "2026-10-22"
+    },
+    {
+      "name": "Redland City Council Community Celebration Grant 2026–27",
+      "level": "council",
+      "level_label": "Redland City Council",
+      "status": "Open - Round 2 closes 18 October 2026",
+      "best_for": "Community celebrations, First Nations cultural storytelling and participatory local events. Capital works and equipment purchases are excluded.",
+      "url": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Community-Celebration-Grant",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "redland-community-celebration-2026-27",
+      "opportunity_type": "grant",
+      "funding": "Up to $15,000",
+      "deadline": "Next round opens 28 September and closes 18 October 2026; further rounds are scheduled in February–March and April–May 2027.",
+      "applicants": "Eligible incorporated not-for-profits or auspiced groups with ABN, financial viability, $20 million public liability insurance and Redland City delivery.",
+      "availability": "open",
+      "deadline_date": "2026-10-18"
+    },
+    {
+      "name": "Creative Australia First Nations Arts d/Deaf and/or Disabilities Project Fund 2026",
+      "level": "first-nations",
+      "level_label": "Creative Australia",
+      "status": "Open - closes 3:00pm AEDT 13 October 2026",
+      "best_for": "Projects and professional development led by eligible First Nations d/Deaf artists or arts workers, First Nations artists or arts workers with disability, or qualifying First Nations organisations with an evidenced history of supporting those artists. Identity, disability, organisational control, cultural authority and consent must not be inferred.",
+      "url": "https://creative.gov.au/investments-opportunities/first-nations-arts-ddeaf-andor-disabilities-project-fund",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
+      "opportunity_type": "grant",
+      "funding": "$5,000-$10,000 AUD per eligible applicant",
+      "deadline": "Closes 3:00pm AEDT Tuesday 13 October 2026; that is 2:00pm AEST in Brisbane. Account registration can take two business days.",
+      "applicants": "Eligible Australian First Nations d/Deaf artists or arts workers, First Nations artists or arts workers with disability, their eligible groups, or First Nations organisations with at least 51% First Nations board control and a demonstrated history of supporting eligible artists; all eligibility and assent are TO BE CONFIRMED.",
+      "availability": "open",
+      "deadline_date": "2026-10-13"
+    },
+    {
+      "name": "Queensland Touring Fund Round 3 2026",
+      "level": "state",
+      "level_label": "Arts Queensland",
+      "status": "Open - closes 2:00pm AEST 12 October 2026",
+      "best_for": "A tour or touring program that gives regional Queensland communities access to high-quality arts and cultural work, including music gigs. It needs a developed work, viable route, presenters or venues, audience evidence and a realistic touring budget.",
+      "url": "https://www.arts.qld.gov.au/funding-opportunities/funding/touring-queensland-fund",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "qld-touring-fund-round-3-2026",
+      "opportunity_type": "grant",
+      "funding": "Up to $100,000 AUD for one tour or a touring program of up to 12 months, covering up to 50% of project costs; additional access funding up to $10,000 may be available",
+      "deadline": "Round 3 opened 31 August and closes 2:00pm AEST Monday 12 October 2026.",
+      "applicants": "Eligible Queensland-based artists, groups or organisations with a tour-ready arts or cultural work and an itinerary covering at least three regional Queensland locations outside the touring party's home location; applicant, co-funding, venue, contract and tour requirements remain TO BE CONFIRMED.",
+      "availability": "open",
+      "deadline_date": "2026-10-12"
+    },
+    {
+      "name": "Queensland Community Housing Energy Upgrades rebate",
+      "level": "state",
+      "level_label": "Queensland Government Department of Housing and Public Works",
+      "status": "Open - applications close 30 October 2026",
+      "best_for": "Energy-efficiency upgrades to existing Queensland community-housing dwellings that are owned and managed by an eligible registered community housing provider. It is not general housing construction, household assistance or a community-wide clean-energy grant.",
+      "url": "https://www.business.qld.gov.au/industries/housing-accommodation/community/energy-upgrades/provider-owned-properties",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "qld-community-housing-energy-upgrades-2026",
+      "opportunity_type": "grant",
+      "funding": "Rebate up to $4,500 excluding GST per eligible dwelling; $18 million is the whole program pool, not an applicant cap",
+      "deadline": "Applications close 30 October 2026; approved installations must be completed by 30 June 2027.",
+      "applicants": "Active registered community housing providers listed on the national or Queensland register that own and manage eligible existing Queensland dwellings; dwelling ownership, registration, quotes, conditional approval, licensed installation and upgrade eligibility are TO BE CONFIRMED.",
+      "availability": "open",
+      "deadline_date": "2026-10-30"
+    },
+    {
+      "name": "National Songwriting and Recording in Schools Stimulus 2026",
+      "level": "federal",
+      "level_label": "Creative Australia - Music Australia",
+      "status": "Open - closes 3:00pm AEDT 13 October 2026",
+      "best_for": "Inclusive contemporary songwriting and recording programs for primary, secondary or tertiary learners, especially regional, remote or under-served cohorts. A school, TAFE, university, eligible music education provider, council or qualifying consortium must lead; it is not an individual artist grant or general music equipment fund.",
+      "url": "https://www.creative.gov.au/investments-opportunities/national-songwriting-and-recording-schools-stimulus",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "creative-australia-national-songwriting-schools-2026",
+      "opportunity_type": "grant",
+      "funding": "$5,000-$100,000 in matched funding",
+      "deadline": "Applications close 3:00pm AEDT Tuesday 13 October 2026; application-system registration must be completed before 10:00am AEDT 12 October 2026.",
+      "applicants": "Eligible Australian schools, school clusters, TAFEs, universities, music academies or providers, community conservatoria, RTOs, local councils, music charities or foundations, and consortia with at least one educational institution. The lead must have an ABN, be majority Australian owned and have operated for at least two years.",
+      "availability": "open",
+      "deadline_date": "2026-10-13"
+    },
+    {
+      "name": "Creative Australia ACF Boost 2027",
+      "level": "federal",
+      "level_label": "Creative Australia - Australian Cultural Fund",
+      "status": "Open - closes 12:00pm AEDT 19 October 2026",
+      "best_for": "A defined Australian arts or cultural project ready to run a public Australian Cultural Fund campaign from February to April 2027. It is a small matched-fundraising layer, not whole-project finance or general organisational support.",
+      "url": "https://creative.gov.au/investments-opportunities/acf-boost-2027",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "creative-australia-acf-boost-2027",
+      "opportunity_type": "fundraising",
+      "funding": "Dollar-for-dollar matched funding up to $5,000, plus eligible public donations raised through the Australian Cultural Fund campaign",
+      "deadline": "Applications close 12:00pm AEDT Monday 19 October 2026; successful campaigns run from 1 February to 30 April 2027",
+      "applicants": "Australian citizens or permanent residents aged 18 or over, including eligible artists, collectives and organisations with an active ABN or an auspice agreement, an eligible cultural project and capacity to run an Australian Cultural Fund campaign.",
+      "availability": "open",
+      "deadline_date": "2026-10-19"
+    },
+    {
+      "name": "Innovate with nbn Grants Program 2026",
+      "level": "national",
+      "level_label": "nbn and Regional Australia Institute",
+      "status": "Open - closes 12 October 2026; no closing time is published on business.gov.au",
+      "best_for": "Existing regional or remote digital businesses using the nbn network to grow technology-led ideas in agtech and environment, arts, culture and tourism, education, First Nations business, health and wellbeing, productivity or women in regional business.",
+      "url": "https://www.nbnco.com.au/campaigns/innovate-with-nbn-grants-program",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "nbn-grants-program-2026",
+      "opportunity_type": "grant",
+      "funding": "$15,000 for one winner in each of seven categories; one category winner also receives an additional $20,000 Champion Award. $125,000 is the whole program pool.",
+      "deadline": "Applications close Monday 12 October 2026; no closing time is published on the official business.gov.au listing.",
+      "applicants": "Existing regional or remote Australian digital businesses or organisations connected to the nbn network, with an ABN and an Australian bank account matching the ABN. Category, location and operating-business eligibility remain TO BE CONFIRMED.",
+      "availability": "open",
+      "deadline_date": "2026-10-12"
+    },
+    {
+      "name": "Festivals Australia Round 23",
+      "level": "federal",
+      "level_label": "Australian Government Office for the Arts",
+      "status": "Open - closes 13 October 2026; no closing time is published on the official program page",
+      "best_for": "One participatory arts or cultural project delivered within an eligible regional or remote festival or significant one-off community celebration. It can support a performance, workshop, installation, exhibition or similar public arts experience, but not general festival operations, permanent LED capital or a bundle of unrelated activities.",
+      "url": "https://www.arts.gov.au/funding-and-support/festivals-australia",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "federal-festivals-australia-round-23-2026",
+      "opportunity_type": "grant",
+      "funding": "No fixed applicant cap is published; the program provides approximately $1.4 million each financial year across all successful projects, which is a program envelope rather than an applicant amount",
+      "deadline": "Round 23 closes 13 October 2026 for projects starting from 1 February 2027. No closing time is published on the official program page.",
+      "applicants": "Eligible regional artists, arts workers and organisations proposing one arts or cultural project with community participation and audience engagement at a festival or significant one-off community celebration in a location confirmed as eligible by the official remoteness map.",
+      "availability": "open",
+      "deadline_date": "2026-10-13"
+    }
+  ],
+  "windows": [
+    {
+      "source_key": "redland-community-support",
+      "title": "Redland Council Community Support Grant Round 2",
+      "window_type": "Future round",
+      "notify": "Redland-based not-for-profits, community groups, environment groups, wildlife carers, clubs and local project leads.",
+      "tip": "Round 1 has closed. Round 2 opens 12 October 2026 and closes 1 November 2026. Funding is up to $20,000.",
+      "action": "Prepare applicant eligibility, ABN, $20 million public liability insurance, quotes, project plan, risk assessment, budget and reporting capacity before Round 2 opens.",
+      "source": "Redland City Council Community Support Grant"
+    },
+    {
+      "source_key": "screen-australia-first-nations-documentary-development",
+      "title": "First Nations Documentary Development future round",
+      "window_type": "Future round",
+      "notify": "Genuinely First Nations-led documentary key creatives and eligible applicant structures.",
+      "tip": "The 20 August deadline passed. Next published deadline is 22 October 2026: up to $30,000 for feature or series and up to $20,000 for one-hour television or online documentary.",
+      "action": "Build the October evidence pack: confirm First Nations creative leadership, cultural authority, ICIP, rights and the defined development milestone.",
+      "source": "Screen Australia"
+    },
+    {
+      "source_key": "redland-community-celebration-2026-27",
+      "title": "Redland Community Celebration Grant",
+      "window_type": "Opening soon",
+      "notify": "Eligible Redland City not-for-profits and auspiced community groups.",
+      "tip": "Up to $15,000. The official page still labels the round opening soon and publishes a 28 September to 18 October 2026 window.",
+      "action": "Build the celebration program and cultural-permission process; do not include capital works or equipment purchases.",
+      "source": "Redland City Council"
+    },
+    {
+      "source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
+      "title": "First Nations Arts d/Deaf and/or Disabilities Project Fund",
+      "window_type": "Open grant",
+      "notify": "Eligible First Nations d/Deaf artists or arts workers, First Nations artists or arts workers with disability, eligible groups, and qualifying First Nations organisations with relevant delivery history.",
+      "tip": "$5,000-$10,000. Closes 3:00pm AEDT 13 October 2026, which is 2:00pm AEST in Brisbane. Registration can take two business days.",
+      "action": "Confirm identity, disability, applicant control, relevant track record, cultural authority, consent, access design, budget and start date before drafting.",
+      "source": "Creative Australia"
+    },
+    {
+      "source_key": "qld-touring-fund-round-3-2026",
+      "title": "Queensland Touring Fund Round 3",
+      "window_type": "Open grant",
+      "notify": "Queensland artists, groups or organisations with a developed, tour-ready arts or cultural work and a credible regional Queensland audience pathway.",
+      "tip": "Up to $100,000 for a single tour or touring program up to 12 months, covering up to 50% of costs. Additional access funding up to $10,000 may be available. Closes 2:00pm AEST 12 October 2026.",
+      "action": "Confirm applicant eligibility, developed work, at least three regional locations outside the home location, presenters or venues, contracts, rights, cultural authority where relevant, budget, co-funding and tour delivery capacity.",
+      "source": "Arts Queensland"
+    },
+    {
+      "source_key": "qld-community-housing-energy-upgrades-2026",
+      "title": "Queensland Community Housing Energy Upgrades rebate",
+      "window_type": "Open rebate",
+      "notify": "Registered community housing providers that own and manage existing eligible Queensland community-housing dwellings.",
+      "tip": "Up to $4,500 excluding GST per eligible dwelling. Applications close 30 October 2026 and installations must finish by 30 June 2027.",
+      "action": "Confirm provider registration and dwelling ownership, choose eligible upgrades, obtain compliant quotes and secure QRIDA conditional approval before any purchase or installation.",
+      "source": "Queensland Government Department of Housing and Public Works"
+    },
+    {
+      "source_key": "creative-australia-national-songwriting-schools-2026",
+      "title": "National Songwriting and Recording in Schools Stimulus 2026",
+      "window_type": "Open grant",
+      "notify": "Eligible Australian education or music-learning organisations and consortia with at least one educational institution, an ABN and two years of operation.",
+      "tip": "$5,000-$100,000 in matched funding. Applications close 3:00pm AEDT 13 October 2026; system registration must be completed before 10:00am AEDT 12 October.",
+      "action": "Confirm an eligible lead institution, student cohort, matched funding, original contemporary-music program, educators, rights, child safety, budget and repeatable pathway before drafting.",
+      "source": "Creative Australia - Music Australia"
+    },
+    {
+      "source_key": "creative-australia-acf-boost-2027",
+      "title": "Creative Australia ACF Boost 2027",
+      "window_type": "Open matched fundraising",
+      "notify": "Eligible Australian artists, collectives and arts organisations with an active ABN or auspice and one defined cultural project ready for an Australian Cultural Fund campaign.",
+      "tip": "Dollar-for-dollar matched funding up to $5,000. Applications close 12:00pm AEDT 19 October 2026; successful campaigns run from 1 February to 30 April 2027.",
+      "action": "Confirm one eligible cultural project, applicant or auspice, ABN, rights, authority, campaign target, donor strategy, balanced budget, delivery capacity and First Nations protocols where relevant before applying.",
+      "source": "Creative Australia - Australian Cultural Fund"
+    },
+    {
+      "source_key": "nbn-grants-program-2026",
+      "title": "Innovate with nbn Grants Program 2026",
+      "window_type": "Closing soon",
+      "notify": "Existing regional digital businesses and organisations using the nbn network, including First Nations, arts, tourism, education, environment, health and productivity ventures.",
+      "tip": "Seven category winners receive $15,000; one also receives a further $20,000 Champion Award. Applications close 12 October 2026, with no official closing time published.",
+      "action": "Confirm an existing eligible operating business, regional location, nbn connection, ABN, bank account, category fit and evidence of digital impact before drafting.",
+      "source": "nbn and business.gov.au"
+    },
+    {
+      "source_key": "federal-festivals-australia-round-23-2026",
+      "title": "Festivals Australia Round 23",
+      "window_type": "Closing soon",
+      "notify": "Eligible regional artists, arts workers and organisations with one participatory arts project ready for a festival or significant one-off community celebration.",
+      "tip": "No fixed applicant cap is published. Round 23 closes 13 October 2026, with no closing time published on the official program page.",
+      "action": "First confirm the event location on the official eligibility map, then confirm one eligible project, applicant, community participation, cultural and creative authority, rights, venue, budget, insurance and February 2027 or later start.",
+      "source": "Australian Government Office for the Arts"
+    }
+  ],
+  "matches": [
+    {
+      "match_key": "redland-community-celebration-2026-27--quandamooka-film-festival",
+      "grant_source_key": "redland-community-celebration-2026-27",
+      "project_key": "quandamooka-film-festival",
+      "fit_status": "clarify",
+      "fit_reason": "A culturally authorised celebration component may fit, while capital and equipment are excluded.",
+      "eligibility_status": "TO BE CONFIRMED: eligible applicant, Redland delivery, cultural authority, insurance and non-capital costs",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-18",
+      "stack_role": "cultural celebration layer",
+      "funding_ask": "Up to $15,000",
+      "cofunding_plan": "Use this cultural celebration layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Define one community celebration and storytelling program within the festival with proper cultural permissions.",
+      "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the applicant, cultural authority, event program, venue, rights, insurance and non-capital budget before 18 October.",
+      "human_roles": [
+        "Legal applicant or grant-manager decision-maker",
+        "Rights-owning producer, creative or broadcast lead",
+        "Cultural, editorial and financial reviewers appropriate to the work"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm cultural authority, applicant, program, venue, insurance and budget."
+    },
+    {
+      "match_key": "redland-community-support--wildlife-rescue-minjerribah",
+      "grant_source_key": "redland-community-support",
+      "project_key": "wildlife-rescue-minjerribah",
+      "fit_status": "clarify",
+      "fit_reason": "The rescue network may support environmental and community outcomes, but the app is not an eligible applicant and operational approvals remain unproven.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, wildlife operational authority, insurance and deliverable community project",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-12",
+      "stack_role": "community coordination layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Use this community coordination layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Separate coordination, volunteer training and public education from clinical wildlife-care work.",
+      "next_move": "Use Community Support for the coordinated local program; use the wildlife-carer grant for direct items and Rapid Response for urgent small needs.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, registered-care relationships, operational authority, insurance, plan, quotes and reporting."
+    },
+    {
+      "match_key": "screen-australia-first-nations-documentary-development--grain-by-grain-documentary",
+      "grant_source_key": "screen-australia-first-nations-documentary-development",
+      "project_key": "grain-by-grain-documentary",
+      "fit_status": "clarify",
+      "fit_reason": "This pathway is strong only if the documentary is genuinely First Nations-led in key creative roles.",
+      "eligibility_status": "TO BE CONFIRMED: genuine First Nations key creative leadership, cultural authority, ICIP, rights and eligible format",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-01",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-22",
+      "stack_role": "First Nations-led development layer",
+      "funding_ask": "Up to $30,000 or $20,000 depending on format",
+      "cofunding_plan": "Use this First Nations-led development layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Place First Nations authorship and decision-making at the centre; do not add a nominal adviser to qualify.",
+      "next_move": "Use this instead of general development for the same costs; stack later production only after development.",
+      "human_roles": [
+        "Authorised First Nations decision-maker or applicant representative",
+        "Project lead",
+        "Legal, cultural and financial reviewers appropriate to the project"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "An authorised First Nations creative lead must decide whether this is their project and whether to proceed."
+    },
+    {
+      "match_key": "creative-australia-first-nations-deaf-disability-arts-2026--quandamooka-film-festival",
+      "grant_source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
+      "project_key": "quandamooka-film-festival",
+      "fit_status": "clarify",
+      "fit_reason": "A defined access-led arts or screen-culture project may fit, but only through an eligible First Nations d/Deaf artist or arts worker, First Nations artist or arts worker with disability, eligible group, or qualifying First Nations organisation with relevant delivery history.",
+      "eligibility_status": "TO BE CONFIRMED: eligible First Nations applicant, d/Deaf or disability eligibility where required, organisational board control and delivery history where applicable, cultural authority, participant assent and eligible project scope",
+      "evidence_needed": [
+        "eligible applicant and explicit authority to apply",
+        "identity, disability and organisational-control evidence supplied by the applicant, never inferred",
+        "defined access-led creative project, participants, consent and cultural authority",
+        "work samples, access plan, budget, timeline and registration"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-13",
+      "stack_role": "small access and inclusive creative-practice layer",
+      "funding_ask": "$5,000-$10,000",
+      "cofunding_plan": "This small access layer could combine with Screen Culture or event funding for distinct eligible costs, ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or access support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Fund one applicant-led access, creative-development or professional-development project that benefits eligible First Nations d/Deaf artists or arts workers or First Nations artists or arts workers with disability, separate from general festival operations and permanent LED capital.",
+      "next_move": "Immediately confirm whether a willing eligible applicant and a specific access-led project already exist; proceed only if registration, authority, consent, access, budget and work samples can be completed before 13 October.",
+      "human_roles": [
+        "Eligible First Nations applicant and authorised decision-maker",
+        "Participating d/Deaf artist, arts worker or artist with disability and access lead",
+        "Cultural authority, consent, creative, access and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the official eligibility and registration checklist",
+        "Draft an access-plan, budget, work-sample and permission register for human review",
+        "Flag any inferred identity, disability, authority, consent, organisational control or duplicated costs"
+      ],
+      "readiness_check": "Confirm applicant eligibility, identity and disability evidence supplied by the applicant, organisational control and track record where relevant, cultural authority, participant assent, access design, work samples, budget, registration and February 2027 or later start."
+    },
+    {
+      "match_key": "qld-touring-fund-round-3-2026--i-c-infinity-music-universe",
+      "grant_source_key": "qld-touring-fund-round-3-2026",
+      "project_key": "i-c-infinity-music-universe",
+      "fit_status": "clarify",
+      "fit_reason": "A developed live music or multi-arts work could fit a regional Queensland tour, but an album universe or planning tool alone is not a tour-ready product. Artists, rights, route, presenters, audiences and delivery capacity must be real and confirmed.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Queensland applicant, completed or developed work, artists, rights, regional route, presenters or venues, contracts, audience evidence, co-funding and tour budget",
+      "evidence_needed": [
+        "confirmed artists, repertoire, rights and tour-ready work",
+        "eligible applicant and accountable producer",
+        "regional Queensland route, venue or presenter interest and audience case",
+        "tour budget, fees, travel, access, safety, insurance and co-funding evidence"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-12",
+      "stack_role": "regional touring and audience-development layer",
+      "funding_ask": "Up to $100,000 for one tour or touring program covering up to 50% of costs, plus up to $10,000 in eligible access funding",
+      "cofunding_plan": "Touring support could combine with ticket or earned income, artist or member contribution, local sponsor cash or in-kind support, venue contribution, resident fundraising, philanthropy and later grants. None is secured.",
+      "qualifying_reframe": "Select one finished live work and a realistic regional Queensland route rather than seeking support for the whole music universe.",
+      "next_move": "Immediately decide whether the work, artist team, rights, applicant, at least three regional stops and 50% project co-funding are already credible; otherwise retain the concept for a future round.",
+      "human_roles": [
+        "Artists and rights holders",
+        "Eligible applicant and tour producer",
+        "Regional venue or presenter decision-makers, access and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a route, venue, audience and budget worksheet",
+        "Draft a rights, contracts, access and co-funding checklist",
+        "Flag unconfirmed artists, venues, permissions and income assumptions"
+      ],
+      "readiness_check": "Confirm applicant, tour-ready work, artists, rights, at least three regional locations outside the home location, presenters, contracts, audiences, budget, co-funding, access, insurance and delivery capacity."
+    },
+    {
+      "match_key": "qld-community-housing-energy-upgrades-2026--straddie-clean-energy-superpower",
+      "grant_source_key": "qld-community-housing-energy-upgrades-2026",
+      "project_key": "straddie-clean-energy-superpower",
+      "fit_status": "clarify",
+      "fit_reason": "The rebate can support defined energy-efficiency works at existing eligible community-housing dwellings, but only through the registered provider that owns and manages them. It is not funding for a whole-island energy concept or new housing.",
+      "eligibility_status": "TO BE CONFIRMED: active registered community housing provider, eligible existing provider-owned dwelling, Queensland location, compliant upgrades and quotes, conditional approval and licensed installation",
+      "evidence_needed": [
+        "registered community housing provider and authorised decision",
+        "proof the provider owns and manages each eligible existing dwelling",
+        "compliant itemised quotes and upgrade specifications",
+        "QRIDA conditional approval before purchase or installation"
+      ],
+      "last_checked": "2026-09-12",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-30",
+      "stack_role": "small dwelling-level energy upgrade and bill-reduction layer",
+      "funding_ask": "Up to $4,500 excluding GST per eligible dwelling",
+      "cofunding_plan": "The registered provider must cover any eligible upgrade cost above the rebate and all ineligible GST, administration, project management, maintenance and unrelated works. Other grants, finance or in-kind support are unconfirmed and costs must not be duplicated.",
+      "qualifying_reframe": "Start with one evidence-backed package of eligible upgrades for existing provider-owned community housing rather than a general island electrification proposal.",
+      "next_move": "By 30 September, ask an authorised registered provider to confirm whether it owns eligible Minjerribah dwellings and wants compliant quotes; do not purchase or install before conditional approval.",
+      "human_roles": [
+        "Registered community housing provider decision-maker and property manager",
+        "Tenant-engagement and access lead",
+        "Licensed contractor, energy adviser and financial reviewer"
+      ],
+      "ai_tasks": [
+        "Prepare a dwelling, ownership, registration and eligible-upgrade checklist",
+        "Compare compliant quote requirements and separate eligible from ineligible costs",
+        "Flag missing tenant access, licensing, safety, conditional approval and deadline evidence"
+      ],
+      "readiness_check": "Confirm provider registration, dwelling ownership and management, building class, existing-dwelling status, eligible upgrades, tenant access, quotes, licensing, conditional approval, budget gap and installation timing."
+    },
+    {
+      "match_key": "creative-australia-national-songwriting-schools-2026--i-c-infinity-music-universe",
+      "grant_source_key": "creative-australia-national-songwriting-schools-2026",
+      "project_key": "i-c-infinity-music-universe",
+      "fit_status": "clarify",
+      "fit_reason": "A defined Minjerribah or Redlands songwriting and recording program for students could fit, but the broader album, comic and music-universe concept is not itself an eligible education program. An eligible education or music-learning organisation must lead and matched funding is required.",
+      "eligibility_status": "TO BE CONFIRMED: eligible lead institution, two-year operating history, ABN, student cohort, matched funding, educators, child safety, rights, delivery plan and community or cultural permissions",
+      "evidence_needed": [
+        "authorised eligible lead institution and consortium roles",
+        "defined primary, secondary or tertiary learner cohort and access need",
+        "original contemporary-music program, educators, rights and child-safety plan",
+        "matched-funding evidence, budget, timeline and repeatable pathway"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "act_now",
+      "action_by": "2026-10-09",
+      "stack_role": "matched student songwriting and recording program layer",
+      "funding_ask": "$5,000-$100,000 in matched funding",
+      "cofunding_plan": "Possible matching sources include confirmed eligible-institution cash, philanthropy, local sponsorship, member or community fundraising and other permitted contributions. The match rules and every proposed contribution must be checked against the guidelines; nothing is secured.",
+      "qualifying_reframe": "Separate one inclusive, education-led songwriting and recording program for a defined learner cohort from the broader music universe and any unrelated publishing, screen or commercial activity.",
+      "next_move": "Immediately confirm whether an eligible lead institution and matched funding already exist. If yes, complete system registration before 10:00am AEDT 12 October and obtain human approval before any application.",
+      "human_roles": [
+        "Authorised lead-institution decision-maker",
+        "Music educator and contemporary songwriter or producer",
+        "Child-safety, rights, access and cultural-authority reviewers where relevant",
+        "Finance reviewer confirming the matched contribution"
+      ],
+      "ai_tasks": [
+        "Draft a one-page student-program outline and outcomes map for human review",
+        "Prepare an applicant, partner, match-funding and evidence gap register",
+        "Build a draft budget and rights checklist without asserting any contribution or permission"
+      ],
+      "readiness_check": "Confirm eligible applicant category, ABN, majority Australian ownership, two-year operating history, education partner, student cohort, access need, contemporary-music scope, educators, rights, child safety, cultural permissions, matched funding, budget, delivery dates and registration timing."
+    },
+    {
+      "match_key": "creative-australia-acf-boost-2027--sovereign-music-australia",
+      "grant_source_key": "creative-australia-acf-boost-2027",
+      "project_key": "sovereign-music-australia",
+      "fit_status": "clarify",
+      "fit_reason": "A defined artist-led Minjerribah music or rights-literacy project could use ACF Boost to match public donations up to $5,000, but the broad national ecosystem is not one eligible campaign and no artist, applicant, auspice or donor plan is confirmed.",
+      "eligibility_status": "TO BE CONFIRMED: eligible artist, collective or arts organisation, active ABN or auspice, authorised cultural project, rights, campaign plan, budget and delivery capacity",
+      "evidence_needed": [
+        "eligible artist, collective or arts organisation and authorised campaign lead",
+        "active ABN or signed auspice arrangement and matching bank-account responsibility",
+        "one eligible cultural project, balanced budget, campaign target and donor strategy",
+        "rights, privacy, child-safety and First Nations cultural and intellectual property protocol evidence where relevant"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-19",
+      "stack_role": "matched seed fundraising and donor-evidence layer",
+      "funding_ask": "Dollar-for-dollar matched funding up to $5,000 plus eligible public donations",
+      "cofunding_plan": "Eligible public donations through the Australian Cultural Fund could be matched up to $5,000 and sit beside later arts grants, earned income, philanthropy or verified sponsor support. Sponsorship, in-kind support, government funding, participant donations, loans and earned income are not matched, and nothing is secured.",
+      "qualifying_reframe": "Choose one artist-led local music or rights-literacy project with a clear public case for support, achievable 2027 delivery and modest fundraising target rather than funding the whole national ecosystem.",
+      "next_move": "Before 19 October, an authorised artist or organisation should confirm eligibility, ABN or auspice, one project, rights, budget, donor network and capacity to run the February-April 2027 campaign.",
+      "human_roles": [
+        "Eligible artist, collective or arts-organisation decision-maker",
+        "Auspice, ABN, bank-account and financial-accountability lead",
+        "Campaign, music-rights, cultural-authority, editorial and donor-stewardship reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a one-page case for support, balanced budget and campaign evidence checklist",
+        "Draft a modest donor and communications plan for human approval",
+        "Flag missing applicant, auspice, rights, ICIP, privacy, donor and delivery decisions"
+      ],
+      "readiness_check": "Confirm eligible participant, active ABN or auspice, authority, one cultural project, rights, ICIP protocols where relevant, child safety where relevant, balanced budget, campaign target, donor strategy, delivery capacity and acquittal."
+    },
+    {
+      "match_key": "redland-community-celebration-2026-27--straddie-headline-open-mic",
+      "grant_source_key": "redland-community-celebration-2026-27",
+      "project_key": "straddie-headline-open-mic",
+      "fit_status": "clarify",
+      "fit_reason": "A welcoming local open-mic celebration may fit the upcoming community round if it is a real participatory event with an eligible organiser, venue, safety and community purpose; the online prompt board alone does not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, ABN, insurance, Redland venue, permits, program, rights, access and non-capital costs",
+      "evidence_needed": [
+        "eligible organiser and authorised application decision",
+        "event date, venue permission, performers, audience and participation plan",
+        "$20 million insurance, safety, access, rights and permit evidence",
+        "eligible budget, quotes, promotion and evaluation"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-18",
+      "stack_role": "small participatory music and community celebration layer",
+      "funding_ask": "Up to $15,000 for eligible event delivery",
+      "cofunding_plan": "The grant could combine with unsecured ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or equipment support. Nothing is secured and capital purchases remain outside the round.",
+      "qualifying_reframe": "Define one accessible, permitted local open-mic celebration with artist, audience and community outcomes rather than funding a general website or platform.",
+      "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the organiser, venue, program, rights, insurance, safety, access and one-event budget before 18 October.",
+      "human_roles": [
+        "Eligible organiser or auspice decision-maker",
+        "Venue, event operations and performer lead",
+        "Community, cultural, access, rights and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the eligibility, venue, program, rights and budget checklist",
+        "Draft a one-event program and outcomes map for human approval",
+        "Flag invented performers, permissions, support, audience demand or secured contributions"
+      ],
+      "readiness_check": "Confirm applicant, ABN, insurance, venue, permits, artists, rights, safety, accessibility, audience, eligible costs, quotes, budget, evaluation and authority to apply."
+    },
+    {
+      "match_key": "redland-community-celebration-2026-27--straddie-night-market-lab",
+      "grant_source_key": "redland-community-celebration-2026-27",
+      "project_key": "straddie-night-market-lab",
+      "fit_status": "clarify",
+      "fit_reason": "A small community night-market celebration may fit the upcoming round if it centres local participation and community spirit, but commercial market operations, capital equipment and an unapproved site are not an eligible project by themselves.",
+      "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, ABN, insurance, site and permits, stallholder and food-safety controls, program, access and community benefit",
+      "evidence_needed": [
+        "eligible organiser and authorised application decision",
+        "site permission, event date, local program and participant demand",
+        "$20 million insurance, permits, food safety, waste, transport, access and risk plan",
+        "eligible non-capital budget, quotes and community outcomes"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-10-18",
+      "stack_role": "small permitted community celebration pilot",
+      "funding_ask": "Up to $15,000 for eligible event delivery",
+      "cofunding_plan": "The grant could combine with unsecured stall fees or earned income where eligible, resident fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind support. No income or support is secured and capital purchases remain outside the round.",
+      "qualifying_reframe": "Plan one low-risk, accessible community celebration with local stalls and programming rather than a permanent commercial market or infrastructure build.",
+      "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the organiser, site, permits, insurance, stallholder rules, food safety, waste, access and one-event budget before 18 October.",
+      "human_roles": [
+        "Eligible organiser or auspice decision-maker",
+        "Site controller, event operations and stallholder lead",
+        "Council, safety, food, waste, access and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the organiser, site, permit, safety, stallholder and budget checklist",
+        "Draft a one-event operations and outcomes map for human review",
+        "Flag invented site control, vendors, permissions, demand or secured contributions"
+      ],
+      "readiness_check": "Confirm applicant, ABN, insurance, site control, permits, stallholder rules, food safety, waste, transport, accessibility, program, eligible costs, budget, evaluation and authority to apply."
+    },
+    {
+      "match_key": "nbn-grants-program-2026--ready-set-co-op-hyperlocal-media",
+      "grant_source_key": "nbn-grants-program-2026",
+      "project_key": "ready-set-co-op-hyperlocal-media",
+      "fit_status": "clarify",
+      "fit_reason": "The digital participation, local media and skills concept aligns with several nbn categories only if an existing eligible regional digital business or organisation is already operating and can evidence how it uses the nbn network.",
+      "eligibility_status": "TO BE CONFIRMED: operating digital business or organisation, regional classification, nbn connection, ABN, matching Australian bank account, category and evidence of impact",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "act_now",
+      "action_by": "2026-10-12",
+      "stack_role": "small digital-business proof, equipment or service pilot",
+      "funding_ask": "$15,000 category grant, with a possible additional $20,000 only if selected as the overall Champion",
+      "cofunding_plan": "This small pilot could combine with member or resident fundraising, local sponsor cash or in-kind support, earned service income, visitor giving, philanthropy and later skills or equipment grants. Every layer is unsecured until evidenced.",
+      "qualifying_reframe": "Define one operating regional digital service that uses the nbn network to deliver measurable community media, digital skills or participation outcomes, rather than seeking funds for an unformed co-op concept.",
+      "next_move": "Confirm whether an eligible operating entity, nbn connection, ABN, bank account and real customer or community evidence already exist before selecting one category and drafting by 12 October.",
+      "human_roles": [
+        "Authorised business or organisation decision-maker",
+        "Digital service and community-outcomes lead",
+        "Finance, cultural, privacy and evidence reviewers appropriate to the proposal"
+      ],
+      "ai_tasks": [
+        "Prepare the category comparison and official eligibility checklist",
+        "Draft an impact, budget and evidence worksheet for human review",
+        "Flag unsupported operating-history, connection, ownership, authority or impact claims"
+      ],
+      "readiness_check": "Confirm existing entity, operating history, regional status, nbn connection, ABN, matching bank account, category, service, users, impact evidence, budget, ownership, permissions and delivery capacity."
+    },
+    {
+      "match_key": "federal-festivals-australia-round-23-2026--quandamooka-film-festival",
+      "grant_source_key": "federal-festivals-australia-round-23-2026",
+      "project_key": "quandamooka-film-festival",
+      "fit_status": "clarify",
+      "fit_reason": "One participatory arts or screen-culture project within the festival may fit if the delivery location is confirmed as eligible regional or remote and the project invites real community participation. The program does not fund general festival operations or permanent LED capital.",
+      "eligibility_status": "TO BE CONFIRMED: eligible applicant, official remoteness-map result, one defined arts project, cultural authority, community participation, venue, screening and creative rights, budget, insurance and February 2027 or later start",
+      "evidence_needed": [
+        "official Festivals Australia eligibility-map result for the delivery address",
+        "confirmed legal applicant and authorised application decision",
+        "one defined participatory arts project with community and audience outcomes",
+        "Quandamooka cultural authority where relevant, ICIP, screening and creative rights, venue, budget, insurance and delivery plan"
+      ],
+      "last_checked": "2026-10-09",
+      "action_priority": "act_now",
+      "action_by": "2026-10-13",
+      "stack_role": "participatory arts project within the festival",
+      "funding_ask": "No fixed applicant cap is published; request only the evidenced cost of one eligible project",
+      "cofunding_plan": "This project layer could combine with unsecured resident or member fundraising, local sponsorship, philanthropy, ticket or earned income where eligible, ACF fundraising and verified in-kind venue or technical support. Keep any Redland celebration, screen-program and capital costs separate and treat every contribution as unsecured until evidenced.",
+      "qualifying_reframe": "Define one community-participation arts or screen-culture project inside the festival, rather than seeking general festival operations or permanent LED-screen funding.",
+      "next_move": "Immediately check the exact venue address on the official eligibility map, then make a human go or no-go decision on applicant, cultural authority, one participatory project, rights, venue, budget and delivery capacity before 13 October.",
+      "human_roles": [
+        "Eligible legal applicant and authorised decision-maker",
+        "Festival producer, participating artists and venue lead",
+        "Quandamooka cultural authority where relevant, ICIP and rights reviewers",
+        "Financial, insurance, accessibility and delivery reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the official eligibility-map and program-requirements checklist for human review",
+        "Draft a single-project outline, participation plan, budget and evidence register",
+        "Separate festival operations, programming and permanent capital costs",
+        "Flag unsupported applicant, authority, consent, rights, venue, funding or location claims"
+      ],
+      "readiness_check": "Confirm applicant eligibility, official regional or remote location result, one project scope, community participation, cultural authority and ICIP where relevant, rights, venue, accessibility, insurance, budget, start date and delivery capacity."
+    }
+  ],
+  "partner_pathways": [
+    {
+      "pathway_key": "redland-community-support--stradbroke-grants-lab--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "stradbroke-grants-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--quandamooka-country-events-engine--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "quandamooka-country-events-engine",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--legal-memory-workbench--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "legal-memory-workbench",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "qld-community-housing-energy-upgrades-2026--straddie-clean-energy-superpower--roles",
+      "grant_source_key": "qld-community-housing-energy-upgrades-2026",
+      "project_key": "straddie-clean-energy-superpower",
+      "planning_status": "needs_human_review",
+      "roles_needed": [
+        "Registered community housing provider decision-maker and property manager",
+        "Tenant-engagement and access lead",
+        "Licensed contractor, energy adviser and financial reviewer"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "No organisation has been approached or named. Applicant eligibility, community authority and FPIC must be established by people with the right standing before any application work.",
+      "last_checked": "2026-09-12"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-content-assets-kit--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-content-assets-kit",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Community media trainer",
+        "Rights, privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--film-club-documentary-builders--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "film-club-documentary-builders",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Documentary and editorial lead",
+        "Consent, cultural-authority, privacy, safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "screen-australia-first-nations-documentary-development--grain-by-grain-documentary--roles",
+      "grant_source_key": "screen-australia-first-nations-documentary-development",
+      "project_key": "grain-by-grain-documentary",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Authorised First Nations decision-maker or applicant representative",
+        "Project lead",
+        "Legal, cultural and financial reviewers appropriate to the project"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-01"
+    },
+    {
+      "pathway_key": "federal-festivals-australia-round-23-2026--quandamooka-film-festival--roles",
+      "grant_source_key": "federal-festivals-australia-round-23-2026",
+      "project_key": "quandamooka-film-festival",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible legal applicant and authorised decision-maker",
+        "Festival producer, participating artists and venue lead",
+        "Quandamooka cultural authority where relevant, ICIP and rights reviewers",
+        "Financial, insurance, accessibility and delivery reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-celebration-2026-27--straddie-night-market-lab--roles",
+      "grant_source_key": "redland-community-celebration-2026-27",
+      "project_key": "straddie-night-market-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible organiser or auspice decision-maker",
+        "Site controller, event operations and stallholder lead",
+        "Council, safety, food, waste, access and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-support--grey-area-commons--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "grey-area-commons",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--bees-and-allies--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "bees-and-allies",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--wildlife-rescue-minjerribah--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "wildlife-rescue-minjerribah",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-support--health-and-culture--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "health-and-culture",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant or auspice decision-maker",
+        "Program, venue, safety, safeguarding and accessibility leads",
+        "Participant, cultural-authority, rights and financial reviewers appropriate to the chosen activity"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-23"
+    },
+    {
+      "pathway_key": "redland-community-support--bigger-local-picture--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "bigger-local-picture",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "nbn-grants-program-2026--ready-set-co-op-hyperlocal-media--roles",
+      "grant_source_key": "nbn-grants-program-2026",
+      "project_key": "ready-set-co-op-hyperlocal-media",
+      "planning_status": "needs_human_review",
+      "roles_needed": [
+        "Authorised business or organisation decision-maker",
+        "Digital service and community-outcomes lead",
+        "Finance, cultural, privacy and evidence reviewers appropriate to the proposal"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The public proposal is not a registered co-op, employer or training organisation. No organisation has been approached or named, and all delivery and partnership claims remain to be confirmed.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-support--minjerribah-screen-media-network--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "minjerribah-screen-media-network",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Screen and media program lead",
+        "Cultural-authority, rights, safety, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--p4a-purple-civic-lab--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "p4a-purple-civic-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--cosmic-nexus--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "cosmic-nexus",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Editorial and cultural-permissions reviewer",
+        "Facilitator, participant-safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "creative-australia-national-songwriting-schools-2026--i-c-infinity-music-universe--roles",
+      "grant_source_key": "creative-australia-national-songwriting-schools-2026",
+      "project_key": "i-c-infinity-music-universe",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Authorised lead-institution decision-maker",
+        "Music educator and contemporary songwriter or producer",
+        "Child-safety, rights, access and cultural-authority reviewers where relevant",
+        "Finance reviewer confirming the matched contribution"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-support--gajra-earth--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "gajra-earth",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Facilitator and evidence reviewer",
+        "Community, accessibility, cultural-permissions and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--plfc-2026-data--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-2026-data",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Club committee decision-maker",
+        "Member and volunteer representatives",
+        "Privacy, governance and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-08"
+    },
+    {
+      "pathway_key": "redland-community-support--plfc-live--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-live",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Club committee and asset-owner decision-maker",
+        "Volunteer technical and privacy lead",
+        "Member, accessibility, insurance and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--plfc-community-platform--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-community-platform",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Club committee decision-maker",
+        "Member, volunteer and accessibility representatives",
+        "Privacy, technical and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-08"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-space-station-simulator--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-space-station-simulator",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Qualified STEM educator",
+        "Child-safety, accessibility, technical and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--plfc-ai-agent-md-forms--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-ai-agent-md-forms",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Club committee decision-maker",
+        "Volunteer training and privacy lead",
+        "Member, accessibility, governance and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--explorer-music-video-lab--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "explorer-music-video-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Artist and music-rights lead",
+        "Youth-safety, access, production and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-celebration-2026-27--straddie-headline-open-mic--roles",
+      "grant_source_key": "redland-community-celebration-2026-27",
+      "project_key": "straddie-headline-open-mic",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible organiser or auspice decision-maker",
+        "Venue, event operations and performer lead",
+        "Community, cultural, access, rights and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-digital-twin-explainer--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-digital-twin-explainer",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Data, image and site-permissions lead",
+        "Technical, privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--second-island--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "second-island",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Data, sensor or site controller",
+        "Technical, privacy, cultural-authority, safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--amity-cinema-circle--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "amity-cinema-circle",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Venue and screening-rights controller",
+        "Program, accessibility, safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "creative-australia-acf-boost-2027--sovereign-music-australia--roles",
+      "grant_source_key": "creative-australia-acf-boost-2027",
+      "project_key": "sovereign-music-australia",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible artist, collective or arts-organisation decision-maker",
+        "Auspice, ABN, bank-account and financial-accountability lead",
+        "Campaign, music-rights, cultural-authority, editorial and donor-stewardship reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-10-09"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-twins--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-twins",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Evidence and public-data facilitator",
+        "Privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-twin-prototype--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-twin-prototype",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Data and transport-evidence reviewer",
+        "Privacy, site, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--minjerribah-site-and-service-ideas--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "minjerribah-site-and-service-ideas",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible local applicant or auspice",
+        "Community and project decision lead",
+        "Site, service, cultural, planning and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-08"
+    }
+  ],
+  "verification": {
+    "checked_at_utc": "2026-11-01T06:20:00Z",
+    "base_commit": "ca12ccf3bd99805b0237af88f8384177e335ce79",
+    "summary": "Seven October rounds closed; nine expired matches archived. Five projects retain research-only local-support lanes, not verified current grant matches. Housing rebate remains open to 30 November; Screen Australia retains a future January cutoff, subject to portal verification. Community Support remains open until midnight end of 1 November AEST.",
+    "sources": [
+      {
+        "source_key": "redland-community-support",
+        "url": "https://redland.smartygrants.com.au/CommunitySupport26-27-R2",
+        "finding": "Round 2 closes midnight (end of day) 1 November 2026 AEST, equivalent to 14:00 UTC on 1 November. Confirm submission in the official SmartyGrants portal before closure."
+      },
+      {
+        "source_key": "screen-australia-first-nations-documentary-development",
+        "url": "https://www.screenaustralia.gov.au/fund/first-nations-documentary-development/",
+        "finding": "The 22 October 2026 cutoff passed. Next published cutoff: 14 January 2027 at 5:00pm AEDT. Verified against official indexed programme content; direct page access returned 403, so confirm current intake in the official portal.",
+        "access_note": "Official search-index evidence; direct page and current PDF returned HTTP 403. No claim that current intake is open."
+      },
+      {
+        "source_key": "redland-community-celebration-2026-27",
+        "url": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Community-Celebration-Grant",
+        "finding": "Round 2 closed 18 October 2026. Round 3: 22 February–14 March 2027; Round 4: 19 April–9 May 2027. Confirm the later round guidelines before preparing a new application."
+      },
+      {
+        "source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
+        "url": "https://creative.gov.au/investments-opportunities/first-nations-arts-ddeaf-andor-disabilities-project-fund",
+        "finding": "The 2026 application round closed 13 October 2026 at 3:00pm AEDT (2:00pm AEST in Brisbane). No later application deadline has been verified."
+      },
+      {
+        "source_key": "qld-touring-fund-round-3-2026",
+        "url": "https://www.arts.qld.gov.au/funding-opportunities/funding/touring-queensland-fund",
+        "finding": "Round 3 closed 12 October 2026 at 2:00pm AEST. Round 4 is a separate future round: opens 30 November 2026 and closes 8 February 2027 at 2:00pm."
+      },
+      {
+        "source_key": "qld-community-housing-energy-upgrades-2026",
+        "url": "https://www.business.qld.gov.au/industries/housing-accommodation/community/energy-upgrades/provider-owned-properties",
+        "finding": "Applications close 30 November 2026; approved installations must be completed by 30 June 2027. The official page does not specify a closing time."
+      },
+      {
+        "source_key": "creative-australia-national-songwriting-schools-2026",
+        "url": "https://www.creative.gov.au/investments-opportunities/national-songwriting-and-recording-schools-stimulus",
+        "finding": "Applications closed 13 October 2026 at 3:00pm AEDT. No later application round has been verified."
+      },
+      {
+        "source_key": "creative-australia-acf-boost-2027",
+        "url": "https://creative.gov.au/investments-opportunities/acf-boost-2027",
+        "finding": "Applications closed 19 October 2026 at 12:00pm AEDT. The February–April 2027 fundraising period is for successful applicants, not a new application window."
+      },
+      {
+        "source_key": "nbn-grants-program-2026",
+        "url": "https://www.nbnco.com.au/campaigns/innovate-with-nbn-grants-program",
+        "finding": "The 2026 round closed 12 October 2026. The official page confirms applications are closed; no 2027 application dates are yet verified.",
+        "historical_round_url": "https://www.nbnco.com.au/corporate-information/about-nbn-co/newsroom/articles/business/apply-now-2026-innovate-with-nbn-grants-program"
+      },
+      {
+        "source_key": "federal-festivals-australia-round-23-2026",
+        "url": "https://www.arts.gov.au/funding-and-support/festivals-australia",
+        "finding": "Round 23 closed 13 October 2026. Round 24 is expected to open in February 2027 for projects starting from 1 July 2027; no exact opening or closing date is verified.",
+        "historical_round_url": "https://www.arts.gov.au/news/applications-now-open-funding-regional-and-remote-arts-projects-through-festivals-australia-program"
+      }
+    ],
+    "catalogue_note": "The live upstream ledger-sync test produced unrelated catalogue drift (59 existing tracked projects would become 48, removing 12 and adding one). The existing 59-project catalogue is intentionally preserved in this deadline-only correction; the build-watchlist and full data-validator CI pipeline is tested against it."
+  }
+}

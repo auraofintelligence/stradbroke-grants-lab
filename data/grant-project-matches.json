@@ -297,39 +297,6 @@
     "readiness_check": "Confirm legal applicant, site owner consent, plans, approvals, quotes, insurance and maintenance responsibility."
   },
   {
-    "match_key": "redland-community-celebration-2026-27--quandamooka-film-festival",
-    "grant_source_key": "redland-community-celebration-2026-27",
-    "project_key": "quandamooka-film-festival",
-    "fit_status": "clarify",
-    "fit_reason": "A culturally authorised celebration component may fit, while capital and equipment are excluded.",
-    "eligibility_status": "TO BE CONFIRMED: eligible applicant, Redland delivery, cultural authority, insurance and non-capital costs",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-10-18",
-    "stack_role": "cultural celebration layer",
-    "funding_ask": "Up to $15,000",
-    "cofunding_plan": "Use this cultural celebration layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Define one community celebration and storytelling program within the festival with proper cultural permissions.",
-    "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the applicant, cultural authority, event program, venue, rights, insurance and non-capital budget before 18 October.",
-    "human_roles": [
-      "Legal applicant or grant-manager decision-maker",
-      "Rights-owning producer, creative or broadcast lead",
-      "Cultural, editorial and financial reviewers appropriate to the work"
-    ],
-    "ai_tasks": [
-      "Maintain the official-source and eligibility checklist",
-      "Prepare the evidence register, budget worksheet and deadline brief for human review",
-      "Flag unsupported claims, missing authority, duplicated costs and source changes"
-    ],
-    "readiness_check": "Confirm cultural authority, applicant, program, venue, insurance and budget."
-  },
-  {
     "match_key": "redland-community-support--wildlife-rescue-minjerribah",
     "grant_source_key": "redland-community-support",
     "project_key": "wildlife-rescue-minjerribah",
@@ -342,14 +309,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-11-01",
     "action_priority": "prepare_next",
-    "action_by": "2026-10-12",
+    "action_by": "2026-11-01",
     "stack_role": "community coordination layer",
     "funding_ask": "Up to $20,000",
     "cofunding_plan": "Use this community coordination layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Separate coordination, volunteer training and public education from clinical wildlife-care work.",
-    "next_move": "Use Community Support for the coordinated local program; use the wildlife-carer grant for direct items and Rapid Response for urgent small needs.",
+    "next_move": "An authorised eligible applicant must confirm readiness and decide whether a complete community-coordination application can be submitted before midnight end of 1 November 2026 AEST. Do not imply wildlife operational authority or grant readiness.",
     "human_roles": [
       "Legal applicant decision-maker",
       "Project lead",
@@ -375,14 +342,14 @@
       "local need, delivery plan and measurable outcomes",
       "site, cultural, rights, safety or partner permissions where relevant"
     ],
-    "last_checked": "2026-09-01",
+    "last_checked": "2026-11-01",
     "action_priority": "prepare_next",
-    "action_by": "2026-10-22",
+    "action_by": "2027-01-14",
     "stack_role": "First Nations-led development layer",
     "funding_ask": "Up to $30,000 or $20,000 depending on format",
     "cofunding_plan": "Use this First Nations-led development layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
     "qualifying_reframe": "Place First Nations authorship and decision-making at the centre; do not add a nominal adviser to qualify.",
-    "next_move": "Use this instead of general development for the same costs; stack later production only after development.",
+    "next_move": "Confirm current official portal intake and the next published 14 January 2027, 5:00pm AEDT cutoff. An authorised First Nations creative lead must decide whether to prepare the development evidence; do not treat indexed dates as confirmation that intake is open.",
     "human_roles": [
       "Authorised First Nations decision-maker or applicant representative",
       "Project lead",
@@ -1155,39 +1122,6 @@
     "readiness_check": "Confirm applicant, community priority, site or service authority, cultural permissions, engagement method, insurance, scope, budget, output and later ownership."
   },
   {
-    "match_key": "creative-australia-first-nations-deaf-disability-arts-2026--quandamooka-film-festival",
-    "grant_source_key": "creative-australia-first-nations-deaf-disability-arts-2026",
-    "project_key": "quandamooka-film-festival",
-    "fit_status": "clarify",
-    "fit_reason": "A defined access-led arts or screen-culture project may fit, but only through an eligible First Nations d/Deaf artist or arts worker, First Nations artist or arts worker with disability, eligible group, or qualifying First Nations organisation with relevant delivery history.",
-    "eligibility_status": "TO BE CONFIRMED: eligible First Nations applicant, d/Deaf or disability eligibility where required, organisational board control and delivery history where applicable, cultural authority, participant assent and eligible project scope",
-    "evidence_needed": [
-      "eligible applicant and explicit authority to apply",
-      "identity, disability and organisational-control evidence supplied by the applicant, never inferred",
-      "defined access-led creative project, participants, consent and cultural authority",
-      "work samples, access plan, budget, timeline and registration"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-10-13",
-    "stack_role": "small access and inclusive creative-practice layer",
-    "funding_ask": "$5,000-$10,000",
-    "cofunding_plan": "This small access layer could combine with Screen Culture or event funding for distinct eligible costs, ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or access support. Every layer is unconfirmed until evidenced.",
-    "qualifying_reframe": "Fund one applicant-led access, creative-development or professional-development project that benefits eligible First Nations d/Deaf artists or arts workers or First Nations artists or arts workers with disability, separate from general festival operations and permanent LED capital.",
-    "next_move": "Immediately confirm whether a willing eligible applicant and a specific access-led project already exist; proceed only if registration, authority, consent, access, budget and work samples can be completed before 13 October.",
-    "human_roles": [
-      "Eligible First Nations applicant and authorised decision-maker",
-      "Participating d/Deaf artist, arts worker or artist with disability and access lead",
-      "Cultural authority, consent, creative, access and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare the official eligibility and registration checklist",
-      "Draft an access-plan, budget, work-sample and permission register for human review",
-      "Flag any inferred identity, disability, authority, consent, organisational control or duplicated costs"
-    ],
-    "readiness_check": "Confirm applicant eligibility, identity and disability evidence supplied by the applicant, organisational control and track record where relevant, cultural authority, participant assent, access design, work samples, budget, registration and February 2027 or later start."
-  },
-  {
     "match_key": "sedi-capability-building-2026-27--ready-s-e-t-co-op-trust-hub",
     "grant_source_key": "sedi-capability-building-2026-27",
     "project_key": "ready-s-e-t-co-op-trust-hub",
@@ -1650,39 +1584,6 @@
     "readiness_check": "Confirm applicant, ABN, creative team, story materials, platform, rights, budget, audience, cultural authority and Screen Australia eligibility."
   },
   {
-    "match_key": "qld-touring-fund-round-3-2026--i-c-infinity-music-universe",
-    "grant_source_key": "qld-touring-fund-round-3-2026",
-    "project_key": "i-c-infinity-music-universe",
-    "fit_status": "clarify",
-    "fit_reason": "A developed live music or multi-arts work could fit a regional Queensland tour, but an album universe or planning tool alone is not a tour-ready product. Artists, rights, route, presenters, audiences and delivery capacity must be real and confirmed.",
-    "eligibility_status": "TO BE CONFIRMED: eligible Queensland applicant, completed or developed work, artists, rights, regional route, presenters or venues, contracts, audience evidence, co-funding and tour budget",
-    "evidence_needed": [
-      "confirmed artists, repertoire, rights and tour-ready work",
-      "eligible applicant and accountable producer",
-      "regional Queensland route, venue or presenter interest and audience case",
-      "tour budget, fees, travel, access, safety, insurance and co-funding evidence"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-10-12",
-    "stack_role": "regional touring and audience-development layer",
-    "funding_ask": "Up to $100,000 for one tour or touring program covering up to 50% of costs, plus up to $10,000 in eligible access funding",
-    "cofunding_plan": "Touring support could combine with ticket or earned income, artist or member contribution, local sponsor cash or in-kind support, venue contribution, resident fundraising, philanthropy and later grants. None is secured.",
-    "qualifying_reframe": "Select one finished live work and a realistic regional Queensland route rather than seeking support for the whole music universe.",
-    "next_move": "Immediately decide whether the work, artist team, rights, applicant, at least three regional stops and 50% project co-funding are already credible; otherwise retain the concept for a future round.",
-    "human_roles": [
-      "Artists and rights holders",
-      "Eligible applicant and tour producer",
-      "Regional venue or presenter decision-makers, access and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a route, venue, audience and budget worksheet",
-      "Draft a rights, contracts, access and co-funding checklist",
-      "Flag unconfirmed artists, venues, permissions and income assumptions"
-    ],
-    "readiness_check": "Confirm applicant, tour-ready work, artists, rights, at least three regional locations outside the home location, presenters, contracts, audiences, budget, co-funding, access, insurance and delivery capacity."
-  },
-  {
     "match_key": "qld-community-housing-energy-upgrades-2026--straddie-clean-energy-superpower",
     "grant_source_key": "qld-community-housing-energy-upgrades-2026",
     "project_key": "straddie-clean-energy-superpower",
@@ -1695,14 +1596,14 @@
       "compliant itemised quotes and upgrade specifications",
       "QRIDA conditional approval before purchase or installation"
     ],
-    "last_checked": "2026-09-12",
+    "last_checked": "2026-11-01",
     "action_priority": "prepare_next",
-    "action_by": "2026-10-30",
+    "action_by": "2026-11-30",
     "stack_role": "small dwelling-level energy upgrade and bill-reduction layer",
     "funding_ask": "Up to $4,500 excluding GST per eligible dwelling",
     "cofunding_plan": "The registered provider must cover any eligible upgrade cost above the rebate and all ineligible GST, administration, project management, maintenance and unrelated works. Other grants, finance or in-kind support are unconfirmed and costs must not be duplicated.",
     "qualifying_reframe": "Start with one evidence-backed package of eligible upgrades for existing provider-owned community housing rather than a general island electrification proposal.",
-    "next_move": "By 30 September, ask an authorised registered provider to confirm whether it owns eligible Minjerribah dwellings and wants compliant quotes; do not purchase or install before conditional approval.",
+    "next_move": "Before 30 November, an authorised registered provider must confirm eligible existing provider-owned dwellings, compliant quotes and its own application decision. Do not purchase or install before conditional approval; installation must finish by 30 June 2027.",
     "human_roles": [
       "Registered community housing provider decision-maker and property manager",
       "Tenant-engagement and access lead",
@@ -1714,40 +1615,6 @@
       "Flag missing tenant access, licensing, safety, conditional approval and deadline evidence"
     ],
     "readiness_check": "Confirm provider registration, dwelling ownership and management, building class, existing-dwelling status, eligible upgrades, tenant access, quotes, licensing, conditional approval, budget gap and installation timing."
-  },
-  {
-    "match_key": "creative-australia-national-songwriting-schools-2026--i-c-infinity-music-universe",
-    "grant_source_key": "creative-australia-national-songwriting-schools-2026",
-    "project_key": "i-c-infinity-music-universe",
-    "fit_status": "clarify",
-    "fit_reason": "A defined Minjerribah or Redlands songwriting and recording program for students could fit, but the broader album, comic and music-universe concept is not itself an eligible education program. An eligible education or music-learning organisation must lead and matched funding is required.",
-    "eligibility_status": "TO BE CONFIRMED: eligible lead institution, two-year operating history, ABN, student cohort, matched funding, educators, child safety, rights, delivery plan and community or cultural permissions",
-    "evidence_needed": [
-      "authorised eligible lead institution and consortium roles",
-      "defined primary, secondary or tertiary learner cohort and access need",
-      "original contemporary-music program, educators, rights and child-safety plan",
-      "matched-funding evidence, budget, timeline and repeatable pathway"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "act_now",
-    "action_by": "2026-10-09",
-    "stack_role": "matched student songwriting and recording program layer",
-    "funding_ask": "$5,000-$100,000 in matched funding",
-    "cofunding_plan": "Possible matching sources include confirmed eligible-institution cash, philanthropy, local sponsorship, member or community fundraising and other permitted contributions. The match rules and every proposed contribution must be checked against the guidelines; nothing is secured.",
-    "qualifying_reframe": "Separate one inclusive, education-led songwriting and recording program for a defined learner cohort from the broader music universe and any unrelated publishing, screen or commercial activity.",
-    "next_move": "Immediately confirm whether an eligible lead institution and matched funding already exist. If yes, complete system registration before 10:00am AEDT 12 October and obtain human approval before any application.",
-    "human_roles": [
-      "Authorised lead-institution decision-maker",
-      "Music educator and contemporary songwriter or producer",
-      "Child-safety, rights, access and cultural-authority reviewers where relevant",
-      "Finance reviewer confirming the matched contribution"
-    ],
-    "ai_tasks": [
-      "Draft a one-page student-program outline and outcomes map for human review",
-      "Prepare an applicant, partner, match-funding and evidence gap register",
-      "Build a draft budget and rights checklist without asserting any contribution or permission"
-    ],
-    "readiness_check": "Confirm eligible applicant category, ABN, majority Australian ownership, two-year operating history, education partner, student cohort, access need, contemporary-music scope, educators, rights, child safety, cultural permissions, matched funding, budget, delivery dates and registration timing."
   },
   {
     "match_key": "qld-transforming-manufacturing-round-2-2026--straddie-tip-loop-lab",
@@ -1783,39 +1650,6 @@
     "readiness_check": "Confirm eligible manufacturer, ABN and trading history, lawful feedstock and site, licences, manufacturing process, technical maturity, quotes, product market, jobs and benefits, matched funds, financial capacity, security, delivery plan and authority to apply."
   },
   {
-    "match_key": "creative-australia-acf-boost-2027--sovereign-music-australia",
-    "grant_source_key": "creative-australia-acf-boost-2027",
-    "project_key": "sovereign-music-australia",
-    "fit_status": "clarify",
-    "fit_reason": "A defined artist-led Minjerribah music or rights-literacy project could use ACF Boost to match public donations up to $5,000, but the broad national ecosystem is not one eligible campaign and no artist, applicant, auspice or donor plan is confirmed.",
-    "eligibility_status": "TO BE CONFIRMED: eligible artist, collective or arts organisation, active ABN or auspice, authorised cultural project, rights, campaign plan, budget and delivery capacity",
-    "evidence_needed": [
-      "eligible artist, collective or arts organisation and authorised campaign lead",
-      "active ABN or signed auspice arrangement and matching bank-account responsibility",
-      "one eligible cultural project, balanced budget, campaign target and donor strategy",
-      "rights, privacy, child-safety and First Nations cultural and intellectual property protocol evidence where relevant"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-10-19",
-    "stack_role": "matched seed fundraising and donor-evidence layer",
-    "funding_ask": "Dollar-for-dollar matched funding up to $5,000 plus eligible public donations",
-    "cofunding_plan": "Eligible public donations through the Australian Cultural Fund could be matched up to $5,000 and sit beside later arts grants, earned income, philanthropy or verified sponsor support. Sponsorship, in-kind support, government funding, participant donations, loans and earned income are not matched, and nothing is secured.",
-    "qualifying_reframe": "Choose one artist-led local music or rights-literacy project with a clear public case for support, achievable 2027 delivery and modest fundraising target rather than funding the whole national ecosystem.",
-    "next_move": "Before 19 October, an authorised artist or organisation should confirm eligibility, ABN or auspice, one project, rights, budget, donor network and capacity to run the February-April 2027 campaign.",
-    "human_roles": [
-      "Eligible artist, collective or arts-organisation decision-maker",
-      "Auspice, ABN, bank-account and financial-accountability lead",
-      "Campaign, music-rights, cultural-authority, editorial and donor-stewardship reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare a one-page case for support, balanced budget and campaign evidence checklist",
-      "Draft a modest donor and communications plan for human approval",
-      "Flag missing applicant, auspice, rights, ICIP, privacy, donor and delivery decisions"
-    ],
-    "readiness_check": "Confirm eligible participant, active ABN or auspice, authority, one cultural project, rights, ICIP protocols where relevant, child safety where relevant, balanced budget, campaign target, donor strategy, delivery capacity and acquittal."
-  },
-  {
     "match_key": "frrr-src-prepare-recover-round-31--straddie-capsule-surge-lab",
     "grant_source_key": "frrr-src-prepare-recover-round-31",
     "project_key": "straddie-capsule-surge-lab",
@@ -1849,72 +1683,6 @@
     "readiness_check": "Confirm charitable applicant, local hazard need, disaster-management fit, non-clinical scope, site permission, safety, accessibility, community leadership, budget, quotes, evaluation and one-round SRC choice."
   },
   {
-    "match_key": "redland-community-celebration-2026-27--straddie-headline-open-mic",
-    "grant_source_key": "redland-community-celebration-2026-27",
-    "project_key": "straddie-headline-open-mic",
-    "fit_status": "clarify",
-    "fit_reason": "A welcoming local open-mic celebration may fit the upcoming community round if it is a real participatory event with an eligible organiser, venue, safety and community purpose; the online prompt board alone does not.",
-    "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, ABN, insurance, Redland venue, permits, program, rights, access and non-capital costs",
-    "evidence_needed": [
-      "eligible organiser and authorised application decision",
-      "event date, venue permission, performers, audience and participation plan",
-      "$20 million insurance, safety, access, rights and permit evidence",
-      "eligible budget, quotes, promotion and evaluation"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-10-18",
-    "stack_role": "small participatory music and community celebration layer",
-    "funding_ask": "Up to $15,000 for eligible event delivery",
-    "cofunding_plan": "The grant could combine with unsecured ticket or earned income where eligible, resident or member fundraising, local sponsorship, philanthropy and verified in-kind venue or equipment support. Nothing is secured and capital purchases remain outside the round.",
-    "qualifying_reframe": "Define one accessible, permitted local open-mic celebration with artist, audience and community outcomes rather than funding a general website or platform.",
-    "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the organiser, venue, program, rights, insurance, safety, access and one-event budget before 18 October.",
-    "human_roles": [
-      "Eligible organiser or auspice decision-maker",
-      "Venue, event operations and performer lead",
-      "Community, cultural, access, rights and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare the eligibility, venue, program, rights and budget checklist",
-      "Draft a one-event program and outcomes map for human approval",
-      "Flag invented performers, permissions, support, audience demand or secured contributions"
-    ],
-    "readiness_check": "Confirm applicant, ABN, insurance, venue, permits, artists, rights, safety, accessibility, audience, eligible costs, quotes, budget, evaluation and authority to apply."
-  },
-  {
-    "match_key": "redland-community-celebration-2026-27--straddie-night-market-lab",
-    "grant_source_key": "redland-community-celebration-2026-27",
-    "project_key": "straddie-night-market-lab",
-    "fit_status": "clarify",
-    "fit_reason": "A small community night-market celebration may fit the upcoming round if it centres local participation and community spirit, but commercial market operations, capital equipment and an unapproved site are not an eligible project by themselves.",
-    "eligibility_status": "TO BE CONFIRMED: eligible incorporated applicant or auspice, ABN, insurance, site and permits, stallholder and food-safety controls, program, access and community benefit",
-    "evidence_needed": [
-      "eligible organiser and authorised application decision",
-      "site permission, event date, local program and participant demand",
-      "$20 million insurance, permits, food safety, waste, transport, access and risk plan",
-      "eligible non-capital budget, quotes and community outcomes"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "prepare_next",
-    "action_by": "2026-10-18",
-    "stack_role": "small permitted community celebration pilot",
-    "funding_ask": "Up to $15,000 for eligible event delivery",
-    "cofunding_plan": "The grant could combine with unsecured stall fees or earned income where eligible, resident fundraising, local sponsorship, visitor giving, philanthropy and verified in-kind support. No income or support is secured and capital purchases remain outside the round.",
-    "qualifying_reframe": "Plan one low-risk, accessible community celebration with local stalls and programming rather than a permanent commercial market or infrastructure build.",
-    "next_move": "Verify the council portal is accepting Round 2 applications, then confirm the organiser, site, permits, insurance, stallholder rules, food safety, waste, access and one-event budget before 18 October.",
-    "human_roles": [
-      "Eligible organiser or auspice decision-maker",
-      "Site controller, event operations and stallholder lead",
-      "Council, safety, food, waste, access and financial reviewers"
-    ],
-    "ai_tasks": [
-      "Prepare the organiser, site, permit, safety, stallholder and budget checklist",
-      "Draft a one-event operations and outcomes map for human review",
-      "Flag invented site control, vendors, permissions, demand or secured contributions"
-    ],
-    "readiness_check": "Confirm applicant, ABN, insurance, site control, permits, stallholder rules, food safety, waste, transport, accessibility, program, eligible costs, budget, evaluation and authority to apply."
-  },
-  {
     "match_key": "redland-community-support--health-and-culture",
     "grant_source_key": "redland-community-support",
     "project_key": "health-and-culture",
@@ -1946,39 +1714,6 @@
       "Flag unsupported applicant, site, cultural, participant, safety or co-funding claims"
     ],
     "readiness_check": "Confirm applicant or auspice, authority, one program, local need, participants, venue or site, insurance, safety, accessibility, safeguarding, cultural permissions where relevant, rights, quotes, budget, delivery team and reporting."
-  },
-  {
-    "match_key": "nbn-grants-program-2026--ready-set-co-op-hyperlocal-media",
-    "grant_source_key": "nbn-grants-program-2026",
-    "project_key": "ready-set-co-op-hyperlocal-media",
-    "fit_status": "clarify",
-    "fit_reason": "The digital participation, local media and skills concept aligns with several nbn categories only if an existing eligible regional digital business or organisation is already operating and can evidence how it uses the nbn network.",
-    "eligibility_status": "TO BE CONFIRMED: operating digital business or organisation, regional classification, nbn connection, ABN, matching Australian bank account, category and evidence of impact",
-    "evidence_needed": [
-      "confirmed legal applicant and authority to apply",
-      "grant-specific eligible scope, budget and quotes",
-      "local need, delivery plan and measurable outcomes",
-      "site, cultural, rights, safety or partner permissions where relevant"
-    ],
-    "last_checked": "2026-10-09",
-    "action_priority": "act_now",
-    "action_by": "2026-10-12",
-    "stack_role": "small digital-business proof, equipment or service pilot",
-    "funding_ask": "$15,000 category grant, with a possible additional $20,000 only if selected as the overall Champion",
-    "cofunding_plan": "This small pilot could combine with member or resident fundraising, local sponsor cash or in-kind support, earned service income, visitor giving, philanthropy and later skills or equipment grants. Every layer is unsecured until evidenced.",
-    "qualifying_reframe": "Define one operating regional digital service that uses the nbn network to deliver measurable community media, digital skills or participation outcomes, rather than seeking funds for an unformed co-op concept.",
-    "next_move": "Confirm whether an eligible operating entity, nbn connection, ABN, bank account and real customer or community evidence already exist before selecting one category and drafting by 12 October.",
-    "human_roles": [
-      "Authorised business or organisation decision-maker",
-      "Digital service and community-outcomes lead",
-      "Finance, cultural, privacy and evidence reviewers appropriate to the proposal"
-    ],
-    "ai_tasks": [
-      "Prepare the category comparison and official eligibility checklist",
-      "Draft an impact, budget and evidence worksheet for human review",
-      "Flag unsupported operating-history, connection, ownership, authority or impact claims"
-    ],
-    "readiness_check": "Confirm existing entity, operating history, regional status, nbn connection, ABN, matching bank account, category, service, users, impact evidence, budget, ownership, permissions and delivery capacity."
   },
   {
     "match_key": "stronger-communities-programme-round-10--ballow-road-sand-screen-hub",
@@ -2542,38 +2277,168 @@
     "readiness_check": "Confirm applicant, public benefit, facilitators, evidence provenance, privacy, cultural authority where relevant, accessibility, insurance, budget, delivery and reporting."
   },
   {
-    "match_key": "federal-festivals-australia-round-23-2026--quandamooka-film-festival",
-    "grant_source_key": "federal-festivals-australia-round-23-2026",
-    "project_key": "quandamooka-film-festival",
-    "fit_status": "clarify",
-    "fit_reason": "One participatory arts or screen-culture project within the festival may fit if the delivery location is confirmed as eligible regional or remote and the project invites real community participation. The program does not fund general festival operations or permanent LED capital.",
-    "eligibility_status": "TO BE CONFIRMED: eligible applicant, official remoteness-map result, one defined arts project, cultural authority, community participation, venue, screening and creative rights, budget, insurance and February 2027 or later start",
+    "match_key": "island-partner-watch--i-c-infinity-music-universe",
+    "grant_source_key": "island-partner-watch",
+    "project_key": "i-c-infinity-music-universe",
+    "fit_status": "watch",
+    "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one artist-led local listening, performance or music-making pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+    "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
     "evidence_needed": [
-      "official Festivals Australia eligibility-map result for the delivery address",
-      "confirmed legal applicant and authorised application decision",
-      "one defined participatory arts project with community and audience outcomes",
-      "Quandamooka cultural authority where relevant, ICIP, screening and creative rights, venue, budget, insurance and delivery plan"
+      "authorised lead and bounded public-benefit scope",
+      "lawful fundraising or sponsorship structure and evidenced budget",
+      "rights, cultural authority, site, insurance and safety evidence where relevant",
+      "explicit supporter assent before any involvement is described as agreed"
     ],
-    "last_checked": "2026-10-09",
-    "action_priority": "act_now",
-    "action_by": "2026-10-13",
-    "stack_role": "participatory arts project within the festival",
-    "funding_ask": "No fixed applicant cap is published; request only the evidenced cost of one eligible project",
-    "cofunding_plan": "This project layer could combine with unsecured resident or member fundraising, local sponsorship, philanthropy, ticket or earned income where eligible, ACF fundraising and verified in-kind venue or technical support. Keep any Redland celebration, screen-program and capital costs separate and treat every contribution as unsecured until evidenced.",
-    "qualifying_reframe": "Define one community-participation arts or screen-culture project inside the festival, rather than seeking general festival operations or permanent LED-screen funding.",
-    "next_move": "Immediately check the exact venue address on the official eligibility map, then make a human go or no-go decision on applicant, cultural authority, one participatory project, rights, venue, budget and delivery capacity before 13 October.",
+    "last_checked": "2026-11-01",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "research-only local fundraising and in-kind support",
+    "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+    "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+    "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one artist-led local listening, performance or music-making pilot. Do not treat this as funding for the whole music universe or a mandatory multi-venue tour.",
+    "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
     "human_roles": [
-      "Eligible legal applicant and authorised decision-maker",
-      "Festival producer, participating artists and venue lead",
-      "Quandamooka cultural authority where relevant, ICIP and rights reviewers",
-      "Financial, insurance, accessibility and delivery reviewers"
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
     ],
     "ai_tasks": [
-      "Prepare the official eligibility-map and program-requirements checklist for human review",
-      "Draft a single-project outline, participation plan, budget and evidence register",
-      "Separate festival operations, programming and permanent capital costs",
-      "Flag unsupported applicant, authority, consent, rights, venue, funding or location claims"
+      "Prepare a costed pilot and evidence checklist for human review",
+      "Research possible local support without contacting anyone or implying assent",
+      "Flag unsupported authority, rights, community demand, operating status or funding claims"
     ],
-    "readiness_check": "Confirm applicant eligibility, official regional or remote location result, one project scope, community participation, cultural authority and ICIP where relevant, rights, venue, accessibility, insurance, budget, start date and delivery capacity."
+    "readiness_check": "Confirm artists and rights holders, a bounded pilot, lawful music use, venue permission if needed, access, safety, budget and a realistic community audience. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
+  },
+  {
+    "match_key": "island-partner-watch--ready-set-co-op-hyperlocal-media",
+    "grant_source_key": "island-partner-watch",
+    "project_key": "ready-set-co-op-hyperlocal-media",
+    "fit_status": "watch",
+    "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one small community media or digital-skills pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+    "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
+    "evidence_needed": [
+      "authorised lead and bounded public-benefit scope",
+      "lawful fundraising or sponsorship structure and evidenced budget",
+      "rights, cultural authority, site, insurance and safety evidence where relevant",
+      "explicit supporter assent before any involvement is described as agreed"
+    ],
+    "last_checked": "2026-11-01",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "research-only local fundraising and in-kind support",
+    "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+    "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+    "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one small community media or digital-skills pilot. Do not treat this as evidence of a registered co-op, employer or training organisation.",
+    "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
+    "human_roles": [
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+    ],
+    "ai_tasks": [
+      "Prepare a costed pilot and evidence checklist for human review",
+      "Research possible local support without contacting anyone or implying assent",
+      "Flag unsupported authority, rights, community demand, operating status or funding claims"
+    ],
+    "readiness_check": "Confirm an authorised project lead, lawful operating structure, defined participants, trainer or facilitator, media rights, privacy, equipment access, budget and delivery capacity. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
+  },
+  {
+    "match_key": "island-partner-watch--sovereign-music-australia",
+    "grant_source_key": "island-partner-watch",
+    "project_key": "sovereign-music-australia",
+    "fit_status": "watch",
+    "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one artist-led local music or rights-literacy pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+    "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
+    "evidence_needed": [
+      "authorised lead and bounded public-benefit scope",
+      "lawful fundraising or sponsorship structure and evidenced budget",
+      "rights, cultural authority, site, insurance and safety evidence where relevant",
+      "explicit supporter assent before any involvement is described as agreed"
+    ],
+    "last_checked": "2026-11-01",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "research-only local fundraising and in-kind support",
+    "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+    "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+    "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one artist-led local music or rights-literacy pilot. Do not treat this as funding for the whole proposed national ecosystem.",
+    "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
+    "human_roles": [
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+    ],
+    "ai_tasks": [
+      "Prepare a costed pilot and evidence checklist for human review",
+      "Research possible local support without contacting anyone or implying assent",
+      "Flag unsupported authority, rights, community demand, operating status or funding claims"
+    ],
+    "readiness_check": "Confirm artist and project authority, rights and ICIP where relevant, a bounded public-benefit pilot, budget, donor permissions and realistic delivery capacity. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
+  },
+  {
+    "match_key": "island-partner-watch--straddie-headline-open-mic",
+    "grant_source_key": "island-partner-watch",
+    "project_key": "straddie-headline-open-mic",
+    "fit_status": "watch",
+    "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one optional, permitted local open-mic pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+    "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
+    "evidence_needed": [
+      "authorised lead and bounded public-benefit scope",
+      "lawful fundraising or sponsorship structure and evidenced budget",
+      "rights, cultural authority, site, insurance and safety evidence where relevant",
+      "explicit supporter assent before any involvement is described as agreed"
+    ],
+    "last_checked": "2026-11-01",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "research-only local fundraising and in-kind support",
+    "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+    "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+    "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one optional, permitted local open-mic pilot. Do not treat this as funding for the prompt-board website itself.",
+    "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
+    "human_roles": [
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+    ],
+    "ai_tasks": [
+      "Prepare a costed pilot and evidence checklist for human review",
+      "Research possible local support without contacting anyone or implying assent",
+      "Flag unsupported authority, rights, community demand, operating status or funding claims"
+    ],
+    "readiness_check": "Confirm an authorised organiser, real participant interest, venue permission, artists and performance rights, safety, access, insurance and a costed one-event plan. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
+  },
+  {
+    "match_key": "island-partner-watch--straddie-night-market-lab",
+    "grant_source_key": "island-partner-watch",
+    "project_key": "straddie-night-market-lab",
+    "fit_status": "watch",
+    "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one permitted, small community-market pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+    "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
+    "evidence_needed": [
+      "authorised lead and bounded public-benefit scope",
+      "lawful fundraising or sponsorship structure and evidenced budget",
+      "rights, cultural authority, site, insurance and safety evidence where relevant",
+      "explicit supporter assent before any involvement is described as agreed"
+    ],
+    "last_checked": "2026-11-01",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "research-only local fundraising and in-kind support",
+    "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+    "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+    "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one permitted, small community-market pilot. Do not treat this as funding for a permanent commercial market or infrastructure build.",
+    "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
+    "human_roles": [
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+    ],
+    "ai_tasks": [
+      "Prepare a costed pilot and evidence checklist for human review",
+      "Research possible local support without contacting anyone or implying assent",
+      "Flag unsupported authority, rights, community demand, operating status or funding claims"
+    ],
+    "readiness_check": "Confirm an authorised organiser, site control, permits, stallholder and food-safety rules, waste, transport, accessibility, insurance and a costed one-event plan. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
   }
 ]

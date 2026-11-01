@@ -151,7 +151,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "No organisation has been approached or named. Applicant eligibility, community authority and FPIC must be established by people with the right standing before any application work.",
-    "last_checked": "2026-09-12"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "screen-australia-emerging-gamemakers-2026--straddie-digital-twin-builders--roles",
@@ -207,22 +207,21 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-09-01"
+    "last_checked": "2026-11-01"
   },
   {
-    "pathway_key": "federal-festivals-australia-round-23-2026--quandamooka-film-festival--roles",
-    "grant_source_key": "federal-festivals-australia-round-23-2026",
+    "pathway_key": "redland-signature-events-2026-27--quandamooka-film-festival--roles",
+    "grant_source_key": "redland-signature-events-2026-27",
     "project_key": "quandamooka-film-festival",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible legal applicant and authorised decision-maker",
-      "Festival producer, participating artists and venue lead",
-      "Quandamooka cultural authority where relevant, ICIP and rights reviewers",
-      "Financial, insurance, accessibility and delivery reviewers"
+      "Legal applicant or grant-manager decision-maker",
+      "Rights-owning producer, creative or broadcast lead",
+      "Cultural, editorial and financial reviewers appropriate to the work"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-09-01"
   },
   {
     "pathway_key": "frrr-src-small-vital-round-31--straddie-vitality-network-builders--roles",
@@ -239,18 +238,18 @@
     "last_checked": "2026-09-18"
   },
   {
-    "pathway_key": "redland-community-celebration-2026-27--straddie-night-market-lab--roles",
-    "grant_source_key": "redland-community-celebration-2026-27",
+    "pathway_key": "island-partner-watch--straddie-night-market-lab--roles",
+    "grant_source_key": "island-partner-watch",
     "project_key": "straddie-night-market-lab",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible organiser or auspice decision-maker",
-      "Site controller, event operations and stallholder lead",
-      "Council, safety, food, waste, access and financial reviewers"
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "redland-community-support--grey-area-commons--roles",
@@ -306,7 +305,7 @@
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "redland-community-support--health-and-culture--roles",
@@ -435,18 +434,18 @@
     "last_checked": "2026-09-09"
   },
   {
-    "pathway_key": "nbn-grants-program-2026--ready-set-co-op-hyperlocal-media--roles",
-    "grant_source_key": "nbn-grants-program-2026",
+    "pathway_key": "island-partner-watch--ready-set-co-op-hyperlocal-media--roles",
+    "grant_source_key": "island-partner-watch",
     "project_key": "ready-set-co-op-hyperlocal-media",
     "planning_status": "needs_human_review",
     "roles_needed": [
-      "Authorised business or organisation decision-maker",
-      "Digital service and community-outcomes lead",
-      "Finance, cultural, privacy and evidence reviewers appropriate to the proposal"
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
     ],
     "candidate_partners": [],
     "boundary_note": "The public proposal is not a registered co-op, employer or training organisation. No organisation has been approached or named, and all delivery and partnership claims remain to be confirmed.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "redland-community-support--minjerribah-screen-media-network--roles",
@@ -533,19 +532,18 @@
     "last_checked": "2026-09-30"
   },
   {
-    "pathway_key": "creative-australia-national-songwriting-schools-2026--i-c-infinity-music-universe--roles",
-    "grant_source_key": "creative-australia-national-songwriting-schools-2026",
+    "pathway_key": "island-partner-watch--i-c-infinity-music-universe--roles",
+    "grant_source_key": "island-partner-watch",
     "project_key": "i-c-infinity-music-universe",
     "planning_status": "research_only",
     "roles_needed": [
-      "Authorised lead-institution decision-maker",
-      "Music educator and contemporary songwriter or producer",
-      "Child-safety, rights, access and cultural-authority reviewers where relevant",
-      "Finance reviewer confirming the matched contribution"
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "redland-community-support--gajra-earth--roles",
@@ -660,18 +658,18 @@
     "last_checked": "2026-09-30"
   },
   {
-    "pathway_key": "redland-community-celebration-2026-27--straddie-headline-open-mic--roles",
-    "grant_source_key": "redland-community-celebration-2026-27",
+    "pathway_key": "island-partner-watch--straddie-headline-open-mic--roles",
+    "grant_source_key": "island-partner-watch",
     "project_key": "straddie-headline-open-mic",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible organiser or auspice decision-maker",
-      "Venue, event operations and performer lead",
-      "Community, cultural, access, rights and financial reviewers"
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "redland-community-support--straddie-digital-twin-explainer--roles",
@@ -744,18 +742,18 @@
     "last_checked": "2026-09-30"
   },
   {
-    "pathway_key": "creative-australia-acf-boost-2027--sovereign-music-australia--roles",
-    "grant_source_key": "creative-australia-acf-boost-2027",
+    "pathway_key": "island-partner-watch--sovereign-music-australia--roles",
+    "grant_source_key": "island-partner-watch",
     "project_key": "sovereign-music-australia",
     "planning_status": "research_only",
     "roles_needed": [
-      "Eligible artist, collective or arts-organisation decision-maker",
-      "Auspice, ABN, bank-account and financial-accountability lead",
-      "Campaign, music-rights, cultural-authority, editorial and donor-stewardship reviewers"
+      "Authorised project lead and budget decision-maker",
+      "Relevant artists, facilitators, site or rights holders for the defined pilot",
+      "Safety, accessibility, cultural-authority and financial reviewers where relevant"
     ],
     "candidate_partners": [],
     "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-11-01"
   },
   {
     "pathway_key": "frrr-src-small-vital-round-31--oceania-healthy-de-slop-co-ops--roles",

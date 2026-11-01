@@ -69,6 +69,11 @@ Use `profiles/templates/grant-watchlist-agent.md` as the agent brief for regular
 
 The weekly scan also refreshes the Community Ledger intake, keeps at least one truthful funding pathway for every project and prepares connection roles for human review. It must not contact anyone or imply eligibility, endorsement, authority, site control or assent.
 
+## Funding refresh history
+
+The [1 November 2026 funding snapshot](data/history/2026-11-01-funding-refresh.json) preserves complete superseded grant, timing, project-match and partner-pathway records, with official verification sources and access limitations. Historical records are not active opportunities. Projects without a verified current grant retain clearly labelled, research-only local-support planning where appropriate; no support, eligibility or assent is implied.
+
+
 ## Entity Boundary
 
 The entity catalogue is a public research and discovery layer, not consent, endorsement or a complete official directory. It currently imports the wider Straddie Noticeboard Network supposition layer and adds explicit health, housing, Elders and emergency service lanes for grant matching.
@@ -118,3 +123,4 @@ Each link below reflects an evidenced family, lineage or direct connection. This
 - [straddie-noticeboard-network](https://github.com/auraofintelligence/straddie-noticeboard-network) - [public page](https://auraofintelligence.github.io/straddie-noticeboard-network/) - explicit cross-reference, shared community programme.
 
 <!-- github-organisation:end -->
+
