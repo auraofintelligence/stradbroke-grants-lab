@@ -350,9 +350,9 @@
     {
       "from": "straddie-noticeboard-network",
       "to": "ready-s-e-t-co-op-trust-hub",
-      "note": "The Trust Hub's jobs plan describes training and paid work in local reporting, preparing notices and packaging updates for ferry screens.",
+      "note": "The Trust Hub points to the Noticeboard Network for preparing local notices for screens, kiosks, tablets and phones.",
       "kind": "documented",
-      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/jobs.html#roles-title"
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/ecosystem-links.html"
     },
     {
       "from": "straddie-noticeboard-network",
@@ -560,16 +560,9 @@
     {
       "from": "straddie-noticeboard-network",
       "to": "straddie-capsule-surge-lab",
-      "note": "The capsule proposal includes shared computers to prepare notices, and calls for basic updates to keep working when heavy computing drops out.",
+      "note": "The capsule proposal's source page links to the Noticeboard Network as a reference for publishing notices across screens and devices.",
       "kind": "documented",
-      "source_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/compute.html"
-    },
-    {
-      "from": "straddie-capsule-surge-lab",
-      "to": "aura-disaster-resilience",
-      "note": "Capsule room and computing plans draw on earlier disaster-kiosk work for rehearsal and local fallback. The proposed accommodation would be a later host.",
-      "kind": "documented",
-      "source_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/compute.html"
+      "source_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/sources.html"
     },
     {
       "from": "straddie-noticeboard-network",
@@ -752,13 +745,6 @@
       "note": "The workbench helps you prepare the facts and questions. The engine helps you find the relevant provisions in laws you supply.",
       "kind": "documented",
       "source_url": "https://github.com/auraofintelligence/australian-legal-engine#readme"
-    },
-    {
-      "from": "sovereign-music-australia",
-      "to": "australian-legal-engine",
-      "note": "The music rights guide describes the same method of quoting the law with section numbers and dates. A set of music questions is still in development.",
-      "kind": "documented",
-      "source_url": "https://auraofintelligence.github.io/sovereign-music-australia/rights.html"
     },
     {
       "from": "gajra-earth-claude-build",
