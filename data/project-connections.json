@@ -1,0 +1,883 @@
+{
+  "profiles": [
+    {
+      "project_key": "straddie-noticeboard-network",
+      "group": "shared",
+      "summary": "A working prototype for sharing one checked local update across phones, community screens and kiosks, with a text copy for outages. It can support everyday events, jobs, local stories, environment updates and disaster information. A first trial needs a willing host and a person who can approve and correct notices.",
+      "source_url": "https://auraofintelligence.github.io/straddie-noticeboard-network/pipeline.html"
+    },
+    {
+      "project_key": "aura-disaster-resilience",
+      "group": "shared",
+      "summary": "Design work for a local information and help network that would keep working through outages. The next proposed step is to test a complete service with sample notices, missed connections, handovers and restoration.",
+      "source_url": "https://github.com/auraofintelligence/aura-disaster-resilience/blob/main/wiki/First-review.md"
+    },
+    {
+      "project_key": "quandamooka-country-events-engine",
+      "group": "shared",
+      "summary": "A public calendar and draft tools for planning events, checking permissions and preparing transport, cancellation and after-event notices. Organisers would check and approve notices before passing them to local screens.",
+      "source_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/docs/BUILDER_LINK_MAP.md"
+    },
+    {
+      "project_key": "ready-s-e-t-co-op-trust-hub",
+      "group": "shared",
+      "summary": "A proposal for helping people move from small local tasks into paid work, learning and shared equipment. It maps jobs people could do now in media, digital help and events while the co-op and any premises are being worked out.",
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/jobs.html#roles-title"
+    },
+    {
+      "project_key": "minjerribah-screen-media-network",
+      "group": "shared",
+      "summary": "A proposal for local journalism, training and community displays, with a demo for repeating checked official updates. Its suggested first test is one willing host, one training session, one checked story and one screen.",
+      "source_url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/network/"
+    },
+    {
+      "project_key": "straddie-content-assets-kit",
+      "group": "shared",
+      "summary": "Browser tools build equipment lists, borrowing records and public business profiles. Event crews and community groups can use the same files to see what they can share, what they still need and what can go on a public notice.",
+      "source_url": "https://auraofintelligence.github.io/straddie-content-assets-kit/index.html#family-title"
+    },
+    {
+      "project_key": "straddie-tenders-lab",
+      "group": "shared",
+      "summary": "A public workbench for finding government buying opportunities and checking who can bid, what they need to show and whether partners are required. It gives local teams a separate route to paid work alongside grant research.",
+      "source_url": "https://auraofintelligence.github.io/straddie-tenders-lab/bid-readiness.html"
+    },
+    {
+      "project_key": "straddie-twin-prototype",
+      "group": "shared",
+      "summary": "A working preview combines dated imagery, published panoramas and a simple shuttle-queue exercise. The data page shows which views are measured, assumed or still unknown.",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+    },
+    {
+      "project_key": "community-club-builder-sandy-sports",
+      "group": "local",
+      "summary": "A club setup toolkit with committee roles, child safety, site permissions, handovers and templates. People could use it to organise a small sand-sports programme while the venue and club arrangements are worked out.",
+      "source_url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/pathway.html"
+    },
+    {
+      "project_key": "straddie-shared-table",
+      "group": "local",
+      "summary": "A food-sharing proposal with draft tools for pantry coordination, produce call-outs and safe cook-ups. Households and groups would choose what they share privately and what can go on a public notice.",
+      "source_url": "https://auraofintelligence.github.io/shared-table-initiative/noticeboard.html"
+    },
+    {
+      "project_key": "straddie-maker-space-lab",
+      "group": "local",
+      "summary": "A workshop proposal supported by working forms for tool sharing, repairs and learning. A short repair or reuse trial in a suitable space can test what people need before anyone commits to a permanent workshop.",
+      "source_url": "https://auraofintelligence.github.io/straddie-makerspace-lab/proposal.html#why-title"
+    },
+    {
+      "project_key": "straddie-tip-loop-lab",
+      "group": "local",
+      "summary": "A proposed repair and reuse project with draft forms. Its first test would accept useful items through an agreed handover before disposal, then record what can be repaired, reused or sent to a specialist.",
+      "source_url": "https://auraofintelligence.github.io/straddie-tip-loop-lab/loop.html"
+    },
+    {
+      "project_key": "straddie-night-market-lab",
+      "group": "local",
+      "summary": "The onboarding and site-check tools help hosts assess venue, stalls, food safety and transport. A real market and its public notice still need the host’s approval.",
+      "source_url": "https://auraofintelligence.github.io/straddie-night-market-lab/noticeboard.html"
+    },
+    {
+      "project_key": "ballow-road-sand-screen-hub",
+      "group": "local",
+      "summary": "A proposal for sand sport, outdoor screenings and markets around 10–12 Ballow Road. Its funding plan starts with checking access, recording public updates and testing small activities with the right permissions.",
+      "source_url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/funding.html#funding-title"
+    },
+    {
+      "project_key": "amity-outdoor-fitness-and-safer-access",
+      "group": "local",
+      "summary": "A proposal combines a free outdoor exercise area with safer pedestrian access on Claytons Road. The source pack maps crossing, roadside parking, water and service access questions for Council and residents to check.",
+      "source_url": "https://auraofintelligence.github.io/amity-outdoor-fitness-grant/grant-docs/site-and-traffic-note.html"
+    },
+    {
+      "project_key": "wildlife-rescue-minjerribah",
+      "group": "local",
+      "summary": "An offline prototype lets trained responders log wildlife cases, work across patchy reception and map patterns for prevention. Trained and licensed rescuers still need to review the public advice and contacts.",
+      "source_url": "https://github.com/auraofintelligence/wildlife-rescue-minjerribah/blob/main/README.md#safety-status"
+    },
+    {
+      "project_key": "bees-and-allies",
+      "group": "local",
+      "summary": "A beekeeper-led proposal starts with a conversation and an opt-in register of hive health. A permanent lab is a later option once people agree what is needed and what data can be shared.",
+      "source_url": "https://auraofintelligence.github.io/bees-and-allies/local-hives.html"
+    },
+    {
+      "project_key": "quandamooka-film-festival",
+      "group": "local",
+      "summary": "Draft tools help first-time filmmakers prepare stories and screenings. A small screening or workshop could be tested once cultural guidance, rights, permissions and a host are in place.",
+      "source_url": "https://auraofintelligence.github.io/quandamooka-film-festival/screenings.html"
+    },
+    {
+      "project_key": "film-club-documentary-builders",
+      "group": "local",
+      "summary": "People can use the browser tools now to prepare interviews, record sources, plan screenings and hand over work. The people making the film still make decisions about permissions, production and publication.",
+      "source_url": "https://auraofintelligence.github.io/film-club-documentary-builders/pathways.html"
+    },
+    {
+      "project_key": "dunwich-gumpi-ferry-terminal-lab",
+      "group": "local",
+      "summary": "Community 360 photos and an official source trail let people inspect the ferry gateway and discuss access, waiting areas and the upgrade. It is a working evidence viewer, and new scans and design work would need permission.",
+      "source_url": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/evidence-map.html"
+    },
+    {
+      "project_key": "straddie-clean-energy-superpower",
+      "group": "local",
+      "summary": "Research compares island energy options, starting with what a roof and power-use audit could establish. Larger generation, storage and sharing ideas need separate approvals, costs and testing.",
+      "source_url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/solar.html"
+    },
+    {
+      "project_key": "plfc-community-platform",
+      "group": "local",
+      "summary": "A club website prototype brings public events, committee records, membership and field reporting into one place. The roadmap calls for testing a meeting pack and agreeing what can be public before collecting live field data.",
+      "source_url": "https://auraofintelligence.github.io/plfc-community-platform/roadmap.html"
+    },
+    {
+      "project_key": "plfc-ai-agent-md-forms",
+      "group": "local",
+      "summary": "Working browser forms create editable text files for club meetings, events, memberships, grants and public updates. The files can be reviewed before anyone sends them on.",
+      "source_url": "https://auraofintelligence.github.io/plfc-ai-agent-md-forms/pages/forms.html"
+    },
+    {
+      "project_key": "7-mile-planning-and-administration",
+      "group": "local",
+      "summary": "A planning workbench for a proposed Indigenous-led living, residency and making project. It sets out legal and site checks, documents and tasks for the people who would decide whether and how it proceeds.",
+      "source_url": "https://github.com/auraofintelligence/7-mile-admin-prep/blob/main/README.md#current-planning-positions"
+    },
+    {
+      "project_key": "82-claytons-road-a-gift-for-generations",
+      "group": "local",
+      "summary": "An invitation to discuss a land gift and partnership in Amity for dementia support, aged care and research. It needs a willing landowner, an organisation to take responsibility and an agreed scope.",
+      "source_url": "https://auraofintelligence.github.io/Anglican-Diocese-82-Claytons-Amity/invitation.html"
+    },
+    {
+      "project_key": "minjerribah-site-and-service-ideas",
+      "group": "local",
+      "summary": "A collection of options for housing, care, recovery, residencies and shared spaces. It brings the 7 Mile and Amity proposals into view while each place keeps its own decisions and permissions.",
+      "source_url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/index.html#field"
+    },
+    {
+      "project_key": "ready-set-co-op-cultural-intelligence-node",
+      "group": "local",
+      "summary": "A proposed shared computing rack in Dunwich for work such as media, local modelling and training. Scope, power, hosting, costs and permissions need to be worked through with the people involved.",
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/process.html"
+    },
+    {
+      "project_key": "grain-by-grain",
+      "group": "wider",
+      "summary": "Luke’s long-term vision is a subterranean city beneath Minjerribah, on Quandamooka Country, designed to withstand major disasters. Early steps build local skills and test transport, repair, materials and backup services. The city would need its own feasibility work, consent and approvals.",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain/"
+    },
+    {
+      "project_key": "sandworm-subterranean-systems",
+      "group": "wider",
+      "summary": "The early research looks at transport routes and services such as sewerage on individual Southern Moreton Bay Islands. It also studies whether suitable excavated sand could be used for erosion control, artificial reefs or building materials after testing and approval.",
+      "source_url": "https://auraofintelligence.github.io/sandworm-subterranean-systems/"
+    },
+    {
+      "project_key": "mineral-moonshots",
+      "group": "wider",
+      "summary": "Island mineral-sands research connects material identification and small workshop tests to the longer-term questions about construction and underground resilience.",
+      "source_url": "https://auraofintelligence.github.io/mineral-moonshots/build-path.html"
+    },
+    {
+      "project_key": "grain-by-grain-documentary",
+      "group": "wider",
+      "summary": "A documentary in development about the island’s practical work and its longer-term infrastructure ideas. It has a treatment and production plan. Filming needs people, permissions, evidence and finance.",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain-documentary/production.html"
+    },
+    {
+      "project_key": "civilisation-of-sand",
+      "group": "wider",
+      "summary": "A speculative game and builder uses local materials, repair and ferry research as starting points. Its underground city is a story scenario.",
+      "source_url": "https://auraofintelligence.github.io/civilisation-of-sand/ecosystem-links.html"
+    },
+    {
+      "project_key": "straddie-capsule-surge-lab",
+      "group": "reference",
+      "summary": "A proposal for compact visitor accommodation that could pay for emergency practice, shared rooms and local computing. It has scenario builders and funding models, with the site and operating arrangements still to settle.",
+      "source_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/funding.html"
+    },
+    {
+      "project_key": "bigger-local-picture",
+      "group": "reference",
+      "summary": "A regional guide links projects across Moreton Bay, from Minjerribah work to questions each island may decide for itself. It brings together working tools, proposals and long-term ideas.",
+      "source_url": "https://auraofintelligence.github.io/Archipelago/"
+    },
+    {
+      "project_key": "moreton-bay-community-wealth-and-mutuals",
+      "group": "reference",
+      "summary": "Research and draft forms compare ways a community might share resources, care and risk. The association tool can be used to plan ordinary local work before any decision about a co-op, fund or insurance.",
+      "source_url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/choose-a-path.html"
+    },
+    {
+      "project_key": "moreton-bay-autonomous-mobility",
+      "group": "reference",
+      "summary": "An independent transport proposal starts with useful trips to ferries, work and essential services. The plan calls for a route shortlist and talks with local operators, workers and approval offices before a trial.",
+      "source_url": "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/pilot-plan.html"
+    },
+    {
+      "project_key": "straddie-twins",
+      "group": "reference",
+      "summary": "A guide compares two working island model builds, with the source and status of each piece. One models a wider island world and the other focuses on checking data and keeping passenger and vehicle ferry records separate.",
+      "source_url": "https://auraofintelligence.github.io/straddie-twins/two-builds.html"
+    },
+    {
+      "project_key": "straddie-digital-twin-explainer",
+      "group": "reference",
+      "summary": "The explainer shows how a tested phone-scan process can make a measured drawing and web model. A first measured public-asset scan on the island is still proposed.",
+      "source_url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/scan-to-twin.html"
+    },
+    {
+      "project_key": "straddie-digital-twin-builders",
+      "group": "reference",
+      "summary": "Working text builders help residents describe a place or scene with sources, permission and evidence kept visible. The site includes a ferry-gateway example for planning and discussion.",
+      "source_url": "https://auraofintelligence.github.io/straddie-digital-twin-builders/dunwich-ferry-terminal.html"
+    },
+    {
+      "project_key": "health-and-culture",
+      "group": "reference",
+      "summary": "An earlier pitch for a sand arena and screen events in Amity or Dunwich. The club, venue and major events in the plan are proposals.",
+      "source_url": "https://auraofintelligence.github.io/amity-point/index.html#sports"
+    },
+    {
+      "project_key": "p4a-purple-party-for-australia",
+      "group": "reference",
+      "summary": "A proposed Australian civic movement with builders and policy research. Its public records design points to the Straddie noticeboard as an example.",
+      "source_url": "https://p4a.xyz/pages/architecture.html"
+    },
+    {
+      "project_key": "australian-legal-engine",
+      "group": "reference",
+      "summary": "An offline tool searches legislation files you supply and returns sections with source dates and citations. Users need to check the official register for current law.",
+      "source_url": "https://github.com/auraofintelligence/australian-legal-engine/blob/main/docs/DESIGN.md"
+    },
+    {
+      "project_key": "legal-memory-workbench",
+      "group": "reference",
+      "summary": "Downloadable templates help a community group organise facts, permits and questions before seeking advice. The worked example covers volunteer safety, site permission and handling photos.",
+      "source_url": "https://github.com/auraofintelligence/legal-memory-workbench/blob/main/examples/community-group-example.md"
+    },
+    {
+      "project_key": "sovereign-music-australia",
+      "group": "reference",
+      "summary": "A proposal for fairer deals, clearer releases and live performance formats. Its venue guide gives promoters formats they can consider with local artists.",
+      "source_url": "https://auraofintelligence.github.io/sovereign-music-australia/venue.html"
+    },
+    {
+      "project_key": "gajra-earth-infinity",
+      "group": "reference",
+      "summary": "The browser field kit drafts an invitation and plan for a gathering. The wider build explores cooperation and AI with a world atlas and research watch.",
+      "source_url": "https://auraofintelligence.github.io/GAJRA-earth-infinity/events.html#field-kit-builder"
+    },
+    {
+      "project_key": "gajra-earth-public-hub",
+      "group": "reference",
+      "summary": "A public source map and draft builder help people record contributions and lessons. The event and travel ideas are part of a wider initiative still taking shape.",
+      "source_url": "https://auraofintelligence.github.io/gajra-earth-public-hub/boundaries.html"
+    },
+    {
+      "project_key": "gajra-earth-claude-build",
+      "group": "reference",
+      "summary": "Essays trace open questions about AI and who benefits from it, including local costs such as land, water and power. This is research and public discussion material.",
+      "source_url": "https://auraofintelligence.github.io/gajra-earth-claude-build/where-it-stands.html"
+    },
+    {
+      "project_key": "oceania-healthy-de-slop-co-ops",
+      "group": "reference",
+      "summary": "Regional research gives communities ideas for shared wellbeing or computing spaces. A local co-operative would need its own people, agreement and funding.",
+      "source_url": "https://auraofintelligence.github.io/Oceania-healthy-de-slop-co-ops/co-operative-paths/"
+    },
+    {
+      "project_key": "i-c-infinity-music-universe",
+      "group": "reference",
+      "summary": "A working song catalogue and studio let creators draft storyboards, music video briefs and production notes. The Songs of Straddie catalogue provides local material.",
+      "source_url": "https://auraofintelligence.github.io/i-C-infinity-music-universe/builders/index.html"
+    },
+    {
+      "project_key": "explorer-music-video-lab",
+      "group": "reference",
+      "summary": "Working browser tools let musicians and phone filmmakers draft a storyboard, review shots and plan a release. Artists and hosts still decide rights and permissions for each production.",
+      "source_url": "https://auraofintelligence.github.io/explorer-music-video-lab/workflow.html"
+    },
+    {
+      "project_key": "two-dogs-podcast-planning",
+      "group": "reference",
+      "summary": "A planning bench for Luke and Angel has recording tools, episode sources and draft run sheets. Island media and community work appear as discussion topics.",
+      "source_url": "https://auraofintelligence.github.io/two-dogs-podcast-backend/"
+    },
+    {
+      "project_key": "rough-as-guts",
+      "group": "reference",
+      "summary": "Illustrated examples and a brief builder help writers turn everyday behaviour into practical lessons. The source review records where workplace examples would need specialist checking.",
+      "source_url": "https://github.com/auraofintelligence/rough-as-guts/blob/main/docs/editorial-review-2026-10-28.md"
+    },
+    {
+      "project_key": "grey-area-commons",
+      "group": "reference",
+      "summary": "Adult users can create private drafts and choose what they might share. The public bridge is a separate browser drafting tool.",
+      "source_url": "https://auraofintelligence.github.io/grey-area-commons/noticeboards.html"
+    },
+    {
+      "project_key": "cosmic-nexus",
+      "group": "reference",
+      "summary": "A public atlas and source guide supports research and speculative story development. The film and festival ideas are draft creative invitations.",
+      "source_url": "https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/films.html"
+    }
+  ],
+  "connections": [
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "aura-disaster-resilience",
+      "note": "A checked notice could travel to the kiosks, phones and screens, with a dated copy available when the network is down.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/aura-disaster-resilience/blob/main/wiki/Ecosystem.md"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "quandamooka-country-events-engine",
+      "note": "The event tools use the same notice format for approved event times, transport changes, cancellations and after-event updates.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/docs/BUILDER_LINK_MAP.md"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "minjerribah-screen-media-network",
+      "note": "The media proposal brings local reporting and editing to the screens, with sources and check times visible for emergency updates.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/minjerribah-screen-media-network/network/"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "The Trust Hub's jobs plan describes training and paid work in local reporting, preparing notices and packaging updates for ferry screens.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/jobs.html#roles-title"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "straddie-tip-loop-lab",
+      "note": "The Tip Loop plan uses the noticeboard for repair calls, learning nights and updates on materials and reuse.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-tip-loop-lab/ecosystem.html"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "wildlife-rescue-minjerribah",
+      "note": "The noticeboard has a draft wildlife listing. An authorised publisher could use it for verified wildlife notices or volunteer calls, keeping sensitive locations out.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/straddie-noticeboard-network/entities/wildlife-rescue-minjerribah.html"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "ballow-road-sand-screen-hub",
+      "note": "The hub plan uses the noticeboard for market calls, paid tasks, ferry and bus changes, weather and public corrections.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/funding.html#funding-title"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "straddie-maker-space-lab",
+      "note": "The workshop proposal links the notice builder and suggests using public updates to share what people fix and learn.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-makerspace-lab/network.html#links-title"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "straddie-content-assets-kit",
+      "note": "The kit links its profiles and equipment lists to the noticeboard’s approval and device rules so organisers can prepare public updates without sharing private details.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-content-assets-kit/index.html#family-title"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "community-club-builder-sandy-sports",
+      "note": "The club toolkit points to the noticeboard for dated announcements, corrections and updates that can appear on several screens.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/ecosystem.html#labs"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "straddie-shared-table",
+      "note": "Shared Table plans produce requests, volunteer calls and cook-up notices, with paper copies for offline days and private pantry details kept with the group.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/shared-table-initiative/noticeboard.html"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "plfc-community-platform",
+      "note": "The noticeboard includes a draft junior fishing clinic notice for club screens, with only public details appearing in the example.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/noticeboard/feeds/plfc-junior-clinic.md"
+    },
+    {
+      "from": "community-club-builder-sandy-sports",
+      "to": "ballow-road-sand-screen-hub",
+      "note": "The sports club toolkit uses Ballow Road as a possible site context while the club’s ownership and permissions are worked out separately.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/ecosystem.html#labs"
+    },
+    {
+      "from": "community-club-builder-sandy-sports",
+      "to": "straddie-tenders-lab",
+      "note": "The club builder directs procurement and bid-readiness questions to the Tenders Lab alongside separate grant work.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/community-club-builder-sandy-sports/ecosystem.html#labs"
+    },
+    {
+      "from": "ballow-road-sand-screen-hub",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "The proposed 9 Ballow front desk could support the separate 10–12 Ballow sport and screen idea with training, shared kit and updates.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/site.html"
+    },
+    {
+      "from": "ballow-road-sand-screen-hub",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The hub plan draws on ferry gateway evidence to check access, traffic, parking and public use near Ballow Road.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ballow-road-sand-screen-hub/funding.html#funding-title"
+    },
+    {
+      "from": "quandamooka-country-events-engine",
+      "to": "straddie-content-assets-kit",
+      "note": "The event tools link existing gear lists, sharing rules and equipment requests so organisers can work from the same practical records.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/docs/BUILDER_LINK_MAP.md"
+    },
+    {
+      "from": "quandamooka-country-events-engine",
+      "to": "aura-disaster-resilience",
+      "note": "Checked dates, access and cancellations could reach the information network. An event venue has a separate record from whether it has been activated for an emergency.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/aura-disaster-resilience/blob/main/wiki/Ecosystem.md"
+    },
+    {
+      "from": "minjerribah-screen-media-network",
+      "to": "film-club-documentary-builders",
+      "note": "The media proposal links the builders for source trails, interview preparation and screening runsheets.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/minjerribah-screen-media-network/blob/main/data/site-content.ts#L214-L219"
+    },
+    {
+      "from": "quandamooka-film-festival",
+      "to": "ballow-road-sand-screen-hub",
+      "note": "The festival draft lists Ballow Road for screening and place ideas, subject to a willing host, rights and local permissions.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/quandamooka-film-festival/screenings.html"
+    },
+    {
+      "from": "quandamooka-film-festival",
+      "to": "quandamooka-country-events-engine",
+      "note": "The Events Engine’s venue, permissions and public notice tools could help organise a small screening if permissions and a host are agreed.",
+      "kind": "possible",
+      "source_url": "https://github.com/auraofintelligence/quandamooka-country-events-engine/blob/main/docs/BUILDER_LINK_MAP.md"
+    },
+    {
+      "from": "grain-by-grain-documentary",
+      "to": "film-club-documentary-builders",
+      "note": "The documentary production plan uses those tools to frame the film, check sources, prepare interviews and develop scenes.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain-documentary/production.html"
+    },
+    {
+      "from": "grain-by-grain-documentary",
+      "to": "grain-by-grain",
+      "note": "Grain by Grain supplies the research and story material on the ferry gateway, skills, sand, energy and long-term infrastructure.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/grain-by-grain-documentary/blob/main/docs/repo-source-map.md"
+    },
+    {
+      "from": "82-claytons-road-a-gift-for-generations",
+      "to": "minjerribah-site-and-service-ideas",
+      "note": "The sites workbench records the Amity proposal as a separate location for care, learning and research alongside other site options.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/claytons-road.html"
+    },
+    {
+      "from": "7-mile-planning-and-administration",
+      "to": "minjerribah-site-and-service-ideas",
+      "note": "The sites workbench gives the public view of the 7 Mile proposal. The planning workbench sets out its tasks and decisions in more depth.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/multi-site-Minjerribah-network/seven-mile.html"
+    },
+    {
+      "from": "7-mile-planning-and-administration",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "7 Mile’s plan names Ready S.E.T. as a possible partner for administration, employment and training if the co-op and service agreement are established.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/7-mile-admin-prep/blob/main/README.md#current-planning-positions"
+    },
+    {
+      "from": "7-mile-planning-and-administration",
+      "to": "straddie-maker-space-lab",
+      "note": "The 7 Mile workbench explores shared training, making and repair while keeping each site and operator a separate decision.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/7-mile-admin-prep/document-D41.html"
+    },
+    {
+      "from": "ready-set-co-op-cultural-intelligence-node",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "The rack design draws on the Trust Hub’s proposed equipment sharing, learning and paid-work arrangements for people who would use it.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/projects.html"
+    },
+    {
+      "from": "ready-set-co-op-cultural-intelligence-node",
+      "to": "straddie-maker-space-lab",
+      "note": "The rack proposal includes work such as design files, CAD and workshop training, subject to what local users would actually need.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-cultural-intelligence-node/projects.html"
+    },
+    {
+      "from": "ready-s-e-t-co-op-trust-hub",
+      "to": "straddie-content-assets-kit",
+      "note": "The Trust Hub links the kit’s business profile and equipment records to early work on sharing tools and showing what a group can do.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/ready-set-co-op-trust-hub/trust-ladder.html"
+    },
+    {
+      "from": "grain-by-grain",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The infrastructure research starts with the ferry lab’s public evidence on movement and access before moving into bigger design questions.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain/index.html"
+    },
+    {
+      "from": "aura-disaster-resilience",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "Ferry mapping and access evidence could inform kiosk location and collection points once live updates and permissions are agreed.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/aura-disaster-resilience/blob/main/wiki/Ecosystem.md"
+    },
+    {
+      "from": "straddie-maker-space-lab",
+      "to": "straddie-tip-loop-lab",
+      "note": "Tip Loop would look for reusable items before they become waste, while the workshop would test what can be safely repaired or reused.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-makerspace-lab/network.html#links-title"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The Noticeboard has a draft Dunwich ferry screen for verified transport updates, public events and text-only fallback. The terminal lab supplies an evidence viewer, with no screen installation documented.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/noticeboard/devices/dunwich-ferry-kiosk.md"
+    },
+    {
+      "from": "dunwich-gumpi-ferry-terminal-lab",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "The ferry lab names the Trust Hub as a way to turn public evidence work into local training, media and jobs.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/dunwich-gumpi-ferry-terminal-open-data-lab/#network-title"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "straddie-capsule-surge-lab",
+      "note": "The capsule proposal includes shared computers to prepare notices, and calls for basic updates to keep working when heavy computing drops out.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/compute.html"
+    },
+    {
+      "from": "straddie-capsule-surge-lab",
+      "to": "aura-disaster-resilience",
+      "note": "Capsule room and computing plans draw on earlier disaster-kiosk work for rehearsal and local fallback. The proposed accommodation would be a later host.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-capsule-surge-lab/compute.html"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "amity-outdoor-fitness-and-safer-access",
+      "note": "The Amity delivery plan proposes public updates on quotes, Council responses, uncertainties and help needed for a working bee.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/amity-outdoor-fitness-grant/delivery-models.html"
+    },
+    {
+      "from": "straddie-clean-energy-superpower",
+      "to": "straddie-maker-space-lab",
+      "note": "The energy research names the Maker-Space as a place to propose small materials and clean-heat tests before larger investment.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/network.html"
+    },
+    {
+      "from": "straddie-clean-energy-superpower",
+      "to": "aura-disaster-resilience",
+      "note": "A first roof and power-use audit could help size backup loads for kiosks and emergency phones.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/solar.html"
+    },
+    {
+      "from": "bees-and-allies",
+      "to": "straddie-twins",
+      "note": "The bee-lab proposal calls for a digital model to compare site or mobile options before choosing a building. The Straddie Twins offer a place-modelling reference.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/bees-and-allies/island-lab.html"
+    },
+    {
+      "from": "straddie-noticeboard-network",
+      "to": "bees-and-allies",
+      "note": "The planned Noticeboard could carry an approved workshop or an opt-in call for observations. The beekeeper-owned register would keep site and hive details at the agreed sharing level.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/bees-and-allies/local-hives.html"
+    },
+    {
+      "from": "bigger-local-picture",
+      "to": "moreton-bay-community-wealth-and-mutuals",
+      "note": "Archipelago points to the Wealth and Mutuals research for choices about shared resources, mutual support and who controls local data.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/Archipelago/"
+    },
+    {
+      "from": "bigger-local-picture",
+      "to": "minjerribah-site-and-service-ideas",
+      "note": "The regional guide directs readers to the separate site proposals, including 7 Mile and 82 Claytons Road, so each can be checked on its own terms.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/Archipelago/"
+    },
+    {
+      "from": "moreton-bay-community-wealth-and-mutuals",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "The Wealth and Mutuals source trail uses the Trust Hub front-desk and co-working proposal as a local example, alongside broader choices about association and co-op governance.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/source-trail.html"
+    },
+    {
+      "from": "moreton-bay-community-wealth-and-mutuals",
+      "to": "plfc-ai-agent-md-forms",
+      "note": "The community-structure tools point to the club forms as an example of keeping practical event, meeting and grant work in editable text files.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/moreton-bay-community-wealth-and-mutuals/choose-a-path.html"
+    },
+    {
+      "from": "moreton-bay-autonomous-mobility",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The mobility plan starts with useful first-and-last trips at the ferry. The ferry lab's dated evidence could help compare pickup and waiting areas.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/pilot-plan.html"
+    },
+    {
+      "from": "moreton-bay-autonomous-mobility",
+      "to": "straddie-twin-prototype",
+      "note": "The shuttle-queue exercise can test assumptions about arrivals and available seats before a real transport proposal gathers measured demand and takes approval advice.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+    },
+    {
+      "from": "sandworm-subterranean-systems",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The Sandworm workbench links the ferry evidence map as its practical starting point for public access and movement questions.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/sandworm-subterranean-systems/makerspace.html"
+    },
+    {
+      "from": "sandworm-subterranean-systems",
+      "to": "straddie-maker-space-lab",
+      "note": "Sandworm proposes starting with small workshop tests of locally relevant materials before making any infrastructure claims.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/sandworm-subterranean-systems/makerspace.html"
+    },
+    {
+      "from": "plfc-community-platform",
+      "to": "plfc-ai-agent-md-forms",
+      "note": "A later set of small club forms gives volunteers a way to draft the meetings, event and grant records described in the platform roadmap.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/plfc-ai-agent-md-forms/blob/main/README.md"
+    },
+    {
+      "from": "straddie-twins",
+      "to": "straddie-twin-prototype",
+      "note": "The preview reuses published geography from Living Twin and stored bus stops from Second Island, the two builds explained in the Twins guide.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+    },
+    {
+      "from": "straddie-digital-twin-explainer",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "The explainer sets out the proposed Trust Hub as a home for training and shared tools. The working scan process can already run on an ordinary computer.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/co-op-and-hub.html"
+    },
+    {
+      "from": "straddie-digital-twin-explainer",
+      "to": "minjerribah-screen-media-network",
+      "note": "A scan can measure an outdoor projection surface as a practical option for local screen events. The explainer documents the workflow and a first measured public-asset scan remains proposed.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/straddie-digital-twin-explainer/scan-to-twin.html"
+    },
+    {
+      "from": "straddie-digital-twin-builders",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The builders use the ferry panorama and sources to prepare labelled design scenes that locals can inspect and question.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-digital-twin-builders/dunwich-ferry-terminal.html"
+    },
+    {
+      "from": "straddie-twin-prototype",
+      "to": "ballow-road-sand-screen-hub",
+      "note": "The map already includes published Ballow Road panoramas as dated views people can inspect when discussing the site.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+    },
+    {
+      "from": "straddie-twin-prototype",
+      "to": "quandamooka-country-events-engine",
+      "note": "The preview documents a planned exchange: authorised events and observed counts could inform transport exercises.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+    },
+    {
+      "from": "straddie-twin-prototype",
+      "to": "grain-by-grain",
+      "note": "The preview names the Grain by Grain resilience register as an evidence source for later scenario comparisons.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+    },
+    {
+      "from": "straddie-night-market-lab",
+      "to": "straddie-noticeboard-network",
+      "note": "Once a host confirms a market, the same checked notice can carry dates, access and transport updates to phones and venue screens.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/straddie-night-market-lab/noticeboard.html"
+    },
+    {
+      "from": "straddie-night-market-lab",
+      "to": "quandamooka-country-events-engine",
+      "note": "The intake design draws on the Events Engine to gather venue, host and transport details for market planning.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/straddie-night-market-lab/blob/main/docs/ai-simulation-noticeboard-network.md"
+    },
+    {
+      "from": "straddie-night-market-lab",
+      "to": "ready-s-e-t-co-op-trust-hub",
+      "note": "Market onboarding could help identify small paid jobs, equipment needs and training opportunities for a future co-op.",
+      "kind": "possible",
+      "source_url": "https://auraofintelligence.github.io/straddie-night-market-lab/future-network.html"
+    },
+    {
+      "from": "health-and-culture",
+      "to": "community-club-builder-sandy-sports",
+      "note": "The earlier venue and events pitch is useful background for the separate club-building work.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/amity-point#readme"
+    },
+    {
+      "from": "p4a-purple-party-for-australia",
+      "to": "straddie-noticeboard-network",
+      "note": "The wider civic design links to the Straddie board and public-notice builder as examples of how to share checked updates.",
+      "kind": "documented",
+      "source_url": "https://p4a.xyz/pages/architecture.html"
+    },
+    {
+      "from": "australian-legal-engine",
+      "to": "legal-memory-workbench",
+      "note": "The workbench helps you prepare the facts and questions. The engine helps you find the relevant provisions in laws you supply.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/australian-legal-engine#readme"
+    },
+    {
+      "from": "sovereign-music-australia",
+      "to": "australian-legal-engine",
+      "note": "The music rights guide describes the same method of quoting the law with section numbers and dates. A set of music questions is still in development.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/sovereign-music-australia/rights.html"
+    },
+    {
+      "from": "gajra-earth-claude-build",
+      "to": "gajra-earth-infinity",
+      "note": "The alignment essays are an earlier build in the same family as the later field-kit and atlas site.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/gajra-earth-claude-build#readme"
+    },
+    {
+      "from": "gajra-earth-claude-build",
+      "to": "gajra-earth-public-hub",
+      "note": "The public hub develops a separate contribution and event doorway from the earlier research build.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/gajra-earth-claude-build#readme"
+    },
+    {
+      "from": "mineral-moonshots",
+      "to": "straddie-noticeboard-network",
+      "note": "The research identifies an everyday island noticeboard as a practical step for sharing information across screens and kiosks.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/mineral-moonshots/build-path.html"
+    },
+    {
+      "from": "civilisation-of-sand",
+      "to": "mineral-moonshots",
+      "note": "The game draws on the atlas’s mineral-sand research for its local material examples.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/civilisation-of-sand/ecosystem-links.html"
+    },
+    {
+      "from": "civilisation-of-sand",
+      "to": "straddie-maker-space-lab",
+      "note": "The game’s materials and repair activities draw on the Maker-Space’s practical examples and material records.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/civilisation-of-sand/ecosystem-links.html"
+    },
+    {
+      "from": "civilisation-of-sand",
+      "to": "dunwich-gumpi-ferry-terminal-lab",
+      "note": "The story uses the Ferry Lab’s source trails, maps and simulation work as a starting point for local transport questions.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/civilisation-of-sand/ecosystem-links.html"
+    },
+    {
+      "from": "explorer-music-video-lab",
+      "to": "i-c-infinity-music-universe",
+      "note": "The wider filmmaking tools reuse the song-to-storyboard workflow from the i C. infinity studio.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/explorer-music-video-lab/blob/main/docs/source-notes.md"
+    },
+    {
+      "from": "explorer-music-video-lab",
+      "to": "quandamooka-film-festival",
+      "note": "The Lab borrows the proposed festival’s beginner-friendly film planning and permission checks.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/explorer-music-video-lab/blob/main/docs/source-notes.md"
+    },
+    {
+      "from": "two-dogs-podcast-planning",
+      "to": "straddie-shared-table",
+      "note": "Shared Table’s approach to food, time and help is the subject of a draft Two Dogs episode.",
+      "kind": "documented",
+      "source_url": "https://github.com/auraofintelligence/two-dogs-podcast-backend/blob/main/source-references/source-2026-05-18-shared-table-how-do-we-make-generosity-practical.md"
+    },
+    {
+      "from": "cosmic-nexus",
+      "to": "mineral-moonshots",
+      "note": "The draft film programme uses story briefs from Mineral Moonshots as starting points.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/strange-but-true-cosmic-nexus/films.html"
+    },
+    {
+      "from": "grain-by-grain",
+      "to": "straddie-maker-space-lab",
+      "note": "The maker-space is an early step for learning to identify island materials and practise small, supervised tests.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain/bench.html"
+    },
+    {
+      "from": "grain-by-grain",
+      "to": "straddie-tip-loop-lab",
+      "note": "The repair and reuse idea builds experience sorting and recovering useful materials before tackling bigger industrial questions.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain/reclaim.html"
+    },
+    {
+      "from": "grain-by-grain",
+      "to": "sandworm-subterranean-systems",
+      "note": "Transport and utility feasibility would build tunnelling knowledge. Materials studies could test uses for suitable excavated sand before any larger underground design.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain/tunnels.html"
+    },
+    {
+      "from": "grain-by-grain",
+      "to": "mineral-moonshots",
+      "note": "The projects connect practical tests of local minerals and recovered materials with longer-term construction and resilience research.",
+      "kind": "documented",
+      "source_url": "https://auraofintelligence.github.io/grain-by-grain/materials.html"
+    }
+  ]
+}

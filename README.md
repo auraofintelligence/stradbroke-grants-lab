@@ -33,6 +33,7 @@ http://localhost:4180/
 - `data/entities.json`: public research leads for possible local connections; inclusion is not assent
 - `data/projects.json`: earlier ideas and research, with links to current Ledger records where the relationship is documented
 - `data/ledger-projects.json`: current Strange but True Community Ledger cards selected for Grants Lab, with geography and involvement
+- `data/project-connections.json`: reviews of the work behind the cards, with public sources for each project and its connections
 - `data/project-atlas-scope.json`: research tags and stable keys for existing Ledger projects
 - `data/grant-project-matches.json`: reviewed grant-to-project research matches
 - `data/partner-pathways.json`: generated role plans for individual project and funding pairs, with existing review notes and assent retained by pair
@@ -73,6 +74,8 @@ Use `profiles/templates/grant-watchlist-agent.md` as the agent brief for regular
 Daily checks focus on deadlines and material status changes. The weekly refresh also reviews Community Ledger intake, records evidence-backed matches, and rebuilds the [grant archive](grant-archive.html). Projects without a credible match remain visible for research. Project participation invitations are explained on the [Take part page](participate.html).
 
 Use the [project catalogue](ledger-projects.html) for current project URLs and the [funding desk](grant-watchlist.html) for grant sources. A reviewed match links one `project_key` to one exact `source_key`. Related editions, pilots and hubs have separate records, since applicant requirements and evidence can differ. The Lab's own Community Ledger entry identifies this tool and is excluded from the funding catalogue.
+
+The Projects page starts with shared island tools and practical work on Straddie. The order within each group is the order of the reviewed profiles in `data/project-connections.json`. Long-term Straddie research sits under the long game. Work at other scales stays in the [Community Ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) and can still be reached through older direct links. The home page, funding overview and grant matches focus on local projects. A connection describes a shared tool, documented plan or possible use and carries its own source.
 
 ## Funding refresh history
 

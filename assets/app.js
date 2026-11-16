@@ -85,6 +85,10 @@ function isOpenGrant(grant) {
   return grant.opportunity_type === "grant" && ["open", "rolling"].includes(grant.availability) && !isClosedRound(grant);
 }
 
+function islandProjectKeys(review) {
+  return new Set(review.profiles.filter(({ group }) => group === "shared" || group === "local").map(({ project_key }) => project_key));
+}
+
 function projectHref(key) {
   return `ledger-projects.html#ledger-${key}`;
 }
@@ -300,12 +304,14 @@ function renderProfileKit() {
 }
 
 async function renderHome() {
-  const [grants, projects, matches] = await Promise.all([
+  const [grants, projects, matches, review] = await Promise.all([
     loadJson("data/grants.json"),
     loadJson("data/ledger-projects.json"),
     loadJson("data/grant-project-matches.json"),
+    loadJson("data/project-connections.json"),
   ]);
-  const projectByKey = new Map(projects.map((project) => [project.project_key, project]));
+  const localKeys = islandProjectKeys(review);
+  const projectByKey = new Map(projects.filter((project) => localKeys.has(project.project_key)).map((project) => [project.project_key, project]));
   const openGrants = new Map(grants
     .filter(isOpenGrant)
     .map((grant) => [grant.source_key, grant]));
@@ -475,12 +481,13 @@ function emptyState(container, message) {
 }
 
 async function renderLedgerProjects() {
-  const [projects, matches, grants, archive, earlierProjects] = await Promise.all([
+  const [projects, matches, grants, archive, earlierProjects, projectReview] = await Promise.all([
     loadJson("data/ledger-projects.json"),
     loadJson("data/grant-project-matches.json"),
     loadJson("data/grants.json"),
     loadJson("data/grant-archive.json"),
     loadJson("data/projects.json"),
+    loadJson("data/project-connections.json"),
   ]);
   const grid = document.querySelector("#ledgerProjectGrid");
   const search = document.querySelector("#projectSearch");
@@ -497,7 +504,7 @@ async function renderLedgerProjects() {
       "straddie-tip-loop-lab", "straddie-clean-energy-superpower", "bees-and-allies",
     ]],
     ["Community, co-ops & local participation", [
-      "ready-set-co-op-cultural-intelligence-node", "ready-s-e-t-co-op-trust-hub", "straddie-shared-table",
+      "straddie-noticeboard-network", "ready-set-co-op-cultural-intelligence-node", "ready-s-e-t-co-op-trust-hub", "straddie-shared-table",
       "plfc-community-platform", "plfc-ai-agent-md-forms", "moreton-bay-community-wealth-and-mutuals",
       "7-mile-planning-and-administration", "grey-area-commons",
     ]],
@@ -514,7 +521,7 @@ async function renderLedgerProjects() {
     ]],
     ["Island maps & digital twins", [
       "straddie-twins", "straddie-digital-twin-explainer", "straddie-digital-twin-builders",
-      "straddie-twin-prototype", "straddie-noticeboard-network",
+      "straddie-twin-prototype",
     ]],
     ["Infrastructure, access & local enterprise", [
       "minjerribah-site-and-service-ideas", "grain-by-grain", "straddie-maker-space-lab", "dunwich-gumpi-ferry-terminal-lab",
@@ -531,16 +538,22 @@ async function renderLedgerProjects() {
     ]],
   ];
   const projectsByKey = new Map(projects.map((item) => [item.project_key, item]));
-  const relatedKeys = [
-    ["ready-set-co-op-cultural-intelligence-node", "ready-s-e-t-co-op-trust-hub"],
-    ["gajra-earth-infinity", "gajra-earth-public-hub", "gajra-earth-claude-build"],
-    ["minjerribah-site-and-service-ideas", "7-mile-planning-and-administration", "82-claytons-road-a-gift-for-generations",
-      "straddie-maker-space-lab", "straddie-tip-loop-lab", "straddie-clean-energy-superpower"],
-    ["straddie-twins", "straddie-digital-twin-explainer", "straddie-digital-twin-builders", "straddie-twin-prototype"],
+  const localKeys = islandProjectKeys(projectReview);
+  const projectGroups = [
+    { key: "shared", label: "Shared tools for the island", description: "Ways to share local information, plan events and support more than one project." },
+    { key: "local", label: "Local projects and proposals", description: "Work on Straddie across culture, sport, wellbeing, tourism and the environment." },
+    { key: "pending", label: "New listings to review" },
   ];
-  const relatedByKey = new Map(relatedKeys.flatMap((keys) => keys.map((key) => [key,
-    keys.filter((related) => related !== key).map((related) => projectsByKey.get(related)).filter(Boolean),
-  ])));
+  const profileByKey = new Map(projectReview.profiles.map((profile) => [profile.project_key, profile]));
+  const projectOrder = new Map(projectReview.profiles.map((profile, index) => [profile.project_key, index]));
+  const connectionsByKey = new Map(projects.map((project) => [project.project_key, []]));
+  for (const connection of projectReview.connections) {
+    const from = projectsByKey.get(connection.from);
+    const to = projectsByKey.get(connection.to);
+    if (!from || !to) continue;
+    connectionsByKey.get(from.project_key).push({ ...connection, project: to });
+    connectionsByKey.get(to.project_key).push({ ...connection, project: from });
+  }
   const earlierByKey = new Map();
   earlierProjects.forEach((item) => {
     (item.ledger_project_keys || []).forEach((key) => {
@@ -572,13 +585,13 @@ async function renderLedgerProjects() {
   categoryLabels.filter((label) => projectCategories.has(label))
     .forEach((label) => category.add(new Option(label, label)));
   const fundingFor = (item) => layers.get(item.project_key) || [];
-  const count = document.querySelector("#projectCatalogueSummary");
-  count.innerHTML = `<div><strong>${projects.length}</strong><span>projects</span></div><div><strong>${projects.filter((item) => fundingFor(item).some(isOpenGrant)).length}</strong><span>with an open grant match</span></div>`;
   const nearestDeadline = (item) => Math.min(...fundingFor(item)
-    .filter((grant) => grant.opportunity_type === "grant" && grant.deadline_date)
+    .filter((grant) => isOpenGrant(grant) && grant.deadline_date)
     .map(deadlineTime));
   const renderCard = (item) => {
     const key = item.project_key;
+    const profile = profileByKey.get(key);
+    const local = localKeys.has(key);
     const options = fundingFor(item);
     const open = options.filter(isOpenGrant).length;
     const involvementLabel = item.involvement === "others_involved" ? "Other people involved" : "Open invitation";
@@ -587,39 +600,62 @@ async function renderLedgerProjects() {
       open ? `${open} open grant match${open === 1 ? "" : "es"}` : "",
       other ? `${other} other option${other === 1 ? "" : "s"} to check` : "",
     ].filter(Boolean).join(" · ");
-    const details = grantFacts(null, [
+    const details = local ? grantFacts(null, [
       ["People", involvementLabel],
       ["Funding", fundingLabel || "No funding match reviewed yet"],
-    ]);
-    const tag = key === "straddie-twins" ? "Start here · Digital twins explainer"
-      : key === "mineral-moonshots" ? "Earlier long-timeline research" : item.lane;
-    const related = relatedByKey.get(key) || [];
+    ]) : "";
+    const connections = connectionsByKey.get(key).filter(({ project }) => profileByKey.get(project.project_key)?.group !== "reference");
     const earlier = earlierByKey.get(key) || [];
-    const parts = related.length ? `<details class="archive-projects">
-      <summary>${related.length} related project${related.length === 1 ? "" : "s"}</summary>
-      <ul class="resource-links">${related.map((project) => `<li><a href="${escapeHtml(projectHref(project.project_key))}">${escapeHtml(project.title)}</a></li>`).join("")}</ul>
+    const parts = profile || connections.length ? `<details class="archive-projects project-connections">
+      <summary>${connections.length ? "Connections and sources" : "Project source"}</summary>
+      ${profile ? `<p><a href="${escapeHtml(profile.source_url)}">Read about this work</a></p>` : ""}
+      ${connections.length ? `<ul class="resource-links">${connections.map(({ project, note, kind, source_url: sourceUrl }) => `<li>
+        <a href="${escapeHtml(projectHref(project.project_key))}">${escapeHtml(project.title)}</a>
+        <p>${kind === "possible" ? "<strong>Possible use.</strong> " : ""}${escapeHtml(note)}
+          <a href="${escapeHtml(sourceUrl)}" aria-label="Source for the link to ${escapeHtml(project.title)}">Source</a>
+        </p>
+      </li>`).join("")}</ul>` : ""}
     </details>` : "";
     const provenance = earlier.length ? `<details class="archive-projects">
       <summary>Earlier research</summary>
       <ul class="resource-links">${earlier.map((project) => `<li><a href="projects.html#project-${escapeHtml(slugify(project.title))}">${escapeHtml(project.title)}</a></li>`).join("")}</ul>
     </details>` : "";
-    return card(item.title, tag, item.summary, details, "", [
+    return card(item.title, item.lane, profile?.summary || item.summary, details, "", [
       { label: "Project site", url: item.public_url },
-      { label: options.length ? "Funding options" : "Funding research", url: stackHref(key) },
-      archivedKeys.has(key) ? { label: "Past grant rounds", url: `grant-archive.html?project=${encodeURIComponent(key)}` } : null,
-      { label: "Take part", url: `participate.html?project=${encodeURIComponent(key)}` },
-    ], `ledger-${key}`).replace("</article>", `${parts}${provenance}</article>`);
+      local ? { label: options.length ? "Funding options" : "Funding research", url: stackHref(key) } : null,
+      local && archivedKeys.has(key) ? { label: "Past grant rounds", url: `grant-archive.html?project=${encodeURIComponent(key)}` } : null,
+      local ? { label: "Take part", url: `participate.html?project=${encodeURIComponent(key)}` } : null,
+    ], `ledger-${key}`, key === "straddie-noticeboard-network" ? "noticeboard-card" : "").replace("</article>", `${parts}${provenance}</article>`);
   };
+  let referenceKey = "";
   const draw = () => {
     const query = search.value.trim().toLowerCase();
+    const linkedKey = window.location.hash.replace(/^#ledger-/, "");
+    referenceKey = profileByKey.get(linkedKey)?.group === "reference" ? linkedKey : "";
+    if (referenceKey) {
+      document.querySelector("#projectResults").textContent = "Wider project reference";
+      grid.innerHTML = `<p><a class="text-link" href="ledger-projects.html">Browse Straddie projects</a></p>
+        <div class="data-grid">${renderCard(projectsByKey.get(referenceKey))}</div>`;
+      return;
+    }
     const items = projects.filter((item) => {
+      const group = profileByKey.get(item.project_key)?.group;
+      if (group === "reference" || !group && item.region !== "local") return false;
       const options = fundingFor(item);
       const open = options.filter(isOpenGrant).length;
       const coverageMatches = coverage.value === "All" ||
-        coverage.value === "Open" && open > 0 ||
-        coverage.value === "Other" && options.length > open ||
-        coverage.value === "None" && !options.length;
-      const searchText = [item.title, item.lane, item.summary, regions[item.region], categoryOf(item), ...(item.grant_angles || [])].join(" ").toLowerCase();
+        localKeys.has(item.project_key) && (
+          coverage.value === "Open" && open > 0 ||
+          coverage.value === "Other" && options.length > open ||
+          coverage.value === "None" && !options.length
+        );
+      const searchText = [
+        item.title, item.lane, item.summary, profileByKey.get(item.project_key)?.summary,
+        regions[item.region], categoryOf(item), ...(item.grant_angles || []),
+        ...connectionsByKey.get(item.project_key)
+          .filter(({ project }) => profileByKey.get(project.project_key)?.group !== "reference")
+          .map((link) => `${link.project.title} ${link.note}`),
+      ].join(" ").toLowerCase();
       return (!query || searchText.includes(query)) &&
         (!region.value || item.region === region.value) &&
         (!category.value || categoryOf(item) === category.value) &&
@@ -627,42 +663,64 @@ async function renderLedgerProjects() {
         coverageMatches;
     });
     const byName = (a, b) => a.title.localeCompare(b.title);
+    const byReviewOrder = (a, b) => projectOrder.get(a.project_key) - projectOrder.get(b.project_key) || byName(a, b);
+    const renderGrid = (entries) => `<div class="data-grid">${entries.map(renderCard).join("")}</div>`;
+    const islandItems = items.filter((item) => profileByKey.get(item.project_key)?.group !== "wider");
+    const longGame = items.filter((item) => profileByKey.get(item.project_key)?.group === "wider").sort(byReviewOrder);
     document.querySelector("#projectResults").textContent = `${items.length} project${items.length === 1 ? "" : "s"} found`;
     if (!items.length) {
       grid.innerHTML = '<p class="empty-copy">No projects match. Try another search or clear a filter.</p>';
       return;
     }
-    if (sort.value === "name" || sort.value === "deadline") {
-      items.sort((a, b) => (sort.value === "deadline" ? nearestDeadline(a) - nearestDeadline(b) : 0) || byName(a, b));
-      grid.innerHTML = `<div class="data-grid">${items.map(renderCard).join("")}</div>`;
-      return;
-    }
-    const groups = (sort.value === "category"
-      ? categoryLabels.map((label) => ({
-        label, items: items.filter((item) => categoryOf(item) === label).sort(byCategoryOrder),
+    const filtered = query || region.value || category.value || involvement.value || coverage.value !== "All";
+    const flat = sort.value === "name" || sort.value === "deadline";
+    const groups = (sort.value === "project-links"
+      ? projectGroups.map((group) => ({
+        ...group,
+        items: islandItems.filter((item) => (profileByKey.get(item.project_key)?.group || "pending") === group.key).sort(byReviewOrder),
+      }))
+      : sort.value === "category" ? categoryLabels.map((label) => ({
+        label, items: islandItems.filter((item) => categoryOf(item) === label).sort(byCategoryOrder),
       }))
       : regionOrder.map((key) => ({
-        label: regions[key], items: items.filter((item) => item.region === key).sort(byName),
+        label: regions[key], items: islandItems.filter((item) => item.region === key).sort(byName),
       }))).filter((group) => group.items.length);
-    const photo = document.querySelector("#projectPhoto").innerHTML;
-    grid.innerHTML = groups.map((group, index) => `
-      ${index === 1 ? photo : ""}
-      <section class="project-region-group" aria-label="${escapeHtml(group.label)}">
+    const islandMarkup = flat && islandItems.length
+      ? renderGrid(islandItems.sort((a, b) => (sort.value === "deadline" ? nearestDeadline(a) - nearestDeadline(b) : 0) || byName(a, b)))
+      : groups.map((group) => `<section class="project-region-group" aria-label="${escapeHtml(group.label)}">
         <h3>${escapeHtml(group.label)}</h3>
-        <div class="data-grid">${group.items.map(renderCard).join("")}</div>
+        ${group.description ? `<p>${escapeHtml(group.description)}</p>` : ""}
+        ${renderGrid(group.items)}
       </section>`).join("");
+    const longGameMarkup = longGame.length ? `<details class="project-region-group project-group-fold" id="long-game"${filtered ? " open" : ""}>
+        <summary>The long game for Straddie</summary>
+        <p>The wider aim is a fair go in the age of superintelligence, guided by joyful responsible abundance. On Straddie that starts with people having a say, sharing skills and looking after the island. Grain by Grain follows where those skills and services could lead over time.</p>
+        ${renderGrid(longGame)}
+        <details class="archive-projects">
+          <summary>Wider research behind the long game</summary>
+          <ul class="resource-links">
+            <li><a href="https://auraofintelligence.github.io/extreme-matter-atlas/">Extreme Matter Atlas</a> for materials research.</li>
+            <li><a href="https://auraofintelligence.github.io/virtual-solar-swarm/">Virtual Solar Swarm</a> for mission models.</li>
+            <li><a href="https://auraofintelligence.github.io/micronova-and-excursions/">Micronova and Excursions</a> for a review of evidence and disputed claims about solar and geomagnetic hazards.</li>
+          </ul>
+        </details>
+      </details>` : "";
+    grid.innerHTML = islandMarkup + longGameMarkup;
   };
   search.addEventListener("input", draw);
   [region, category, coverage, involvement, sort].forEach((control) => control.addEventListener("change", draw));
   draw();
   const showLinkedProject = () => {
     const hash = window.location.hash;
+    const key = hash.replace(/^#ledger-/, "");
+    const nextReference = profileByKey.get(key)?.group === "reference" ? key : "";
+    if (referenceKey !== nextReference) draw();
     if (!hash.startsWith("#ledger-")) return;
     if (hash === "#ledger-stradbroke-grants-lab" && !projectsByKey.has("stradbroke-grants-lab")) {
       window.location.replace("resources.html#grants-lab");
       return;
     }
-    if (projectsByKey.has(hash.slice("#ledger-".length)) && !document.getElementById(hash.slice(1))) {
+    if (projectsByKey.has(key) && !document.getElementById(hash.slice(1))) {
       search.value = region.value = category.value = involvement.value = "";
       coverage.value = "All";
       draw();
@@ -673,13 +731,15 @@ async function renderLedgerProjects() {
 }
 
 async function renderGrantActionQueue() {
-  const [matches, projects, grants, pathways, archive] = await Promise.all([
+  const [matches, projects, grants, pathways, archive, review] = await Promise.all([
     loadJson("data/grant-project-matches.json"),
     loadJson("data/ledger-projects.json"),
     loadJson("data/grants.json"),
     loadJson("data/partner-pathways.json"),
     loadJson("data/grant-archive.json"),
+    loadJson("data/project-connections.json"),
   ]);
+  const localKeys = islandProjectKeys(review);
   const projectByKey = new Map(projects.map((item) => [item.project_key, item]));
   const grantByKey = new Map(grants.map((item) => [item.source_key, item]));
   const matchByKey = new Map(matches.map((item) => [item.match_key, item]));
@@ -724,14 +784,15 @@ async function renderGrantActionQueue() {
     if (!matchesByProject.has(item.project_key)) matchesByProject.set(item.project_key, []);
     matchesByProject.get(item.project_key).push(item);
   });
-  const primary = [...matchesByProject.values()].map((items) => items[0]);
+  const localMatches = ordered.filter((item) => localKeys.has(item.project_key));
+  const primary = [...matchesByProject.values()].map((items) => items[0]).filter((item) => localKeys.has(item.project_key));
   const openProjectCount = primary.filter((item) => fundingGroup(item) === "open").length;
 
   if (summary) {
     summary.innerHTML = `
       <div><strong>${openProjectCount}</strong><span>projects with an open grant to check</span></div>
-      <div><strong>${matchesByProject.size}/${projects.length}</strong><span>projects with recorded funding options</span></div>
-      <div><strong>${ordered.length}</strong><span>grant and support options reviewed</span></div>`;
+      <div><strong>${primary.length}/${localKeys.size}</strong><span>island projects with funding options</span></div>
+      <div><strong>${localMatches.length}</strong><span>grant and support options reviewed</span></div>`;
   }
 
   const renderLayer = (item, label, expanded = false) => {
@@ -824,8 +885,8 @@ async function renderGrantActionQueue() {
     overview.hidden = isProject || isMatch;
     if (!overview.hidden) {
       document.title = "Funding by project | Stradbroke Grants Lab";
-      const items = filter === "All" ? primary : sortMatches([...matchesByProject.values()]
-        .map((items) => items.find((item) => fundingGroup(item) === filter)).filter(Boolean));
+      const items = filter === "All" ? primary : sortMatches(primary
+        .map(({ project_key }) => matchesByProject.get(project_key).find((item) => fundingGroup(item) === filter)).filter(Boolean));
       grid.innerHTML = items.map((item) => renderProjectStack(item)).join("") ||
         '<p class="empty-copy">No funding matches in this view. Browse the <a href="ledger-projects.html">project finder</a> or the <a href="grant-archive.html">grant archive</a>.</p>';
       if (wasFocused) window.scrollTo(0, 0);
@@ -849,7 +910,8 @@ async function renderGrantActionQueue() {
     document.title = `${project.title} funding | Stradbroke Grants Lab`;
     const layers = matchesByProject.get(projectKey) || [];
     const selected = layers.find((layer) => layer.match_key === requestedMatchKey);
-    const notice = isMatch && !selected ? "This option is no longer listed for this project." : "";
+    const notice = isMatch && !selected ? "This option is no longer listed for this project."
+      : localKeys.has(projectKey) ? "" : "This is a reference from the wider work. Browse island funding to find options for local projects.";
     if (layers.length) {
       grid.innerHTML = renderProjectStack(selected || layers[0], true, requestedMatchKey, notice);
     } else {
@@ -868,7 +930,7 @@ async function renderGrantActionQueue() {
   };
 
   if (filters) {
-    const available = Object.keys(fundingGroups).filter((key) => ordered.some((item) => fundingGroup(item) === key));
+    const available = Object.keys(fundingGroups).filter((key) => localMatches.some((item) => fundingGroup(item) === key));
     filters.innerHTML = ["All", ...available].map((key, index) => {
       const label = key === "All" ? "All projects" : fundingGroups[key];
       return `<button type="button" class="${index === 0 ? "is-active" : ""}" data-filter="${key}">${label}</button>`;
@@ -983,11 +1045,12 @@ async function renderWindows() {
 }
 
 async function renderWatchlist() {
-  const [data, matches, projects, grants] = await Promise.all([
+  const [data, matches, projects, grants, review] = await Promise.all([
     loadJson("data/grant-watchlist.json"),
     loadJson("data/grant-project-matches.json"),
     loadJson("data/ledger-projects.json"),
     loadJson("data/grants.json"),
+    loadJson("data/project-connections.json"),
   ]);
   const modeOf = (item) => {
     if (isClosedRound(item)) return null;
@@ -998,8 +1061,10 @@ async function renderWatchlist() {
   const projectByKey = new Map(projects.map((item) => [item.project_key, item]));
   const grantByKey = new Map(grants.map((item) => [item.source_key, item]));
   const watchByKey = new Map(data.map((item) => [item.source_key, item]));
+  const localKeys = islandProjectKeys(review);
   const matchesByGrant = new Map();
   activeMatches(matches, projectByKey, grantByKey).forEach((match) => {
+    if (!localKeys.has(match.project_key)) return;
     if (!matchesByGrant.has(match.grant_source_key)) matchesByGrant.set(match.grant_source_key, []);
     matchesByGrant.get(match.grant_source_key).push(match);
   });

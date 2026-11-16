@@ -1124,6 +1124,15 @@ html { scroll-padding-top: 5.5rem; }
 .results-count { color: var(--muted-light); margin: .65rem 0 1.05rem; }
 .project-region-group { margin-block: 1.2rem 2rem; }
 .project-region-group > h3 { color: var(--minjerribah-aqua); font-size: 1.2rem; margin-bottom: .7rem; }
+.project-group-fold > summary {
+  color: var(--minjerribah-aqua);
+  cursor: pointer;
+  font: 800 1.2rem var(--heading);
+  margin-bottom: .8rem;
+}
+.noticeboard-card { border-top: 3px solid var(--minjerribah-aqua); }
+.project-connections li p { margin: .2rem 0 .35rem; }
+.project-connections a { color: var(--minjerribah-aqua); }
 :is(.data-card, .funding-stack-card, .stack-detail, #grants-lab, #fundingViewTabs)[id] { scroll-margin-top: 6rem; }
 :is(.data-card, .funding-stack-card, .stack-detail):target { outline: 2px solid var(--idea-gold); outline-offset: -2px; }
 .data-card { background: var(--panel-quiet); border-color: var(--line-quiet); }

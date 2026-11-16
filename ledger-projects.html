@@ -3,22 +3,21 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Search and sort Minjerribah projects by theme, region, funding deadline and involvement.">
+    <meta name="description" content="Find Minjerribah projects, the tools they share and the funding options for each.">
     <title>Projects | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20261116">
+    <link rel="stylesheet" href="assets/styles.css?v=20261116-connections">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   </head>
   <body data-page="ledger-projects">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
     <main id="main">
-      <section class="site-hero site-hero-compact">
+      <section class="site-hero site-hero-compact home-hero">
         <img src="assets/hero-projects-2026.webp" alt="" width="1680" height="840" fetchpriority="high">
         <div class="site-hero-inner">
-          <p class="eyebrow">Project finder</p>
-          <h1>Find a Straddie project</h1>
-          <p class="hero-lede">See which projects have an open grant match, which have other funding options and where you could help.</p>
-          <div class="hero-actions"><a class="button primary" href="#projectFinder">Browse projects</a><a class="button secondary" href="participate.html">Ways to take part</a></div>
+          <p class="eyebrow">Minjerribah / North Stradbroke Island</p>
+          <h1>Straddie projects</h1>
+          <p class="hero-lede">Start with the tools that help several projects work together. Open a project’s connections to see what they share.</p>
         </div>
         <p class="hero-credit">AI-generated landscape · Inspired by Minjerribah</p>
       </section>
@@ -26,9 +25,8 @@
       <div class="page-shell">
         <section id="projectFinder" aria-labelledby="projectFinderTitle">
           <h2 id="projectFinderTitle">Browse projects</h2>
-          <section class="project-catalogue-summary" id="projectCatalogueSummary" aria-label="Catalogue totals"></section>
           <div class="finder-controls" aria-label="Project search, filters and sorting">
-            <label>Search <input id="projectSearch" type="search" placeholder="Project, category or place"></label>
+            <label>Search <input id="projectSearch" type="search" placeholder="Project, place or something like jobs"></label>
             <label>Funding <select id="ledgerProjectCoverage"><option value="All">All projects</option><option value="Open">Open grant match</option><option value="Other">Other funding to check</option><option value="None">No reviewed funding match</option></select></label>
             <details class="project-more-filters">
               <summary>More filters</summary>
@@ -36,23 +34,24 @@
                 <label>Area <select id="projectRegion"><option value="">All areas</option><option value="local">Minjerribah &amp; nearby</option><option value="australian">Australia</option><option value="global">Global</option></select></label>
                 <label>Category <select id="projectCategory"><option value="">All categories</option></select></label>
                 <label>People <select id="projectInvolvement"><option value="">All projects</option><option value="invitation">Open invitation</option><option value="others_involved">Others involved</option></select></label>
-                <label>Sort by <select id="projectSort"><option value="category">Category</option><option value="name">Project name A–Z</option><option value="local">Area</option><option value="deadline">Nearest grant deadline</option></select></label>
+                <label>Sort by <select id="projectSort"><option value="project-links">Shared tools first</option><option value="category">Category</option><option value="name">Project name A–Z</option><option value="local">Area</option><option value="deadline">Nearest open grant deadline</option></select></label>
               </div>
             </details>
           </div>
           <p id="projectResults" class="results-count" role="status"></p>
           <div id="ledgerProjectGrid"></div>
         </section>
-      <template id="projectPhoto">
-      <figure class="inline-photo">
-        <img src="assets/photo-amity-jetty.webp" alt="Sunset at Amity Point Jetty, North Stradbroke Island" loading="lazy">
-        <figcaption>Sunset at Amity Point Jetty, North Stradbroke Island · <a href="https://commons.wikimedia.org/wiki/File:Amity_Point_Jetty_at_Sunset._North_Stradbroke_Island,_Queensland,_Australia.jpg">Pacificwizard</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> · Cropped for display</figcaption>
-      </figure>
-      </template>
-        <section class="feature-band"><div><p class="eyebrow">Follow the source</p><h2>See the wider project network</h2><p>The grants catalogue prioritises Minjerribah and nearby ideas. Explore the source ledger and earlier work for more context.</p></div><div class="stacked-links"><a class="text-link" href="https://auraofintelligence.github.io/strange-but-true/community-ledger.html">Strange but True Community Ledger →</a><a class="text-link" href="projects.html">Earlier project ideas →</a></div></section>
+        <section class="feature-band">
+          <div><h2>Where to read more</h2><p>The Community Ledger lists the wider work. The Redlands project notes explain how some proposals might fit together.</p></div>
+          <div class="stacked-links">
+            <a class="text-link" href="https://auraofintelligence.github.io/strange-but-true/community-ledger.html">Strange but True Community Ledger →</a>
+            <a class="text-link" href="https://auraofintelligence.github.io/redlands-mayoral-campaign/projects.html">Redlands project notes →</a>
+            <a class="text-link" href="projects.html">Earlier project ideas →</a>
+          </div>
+        </section>
       </div>
     </main>
     <footer class="site-footer"></footer>
-    <script src="assets/app.js?v=20261116" defer></script>
+    <script src="assets/app.js?v=20261116-connections" defer></script>
   </body>
 </html>

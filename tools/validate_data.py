@@ -37,6 +37,45 @@ def indexed(records, field, label):
     return {item[field]: item for item in records}
 
 
+def validate_project_connections(project_keys):
+    relative = "data/project-connections.json"
+    try:
+        review = json.loads((ROOT / relative).read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        fail(f"could not read {relative}: {error}")
+    if not isinstance(review, dict):
+        fail(f"{relative} must contain profiles and connections")
+
+    for section, fields in (
+        ("profiles", ("project_key", "group", "summary", "source_url")),
+        ("connections", ("from", "to", "kind", "note", "source_url")),
+    ):
+        records = review.get(section)
+        if not isinstance(records, list):
+            fail(f"{relative} {section} must be a list")
+        for index, record in enumerate(records, 1):
+            if not isinstance(record, dict) or any(
+                not isinstance(record.get(field), str) or not record[field].strip() for field in fields
+            ):
+                fail(f"{relative} {section} item {index} has incomplete fields")
+            source = urlsplit(record["source_url"])
+            if source.scheme != "https" or not source.netloc:
+                fail(f"{relative} {section} item {index} needs a public HTTPS source")
+
+    profiles = indexed(review["profiles"], "project_key", relative)
+    for key, record in profiles.items():
+        if key not in project_keys or record["group"] not in {"shared", "local", "wider", "reference"}:
+            fail(f"{relative} has an unknown project or group: {key}")
+    pairs = set()
+    for record in review["connections"]:
+        pair = frozenset((record["from"], record["to"]))
+        if len(pair) != 2 or not pair <= profiles.keys() or pair in pairs:
+            fail(f"{relative} has an unknown, repeated or self-linked project pair: {record['from']} / {record['to']}")
+        if record["kind"] not in {"documented", "possible"}:
+            fail(f"{relative} has an unknown connection type: {record['kind']}")
+        pairs.add(pair)
+
+
 def main():
     for relative, fields in REQUIRED.items():
         path = ROOT / relative
@@ -134,6 +173,7 @@ def main():
             fail(f"Project Atlas scope grant_angles must be a non-empty list: {item['atlas_name']}")
     projects_by_key = indexed(ledger_projects, "project_key", "data/ledger-projects.json")
     project_key_set = projects_by_key.keys()
+    validate_project_connections(project_key_set)
     project_urls = set()
     for item in ledger_projects:
         if item["source_type"] != "community_ledger":
