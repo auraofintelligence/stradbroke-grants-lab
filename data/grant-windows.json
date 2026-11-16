@@ -13,8 +13,8 @@
     "title": "Redland Council Community Support Grant Round 3",
     "window_type": "Future round",
     "notify": "Redland-based not-for-profits, community groups, environment groups, wildlife carers, clubs and local project leads.",
-    "tip": "Up to $20,000. Round 3 opens 8 February and closes 28 February 2027.",
-    "action": "Confirm the applicant or auspice, local need, $20 million insurance, quotes, project plan, risk assessment, budget and reporting capacity before 8 February.",
+    "tip": "Council lists 8–28 February 2027 for Round 3, with up to $20,000 available. Dates are subject to change.",
+    "action": "Confirm applicant eligibility, project scope, insurance, quotes and permissions. Check Council for the official submission time and application link when the round opens.",
     "source": "Redland City Council Community Support Grant"
   },
   {
@@ -30,9 +30,9 @@
     "source_key": "redland-radf",
     "title": "Redland RADF Round 1",
     "window_type": "Closed round",
-    "notify": "No active applicant notification. Round 1 is retained only as checked history and future-round preparation.",
-    "tip": "Round 1 offered up to $10,000 and closed 28 September 2026. No later round is currently published.",
-    "action": "Do not apply to the closed round. Keep applicant or auspice, artistic outcome, community benefit, budget, artist evidence, rights and cultural permissions ready for a future official round.",
+    "notify": "Redland arts and culture applicants preparing for Round 2.",
+    "tip": "Round 1 closed 28 September 2026. Council lists 16 March to 12 April 2027 for Round 2, with up to $10,000 available.",
+    "action": "Check Council for Round 2 guidelines and submission details. Prepare applicant or auspice, community benefit, budget, creative evidence and any cultural permissions.",
     "source": "Redland City Council Regional Arts Development Fund"
   },
   {
@@ -47,10 +47,10 @@
   {
     "source_key": "multicultural-infrastructure",
     "title": "Multicultural infrastructure Batch 2",
-    "window_type": "Open grant",
-    "notify": "Multicultural organisations, community facilities, arts spaces, community hubs and partnership projects with not-for-profit eligibility.",
-    "tip": "Batch 2 is open until 4:00pm AEDT 12 November 2026. Streams range from $20,000 to $1.5 million and require co-contribution and land ownership or approval evidence.",
-    "action": "Only shortlist if the applicant is eligible, not-for-profit, infrastructure-ready and has landowner evidence plus co-contribution capacity.",
+    "window_type": "Closed round",
+    "notify": "Applicants awaiting assessment of their Batch 2 submissions.",
+    "tip": "Batch 2 closed at 4:00pm AEDT 12 November 2026 (3:00pm AEST in Brisbane). Home Affairs is assessing applications.",
+    "action": "Follow Home Affairs or GrantConnect for outcomes and any new application round.",
     "source": "Australian Government Department of Home Affairs"
   },
   {
@@ -310,7 +310,7 @@
     "title": "Screen Queensland Development Program",
     "window_type": "Future round",
     "notify": "Eligible Queensland-resident key creatives or Queensland screen businesses under the program rules, with chain of title, team capability and appropriate First Nations cultural safety and ICIP where relevant.",
-    "tip": "The Development Program is normally rolling, but Screen Queensland has paused applications during its portal transition and says available programs will reopen on 7 December 2026.",
+    "tip": "Screen Queensland paused applications during its portal transition. Its new portal opens 7 December 2026 for available programs.",
     "action": "Prepare eligibility, rights, team and development materials now, then confirm the program is actually available in the new portal from 7 December before applying.",
     "source": "Screen Queensland"
   },
@@ -415,10 +415,10 @@
   },
   {
     "source_key": "screen-australia-first-nations-documentary-development",
-    "title": "First Nations Documentary Development future round",
-    "window_type": "Open grant",
+    "title": "First Nations Documentary Development next cutoff",
+    "window_type": "Future round",
     "notify": "Genuinely First Nations-led documentary key creatives and eligible applicant structures.",
-    "tip": "Up to $30,000 for feature or series development; up to $20,000 for a one-hour television documentary or online documentary.. The next deadline is 5:00pm AEDT 14 January 2027.",
+    "tip": "Up to $30,000 for feature or series development and up to $20,000 for one-hour television or online documentaries. Next published cutoff 5:00pm AEDT on 14 January 2027.",
     "action": "Confirm First Nations creative leadership, applicant credits, authority, ICIP, rights, chain of title, team and development materials before proceeding.",
     "source": "Screen Australia"
   },
@@ -460,11 +460,11 @@
   },
   {
     "source_key": "redland-community-celebration-2026-27",
-    "title": "Redland Community Celebration Grant Round 3",
-    "window_type": "Future round",
+    "title": "Redland Community Celebration Grant",
+    "window_type": "Source watch",
     "notify": "Eligible Redland City not-for-profits and auspiced community groups.",
-    "tip": "Up to $15,000. Round 3 opens 22 February and closes 14 March 2027.",
-    "action": "Prepare one local celebration program, applicant evidence, cultural permissions where relevant, venue, insurance, risk plan and budget before 22 February.",
+    "tip": "Round 2 closed 18 October 2026. Round 3: 22 February–14 March 2027; Round 4: 19 April–9 May 2027. Confirm the later round guidelines before preparing a new application. Funding: Up to $15,000.",
+    "action": "Do not prepare an application for this closed round. Retain its history and verify any separate future round, eligibility and authority before making a new funding plan.",
     "source": "Redland City Council"
   },
   {
@@ -490,7 +490,7 @@
     "title": "FRRR Small & Vital Round 31",
     "window_type": "Open grant",
     "notify": "Eligible charitable not-for-profits or auspiced groups serving a small rural, regional or remote community.",
-    "tip": "Up to $10,000; targeted Larger Leverage up to $50,000 only where its current focus applies. Round 31 opens 18 September and closes 3 December 2026; no closing time is published on the current page.",
+    "tip": "Round 31 closes at 5:00pm AEDT 3 December 2026 (4:00pm AEST in Brisbane). Up to $10,000 is available, with up to $50,000 for projects within the targeted Larger Leverage focus.",
     "action": "Select only one SRC stream, confirm charitable purpose and shape one practical locally led project.",
     "source": "FRRR"
   },
@@ -499,7 +499,7 @@
     "title": "FRRR Prepare & Recover Round 31",
     "window_type": "Open grant",
     "notify": "Eligible rural and regional community groups with a genuine climate-preparedness or medium- to long-term disaster-recovery project.",
-    "tip": "Up to $25,000. Round 31 opens 18 September and closes 3 December 2026; no closing time is published on the current page.",
+    "tip": "Round 31 closes at 5:00pm AEDT 3 December 2026 (4:00pm AEST in Brisbane). Grants are up to $25,000.",
     "action": "Select only one SRC stream and evidence the specific hazard, community leadership, preparedness or recovery outcome and deliverable budget.",
     "source": "FRRR"
   },
@@ -551,10 +551,10 @@
   {
     "source_key": "creative-australia-four-year-organisations-2029-32",
     "title": "Creative Australia Four Year Investment pre-application",
-    "window_type": "Source watch",
+    "window_type": "Closed round",
     "notify": "Mature legally constituted small-to-medium arts and cultural organisations with a strong artistic record and four-year vision.",
-    "tip": "Creative Australia Four Year Investment for Organisations 2029–32 closed after its published 2026-10-27 deadline.",
-    "action": "Monitor the official source for a confirmed future round. Do not treat the expired round as open.",
+    "tip": "The recorded deadline has passed. The archive preserves the previous round details.",
+    "action": "Check the official source for a separately announced future round.",
     "source": "Creative Australia"
   },
   {
@@ -794,10 +794,10 @@
   {
     "source_key": "arena-launchpad-startup-round-2026",
     "title": "ARENA Launchpad Startup Funding Round 2026",
-    "window_type": "Source watch",
+    "window_type": "Closed round",
     "notify": "Eligible founders and early-stage clean-energy startups with a real pre-commercial technology, capable team and commercialisation pathway.",
-    "tip": "ARENA Launchpad Program - Startup Funding Round 2026 closed after its published 2026-10-28 deadline.",
-    "action": "Monitor the official source for a confirmed future round. Do not treat the expired round as open.",
+    "tip": "The Startup Funding Round closed at 4:00pm AEDT 28 October 2026.",
+    "action": "Check the official source for a separately announced future round.",
     "source": "Australian Renewable Energy Agency"
   },
   {
@@ -830,28 +830,28 @@
   {
     "source_key": "screen-australia-first-nations-feature-development-oct-2026",
     "title": "First Nations Feature Development - October 2026",
-    "window_type": "Open grant",
+    "window_type": "Closed round",
     "notify": "Eligible experienced Aboriginal and Torres Strait Islander feature writers, directors and producers with genuine authorship and control.",
-    "tip": "Up to $30,000, or up to $45,000 if a producer is attached, other than in exceptional circumstances.. The next deadline is 5:00pm AEDT 14 January 2027.",
-    "action": "Confirm First Nations creative leadership, applicant credits, authority, ICIP, rights, chain of title, team and development materials before proceeding.",
+    "tip": "The recorded deadline has passed. The archive preserves the previous round details.",
+    "action": "Check the official source for a separately announced future round.",
     "source": "Screen Australia"
   },
   {
     "source_key": "screen-australia-first-nations-tv-drama-development-oct-2026",
     "title": "First Nations TV Drama Development - October 2026",
-    "window_type": "Open grant",
+    "window_type": "Closed round",
     "notify": "Eligible experienced Aboriginal and Torres Strait Islander television drama writers, directors and producers with genuine authorship and control.",
-    "tip": "One-offs up to $30,000, or up to $45,000 with a producer attached; series up to $65,000, other than in exceptional circumstances.. The next deadline is 5:00pm AEDT 14 January 2027.",
-    "action": "Confirm First Nations creative leadership, applicant credits, authority, ICIP, rights, chain of title, team and development materials before proceeding.",
+    "tip": "The recorded deadline has passed. The archive preserves the previous round details.",
+    "action": "Check the official source for a separately announced future round.",
     "source": "Screen Australia"
   },
   {
     "source_key": "frrr-rebuilding-futures-oct-2026",
     "title": "FRRR Rebuilding Futures Round 7",
-    "window_type": "Closing soon",
-    "notify": "Eligible rural and regional not-for-profits with a community-led recovery, prevention or preparedness project tied to a qualifying declared disaster.",
-    "tip": "Round 7 closes 5:00pm AEDT 26 November 2026. The official public page does not publish a new per-applicant amount; the previous round offered up to $25,000.",
-    "action": "Confirm the applicant, eligible location and relevant declared disaster before preparing one practical community-led recovery or resilience project.",
+    "window_type": "Open grant",
+    "notify": "Eligible not-for-profits or supported groups working in published Queensland localities affected by Cyclone Alfred or Western Queensland flooding in 2025.",
+    "tip": "Round 7 offers grants up to $25,000 and closes at 5:00pm AEDT 26 November 2026 (4:00pm AEST in Brisbane). Redland City is outside FRRR's published eligible area list.",
+    "action": "Verify the locality, declared disaster and eligible legal applicant before preparing an application. Refer unlisted disaster-affected areas to FRRR for confirmation.",
     "source": "Foundation for Rural & Regional Renewal"
   },
   {
@@ -875,10 +875,10 @@
   {
     "source_key": "screen-australia-future-leaders-bitsummit-2027",
     "title": "Screen Australia Future Leaders Delegation - BitSummit 2027",
-    "window_type": "Source watch",
-    "notify": "Eligible early-to-mid career Australian gamemakers with at least one publicly released game and another game ready to exhibit.",
-    "tip": "Screen Australia Future Leaders Delegation - BitSummit 2027 closed after its published 2026-11-05 deadline.",
-    "action": "Monitor the official source for a confirmed future round. Do not treat the expired round as open.",
+    "window_type": "Closed round",
+    "notify": "Gamemakers monitoring outcomes or any future delegation intake.",
+    "tip": "Applications closed at 5:00pm AEDT 5 November 2026 (4:00pm AEST in Brisbane). The round offered $6,000 per successful delegate for eligible costs.",
+    "action": "Check Screen Australia's funding page for future delegation opportunities.",
     "source": "Screen Australia"
   },
   {
@@ -904,26 +904,26 @@
     "title": "National Regional Roads Australia Mobile Program",
     "window_type": "Future round",
     "notify": "Governments, road authorities and telecommunications delivery entities preparing eligible regional-road mobile coverage projects once final applicant rules are published.",
-    "tip": "$30 million is the national program envelope, not an applicant amount. The official page says the program is expected to open in Q3 2026, but final dates and guidelines are not yet published.",
-    "action": "Do not treat this as open. Confirm whether an island road corridor is eligible, then identify the government or registered lead, coverage evidence, carriers, sites, power, backhaul, approvals, delivery model and shovel-ready scope.",
+    "tip": "The department is reviewing feedback on draft guidelines. Timing and applicant funding remain pending. The $30 million figure covers the national program.",
+    "action": "Monitor the department for the final guidelines and dates. Confirm any island road corridor, lead applicant and delivery partner against the published eligibility criteria.",
     "source": "Australian Government Department of Infrastructure"
   },
   {
     "source_key": "qld-ses-support-grant-2027-28",
     "title": "Queensland SES Support Grant 2027-28",
-    "window_type": "Closing soon",
-    "notify": "Queensland local governments and recognised SES groups or units with an evidenced facility or vehicle need.",
-    "tip": "Up to $150,000 for facility projects or $75,000 for vehicle projects. Applications close 11:59pm AEST 25 November 2026.",
-    "action": "Confirm the council applicant, SES authority, operational need, asset or site control, quotes, approvals, budget, insurance, cashflow and ongoing maintenance immediately.",
+    "window_type": "Open grant",
+    "notify": "Queensland local governments supporting recognised SES groups or units.",
+    "tip": "Applications close at 11:59pm AEST 25 November 2026. Facilities can receive up to $150,000 and vehicles up to $75,000, paid after project completion.",
+    "action": "Check the guidelines with the responsible council and SES unit. Confirm the operational need, asset or site control, approvals, quotes, budget and ongoing maintenance.",
     "source": "Queensland Government State Emergency Service"
   },
   {
     "source_key": "creative-australia-contemporary-music-touring-oct-2026",
-    "title": "Creative Australia Contemporary Music Touring Program - March 2027",
-    "window_type": "Future round",
+    "title": "Creative Australia Contemporary Music Touring Program - October 2026",
+    "window_type": "Closed round",
     "notify": "Australian musicians, performers, managers, agents, groups, organisations and music networks with one eligible tour of original Australian contemporary music.",
-    "tip": "$5,000-$50,000 depending on the eligible tour route. The next published closing date is 3:00pm AEDT 2 March 2027.",
-    "action": "Confirm one tour with at least three venues or locations outside the performer's hometown, original Australian music, applicant eligibility, route, venue evidence, budget, rights and insurance.",
+    "tip": "The recorded deadline has passed. The archive preserves the previous round details.",
+    "action": "Check the official source for a separately announced future round.",
     "source": "Creative Australia"
   },
   {
@@ -945,6 +945,15 @@
     "source": "Australian Government Office for the Arts"
   },
   {
+    "source_key": "redland-community-celebration-2026-27-round-3",
+    "title": "Redland Community Celebration Grant, Round 3",
+    "window_type": "Future round",
+    "notify": "Community organisations planning a small public celebration in Redland City",
+    "tip": "Council lists up to $15,000 for local community celebrations. The round is scheduled for 22 February to 14 March 2027.",
+    "action": "Confirm cultural permissions, eligible applicant, public event scope, insurance and Council event approvals before drafting.",
+    "source": "Redland City Council Community Celebration Grant"
+  },
+  {
     "source_key": "qld-active-transport-grants-2027-28",
     "title": "Queensland Active Transport Grants Program 2027-28",
     "window_type": "Closing soon",
@@ -956,10 +965,10 @@
   {
     "source_key": "qld-tourism-ai-adoption-2026",
     "title": "Queensland Tourism AI Adoption Program",
-    "window_type": "Closing soon",
+    "window_type": "Closed round",
     "notify": "Existing Queensland tourism operators with a live ATDW profile and current Best of Queensland Experience recognition.",
-    "tip": "This is a subsidised digital adoption and mentoring program, not a cash grant. Applications close 10 November 2026.",
-    "action": "Confirm both eligibility gates and the operator's human-approved digital priorities before applying. Do not create or claim a tourism partnership.",
+    "tip": "The subsidised mentoring and digital adoption intake closed on 10 November 2026.",
+    "action": "Check the official program page for the next announced intake.",
     "source": "business.gov.au"
   },
   {
@@ -979,5 +988,32 @@
     "tip": "Travel, accommodation, per diems, a participant fee and professional development support are provided; no single cash amount is published. Closes 5:00pm AEDT 26 November 2026.",
     "action": "Confirm applicant identity and credits, narrative fit, rights and chain of title, passport and visa readiness, cultural authority and application materials before proceeding.",
     "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-first-nations-feature-development-jan-2027",
+    "title": "Screen Australia First Nations Feature Development - January 2027",
+    "window_type": "Future round",
+    "notify": "Eligible experienced Aboriginal and Torres Strait Islander feature writers, directors and producers with genuine authorship and control.",
+    "tip": "Up to $30,000, or up to $45,000 if a producer is attached, other than in exceptional circumstances. The next published cutoff is 5:00pm AEDT 14 January 2027.",
+    "action": "Confirm First Nations creative leadership, applicant credits, authority, ICIP, rights, chain of title, team and development materials before proceeding.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "screen-australia-first-nations-tv-drama-development-jan-2027",
+    "title": "Screen Australia First Nations TV Drama Development - January 2027",
+    "window_type": "Future round",
+    "notify": "Eligible experienced Aboriginal and Torres Strait Islander television drama writers, directors and producers with genuine authorship and control.",
+    "tip": "One-offs up to $30,000, or up to $45,000 with a producer attached; series up to $65,000, other than in exceptional circumstances. The next published cutoff is 5:00pm AEDT 14 January 2027.",
+    "action": "Confirm First Nations creative leadership, applicant credits, authority, ICIP, rights, chain of title, team and development materials before proceeding.",
+    "source": "Screen Australia"
+  },
+  {
+    "source_key": "creative-australia-contemporary-music-touring-mar-2027",
+    "title": "Creative Australia Contemporary Music Touring Program - March 2027",
+    "window_type": "Future round",
+    "notify": "Australian musicians, performers, managers, agents, groups, organisations and music networks with one eligible tour of original Australian contemporary music.",
+    "tip": "$5,000-$50,000 depending on the eligible tour route. The next published closing date is 2 March 2027.",
+    "action": "Confirm one tour with at least three venues or locations outside the performer's hometown, original Australian music, applicant eligibility, route, venue evidence, budget, rights and insurance.",
+    "source": "Creative Australia"
   }
 ]

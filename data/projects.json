@@ -4,8 +4,7 @@
     "domain": "Sport and wellbeing",
     "summary": "Local sport, outdoor cinema, youth, visitors, wellbeing and place-based activity.",
     "grant_angles": ["sport participation", "youth wellbeing", "community events", "healthy communities"],
-    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html?project=health-and-culture",
-    "github_repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
+    "ledger_project_keys": ["health-and-culture"]
   },
   {
     "title": "Disaster Resilience Kiosks",
@@ -13,15 +12,15 @@
     "summary": "Offline-first community information, emergency coordination and local digital access points.",
     "grant_angles": ["disaster resilience", "digital inclusion", "community infrastructure", "emergency readiness"],
     "public_page": "https://auraofintelligence.github.io/straddie-disaster-kiosks/",
-    "github_repo": "https://github.com/auraofintelligence/straddie-disaster-kiosks"
+    "github_repo": "https://github.com/auraofintelligence/straddie-disaster-kiosks",
+    "ledger_project_keys": ["aura-disaster-resilience"]
   },
   {
     "title": "Bigger Local Picture",
     "domain": "Regional planning",
     "summary": "An island-and-region frame for linking local projects, futures, stories and systems.",
     "grant_angles": ["regional development", "research", "community planning", "stakeholder engagement"],
-    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html?project=bigger-local-picture",
-    "github_repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
+    "ledger_project_keys": ["bigger-local-picture"]
   },
   {
     "title": "Ready S.E.T. Co-op and Hyperlocal Media",
@@ -29,7 +28,8 @@
     "summary": "Training, local capability, practical digital work and community storytelling.",
     "grant_angles": ["skills", "digital capability", "employment", "community media"],
     "public_page": "https://auraofintelligence.github.io/ready-set-co-op-hyperlocal-media/",
-    "github_repo": "https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media"
+    "github_repo": "https://github.com/auraofintelligence/ready-set-co-op-hyperlocal-media",
+    "ledger_project_keys": ["minjerribah-screen-media-network", "ready-s-e-t-co-op-trust-hub"]
   },
   {
     "title": "Film Club and Quandamooka Festival Concepts",
@@ -37,7 +37,8 @@
     "summary": "Local film skills, outdoor screenings, storytelling and short-film concepts.",
     "grant_angles": ["arts", "events", "screen culture", "youth media"],
     "public_page": "https://auraofintelligence.github.io/strange-but-true/film-club-world.html",
-    "github_repo": "https://github.com/auraofintelligence/strange-but-true"
+    "github_repo": "https://github.com/auraofintelligence/strange-but-true",
+    "ledger_project_keys": ["minjerribah-screen-media-network", "quandamooka-film-festival", "film-club-documentary-builders"]
   },
   {
     "title": "Film Club Documentary Builders",
@@ -45,7 +46,8 @@
     "summary": "A Markdown-first documentary planning toolkit for film profiles, source trails, festival entries, run sheets and agent handoffs.",
     "grant_angles": ["documentary development", "screen culture", "festival readiness", "youth media", "digital capability"],
     "public_page": "https://auraofintelligence.github.io/film-club-documentary-builders/",
-    "github_repo": "https://github.com/auraofintelligence/film-club-documentary-builders"
+    "github_repo": "https://github.com/auraofintelligence/film-club-documentary-builders",
+    "ledger_project_keys": ["film-club-documentary-builders"]
   },
   {
     "title": "GAJRA Earth",
@@ -53,7 +55,8 @@
     "summary": "A planetary intelligence sample for joyful responsible abundance, whole-system thinking and civic imagination.",
     "grant_angles": ["research", "climate", "civic innovation", "global partnerships"],
     "public_page": "https://auraofintelligence.github.io/GAJRA-earth/",
-    "github_repo": "https://github.com/auraofintelligence/GAJRA-earth"
+    "github_repo": "https://github.com/auraofintelligence/GAJRA-earth",
+    "ledger_project_keys": ["gajra-earth-infinity", "gajra-earth-public-hub", "gajra-earth-claude-build"]
   },
   {
     "title": "P4A / Purple Civic Lab",
@@ -61,7 +64,8 @@
     "summary": "A young pre-party civic experiment exploring democratic repair and a protopian pathway for Australia.",
     "grant_angles": ["civic participation", "youth democracy", "community education", "digital tools"],
     "public_page": "https://auraofintelligence.github.io/p4a_xyz/",
-    "github_repo": "https://github.com/auraofintelligence/p4a_xyz"
+    "github_repo": "https://github.com/auraofintelligence/p4a_xyz",
+    "ledger_project_keys": ["p4a-purple-party-for-australia"]
   },
   {
     "title": "Mineral Moonshots",
@@ -69,7 +73,8 @@
     "summary": "A crystal-and-metal island atlas for mineral sands, public honour, profiles and science-fiction civic imagination.",
     "grant_angles": ["education", "heritage", "public data", "creative research"],
     "public_page": "https://auraofintelligence.github.io/mineral-moonshots/",
-    "github_repo": "https://github.com/auraofintelligence/mineral-moonshots"
+    "github_repo": "https://github.com/auraofintelligence/mineral-moonshots",
+    "ledger_project_keys": ["mineral-moonshots"]
   },
   {
     "title": "Straddie Shared Table",
@@ -77,7 +82,8 @@
     "summary": "A food-sharing, local-producer and cultural gathering initiative for community cohesion and waste reduction.",
     "grant_angles": ["food security", "events", "community cohesion", "local producers"],
     "public_page": "https://auraofintelligence.github.io/shared-table-initiative/",
-    "github_repo": "https://github.com/auraofintelligence/shared-table-initiative"
+    "github_repo": "https://github.com/auraofintelligence/shared-table-initiative",
+    "ledger_project_keys": ["straddie-shared-table"]
   },
   {
     "title": "Sandy Sports Club and Cultural Hub",
@@ -85,7 +91,8 @@
     "summary": "A multi-use physical hub concept at Goompi / Dunwich linking youth support, sports, culture and resilience.",
     "grant_angles": ["capital works", "multicultural infrastructure", "sport", "youth"],
     "public_page": "https://auraofintelligence.github.io/mineral-moonshots/briefs/multicultural-hub.html",
-    "github_repo": "https://github.com/auraofintelligence/mineral-moonshots"
+    "github_repo": "https://github.com/auraofintelligence/mineral-moonshots",
+    "ledger_project_keys": ["ballow-road-sand-screen-hub", "community-club-builder-sandy-sports"]
   },
   {
     "title": "Distributed Beach Sports Network",
@@ -93,7 +100,8 @@
     "summary": "A network of beach and sand sport facilities across Dunwich, Point Lookout and Amity Point.",
     "grant_angles": ["2032 legacy", "grassroots sport", "inclusive facilities", "tourism"],
     "public_page": "https://auraofintelligence.github.io/mineral-moonshots/briefs/sandy-sports-network.html",
-    "github_repo": "https://github.com/auraofintelligence/mineral-moonshots"
+    "github_repo": "https://github.com/auraofintelligence/mineral-moonshots",
+    "ledger_project_keys": ["community-club-builder-sandy-sports", "health-and-culture"]
   },
   {
     "title": "Business Profile and Noticeboard Agents",
@@ -107,9 +115,7 @@
     "title": "Island Health and Wellbeing Access",
     "domain": "Health and wellbeing",
     "summary": "Culturally safe primary health, visiting services, prevention, Elders wellbeing, youth wellbeing and practical access to care on an island.",
-    "grant_angles": ["health", "social and emotional wellbeing", "First Nations health", "aged care", "transport access"],
-    "public_page": "https://auraofintelligence.github.io/stradbroke-grants-lab/projects.html?project=island-health-and-wellbeing-access",
-    "github_repo": "https://github.com/auraofintelligence/stradbroke-grants-lab"
+    "grant_angles": ["health", "social and emotional wellbeing", "First Nations health", "aged care", "transport access"]
   },
   {
     "title": "Housing Stability and Elders Care",
@@ -125,6 +131,7 @@
     "summary": "Police, ambulance, fire, VMR, surf lifesaving, wildlife rescue and disaster kiosk coordination as a practical island safety layer.",
     "grant_angles": ["disaster resilience", "volunteer training", "equipment", "communications", "public safety"],
     "public_page": "https://auraofintelligence.github.io/straddie-disaster-kiosks/",
-    "github_repo": "https://github.com/auraofintelligence/straddie-disaster-kiosks"
+    "github_repo": "https://github.com/auraofintelligence/straddie-disaster-kiosks",
+    "ledger_project_keys": ["aura-disaster-resilience"]
   }
 ]

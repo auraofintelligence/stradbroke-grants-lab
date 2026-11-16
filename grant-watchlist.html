@@ -5,57 +5,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A practical funding desk separating open grants, preparation windows, source directories and past rounds.">
     <title>Funding | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=workbench-20260809">
+    <link rel="stylesheet" href="assets/styles.css?v=20261116">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
     <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
   </head>
   <body data-page="watchlist">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
-    <main id="main" class="page-shell funding-desk">
-      <p class="eyebrow">Funding desk</p>
-      <h1>Find the next useful funding layer.</h1>
-      <p class="hero-lede">Open grants, rounds worth preparing for, research sources and past opportunities stay separate. Small amounts remain visible when they can fund a useful stage or strengthen the next application.</p>
-
+    <main id="main">
+      <section class="site-hero site-hero-compact">
+        <img src="assets/hero-grants-2026.webp" alt="" width="1680" height="840" fetchpriority="high">
+        <div class="site-hero-inner">
+          <h1>Find a grant</h1>
+          <p class="hero-lede">Start with open grants. Check who can apply and see which projects might fit.</p>
+          <div class="hero-actions"><a class="button primary" href="#fundingViewTabs">Browse grants</a><a class="button secondary" href="grant-archive.html">Past rounds</a></div>
+        </div>
+        <p class="hero-credit">AI-generated landscape · Inspired by Minjerribah</p>
+      </section>
+      <div class="page-shell funding-desk">
       <nav class="funding-view-tabs" id="fundingViewTabs" aria-label="Funding views">
-        <button type="button" class="is-active" data-funding-view="open" aria-controls="fundingOpenPanel" aria-selected="true">Open now</button>
-        <button type="button" data-funding-view="prepare" aria-controls="fundingPreparePanel" aria-selected="false">Prepare next</button>
-        <button type="button" data-funding-view="sources" aria-controls="fundingSourcesPanel" aria-selected="false">Research sources</button>
-        <button type="button" data-funding-view="past" aria-controls="fundingPastPanel" aria-selected="false">Past and watch</button>
+        <button type="button" class="is-active" data-funding-view="open" aria-controls="fundingOpenPanel" aria-pressed="true">Open grants</button>
+        <button type="button" data-funding-view="prepare" aria-controls="fundingPreparePanel" aria-pressed="false">Upcoming grants</button>
+        <button type="button" data-funding-view="past" aria-controls="fundingPastPanel" aria-pressed="false">Other funding</button>
+        <button type="button" data-funding-view="sources" aria-controls="fundingSourcesPanel" aria-pressed="false">Grant directories</button>
       </nav>
 
       <section class="funding-view" id="fundingOpenPanel" data-funding-panel="open" aria-labelledby="fundingOpenTitle">
         <div class="section-heading compact-heading">
-          <p class="eyebrow">Open now</p>
-          <h2 id="fundingOpenTitle">Credible rounds with time to act</h2>
-          <p>Actual grant opportunities only, ordered by the practical action date.</p>
+          <h2 id="fundingOpenTitle">Open grants by deadline</h2>
         </div>
         <div class="data-grid" id="fundingOpenGrid" aria-live="polite"></div>
       </section>
 
       <section class="funding-view" id="fundingPreparePanel" data-funding-panel="prepare" aria-labelledby="fundingPrepareTitle">
         <div class="section-heading compact-heading">
-          <p class="eyebrow">Prepare next</p>
-          <h2 id="fundingPrepareTitle">Future rounds and evidence-building windows</h2>
-          <p>Use the quiet period to confirm the applicant, authority, budget, quotes, permissions and delivery evidence.</p>
+          <h2 id="fundingPrepareTitle">Upcoming grants</h2>
+          <p>Check the opening date and what you’ll need to apply.</p>
         </div>
         <div class="data-grid" id="fundingPrepareGrid" aria-live="polite"></div>
       </section>
 
       <section class="funding-view" id="fundingSourcesPanel" data-funding-panel="sources" aria-labelledby="fundingSourcesTitle">
         <div class="section-heading compact-heading">
-          <p class="eyebrow">Research sources</p>
-          <h2 id="fundingSourcesTitle">Directories and official search points</h2>
-          <p>These pages help find opportunities. They are not grant rounds and should not appear as application-ready money.</p>
+          <h2 id="fundingSourcesTitle">Grant directories</h2>
+          <p>Search official listings for more grants.</p>
         </div>
         <div class="data-grid" id="fundingSourcesGrid" aria-live="polite"></div>
       </section>
 
       <section class="funding-view" id="fundingPastPanel" data-funding-panel="past" aria-labelledby="fundingPastTitle">
         <div class="section-heading compact-heading">
-          <p class="eyebrow">Past and watch</p>
-          <h2 id="fundingPastTitle">Closed rounds, support information and long watches</h2>
-          <p>Keep useful precedent and future signals without confusing them with open opportunities.</p>
+          <h2 id="fundingPastTitle">Other funding and support</h2>
         </div>
         <div class="data-grid" id="fundingPastGrid" aria-live="polite"></div>
       </section>
@@ -65,11 +65,15 @@
         <p>Possible resident or member fundraising, sponsorship, visitor giving, philanthropy, earned income and cash or in-kind support from organisations that later confirm a role can sit beside grants. Nothing is described as secured without evidence.</p>
       </aside>
 
-      <div id="watchlistFilters" hidden aria-hidden="true"></div>
-      <div id="watchlistGrid" hidden aria-hidden="true"></div>
+      <figure class="inline-photo">
+        <img src="assets/photo-amity-jetty.webp" alt="Sunset at Amity Point Jetty, North Stradbroke Island" loading="lazy">
+        <figcaption>Sunset at Amity Point Jetty, North Stradbroke Island · <a href="https://commons.wikimedia.org/wiki/File:Amity_Point_Jetty_at_Sunset._North_Stradbroke_Island,_Queensland,_Australia.jpg">Pacificwizard</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> · Cropped for display</figcaption>
+      </figure>
+      <section class="feature-band"><div><p class="eyebrow">Match a project</p><h2>Start with the outcome you want.</h2><p>See where a grant fits with the work, or offer to help someone gather the evidence they need.</p></div><a class="button primary" href="ledger-projects.html">Explore projects</a></section>
+      </div>
     </main>
     <footer class="site-footer"></footer>
     <button class="to-top" type="button" data-to-top aria-label="Back to top">Top</button>
-    <script src="assets/app.js?v=workbench-20260809"></script>
+    <script src="assets/app.js?v=20261116"></script>
   </body>
 </html>

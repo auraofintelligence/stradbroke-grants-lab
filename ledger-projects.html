@@ -3,44 +3,56 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Community Ledger and relevant 2026 Project Atlas projects ready for staged funding research and practical next steps.">
+    <meta name="description" content="Search and sort Minjerribah projects by theme, region, funding deadline and involvement.">
     <title>Projects | Stradbroke Grants Lab</title>
-    <link rel="stylesheet" href="assets/styles.css?v=workbench-20260809">
+    <link rel="stylesheet" href="assets/styles.css?v=20261116">
     <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-    <link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
   </head>
   <body data-page="ledger-projects">
     <a class="skip-link" href="#main">Skip to content</a>
     <header class="site-header"></header>
-    <main id="main" class="page-shell">
-      <p class="eyebrow">Community Ledger + Project Atlas 2026</p>
-      <h1>Choose a real project. Fund the next useful stage.</h1>
-      <p class="hero-lede">This catalogue combines the public Community Ledger with relevant projects first built in 2026 from Project Atlas, then connects every tracked idea to careful funding research. A grant can fund one layer; residents, members, sponsors, visitors, potential connections and in-kind support may help build the rest over time.</p>
-      <aside class="note-panel project-boundary">
-        <h2>Public project does not mean application-ready.</h2>
-        <p>Inclusion does not prove eligibility, ownership, approval, cultural authority, site control or authority to apply. Missing pathways stay visible while the evidence and possible funding stack are researched.</p>
-      </aside>
-      <aside class="note-panel project-boundary">
-        <h2>Why the Atlas count is selective.</h2>
-        <p>The Atlas additions are limited to 2026 projects with a direct Minjerribah, Point Lookout, Amity, Dunwich, Moreton Bay island-access or concrete local delivery connection. Personal pages, private household demos, duplicate implementations and unrelated global experiments do not inflate the funding-search count.</p>
-        <p><a class="text-link" href="https://auraofintelligence.github.io/project-atlas/">Open Project Atlas</a></p>
-      </aside>
-      <section class="project-catalogue-summary" id="projectCatalogueSummary" aria-live="polite"></section>
-      <div class="project-tools" aria-label="Project search and filters">
-        <label class="search-label" for="projectSearch">Search projects</label>
-        <input id="projectSearch" class="search-input" type="search" placeholder="Search project, theme or possible next step">
-      </div>
-      <div class="filter-bar" id="ledgerProjectFilters"></div>
-      <div class="data-grid" id="ledgerProjectGrid"></div>
-      <section class="section compact earlier-projects-link" aria-labelledby="earlierProjectsTitle">
-        <p class="eyebrow">Earlier project ideas</p>
-        <h2 id="earlierProjectsTitle">Keep the wider idea library available.</h2>
-        <p class="hero-lede">The earlier Strange But True and island project catalogue remains a research source alongside the Community Ledger.</p>
-        <div class="hero-actions"><a class="button secondary" href="projects.html">Browse earlier ideas</a></div>
+    <main id="main">
+      <section class="site-hero site-hero-compact">
+        <img src="assets/hero-projects-2026.webp" alt="" width="1680" height="840" fetchpriority="high">
+        <div class="site-hero-inner">
+          <p class="eyebrow">Project finder</p>
+          <h1>Find a Straddie project</h1>
+          <p class="hero-lede">See which projects have an open grant match, which have other funding options and where you could help.</p>
+          <div class="hero-actions"><a class="button primary" href="#projectFinder">Browse projects</a><a class="button secondary" href="participate.html">Ways to take part</a></div>
+        </div>
+        <p class="hero-credit">AI-generated landscape · Inspired by Minjerribah</p>
       </section>
+
+      <div class="page-shell">
+        <section id="projectFinder" aria-labelledby="projectFinderTitle">
+          <h2 id="projectFinderTitle">Browse projects</h2>
+          <section class="project-catalogue-summary" id="projectCatalogueSummary" aria-label="Catalogue totals"></section>
+          <div class="finder-controls" aria-label="Project search, filters and sorting">
+            <label>Search <input id="projectSearch" type="search" placeholder="Project, category or place"></label>
+            <label>Funding <select id="ledgerProjectCoverage"><option value="All">All projects</option><option value="Open">Open grant match</option><option value="Other">Other funding to check</option><option value="None">No reviewed funding match</option></select></label>
+            <details class="project-more-filters">
+              <summary>More filters</summary>
+              <div>
+                <label>Area <select id="projectRegion"><option value="">All areas</option><option value="local">Minjerribah &amp; nearby</option><option value="australian">Australia</option><option value="global">Global</option></select></label>
+                <label>Category <select id="projectCategory"><option value="">All categories</option></select></label>
+                <label>People <select id="projectInvolvement"><option value="">All projects</option><option value="invitation">Open invitation</option><option value="others_involved">Others involved</option></select></label>
+                <label>Sort by <select id="projectSort"><option value="category">Category</option><option value="name">Project name A–Z</option><option value="local">Area</option><option value="deadline">Nearest grant deadline</option></select></label>
+              </div>
+            </details>
+          </div>
+          <p id="projectResults" class="results-count" role="status"></p>
+          <div id="ledgerProjectGrid"></div>
+        </section>
+      <template id="projectPhoto">
+      <figure class="inline-photo">
+        <img src="assets/photo-amity-jetty.webp" alt="Sunset at Amity Point Jetty, North Stradbroke Island" loading="lazy">
+        <figcaption>Sunset at Amity Point Jetty, North Stradbroke Island · <a href="https://commons.wikimedia.org/wiki/File:Amity_Point_Jetty_at_Sunset._North_Stradbroke_Island,_Queensland,_Australia.jpg">Pacificwizard</a> · <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a> · Cropped for display</figcaption>
+      </figure>
+      </template>
+        <section class="feature-band"><div><p class="eyebrow">Follow the source</p><h2>See the wider project network</h2><p>The grants catalogue prioritises Minjerribah and nearby ideas. Explore the source ledger and earlier work for more context.</p></div><div class="stacked-links"><a class="text-link" href="https://auraofintelligence.github.io/strange-but-true/community-ledger.html">Strange but True Community Ledger →</a><a class="text-link" href="projects.html">Earlier project ideas →</a></div></section>
+      </div>
     </main>
     <footer class="site-footer"></footer>
-    <button class="to-top" type="button" data-to-top aria-label="Back to top">Top</button>
-    <script src="assets/app.js?v=workbench-20260809"></script>
+    <script src="assets/app.js?v=20261116" defer></script>
   </body>
 </html>

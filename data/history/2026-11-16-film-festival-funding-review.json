@@ -1,0 +1,56 @@
+{
+  "as_of": "2026-11-16",
+  "purpose": "Preserves earlier Signature Events research. The current project is a draft concept and the Council fund requires evidence that an event has been delivered successfully for at least two years.",
+  "official_source": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Signature-Events-Attraction-and-Retention-Fund",
+  "matches": [
+    {
+      "match_key": "redland-signature-events-2026-27--quandamooka-film-festival",
+      "grant_source_key": "redland-signature-events-2026-27",
+      "project_key": "quandamooka-film-festival",
+      "fit_status": "clarify",
+      "fit_reason": "This becomes a strong growth pathway only after the festival has been successfully staged for at least two years.",
+      "eligibility_status": "TO BE CONFIRMED: eligible legal entity, two-year event history, tourism impact, insurance and viable multi-year plan",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-01",
+      "action_priority": "build_pathway",
+      "action_by": null,
+      "stack_role": "established-event growth layer",
+      "funding_ask": "Up to $60,000 per year for one to three years",
+      "cofunding_plan": "This established-event growth layer can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Build the track record, visitor evidence and operating model before seeking signature status.",
+      "next_move": "Use early event grants to establish the festival; use Signature funding only for proven growth and retention.",
+      "human_roles": [
+        "Legal applicant or grant-manager decision-maker",
+        "Rights-owning producer, creative or broadcast lead",
+        "Cultural, editorial and financial reviewers appropriate to the work"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Create an event-history and visitation evidence register; do not apply without two successful stagings."
+    }
+  ],
+  "partner_pathways": [
+    {
+      "pathway_key": "redland-signature-events-2026-27--quandamooka-film-festival--roles",
+      "grant_source_key": "redland-signature-events-2026-27",
+      "project_key": "quandamooka-film-festival",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant or grant-manager decision-maker",
+        "Rights-owning producer, creative or broadcast lead",
+        "Cultural, editorial and financial reviewers appropriate to the work"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-01"
+    }
+  ]
+}

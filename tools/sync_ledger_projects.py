@@ -7,11 +7,9 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 LEDGER_PATH = ROOT.parent / "strange-but-true" / "community-ledger.html"
-ATLAS_PATH = ROOT.parent / "project-atlas" / "data" / "projects.json"
 ATLAS_SCOPE_PATH = ROOT / "data" / "project-atlas-scope.json"
 OUTPUT_PATH = ROOT / "data" / "ledger-projects.json"
 LEDGER_URL = "https://auraofintelligence.github.io/strange-but-true/community-ledger.html"
-ATLAS_URL = "https://auraofintelligence.github.io/project-atlas/"
 
 CARD_PATTERN = re.compile(
     r'<a class="layer-card project-card" href="(?P<url>[^"]+)"[^>]*>'
@@ -19,6 +17,21 @@ CARD_PATTERN = re.compile(
     re.IGNORECASE | re.DOTALL,
 )
 TAG_PATTERN = re.compile(r"<[^>]+>")
+REGION_PATTERN = re.compile(r'<section class="project-region" aria-labelledby="projects-(local|australian|global)">(.*?)</section>', re.DOTALL)
+COLLABORATIVE_REPOS = {
+    "7-mile-admin-prep", "plfc-community-platform", "plfc-ai-agent-md-forms",
+    "rough-as-guts", "two-dogs-podcast-backend",
+}
+WIDER_LEDGER_URLS = {
+    "https://github.com/auraofintelligence/australian-legal-engine",
+    "https://p4a.xyz",
+    "https://auraofintelligence.github.io/gajra-earth-infinity",
+    "https://auraofintelligence.github.io/gajra-earth-public-hub",
+    "https://auraofintelligence.github.io/gajra-earth-claude-build",
+}
+EXCLUDED_PROJECT_KEYS = {
+    "songline-interface", "straddie-vitality-network-builders", "stradbroke-grants-lab",
+}
 
 
 def clean(value):
@@ -32,6 +45,10 @@ def slugify(value):
 
 def repository_url(public_url):
     parsed = urlparse(public_url)
+    if parsed.netloc.lower() == "github.com" and parsed.path.lower().startswith("/auraofintelligence/"):
+        return public_url.rstrip("/")
+    if parsed.netloc.lower() == "p4a.xyz":
+        return "https://github.com/auraofintelligence/p4a-xyz-cinema"
     if parsed.netloc.lower() != "auraofintelligence.github.io":
         return ""
     repo = parsed.path.strip("/").split("/", 1)[0]
@@ -50,92 +67,53 @@ def main():
         raise SystemExit(f"Community Ledger not found: {LEDGER_PATH}")
 
     source = LEDGER_PATH.read_text(encoding="utf-8")
+    previous = read_json(OUTPUT_PATH) if OUTPUT_PATH.exists() else []
+    previous_by_url = {item["public_url"].rstrip("/").casefold(): item for item in previous}
+    previous_by_key = {item["project_key"]: item for item in previous}
+    atlas_scope = {item["atlas_name"].casefold(): item for item in read_json(ATLAS_SCOPE_PATH)}
     projects = []
     seen = set()
 
-    for match in CARD_PATTERN.finditer(source):
+    regions = REGION_PATTERN.findall(source)
+    if not regions or not any(region == "local" and CARD_PATTERN.search(body) for region, body in regions):
+        raise SystemExit("No local project section found in the Community Ledger")
+    for region, match in ((region, match) for region, body in regions for match in CARD_PATTERN.finditer(body)):
         public_url = html.unescape(match.group("url")).strip()
         title = clean(match.group("title"))
-        key = slugify(title)
+        repo = repository_url(public_url)
+        repo_name = repo.rsplit("/", 1)[-1].casefold()
+        url_key = public_url.rstrip("/").casefold()
+        title_key = slugify(title)
+        old = previous_by_url.get(url_key) or previous_by_key.get(title_key)
+        scoped = atlas_scope.get(repo_name, {})
+        key = old["project_key"] if old else scoped.get("project_key", title_key)
+        if EXCLUDED_PROJECT_KEYS.intersection((key, title_key, slugify(repo_name))):
+            continue
+        include = (
+            region == "local" or old is not None
+            or repo_name in COLLABORATIVE_REPOS or url_key in WIDER_LEDGER_URLS
+        )
+        if not include:
+            continue
         if key in seen:
             raise SystemExit(f"Duplicate Community Ledger project key: {key}")
         seen.add(key)
-        projects.append(
-            {
-                "project_key": key,
-                "title": title,
-                "lane": clean(match.group("lane")),
-                "summary": clean(match.group("summary")),
-                "public_url": public_url,
-                "repository_url": repository_url(public_url),
-                "source_page": LEDGER_URL,
-                "source_type": "community_ledger",
-                "grant_angles": [],
-            }
-        )
+        projects.append({
+            "project_key": key,
+            "title": title,
+            "lane": clean(match.group("lane")),
+            "summary": clean(match.group("summary")),
+            "public_url": public_url,
+            "repository_url": repo,
+            "source_page": LEDGER_URL,
+            "source_type": "community_ledger",
+            "region": region,
+            "involvement": "others_involved" if repo_name in COLLABORATIVE_REPOS else "invitation",
+            "grant_angles": scoped.get("grant_angles", old.get("grant_angles", []) if old else []),
+        })
 
-    if not projects:
-        raise SystemExit("No project cards found in the Community Ledger")
-
-    ledger_count = len(projects)
-    if not ATLAS_PATH.exists():
-        raise SystemExit(f"Project Atlas data not found: {ATLAS_PATH}")
-    if not ATLAS_SCOPE_PATH.exists():
-        raise SystemExit(f"Project Atlas scope not found: {ATLAS_SCOPE_PATH}")
-
-    atlas_data = read_json(ATLAS_PATH)
-    atlas_projects = atlas_data.get("projects", [])
-    atlas_by_name = {item.get("name"): item for item in atlas_projects}
-    atlas_scope = read_json(ATLAS_SCOPE_PATH)
-    if not isinstance(atlas_scope, list) or not atlas_scope:
-        raise SystemExit("Project Atlas scope must be a non-empty list")
-
-    seen_atlas_names = set()
-    for scoped in atlas_scope:
-        atlas_name = scoped.get("atlas_name", "")
-        key = scoped.get("project_key", "")
-        if atlas_name in seen_atlas_names:
-            raise SystemExit(f"Duplicate Project Atlas scope name: {atlas_name}")
-        seen_atlas_names.add(atlas_name)
-        if key in seen:
-            raise SystemExit(f"Duplicate tracked project key: {key}")
-        source_project = atlas_by_name.get(atlas_name)
-        if not source_project:
-            raise SystemExit(f"Project Atlas scope item not found in Atlas data: {atlas_name}")
-        first_built = source_project.get("firstBuilt", "")
-        if not first_built.startswith("2026-"):
-            raise SystemExit(f"Project Atlas scope item is not a 2026 project: {atlas_name} ({first_built or 'no date'})")
-        public_url = source_project.get("publicPage", "")
-        repo_url = source_project.get("repositoryUrl", "")
-        if not public_url or not repo_url:
-            raise SystemExit(f"Project Atlas scope item needs public page and repository URLs: {atlas_name}")
-        grant_angles = scoped.get("grant_angles", [])
-        if not isinstance(grant_angles, list) or not grant_angles:
-            raise SystemExit(f"Project Atlas scope item needs grant angles: {atlas_name}")
-        seen.add(key)
-        projects.append(
-            {
-                "project_key": key,
-                "title": source_project.get("title") or atlas_name,
-                "lane": scoped.get("lane", "Project Atlas 2026"),
-                "summary": scoped.get("summary_override") or source_project.get("description", ""),
-                "public_url": public_url,
-                "repository_url": repo_url,
-                "source_page": ATLAS_URL,
-                "source_type": "project_atlas_2026",
-                "first_built": first_built,
-                "atlas_name": atlas_name,
-                "grant_angles": grant_angles,
-                "selection_reason": scoped.get("selection_reason", "Relevant 2026 Project Atlas project selected for local funding research."),
-            }
-        )
-
-    OUTPUT_PATH.write_text(
-        json.dumps(projects, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    atlas_count = len(projects) - ledger_count
-    print(f"Synced {ledger_count} Community Ledger projects and {atlas_count} relevant 2026 Project Atlas projects ({len(projects)} total).")
+    OUTPUT_PATH.write_text(json.dumps(projects, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(f"Synced {len(projects)} projects from the current Community Ledger.")
 
 
 if __name__ == "__main__":

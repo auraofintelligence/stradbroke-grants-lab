@@ -1,0 +1,217 @@
+{
+  "as_of": "2026-11-16",
+  "source_commit": "https://github.com/auraofintelligence/stradbroke-grants-lab/commit/0000c089a138af8b83d4cc0d15213932b5c26c96",
+  "purpose": "Preserves November 7 research for concepts outside the current Community Ledger catalogue. The SES lead was for Council-endorsed facilities or vehicles. The earlier hyperlocal media draft retains its own scope.",
+  "matches": [
+    {
+      "match_key": "qld-ses-support-grant-2027-28--disaster-resilience",
+      "grant_source_key": "qld-ses-support-grant-2027-28",
+      "project_key": "disaster-resilience",
+      "fit_status": "clarify",
+      "fit_reason": "A council-led SES facility or vehicle project could strengthen island emergency capacity, but community information tools, general preparedness activity and unauthorised asset proposals are outside this grant.",
+      "eligibility_status": "TO BE CONFIRMED: authorised council applicant, recognised SES group or unit need, endorsed facility or vehicle scope, asset or site control, cashflow and all guideline requirements",
+      "evidence_needed": [
+        "authorised council applicant and recognised SES group or unit endorsement",
+        "operational need and eligible facility or vehicle scope",
+        "asset or site control, approvals, specifications and quotes",
+        "budget, cashflow, insurance, procurement, maintenance and reporting plan"
+      ],
+      "last_checked": "2026-11-07",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-25",
+      "stack_role": "council-led SES facility or vehicle layer",
+      "funding_ask": "Up to $150,000 for a facility project or $75,000 for a vehicle project",
+      "cofunding_plan": "Use this council-led SES facility or vehicle layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Select one evidenced SES facility or vehicle need controlled by the authorised council and recognised SES unit, separate from general community resilience activity.",
+      "next_move": "Check whether Council and the recognised SES unit already have an endorsed, costed facility or vehicle priority that can meet the 25 November deadline. Do not imply their agreement.",
+      "human_roles": [
+        "Authorised council applicant decision-maker",
+        "Recognised SES group or unit authority",
+        "Asset or site controller",
+        "Emergency operations, technical, procurement, financial and maintenance reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the official eligibility and evidence checklist",
+        "Separate the eligible asset need from community program ideas",
+        "Draft a gap register for authority, scope, site or asset, quotes, cashflow, procurement and maintenance"
+      ],
+      "readiness_check": "Confirm council and SES authority, one eligible facility or vehicle priority, operational need, asset or site control, approvals, specifications, quotes, budget, completion cashflow, insurance, procurement, maintenance and reporting."
+    },
+    {
+      "match_key": "redland-community-support--ready-set-co-op-hyperlocal-media",
+      "grant_source_key": "redland-community-support",
+      "project_key": "ready-set-co-op-hyperlocal-media",
+      "fit_status": "clarify",
+      "fit_reason": "A finite, accessible local digital-skills or community-media pilot may fit the community outcomes. Forming a co-operative, routine platform work, commercial operations and unsupported partnership claims do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, local participants, public benefit, facilitators, venue, privacy and rights controls, insurance and project budget",
+      "evidence_needed": [
+        "confirmed legal applicant or auspice and authority to apply",
+        "local participant need and one finite pilot scope",
+        "facilitator, venue, accessibility, privacy, rights and safety plan",
+        "quotes, budget, insurance, delivery plan and measurable outcomes"
+      ],
+      "last_checked": "2026-11-07",
+      "action_priority": "prepare_next",
+      "action_by": "2027-02-28",
+      "stack_role": "local digital-skills and hyperlocal media pilot layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include participant or member fundraising, confirmed local sponsorship, philanthropy, earned income where eligible and in-kind venue or equipment support. Nothing is secured.",
+      "qualifying_reframe": "Deliver one finite local digital-skills and community-media pilot, separate from co-operative formation and ongoing platform operations.",
+      "next_move": "Before 8 February, confirm the applicant or auspice, participant need, facilitators, venue, privacy and rights settings, accessible delivery, budget and outcomes without naming unconfirmed partners.",
+      "human_roles": [
+        "Legal applicant or auspice decision-maker",
+        "Project and participant lead",
+        "Digital safety, privacy, rights, accessibility, budget and evaluation reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the official eligibility and evidence checklist",
+        "Draft a finite pilot scope, curriculum, budget and evaluation plan for human review",
+        "Flag unsupported applicant, partner, authority, rights and co-funding claims"
+      ],
+      "readiness_check": "Confirm applicant, participants, public benefit, facilitators, venue, accessibility, privacy, rights, safety, insurance, quotes, budget, delivery and evaluation."
+    },
+    {
+      "match_key": "creative-australia-contemporary-music-touring-oct-2026--i-c-infinity-music-universe",
+      "grant_source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "project_key": "i-c-infinity-music-universe",
+      "fit_status": "clarify",
+      "fit_reason": "One tour-ready program of original Australian contemporary music may fit if it has at least three eligible venues or locations outside the performer's hometown. A platform, archive, single event or unconfirmed artist network does not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible applicant, original Australian music, tour-ready artists, qualifying route, venue confirmations, rights, budget, insurance and acquittal capacity",
+      "evidence_needed": [
+        "eligible applicant and registered Creative Australia account",
+        "original Australian music and confirmed artist roles",
+        "qualifying route with at least three venues or locations outside the performer's hometown",
+        "venue evidence, itinerary, fees, rights, budget, insurance and audience plan"
+      ],
+      "last_checked": "2026-11-07",
+      "action_priority": "prepare_next",
+      "action_by": "2027-03-02",
+      "stack_role": "original Australian music touring and audience-development layer",
+      "funding_ask": "$5,000-$50,000 depending on the eligible route",
+      "cofunding_plan": "Possible layers include ticket income, artist or member cash, confirmed venue support, sponsorship, philanthropy and eligible in-kind support. Nothing is secured without evidence.",
+      "qualifying_reframe": "Define one real tour of original Australian contemporary music, separate from the wider platform, archive or local-event concept.",
+      "next_move": "Confirm whether a willing eligible artist or organisation already has original work, a viable route and venue interest; only then build the 2 March evidence pack without naming unconfirmed partners.",
+      "human_roles": [
+        "Eligible artist or applicant decision-maker",
+        "Artist, manager or tour producer",
+        "Venue, rights, budget, safety, insurance and cultural reviewers as required"
+      ],
+      "ai_tasks": [
+        "Prepare the official eligibility and route checklist",
+        "Draft an itinerary, budget and evidence register for human review",
+        "Flag unsupported venue, artist, authority, rights and co-funding claims"
+      ],
+      "readiness_check": "Confirm applicant, registration, original Australian music, artist roles, three-location route, venue evidence, dates, fees, rights, cultural protocols where relevant, budget, insurance, audience plan and acquittal capacity."
+    },
+    {
+      "match_key": "creative-australia-contemporary-music-touring-oct-2026--sovereign-music-australia",
+      "grant_source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "project_key": "sovereign-music-australia",
+      "fit_status": "clarify",
+      "fit_reason": "One tour-ready program of original Australian contemporary music may fit if it has at least three eligible venues or locations outside the performer's hometown. A platform, archive, single event or unconfirmed artist network does not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible applicant, original Australian music, tour-ready artists, qualifying route, venue confirmations, rights, budget, insurance and acquittal capacity",
+      "evidence_needed": [
+        "eligible applicant and registered Creative Australia account",
+        "original Australian music and confirmed artist roles",
+        "qualifying route with at least three venues or locations outside the performer's hometown",
+        "venue evidence, itinerary, fees, rights, budget, insurance and audience plan"
+      ],
+      "last_checked": "2026-11-07",
+      "action_priority": "prepare_next",
+      "action_by": "2027-03-02",
+      "stack_role": "original Australian music touring and audience-development layer",
+      "funding_ask": "$5,000-$50,000 depending on the eligible route",
+      "cofunding_plan": "Possible layers include ticket income, artist or member cash, confirmed venue support, sponsorship, philanthropy and eligible in-kind support. Nothing is secured without evidence.",
+      "qualifying_reframe": "Define one real tour of original Australian contemporary music, separate from the wider platform, archive or local-event concept.",
+      "next_move": "Confirm whether a willing eligible artist or organisation already has original work, a viable route and venue interest; only then build the 2 March evidence pack without naming unconfirmed partners.",
+      "human_roles": [
+        "Eligible artist or applicant decision-maker",
+        "Artist, manager or tour producer",
+        "Venue, rights, budget, safety, insurance and cultural reviewers as required"
+      ],
+      "ai_tasks": [
+        "Prepare the official eligibility and route checklist",
+        "Draft an itinerary, budget and evidence register for human review",
+        "Flag unsupported venue, artist, authority, rights and co-funding claims"
+      ],
+      "readiness_check": "Confirm applicant, registration, original Australian music, artist roles, three-location route, venue evidence, dates, fees, rights, cultural protocols where relevant, budget, insurance, audience plan and acquittal capacity."
+    }
+  ],
+  "partner_pathways": [
+    {
+      "pathway_key": "qld-ses-support-grant-2027-28--disaster-resilience--roles",
+      "grant_source_key": "qld-ses-support-grant-2027-28",
+      "project_key": "disaster-resilience",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Authorised council applicant decision-maker",
+        "Recognised SES group or unit authority",
+        "Asset or site controller",
+        "Emergency operations, technical, procurement, financial and maintenance reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-11-07"
+    },
+    {
+      "pathway_key": "redland-community-support--ready-set-co-op-hyperlocal-media--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "ready-set-co-op-hyperlocal-media",
+      "planning_status": "needs_human_review",
+      "roles_needed": [
+        "Legal applicant or auspice decision-maker",
+        "Project and participant lead",
+        "Digital safety, privacy, rights, accessibility, budget and evaluation reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The public proposal is not a registered co-op, employer or training organisation. No organisation has been approached or named, and all delivery and partnership claims remain to be confirmed.",
+      "last_checked": "2026-11-07"
+    },
+    {
+      "pathway_key": "creative-australia-contemporary-music-touring-oct-2026--i-c-infinity-music-universe--roles",
+      "grant_source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "project_key": "i-c-infinity-music-universe",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible artist or applicant decision-maker",
+        "Artist, manager or tour producer",
+        "Venue, rights, budget, safety, insurance and cultural reviewers as required"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-11-07"
+    },
+    {
+      "pathway_key": "creative-australia-contemporary-music-touring-oct-2026--sovereign-music-australia--roles",
+      "grant_source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "project_key": "sovereign-music-australia",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible artist or applicant decision-maker",
+        "Artist, manager or tour producer",
+        "Venue, rights, budget, safety, insurance and cultural reviewers as required"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-11-07"
+    }
+  ],
+  "grants": [
+    {
+      "name": "Creative Australia Contemporary Music Touring Program - March 2027",
+      "level": "federal",
+      "level_label": "Creative Australia",
+      "status": "Future round - next published closing date 3:00pm AEDT 2 March 2027",
+      "best_for": "A defined Australian tour of original contemporary music with at least three venues or locations outside the performer's hometown. It can support performers, managers, agents or music networks, but it does not fund a general music platform, a single local event or untested ecosystem proposal.",
+      "url": "https://creative.gov.au/investments-opportunities/contemporary-music-touring-program",
+      "last_checked": "Checked 2026-11-07",
+      "source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "opportunity_type": "grant",
+      "funding": "$5,000-$50,000 depending on the eligible tour route; metropolitan-only tours may request up to $15,000, tours with at least one regional or remote performance up to $25,000, and qualifying remote tours up to $50,000",
+      "deadline": "The October round closed. Future published closing dates are 3:00pm AEDT 2 March and 8 June 2027.",
+      "applicants": "Eligible Australian individuals, groups or organisations applying for one tour of original Australian contemporary music; performers, managers, agents and music networks may apply on behalf of industry professionals, subject to Creative Australia eligibility and acquittal requirements.",
+      "availability": "future",
+      "deadline_date": "2027-03-02"
+    }
+  ]
+}

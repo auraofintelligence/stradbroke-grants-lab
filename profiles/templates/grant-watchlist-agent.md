@@ -4,14 +4,14 @@ Use this brief when an AI agent updates the Stradbroke Grants Lab watchlist and 
 
 ## Job
 
-Refresh `data/grants.json`, `data/grant-windows.json` and the generated `data/grant-watchlist.json` for North Stradbroke Island / Minjerribah grant matching. Sync `data/ledger-projects.json` from the Community Ledger plus the curated relevant 2026 Project Atlas scope, then place credible matches in `data/grant-project-matches.json` and cautious role planning in `data/partner-pathways.json`.
+Refresh `data/grants.json`, `data/grant-windows.json` and the generated `data/grant-watchlist.json` for North Stradbroke Island / Minjerribah grant matching. Sync `data/ledger-projects.json` from the current Strange but True Community Ledger, then place credible matches in `data/grant-project-matches.json` and cautious role planning in `data/partner-pathways.json`.
 
 The watchlist is a triage layer, not a promise that an applicant is eligible.
 
 ## Cadence
 
-- Run a light scan daily.
-- Run a deeper scan monthly.
+- On daily scans, check closing dates and material changes to official grant rounds using Brisbane dates.
+- On the weekly refresh, check the expanded Community Ledger, review local project matches and rebuild the archive. Do a deeper source review monthly.
 - Run an urgent scan when a closing-soon grant, disaster activation or council round is discovered.
 
 ## Core Rule
@@ -37,11 +37,11 @@ Check primary sources first:
 - Redland City Council grant pages for council rounds.
 - Indigenous.gov.au, NIAA, ORIC, QYAC-relevant and Queensland First Nations pages for First Nations pathways.
 - Official UN, UNOPS, GEF or programme pages for global opportunities.
-- Project Atlas for public projects with an evidenced original 2026 build date. Use `data/project-atlas-scope.json` to retain only direct Minjerribah, Point Lookout, Amity, Dunwich, Moreton Bay island-access or concrete local delivery connections.
+- Use Project Atlas for background and grant research on projects that are already in the current Community Ledger.
 
 Use secondary sources only as leads. Do not treat them as final evidence.
 
-Do not limit the scan to programs already present in `data/grants.json`. Search current official announcement and application pages using the actual themes of every tracked project. Each daily scan must include a fresh check for digital/connectivity/jobs, infrastructure/resilience, First Nations, council, arts/media and environment opportunities.
+On the weekly refresh, search official announcement and application pages for local project themes, including digital access, jobs, infrastructure, resilience, First Nations, council, arts, media and environment. On daily scans, focus on status and deadline changes that require action.
 
 ## What To Capture
 
@@ -71,10 +71,10 @@ For directories and portals, use `Varies by program` rather than inventing a sin
 
 - Run `python tools/sync_ledger_projects.py` before matching.
 - Use the exact `project_key` from `data/ledger-projects.json`.
-- For Project Atlas additions, accept only entries whose `firstBuilt` date begins with `2026-`. Keep personal pages, private household demos, duplicate implementations, general navigation pages and unrelated global experiments out of the funding-search denominator.
+- Use the current Community Ledger to determine project inclusion. Preserve funding research for projects that leave the catalogue in the history records. Link related projects and earlier versions as context, using their own keys for any funding research.
 - Use one fit status: `pursue`, `prepare`, `clarify`, `watch` or `do_not_pursue`.
 - Record why the fit is credible, what eligibility remains unresolved and what evidence is needed.
-- Do not force an unsuitable current grant onto a project. Every project still keeps a truthful pathway through a grant, tender, finance, fundraising or future-round lane, with the qualifying reframe and eligibility gates stated plainly.
+- Keep ideas without a credible match visible as needing funding research. Add a grant, tender, finance, fundraising or future-round lane only where a source and project fit support it.
 - Keep the project idea separate from the legal applicant.
 
 ## Potential Connection Planning
@@ -111,7 +111,11 @@ A public notice should answer:
 
 ## Project Funding Queue
 
-Every tracked Community Ledger and selected Project Atlas 2026 project must keep at least one credible funding pathway. Do not discard a project because its current public framing is unusual: identify the smallest truthful reframe that makes its public benefit legible to a real grant or tender without changing its core intent.
+Use the Strange but True Community Ledger as the project reference, prioritise its local section, and preserve project keys on renames. Most entries are Luke Nathan Hayes initiatives open to participation. Keep the involvement flags for Point Lookout Fishing Club, 7-Mile, Rough as Guts and Two Dogs based on Luke’s account. Existing involvement alone establishes no wider support, approval or authority.
+
+For Point Lookout Fishing Club, include only the project pages listed in the Strange but True Community Ledger. Link the Cultural Intelligence Node and the earlier Trust Hub as related records and review each funding fit against its own scope.
+
+Keep projects excluded by the sync script out of the catalogue and all grant and partner research.
 
 Order project actions by:
 
@@ -140,14 +144,14 @@ Do not send whole-island panic notices for closing-soon grants. Target only like
 
 1. Run `python tools/sync_ledger_projects.py`.
 2. Check official source pages.
-3. Update `data/grants.json` statuses, close dates, best-fit notes and `last_checked`.
+3. Before replacing a closed round or removing its matches, preserve its grant, window, project matches and role planning in a dated `data/history/` snapshot. Update `data/grants.json` statuses, close dates, best-fit notes and `last_checked` using official evidence.
 4. Update or add matching `data/grant-windows.json` entries using exact `source_key`.
 5. Update `data/grant-project-matches.json`.
 6. Run `python tools/normalise_funding_stacks.py` so readiness work and possible co-funding remain distinct.
 7. Run `python tools/build_partner_pathways.py` to keep role planning aligned without assigning organisations.
 8. Run `python tools/build_watchlist.py`.
-9. Run `python tools/validate_data.py`.
-10. Preview the funding desk, project stacks and potential-connections pages.
+9. Run `python tools/build_grant_archive.py` and `python tools/validate_data.py`.
+10. Preview the funding desk, project finder and archive. Report material changes, source access gaps and validation failures. Keep unchanged runs quiet.
 11. Commit or publish only when the current task explicitly authorises it.
 
 ## Safety Checks

@@ -1,0 +1,1243 @@
+{
+  "as_of": "2026-11-04",
+  "purpose": "Former records preserved before closing the round or updating to a separately announced future round. Historical matches are research only.",
+  "grants": [
+    {
+      "name": "Redland City Council Community Support Grant",
+      "level": "council",
+      "level_label": "Redland City Council",
+      "status": "Open - Round 2 closes midnight end of 1 November 2026 AEST",
+      "best_for": "Up to $20,000 for Redland City community projects with social, cultural, recreational or environmental outcomes. Requires not-for-profit eligibility, Redland location, insurance, quotes and reporting capacity.",
+      "url": "https://www.redland.qld.gov.au/Grants-and-sponsorship/Community-Support-Grant",
+      "last_checked": "Checked 2026-11-01",
+      "source_key": "redland-community-support",
+      "opportunity_type": "grant",
+      "funding": "Up to $20,000",
+      "deadline": "Round 2 closes midnight (end of day) 1 November 2026 AEST, equivalent to 14:00 UTC on 1 November. Confirm submission in the official SmartyGrants portal before closure.",
+      "applicants": "Incorporated not-for-profits or Act entities; unincorporated groups through an eligible auspice; registered wildlife carers are a conservation-only exception",
+      "availability": "open",
+      "deadline_date": "2026-11-01"
+    },
+    {
+      "name": "Creative Australia Four Year Investment for Organisations 2029–32",
+      "level": "federal",
+      "level_label": "Creative Australia",
+      "status": "Pre-applications open — close 3:00pm AEDT 27 October 2026",
+      "best_for": "Mature small-to-medium arts and cultural organisations with a strong artistic record and credible four-year vision. A project repo, informal network or proposed festival is not itself an eligible organisation.",
+      "url": "https://creative.gov.au/investments-opportunities/four-year-investment-organisations-2029-32",
+      "last_checked": "Checked 2026-09-08",
+      "source_key": "creative-australia-four-year-organisations-2029-32",
+      "opportunity_type": "grant",
+      "funding": "$100,000–$550,000 per year for four years, subject to pre-application confirmation and final application assessment",
+      "deadline": "Pre-applications close 3:00pm AEDT 27 October 2026; confirmed applicants submit final applications by 3:00pm AEST 6 April 2027",
+      "applicants": "Legally constituted Australian small-to-medium arts and cultural organisations; trusts are ineligible and artistic achievement, governance and multi-year readiness must be evidenced.",
+      "availability": "open",
+      "deadline_date": "2026-10-27"
+    },
+    {
+      "name": "ARENA Launchpad Program - Startup Funding Round 2026",
+      "level": "federal",
+      "level_label": "Australian Renewable Energy Agency",
+      "status": "Open - closes 4:00pm AEDT 28 October 2026",
+      "best_for": "Promising founders and early-stage startups developing pre-commercial renewable-energy or enabling technologies aligned with ARENA's mandate. A community idea or local information site is not eligible without an actual startup, eligible technology and commercialisation pathway.",
+      "url": "https://arena.gov.au/funding/launchpad-program/",
+      "last_checked": "Checked 2026-09-23",
+      "source_key": "arena-launchpad-startup-round-2026",
+      "opportunity_type": "grant",
+      "funding": "$500,000 per grant, with up to a further $500,000 for projects with high capital-expenditure requirements; $15 million is the round envelope",
+      "deadline": "Applications close 4:00pm AEDT Wednesday 28 October 2026",
+      "applicants": "Eligible founders and early-stage startups with technology aligned to ARENA's mandate, subject to the program guidelines, round announcement, applicant structure, readiness and commercialisation requirements.",
+      "availability": "open",
+      "deadline_date": "2026-10-28"
+    },
+    {
+      "name": "Screen Australia First Nations Feature Development - October 2026",
+      "level": "federal",
+      "level_label": "Screen Australia",
+      "status": "Open - next deadline 5:00pm AEDT 22 October 2026",
+      "best_for": "Feature screenplay development led by eligible experienced Aboriginal and Torres Strait Islander writers and directors, with First Nations authorship, rights and decision-making kept central.",
+      "url": "https://www.screenaustralia.gov.au/fund/first-nations-feature-development/",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "screen-australia-first-nations-feature-development-oct-2026",
+      "opportunity_type": "grant",
+      "funding": "Up to $30,000, or up to $45,000 if a producer is attached, other than in exceptional circumstances.",
+      "deadline": "Next deadline is 5:00pm AEDT Thursday 22 October 2026 (4:00pm AEST in Brisbane). Later published deadlines follow in January, March and May 2027.",
+      "applicants": "Eligible Australian Aboriginal or Torres Strait Islander producers, writers or writer-directors meeting the program credit, team, rights and Screen Australia Terms of Trade requirements. Identity, experience, authority and eligibility must be supplied by the applicant and cannot be inferred.",
+      "availability": "open",
+      "deadline_date": "2026-10-22"
+    },
+    {
+      "name": "Screen Australia First Nations TV Drama Development - October 2026",
+      "level": "federal",
+      "level_label": "Screen Australia",
+      "status": "Open - next deadline 5:00pm AEDT 22 October 2026",
+      "best_for": "Further development of First Nations-led television drama treatments, scripts, series bibles, research and financing pathways with experienced Aboriginal and Torres Strait Islander key creatives.",
+      "url": "https://www.screenaustralia.gov.au/fund/first-nations-tv-drama-development/",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "screen-australia-first-nations-tv-drama-development-oct-2026",
+      "opportunity_type": "grant",
+      "funding": "One-offs up to $30,000, or up to $45,000 with a producer attached; series up to $65,000, other than in exceptional circumstances.",
+      "deadline": "Next deadline is 5:00pm AEDT Thursday 22 October 2026 (4:00pm AEST in Brisbane). Later published deadlines follow in January, March and May 2027.",
+      "applicants": "Eligible Australian Aboriginal or Torres Strait Islander producers, writers or writer-directors meeting the program credit, team, rights and Screen Australia Terms of Trade requirements. Identity, experience, authority and eligibility must be supplied by the applicant and cannot be inferred.",
+      "availability": "open",
+      "deadline_date": "2026-10-22"
+    },
+    {
+      "name": "Creative Australia Contemporary Music Touring Program - October 2026",
+      "level": "federal",
+      "level_label": "Creative Australia",
+      "status": "Open - closes 3:00pm AEDT 13 October 2026",
+      "best_for": "A defined Australian tour of original contemporary music with at least three venues or locations outside the performer's hometown. It can support performers, managers, agents or music networks, but it does not fund a general music platform, a single local event or untested ecosystem proposal.",
+      "url": "https://creative.gov.au/investments-opportunities/contemporary-music-touring-program",
+      "last_checked": "Checked 2026-10-09",
+      "source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "opportunity_type": "grant",
+      "funding": "$5,000-$50,000 depending on the eligible tour route; metropolitan-only tours may request up to $15,000, tours with at least one regional or remote performance up to $25,000, and qualifying remote tours up to $50,000",
+      "deadline": "Applications close 3:00pm AEDT Tuesday 13 October 2026. Future published closing dates are 2 March and 8 June 2027.",
+      "applicants": "Eligible Australian individuals, groups or organisations applying for one tour of original Australian contemporary music; performers, managers, agents and music networks may apply on behalf of industry professionals, subject to Creative Australia eligibility and acquittal requirements.",
+      "availability": "open",
+      "deadline_date": "2026-10-13"
+    }
+  ],
+  "windows": [
+    {
+      "source_key": "redland-community-support",
+      "title": "Redland Council Community Support Grant Round 2",
+      "window_type": "Closing soon",
+      "notify": "Redland-based not-for-profits, community groups, environment groups, wildlife carers, clubs and local project leads.",
+      "tip": "Round 2 closes midnight (end of day) 1 November 2026 AEST, equivalent to 14:00 UTC on 1 November. Confirm submission in the official SmartyGrants portal before closure. Funding: Up to $20,000.",
+      "action": "Only an authorised, eligible applicant with a complete plan should decide whether to submit before midnight end of 1 November AEST. Confirm ABN, insurance, quotes, permissions, budget and reporting; do not imply readiness or submit without authority.",
+      "source": "Redland City Council Community Support Grant"
+    },
+    {
+      "source_key": "creative-australia-four-year-organisations-2029-32",
+      "title": "Creative Australia Four Year Investment pre-application",
+      "window_type": "Open grant",
+      "notify": "Mature legally constituted small-to-medium arts and cultural organisations with a strong artistic record and four-year vision.",
+      "tip": "$100,000–$550,000 per year for four years. Pre-applications close 3:00pm AEDT 27 October 2026.",
+      "action": "Treat this as an organisation-readiness gate, not project funding: confirm legal form, artistic track record, governance, financial capacity and four-year program before a pre-application.",
+      "source": "Creative Australia"
+    },
+    {
+      "source_key": "arena-launchpad-startup-round-2026",
+      "title": "ARENA Launchpad Startup Funding Round 2026",
+      "window_type": "Open grant",
+      "notify": "Eligible founders and early-stage clean-energy startups with a real pre-commercial technology, capable team and commercialisation pathway.",
+      "tip": "$500,000 per grant, with up to a further $500,000 for projects with high capital expenditure. Applications close 4:00pm AEDT 28 October 2026.",
+      "action": "Confirm the legal startup, technology eligibility, intellectual property, technical evidence, team, budget, co-funding and investor or deployment pathway before drafting.",
+      "source": "Australian Renewable Energy Agency"
+    },
+    {
+      "source_key": "screen-australia-first-nations-feature-development-oct-2026",
+      "title": "First Nations Feature Development - October 2026",
+      "window_type": "Open grant",
+      "notify": "Eligible experienced Aboriginal and Torres Strait Islander feature writers, directors and producers with genuine authorship and control.",
+      "tip": "Up to $30,000, or $45,000 with a producer attached. The next deadline is 5:00pm AEDT 22 October 2026.",
+      "action": "Confirm applicant identity and credits, First Nations authorship, creative roles, rights, chain of title, development materials and cultural authority before proceeding.",
+      "source": "Screen Australia"
+    },
+    {
+      "source_key": "screen-australia-first-nations-tv-drama-development-oct-2026",
+      "title": "First Nations TV Drama Development - October 2026",
+      "window_type": "Open grant",
+      "notify": "Eligible experienced Aboriginal and Torres Strait Islander television drama writers, directors and producers with genuine authorship and control.",
+      "tip": "One-offs may receive up to $30,000 or $45,000 with a producer; series may receive up to $65,000. The next deadline is 5:00pm AEDT 22 October 2026.",
+      "action": "Confirm applicant identity and credits, First Nations authorship, team, rights, chain of title, development materials and cultural authority before proceeding.",
+      "source": "Screen Australia"
+    },
+    {
+      "source_key": "creative-australia-contemporary-music-touring-oct-2026",
+      "title": "Creative Australia Contemporary Music Touring Program - October 2026",
+      "window_type": "Open grant",
+      "notify": "Australian musicians, performers, managers, agents, groups, organisations and music networks with one eligible tour of original Australian contemporary music.",
+      "tip": "$5,000-$50,000 depending on the tour route. Applications close 3:00pm AEDT 13 October 2026; future closing dates are 2 March and 8 June 2027.",
+      "action": "Confirm one tour with at least three venues or locations outside the performer's hometown, original Australian music, applicant eligibility, route, venue evidence, artist roles, budget, rights, insurance and acquittals before drafting.",
+      "source": "Creative Australia"
+    }
+  ],
+  "matches": [
+    {
+      "match_key": "redland-community-support--wildlife-rescue-minjerribah",
+      "grant_source_key": "redland-community-support",
+      "project_key": "wildlife-rescue-minjerribah",
+      "fit_status": "clarify",
+      "fit_reason": "The rescue network may support environmental and community outcomes, but the app is not an eligible applicant and operational approvals remain unproven.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, wildlife operational authority, insurance and deliverable community project",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-11-01",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community coordination layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Use this community coordination layer to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Separate coordination, volunteer training and public education from clinical wildlife-care work.",
+      "next_move": "An authorised eligible applicant must confirm readiness and decide whether a complete community-coordination application can be submitted before midnight end of 1 November 2026 AEST. Do not imply wildlife operational authority or grant readiness.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, registered-care relationships, operational authority, insurance, plan, quotes and reporting."
+    },
+    {
+      "match_key": "redland-community-support--plfc-community-platform",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-community-platform",
+      "fit_status": "clarify",
+      "fit_reason": "A member-approved platform can support participation and volunteer coordination if it is a finite community project with accessible outputs, not routine website maintenance.",
+      "eligibility_status": "TO BE CONFIRMED: eligible club applicant, committee authority, user need, privacy, accessibility, insurance and delivery capacity",
+      "evidence_needed": [
+        "committee-approved scope and user groups",
+        "public, member and committee information boundaries",
+        "accessibility and privacy approach",
+        "delivery plan, budget and measurable participation outcomes"
+      ],
+      "last_checked": "2026-09-08",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community participation platform pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This pilot could combine with member fundraising, local sponsor cash or in-kind support, eligible club cash, philanthropy, earned income where permitted and verified volunteer time. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Define one accessible participation and volunteer-coordination pilot with clear users, governance and handover.",
+      "next_move": "Have the committee choose the first users and three essential functions before the round opens on 12 October.",
+      "human_roles": [
+        "Club committee decision-maker",
+        "Member, volunteer and accessibility representatives",
+        "Privacy, technical and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare user stories and a minimum-scope brief",
+        "Create privacy, accessibility and handover checklists",
+        "Draft a costed delivery plan for committee review"
+      ],
+      "readiness_check": "Confirm applicant, committee authority, user need, data boundaries, accessibility, insurance, delivery support, budget and maintenance ownership."
+    },
+    {
+      "match_key": "redland-community-support--minjerribah-site-and-service-ideas",
+      "grant_source_key": "redland-community-support",
+      "project_key": "minjerribah-site-and-service-ideas",
+      "fit_status": "clarify",
+      "fit_reason": "A community-led feasibility and prioritisation project may fit, but the fourteen-page network is too broad for one application and no site, service owner or authority is established by the public workbench.",
+      "eligibility_status": "TO BE CONFIRMED: eligible local applicant or auspice, community-selected priority, site or service authority, insurance, scope and budget",
+      "evidence_needed": [
+        "one community-selected site or service question",
+        "eligible applicant and decision pathway",
+        "site, service and cultural authority where relevant",
+        "engagement method, budget and practical output"
+      ],
+      "last_checked": "2026-09-08",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community feasibility and priority-setting stage",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This planning layer could combine with resident or member fundraising, local sponsorship, philanthropy, eligible applicant cash and verified in-kind venue, facilitation, site or technical support, followed by later program or capital grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Choose one site or service issue and fund a transparent community evidence, options and feasibility stage rather than the whole network.",
+      "next_move": "Identify the first community-selected question, responsible decision pathway and concrete planning output before the round opens on 12 October.",
+      "human_roles": [
+        "Eligible local applicant or auspice",
+        "Community and project decision lead",
+        "Site, service, cultural, planning and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a one-project options and evidence brief",
+        "Build site, authority and community-engagement checklists",
+        "Separate planning costs from later program, equipment and capital layers"
+      ],
+      "readiness_check": "Confirm applicant, community priority, site or service authority, cultural permissions, engagement method, insurance, scope, budget, output and later ownership."
+    },
+    {
+      "match_key": "redland-community-support--bees-and-allies",
+      "grant_source_key": "redland-community-support",
+      "project_key": "bees-and-allies",
+      "fit_status": "clarify",
+      "fit_reason": "A defined public pollinator-learning and habitat-participation project may fit the environmental and community outcomes of the next local round.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, authorised site, lawful bee activity, ecological method, insurance and maintenance responsibility",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "pollinator education and habitat participation pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This pollinator education and habitat participation pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Deliver one site-authorised native pollinator learning, planting and citizen-observation pilot; keep commercial hive costs outside the ask.",
+      "next_move": "Confirm applicant, site and ecological lead before the round opens on 12 October, then test the pilot against the published eligible costs.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, site permission, ecological method, biosecurity, safety, insurance, participant plan, budget and maintenance."
+    },
+    {
+      "match_key": "redland-community-support--bigger-local-picture",
+      "grant_source_key": "redland-community-support",
+      "project_key": "bigger-local-picture",
+      "fit_status": "clarify",
+      "fit_reason": "A time-limited public engagement project that helps residents connect local initiatives may fit; general repository maintenance or promotion would not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, defined community need, non-commercial public benefit, participation plan and permissions",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community mapping and engagement pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This community mapping and engagement pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Run one facilitated local mapping and public-information project with defined residents, outputs and follow-up actions.",
+      "next_move": "Choose one community question and delivery partner before 12 October; do not submit a broad umbrella covering unrelated projects.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, audience, community need, facilitator, source permissions, accessibility, outputs, budget and evaluation."
+    },
+    {
+      "match_key": "redland-community-support--grey-area-commons",
+      "grant_source_key": "redland-community-support",
+      "project_key": "grey-area-commons",
+      "fit_status": "clarify",
+      "fit_reason": "A safeguarded adult consent and healthy-connection education pilot may fit community wellbeing outcomes; private advice, clinical service and unmoderated content do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, qualified safeguarding lead, adult-only scope, privacy controls, referral boundaries and community need",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "adult consent and healthy-connection education pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This adult consent and healthy-connection education pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Deliver one adult-only, professionally reviewed public education and referral pilot with strong privacy and no personalised advice.",
+      "next_move": "Confirm a qualified safeguarding partner and written privacy/referral boundaries before preparing the October-round application.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, qualified lead, adult-only audience, safeguarding, privacy, referral pathways, content review, budget and evaluation."
+    },
+    {
+      "match_key": "redland-community-support--legal-memory-workbench",
+      "grant_source_key": "redland-community-support",
+      "project_key": "legal-memory-workbench",
+      "fit_status": "clarify",
+      "fit_reason": "A public digital and legal-information literacy workshop may fit community capacity outcomes; legal advice, casework and general software maintenance do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, qualified content review, public-information boundary, privacy method and defined local participants",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community source and legal-information literacy pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This community source and legal-information literacy pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Teach residents how to organise sources, questions and evidence before seeking qualified help, with an explicit no-legal-advice boundary.",
+      "next_move": "Confirm an eligible applicant and qualified reviewer before 12 October, then define one workshop series and public resource.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, reviewer, no-advice boundary, participants, privacy, accessibility, curriculum, budget and evaluation."
+    },
+    {
+      "match_key": "redland-community-support--p4a-purple-civic-lab",
+      "grant_source_key": "redland-community-support",
+      "project_key": "p4a-purple-civic-lab",
+      "fit_status": "clarify",
+      "fit_reason": "A strictly non-partisan civic learning and community participation pilot may fit; party activity, election campaigning, lobbying and ideology promotion do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, non-partisan scope, defined public benefit, facilitation safeguards and no political campaign activity",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "non-partisan civic learning and participation pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This non-partisan civic learning and participation pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Run one neutral civic-literacy and community problem-solving pilot with diverse participation and published facilitation rules.",
+      "next_move": "Ask Council to confirm the non-partisan educational scope before 12 October and stop if political activity would make it ineligible.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, Council interpretation, non-partisan scope, facilitators, participants, safeguarding, accessibility, budget and evaluation."
+    },
+    {
+      "match_key": "redland-community-support--quandamooka-country-events-engine",
+      "grant_source_key": "redland-community-support",
+      "project_key": "quandamooka-country-events-engine",
+      "fit_status": "clarify",
+      "fit_reason": "A public-safe local event planning and participation resource may fit community capacity outcomes if cultural authority and contributor permissions are explicit.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, Quandamooka cultural authority where relevant, public-source permissions, privacy controls and local delivery",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community event planning and participation resource",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This community event planning and participation resource could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Deliver one public-safe local event information and organiser-capability pilot without publishing restricted cultural or personal material.",
+      "next_move": "Confirm applicant, organiser need and cultural review pathway before the round opens on 12 October.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, organisers, cultural authority, source permissions, privacy, accessibility, moderation, budget and evaluation."
+    },
+    {
+      "match_key": "redland-community-support--stradbroke-grants-lab",
+      "grant_source_key": "redland-community-support",
+      "project_key": "stradbroke-grants-lab",
+      "fit_status": "clarify",
+      "fit_reason": "A time-limited public grant-readiness and digital inclusion program may fit community capacity outcomes; ongoing website maintenance and private consulting do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, defined community participants, public benefit, accessible delivery, privacy controls and non-commercial scope",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-09",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community grant-readiness and digital inclusion pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "This community grant-readiness and digital inclusion pilot could combine with resident or member fundraising, local sponsor cash or in-kind support, earned income where eligible, philanthropy and later grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Deliver facilitated grant-readiness sessions and accessible public tools for local groups, separate from routine platform maintenance.",
+      "next_move": "Confirm a community applicant and participant need before 12 October, then scope a finite workshop and support program.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, participants, facilitators, public/private boundary, accessibility, curriculum, budget and evaluation."
+    },
+    {
+      "match_key": "redland-community-support--health-and-culture",
+      "grant_source_key": "redland-community-support",
+      "project_key": "health-and-culture",
+      "fit_status": "clarify",
+      "fit_reason": "A defined local sport, outdoor-cinema, youth or wellbeing participation program may fit the upcoming Community Support round, but the broad concept is not one fundable project and cultural activity requires confirmed authority and permissions.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, authorised program lead, insurance, venue or site permissions, safeguarding, cultural authority where relevant and deliverable budget",
+      "evidence_needed": [
+        "eligible applicant or auspice and authorised application decision",
+        "one clearly defined participant group, local need, program and measurable outcomes",
+        "venue or site permission, insurance, safety, accessibility and safeguarding evidence",
+        "cultural authority, program rights, quotes, budget and delivery plan where relevant"
+      ],
+      "last_checked": "2026-09-23",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "local participation and wellbeing pilot layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "A small council program grant could sit beside unsecured participant or member fundraising, eligible earned income, local sponsorship, philanthropy and verified in-kind venue or volunteer support. No applicant, site, contribution or support is secured.",
+      "qualifying_reframe": "Select one achievable local participation program with clear health, cultural or recreational outcomes rather than seeking funds for the whole cross-sector concept.",
+      "next_move": "Before the round opens on 12 October, ask an authorised organiser to choose one program, participant group, venue, delivery team and budget, then confirm applicant eligibility and permissions.",
+      "human_roles": [
+        "Eligible applicant or auspice decision-maker",
+        "Program, venue, safety, safeguarding and accessibility leads",
+        "Participant, cultural-authority, rights and financial reviewers appropriate to the chosen activity"
+      ],
+      "ai_tasks": [
+        "Prepare a one-program scope, outcomes map and evidence checklist",
+        "Draft a budget and delivery timeline for human review",
+        "Flag unsupported applicant, site, cultural, participant, safety or co-funding claims"
+      ],
+      "readiness_check": "Confirm applicant or auspice, authority, one program, local need, participants, venue or site, insurance, safety, accessibility, safeguarding, cultural permissions where relevant, rights, quotes, budget, delivery team and reporting."
+    },
+    {
+      "match_key": "redland-community-support--cosmic-nexus",
+      "grant_source_key": "redland-community-support",
+      "project_key": "cosmic-nexus",
+      "fit_status": "clarify",
+      "fit_reason": "A small community source-literacy and storytelling activity may fit a cultural project, but travel, a general mystery atlas and unsupported claims are not a grant-ready scope.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, local cultural program, qualified facilitators, rights and participant safeguards",
+      "evidence_needed": [
+        "eligible applicant and authorised project lead",
+        "finite local workshops or exhibition with public outcomes",
+        "source, image, story and cultural permissions",
+        "facilitator plan, budget, insurance and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small cultural-literacy pilot layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include resident fundraising, local sponsorship, philanthropy, earned workshop income where eligible and verified in-kind venue or facilitation. Nothing is secured.",
+      "qualifying_reframe": "Turn the broad mystery atlas into one evidence-led local source-literacy and creative-storytelling pilot without presenting speculation as fact.",
+      "next_move": "Before 1 November, choose one local public activity and confirm applicant, facilitator, sources, permissions, audience, budget and outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Editorial and cultural-permissions reviewer",
+        "Facilitator, participant-safety and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a source and rights register",
+        "Draft a finite workshop or exhibition outline",
+        "Flag unsupported claims and missing authority"
+      ],
+      "readiness_check": "Confirm applicant, local benefit, evidence standard, qualified facilitator, rights, cultural authority where relevant, child safety where relevant, insurance, budget and reporting."
+    },
+    {
+      "match_key": "redland-community-support--explorer-music-video-lab",
+      "grant_source_key": "redland-community-support",
+      "project_key": "explorer-music-video-lab",
+      "fit_status": "clarify",
+      "fit_reason": "A finite artist-led local music-video planning and skills program may fit, but software development, a general online tool and unrelated production costs are not the community project.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, artists and participants, music and image rights, youth safeguards and delivery capacity",
+      "evidence_needed": [
+        "eligible applicant and artist-led delivery team",
+        "participant need and finite workshop outputs",
+        "music, image, performer and location permissions",
+        "budget, quotes, insurance, access and evaluation plan"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "creative-skills workshop and pilot-production layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include participant or member fundraising, local sponsorship, philanthropy, eligible earned income and verified in-kind artist, venue or equipment support. Nothing is secured.",
+      "qualifying_reframe": "Use the planning tool inside one local artist-led workshop series with clear participant learning and completed briefs, not as a software-development request.",
+      "next_move": "Before 1 November, confirm applicant, artists, participant cohort, rights, workshop plan, budget and deliverable outputs.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Artist and music-rights lead",
+        "Youth-safety, access, production and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the workshop plan and rights checklist",
+        "Draft a costed delivery schedule",
+        "Separate eligible program costs from software and capital costs"
+      ],
+      "readiness_check": "Confirm applicant, artists, participant need, rights, child safety where relevant, cultural authority where relevant, insurance, budget, quotes, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--film-club-documentary-builders",
+      "grant_source_key": "redland-community-support",
+      "project_key": "film-club-documentary-builders",
+      "fit_status": "clarify",
+      "fit_reason": "A finite community documentary learning and screening program may fit, but the online builder alone and unapproved filming of people, stories or Country do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, documentary facilitators, participant consent, story authority, rights and safe delivery",
+      "evidence_needed": [
+        "eligible applicant and accountable facilitators",
+        "community need, curriculum and measurable outputs",
+        "consent, privacy, story, archive and screening-rights protocol",
+        "budget, quotes, insurance, child safety and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "community documentary skills and screening layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include member fundraising, local sponsorship, philanthropy, ticket or earned income where eligible and verified in-kind venue, archive or equipment support. Nothing is secured.",
+      "qualifying_reframe": "Deliver one consent-led local documentary learning program with clear skills and screening outcomes, not a general software or content-acquisition request.",
+      "next_move": "Before 1 November, confirm applicant, facilitators, participant group, consent and rights protocol, venue, budget and outputs.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Documentary and editorial lead",
+        "Consent, cultural-authority, privacy, safety and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the consent, rights and evidence register",
+        "Draft a finite curriculum and screening plan",
+        "Flag stories or materials lacking permission"
+      ],
+      "readiness_check": "Confirm applicant, facilitators, participants, consent, privacy, rights, ICIP and cultural authority where relevant, child safety, insurance, budget, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--gajra-earth",
+      "grant_source_key": "redland-community-support",
+      "project_key": "gajra-earth",
+      "fit_status": "clarify",
+      "fit_reason": "A small facilitated local civic-imagination or environmental learning pilot may fit community outcomes, but development of a planetary intelligence system or global platform is not a council community project.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, qualified facilitators, finite local public activity, evidence base and participant safeguards",
+      "evidence_needed": [
+        "eligible applicant and authorised local project lead",
+        "one finite workshop, exhibition or learning pilot",
+        "public-benefit case, evidence and evaluation method",
+        "facilitator plan, venue, budget, insurance and permissions"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small public learning and civic-imagination pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include resident fundraising, local sponsorship, philanthropy, eligible earned workshop income and verified in-kind facilitation or venue support. Nothing is secured.",
+      "qualifying_reframe": "Define one practical local learning activity about joyful responsible abundance and whole-system thinking, separate from AI system development and global claims.",
+      "next_move": "Before 1 November, choose one local activity and confirm applicant, facilitator, evidence, audience, venue, budget and measurable outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Facilitator and evidence reviewer",
+        "Community, accessibility, cultural-permissions and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a plain-language activity brief",
+        "Build the evidence and permissions register",
+        "Separate testable public outcomes from speculative architecture"
+      ],
+      "readiness_check": "Confirm applicant, local public benefit, evidence, facilitators, accessibility, cultural authority where relevant, insurance, budget, venue, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--minjerribah-screen-media-network",
+      "grant_source_key": "redland-community-support",
+      "project_key": "minjerribah-screen-media-network",
+      "fit_status": "clarify",
+      "fit_reason": "A finite local screen and media skills pilot may fit, but a general network, permanent LED capital and implied organisational partnerships are not established project costs.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, authorised pilot, facilitators, venue, participant demand and rights",
+      "evidence_needed": [
+        "eligible applicant and approved pilot scope",
+        "participant need, program and measurable skills outcomes",
+        "facilitators, venue, equipment access and rights",
+        "budget, quotes, insurance, safety and reporting plan"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "local media skills and network-pilot layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include member fundraising, local sponsorship, visitor giving, philanthropy, eligible earned income and verified in-kind venue, broadcaster or equipment support. No role or contribution is secured.",
+      "qualifying_reframe": "Run one finite local media-skills and collaboration pilot with named roles confirmed only after assent, separate from LED capital and a permanent network build.",
+      "next_move": "Before 1 November, confirm applicant, pilot cohort, facilitators, venue, rights, budget and outcomes without naming unconfirmed partners.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Screen and media program lead",
+        "Cultural-authority, rights, safety, accessibility and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a role-first pilot plan",
+        "Draft the budget and evidence checklist",
+        "Flag unconfirmed partners, authority, rights and duplicated capital costs"
+      ],
+      "readiness_check": "Confirm applicant, pilot scope, participant need, facilitators, venue, rights, cultural authority where relevant, insurance, budget, quotes, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--plfc-ai-agent-md-forms",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-ai-agent-md-forms",
+      "fit_status": "clarify",
+      "fit_reason": "A committee-approved volunteer digital and AI-literacy program may fit, but the static forms alone and automated decision-making are not a complete or safe funded activity.",
+      "eligibility_status": "TO BE CONFIRMED: eligible club applicant, committee authority, member need, privacy controls, facilitators, insurance and delivery plan",
+      "evidence_needed": [
+        "committee approval and eligible applicant",
+        "member and volunteer digital-skills need",
+        "human-review, privacy and data-retention protocol",
+        "facilitator, budget, access and evaluation plan"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "volunteer digital and AI-literacy layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include club cash, member fundraising, local sponsorship, philanthropy, eligible earned activity and verified in-kind training or equipment access. Nothing is secured.",
+      "qualifying_reframe": "Use the forms inside one human-reviewed volunteer digital-literacy program with clear privacy boundaries, not as an autonomous AI system.",
+      "next_move": "Before 1 November, obtain committee direction and confirm participant need, facilitators, privacy rules, budget and learning outcomes.",
+      "human_roles": [
+        "Club committee decision-maker",
+        "Volunteer training and privacy lead",
+        "Member, accessibility, governance and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a privacy-safe workshop plan",
+        "Draft the human-review and data-boundary checklist",
+        "Separate training costs from routine club administration"
+      ],
+      "readiness_check": "Confirm committee authority, applicant eligibility, participant need, human oversight, privacy, insurance, facilitator, accessibility, budget and reporting."
+    },
+    {
+      "match_key": "redland-community-support--second-island",
+      "grant_source_key": "redland-community-support",
+      "project_key": "second-island",
+      "fit_status": "clarify",
+      "fit_reason": "A finite citizen-science and public-data literacy pilot may fit, but building a full digital twin, buying major infrastructure or publishing unverified data does not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, public learning program, lawful data and sensor access, site permissions and technical oversight",
+      "evidence_needed": [
+        "eligible applicant and authorised pilot",
+        "one local question, verified data method and participant plan",
+        "site, sensor, privacy, licence and cultural permissions",
+        "technical review, budget, insurance and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small citizen-science and evidence-literacy pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include resident fundraising, local sponsorship, philanthropy, later science or infrastructure grants and verified in-kind technical, venue or sensor support. Nothing is secured.",
+      "qualifying_reframe": "Choose one lawful, testable local citizen-science activity using real data and clear uncertainty labels, not a whole-island digital-twin build.",
+      "next_move": "Before 1 November, confirm applicant, one research question, data source, permissions, technical reviewer, participants, budget and outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Data, sensor or site controller",
+        "Technical, privacy, cultural-authority, safety and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the data provenance and permissions register",
+        "Draft a small citizen-science protocol",
+        "Flag invented data, unsupported claims and missing site authority"
+      ],
+      "readiness_check": "Confirm applicant, public benefit, data provenance, site and sensor access, privacy, cultural authority where relevant, technical review, insurance, budget, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--straddie-content-assets-kit",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-content-assets-kit",
+      "fit_status": "clarify",
+      "fit_reason": "A finite volunteer media-planning and skills program may fit, but the Markdown kit alone, routine content production and an uncosted equipment wish list do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, participant need, facilitators, lawful media use, insurance and delivery plan",
+      "evidence_needed": [
+        "eligible applicant and approved program",
+        "participant cohort and measurable media-skills outcomes",
+        "facilitators, venue, equipment access and rights protocol",
+        "budget, quotes, insurance, access and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small community media-planning and skills layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include member fundraising, local sponsorship, visitor giving, philanthropy, eligible earned activity and verified in-kind venue, trainer or equipment support. Nothing is secured.",
+      "qualifying_reframe": "Use the kit in one practical local media-planning workshop series with clear outputs, permissions and handoffs, not as a general content or software request.",
+      "next_move": "Before 1 November, confirm applicant, participant need, trainer, venue, equipment access, rights, budget and deliverables.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Community media trainer",
+        "Rights, privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the workshop and equipment-access checklist",
+        "Draft a rights-safe content workflow",
+        "Separate program delivery from routine content and capital costs"
+      ],
+      "readiness_check": "Confirm applicant, participants, facilitator, venue, rights, privacy, cultural authority where relevant, insurance, equipment access, budget, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--straddie-digital-twin-explainer",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-digital-twin-explainer",
+      "fit_status": "clarify",
+      "fit_reason": "A finite public data-literacy and phone-scanning education pilot may fit, but building a full digital twin or collecting community data without authority does not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, public-learning need, lawful data method, site permissions, privacy and technical oversight",
+      "evidence_needed": [
+        "eligible applicant and authorised learning program",
+        "plain-language curriculum and participant outcomes",
+        "site, image, data, privacy and cultural permissions",
+        "technical review, accessibility, budget, insurance and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small public data-literacy and scanning pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include resident fundraising, local sponsorship, philanthropy, later digital grants and verified in-kind technical, device or venue support. Nothing is secured.",
+      "qualifying_reframe": "Teach one transparent public data-literacy activity with consent-based phone scanning and uncertainty labels, not a whole-island data-acquisition program.",
+      "next_move": "Before 1 November, confirm applicant, one learning activity, data boundaries, site permissions, technical reviewer, participants, budget and outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Data, image and site-permissions lead",
+        "Technical, privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the data and consent checklist",
+        "Draft a plain-language workshop plan",
+        "Flag unclear provenance, privacy and site authority"
+      ],
+      "readiness_check": "Confirm applicant, public benefit, curriculum, data provenance, consent, privacy, site access, cultural authority where relevant, technical review, insurance, budget and reporting."
+    },
+    {
+      "match_key": "redland-community-support--straddie-space-station-simulator",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-space-station-simulator",
+      "fit_status": "clarify",
+      "fit_reason": "A finite hands-on STEM and resilient-design learning program may fit, but the browser simulator alone, a dwelling proposal or real habitat construction does not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, qualified educators, participant need, safe curriculum, site and delivery capacity",
+      "evidence_needed": [
+        "eligible applicant and educator-led program",
+        "learning objectives, cohort and measurable outcomes",
+        "safe activities, child-safety and accessibility plan",
+        "venue, materials, budget, insurance and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small STEM and resilient-design learning pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include participant or member fundraising, local sponsorship, philanthropy and verified in-kind educator, venue, device or materials support. Nothing is secured.",
+      "qualifying_reframe": "Use the simulator in one safe educator-led STEM program about constraints, systems and resilient habitat design, not as a construction or housing proposal.",
+      "next_move": "Before 1 November, confirm applicant, educator, participant cohort, curriculum, safety, venue, materials, budget and outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Qualified STEM educator",
+        "Child-safety, accessibility, technical and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the curriculum and safety checklist",
+        "Draft a costed activity plan",
+        "Separate learning claims from speculative engineering"
+      ],
+      "readiness_check": "Confirm applicant, educator, cohort, learning evidence, child safety where relevant, accessibility, venue, insurance, materials, budget, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--straddie-twin-prototype",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-twin-prototype",
+      "fit_status": "clarify",
+      "fit_reason": "A finite public evidence and transport-literacy pilot may fit, but software development, formal transport planning and collection of local observations without authority do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, community-learning scope, lawful source data, privacy, site permissions and technical review",
+      "evidence_needed": [
+        "eligible applicant and authorised pilot",
+        "one public-learning question and participant plan",
+        "satellite, panorama, observation and privacy permissions",
+        "technical review, accessibility, budget, insurance and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small evidence and transport-literacy pilot",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include resident fundraising, local sponsorship, philanthropy, later transport or digital grants and verified in-kind technical or venue support. Nothing is secured.",
+      "qualifying_reframe": "Use the prototype in one transparent public workshop about evidence, uncertainty and a hypothetical transport exercise, not as an official planning system.",
+      "next_move": "Before 1 November, confirm applicant, one workshop scope, source licences, observation privacy, technical reviewer, venue, budget and outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Data and transport-evidence reviewer",
+        "Privacy, site, cultural-authority, accessibility and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the source and uncertainty register",
+        "Draft a workshop and evidence checklist",
+        "Flag any suggestion of official endorsement or invented data"
+      ],
+      "readiness_check": "Confirm applicant, public benefit, source licences, privacy, site access, cultural authority where relevant, technical review, insurance, budget, delivery and reporting."
+    },
+    {
+      "match_key": "redland-community-support--straddie-twins",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-twins",
+      "fit_status": "clarify",
+      "fit_reason": "A finite community data-literacy program may fit, but the public website alone, full twin development and unverified statements about Country or infrastructure do not.",
+      "eligibility_status": "TO BE CONFIRMED: eligible Redland not-for-profit or auspice, community-learning need, evidence boundaries, facilitators, permissions and delivery capacity",
+      "evidence_needed": [
+        "eligible applicant and authorised learning program",
+        "participant cohort, curriculum and measurable outcomes",
+        "source provenance, image, data and cultural permissions",
+        "facilitator, accessibility, budget, insurance and evaluation"
+      ],
+      "last_checked": "2026-09-30",
+      "action_priority": "prepare_next",
+      "action_by": "2026-11-01",
+      "stack_role": "small community data-literacy layer",
+      "funding_ask": "Up to $20,000",
+      "cofunding_plan": "Possible layers include resident fundraising, local sponsorship, philanthropy, later digital grants and verified in-kind facilitator, venue or device support. Nothing is secured.",
+      "qualifying_reframe": "Deliver one plain-language community learning program that separates real, modelled, proposed and unknown information, rather than funding the whole digital-twin platform.",
+      "next_move": "Before 1 November, confirm applicant, facilitator, participant cohort, sources, permissions, venue, budget and learning outcomes.",
+      "human_roles": [
+        "Eligible applicant decision-maker",
+        "Evidence and public-data facilitator",
+        "Privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare the evidence-boundary checklist",
+        "Draft a plain-language curriculum",
+        "Flag unclear provenance, authority and unsupported claims"
+      ],
+      "readiness_check": "Confirm applicant, public benefit, facilitators, evidence provenance, privacy, cultural authority where relevant, accessibility, insurance, budget, delivery and reporting."
+    }
+  ],
+  "partner_pathways": [
+    {
+      "pathway_key": "redland-community-support--stradbroke-grants-lab--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "stradbroke-grants-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--quandamooka-country-events-engine--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "quandamooka-country-events-engine",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--legal-memory-workbench--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "legal-memory-workbench",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-content-assets-kit--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-content-assets-kit",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Community media trainer",
+        "Rights, privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--film-club-documentary-builders--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "film-club-documentary-builders",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Documentary and editorial lead",
+        "Consent, cultural-authority, privacy, safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--grey-area-commons--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "grey-area-commons",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--bees-and-allies--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "bees-and-allies",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--wildlife-rescue-minjerribah--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "wildlife-rescue-minjerribah",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-11-01"
+    },
+    {
+      "pathway_key": "redland-community-support--health-and-culture--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "health-and-culture",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant or auspice decision-maker",
+        "Program, venue, safety, safeguarding and accessibility leads",
+        "Participant, cultural-authority, rights and financial reviewers appropriate to the chosen activity"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-23"
+    },
+    {
+      "pathway_key": "redland-community-support--bigger-local-picture--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "bigger-local-picture",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--minjerribah-screen-media-network--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "minjerribah-screen-media-network",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Screen and media program lead",
+        "Cultural-authority, rights, safety, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--p4a-purple-civic-lab--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "p4a-purple-civic-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, cultural, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-09"
+    },
+    {
+      "pathway_key": "redland-community-support--cosmic-nexus--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "cosmic-nexus",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Editorial and cultural-permissions reviewer",
+        "Facilitator, participant-safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--gajra-earth--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "gajra-earth",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Facilitator and evidence reviewer",
+        "Community, accessibility, cultural-permissions and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--plfc-community-platform--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-community-platform",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Club committee decision-maker",
+        "Member, volunteer and accessibility representatives",
+        "Privacy, technical and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-08"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-space-station-simulator--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-space-station-simulator",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Qualified STEM educator",
+        "Child-safety, accessibility, technical and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--plfc-ai-agent-md-forms--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "plfc-ai-agent-md-forms",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Club committee decision-maker",
+        "Volunteer training and privacy lead",
+        "Member, accessibility, governance and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--explorer-music-video-lab--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "explorer-music-video-lab",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Artist and music-rights lead",
+        "Youth-safety, access, production and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-digital-twin-explainer--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-digital-twin-explainer",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Data, image and site-permissions lead",
+        "Technical, privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--second-island--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "second-island",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Data, sensor or site controller",
+        "Technical, privacy, cultural-authority, safety and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-twins--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-twins",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Evidence and public-data facilitator",
+        "Privacy, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--straddie-twin-prototype--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "straddie-twin-prototype",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible applicant decision-maker",
+        "Data and transport-evidence reviewer",
+        "Privacy, site, cultural-authority, accessibility and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-30"
+    },
+    {
+      "pathway_key": "redland-community-support--minjerribah-site-and-service-ideas--roles",
+      "grant_source_key": "redland-community-support",
+      "project_key": "minjerribah-site-and-service-ideas",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Eligible local applicant or auspice",
+        "Community and project decision lead",
+        "Site, service, cultural, planning and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-08"
+    }
+  ]
+}

@@ -29,11 +29,13 @@ http://localhost:4180/
 
 - `data/grants.json`: grant programs and search portals
 - `data/grant-watchlist.json`: generated shortlist from grant sources and window hints
+- `data/grant-archive.json`: generated index of closed rounds and historical project research
 - `data/entities.json`: public research leads for possible local connections; inclusion is not assent
-- `data/projects.json`: Strange But True and island project ideas
-- `data/ledger-projects.json`: generated copy of the public Community Ledger project cards
+- `data/projects.json`: earlier ideas and research, with links to current Ledger records where the relationship is documented
+- `data/ledger-projects.json`: current Strange but True Community Ledger cards selected for Grants Lab, with geography and involvement
+- `data/project-atlas-scope.json`: research tags and stable keys for existing Ledger projects
 - `data/grant-project-matches.json`: reviewed grant-to-project research matches
-- `data/partner-pathways.json`: role-based potential-connection planning with explicit assent boundaries
+- `data/partner-pathways.json`: generated role plans for individual project and funding pairs, with existing review notes and assent retained by pair
 - `data/source-docs.json`: summaries of the supplied research documents
 - `data/grant-windows.json`: noticeboard-ready grant timing hints
 
@@ -58,21 +60,37 @@ python tools/sync_ledger_projects.py
 python tools/normalise_funding_stacks.py
 python tools/build_partner_pathways.py
 python tools/build_watchlist.py
+python tools/build_grant_archive.py
 python tools/validate_data.py
 ```
 
-The GitHub Action runs the same check.
+The GitHub Action validates the checked-in data and checks that rebuilding the watchlist and role plans reproduces the published records.
 
 ## Watchlist Refresh
 
 Use `profiles/templates/grant-watchlist-agent.md` as the agent brief for regular grant scans. It explains the source order, timing-window labels and the `source_key` rule that prevents one program's round status from leaking into unrelated grants.
 
-The weekly scan also refreshes the Community Ledger intake, keeps at least one truthful funding pathway for every project and prepares connection roles for human review. It must not contact anyone or imply eligibility, endorsement, authority, site control or assent.
+Daily checks focus on deadlines and material status changes. The weekly refresh also reviews Community Ledger intake, records evidence-backed matches, and rebuilds the [grant archive](grant-archive.html). Projects without a credible match remain visible for research. Project participation invitations are explained on the [Take part page](participate.html).
+
+Use the [project catalogue](ledger-projects.html) for current project URLs and the [funding desk](grant-watchlist.html) for grant sources. A reviewed match links one `project_key` to one exact `source_key`. Related editions, pilots and hubs have separate records, since applicant requirements and evidence can differ. The Lab's own Community Ledger entry identifies this tool and is excluded from the funding catalogue.
 
 ## Funding refresh history
 
 The [1 November 2026 funding snapshot](data/history/2026-11-01-funding-refresh.json) preserves complete superseded grant, timing, project-match and partner-pathway records, with official verification sources and access limitations. Historical records are not active opportunities. Projects without a verified current grant retain clearly labelled, research-only local-support planning where appropriate; no support, eligibility or assent is implied.
 
+
+## Site imagery
+
+The full-width heroes are AI-generated landscapes inspired by Minjerribah. The inline photographs show actual locations. Sarah Barry’s [Point Lookout foreshore](https://commons.wikimedia.org/wiki/File:Point_Lookout,_North_Stradbroke_Island,_by_Sarah_Barry.jpg) is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and Pacificwizard’s [Amity Point Jetty](https://commons.wikimedia.org/wiki/File:Amity_Point_Jetty_at_Sunset._North_Stradbroke_Island,_Queensland,_Australia.jpg) is [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/). The WebP copies are compressed and cropped for display. The photographs retain their own terms.
+
+<details>
+<summary>Hero image prompts</summary>
+
+- [Home hero](assets/hero-home-2026.webp). Photorealistic editorial landscape for a website hero, very wide 2:1 panorama. Minjerribah / North Stradbroke Island inspired headland at blue hour, dark violet-grey coastal heath and cliffs in foreground, cyan ocean swell curving around to the right and warm gold light faintly visible on the horizon. Grounded South East Queensland coastal vegetation, spacious and quietly energising. Left third darker and calm, central visual anchor that survives a tall crop. No lettering, people, signage, map overlay, logos or watermark. A place-inspired illustration, no claim to depict a precise site.
+- [Grants hero](assets/hero-grants-2026.webp). Photorealistic coastal editorial photograph for a grant directory hero, very wide 2:1 panorama. A Queensland bay viewed from near the shore at sunrise, shallow ripples leading toward a distant jetty silhouette and an open horizon, deep midnight purple shadows, bright true cyan water and muted gold dawn. Natural, clear, purposeful, with an uncluttered left third under text and an interesting central focal point for mobile crop. No lettering, logos, signage, people or watermark. Inspired by Minjerribah.
+- [Projects hero](assets/hero-projects-2026.webp). Photorealistic coastal editorial photograph for a community project finder hero, very wide 2:1 panorama. Sandy walking track through windswept South East Queensland coastal banksia and pandanus toward a turquoise headland cove, early morning light with soft warm sand and violet shadows. Calm darker left third, pathway and vista in the central half for a mobile crop. Tangible ground textures, Minjerribah-inspired landscape, no lettering, people, logos, structures or watermark.
+
+</details>
 
 ## Entity Boundary
 
@@ -94,12 +112,11 @@ This workbench does not establish eligibility, partner assent, authority, capabi
 
 ## Related public projects
 
-Each link below reflects an evidenced family, lineage or direct connection. This project has 17 relevant public connections.
+Each link below reflects an evidenced family, lineage or direct connection. This project has 16 relevant public connections.
 
 ### Direct and other supported connections
 
 - [global-founder-atlas](https://github.com/auraofintelligence/global-founder-atlas) - [public page](https://auraofintelligence.github.io/global-founder-atlas/) - explicit cross-reference.
-- [straddie-vitality-network-builders](https://github.com/auraofintelligence/straddie-vitality-network-builders) - [public page](https://auraofintelligence.github.io/straddie-vitality-network-builders/) - explicit cross-reference.
 - [strange-but-true](https://github.com/auraofintelligence/strange-but-true) - [public page](https://auraofintelligence.github.io/strange-but-true/) - explicit cross-reference.
 
 ### Funding, procurement and project-readiness workbenches

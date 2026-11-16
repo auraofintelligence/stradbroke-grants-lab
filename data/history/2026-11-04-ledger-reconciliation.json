@@ -1,0 +1,276 @@
+{
+  "as_of": "2026-11-04",
+  "purpose": "Preserved research from projects outside the current Community Ledger catalogue.",
+  "matches": [
+    {
+      "match_key": "frrr-src-prepare-recover-round-31--disaster-resilience",
+      "grant_source_key": "frrr-src-prepare-recover-round-31",
+      "project_key": "disaster-resilience",
+      "fit_status": "clarify",
+      "fit_reason": "A locally led preparedness and information-sharing project aligns strongly if it addresses a specific climate or disaster risk.",
+      "eligibility_status": "TO BE CONFIRMED: eligible local not-for-profit, defined climate or disaster risk, community leadership and only one SRC stream",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-18",
+      "action_priority": "prepare_next",
+      "action_by": "2026-12-03",
+      "stack_role": "community preparedness",
+      "funding_ask": "Up to $25,000",
+      "cofunding_plan": "Use this community preparedness to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Select one risk, community cohort and practical preparedness outcome rather than a broad resilience brand.",
+      "next_move": "Use FRRR for community capability and small equipment; council Get Ready funds require a separate authorised council route.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, hazard evidence, local leadership, emergency-service boundaries, delivery plan and measures."
+    },
+    {
+      "match_key": "frrr-src-prepare-recover-round-31--minjerribah-resilience",
+      "grant_source_key": "frrr-src-prepare-recover-round-31",
+      "project_key": "minjerribah-resilience",
+      "fit_status": "clarify",
+      "fit_reason": "A broad resilience umbrella can fit only after it selects a specific climate risk and community-led response.",
+      "eligibility_status": "TO BE CONFIRMED: eligible local not-for-profit, defined climate risk, community leadership and only one SRC stream",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-18",
+      "action_priority": "prepare_next",
+      "action_by": "2026-12-03",
+      "stack_role": "community resilience delivery",
+      "funding_ask": "Up to $25,000",
+      "cofunding_plan": "This community resilience delivery can be combined with memberships, ticket or earned income where eligible, resident fundraising, local sponsor cash or in-kind support, visitor giving, philanthropy and later program grants. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Choose one island-wide preparedness or recovery capability with practical deliverables and local leadership.",
+      "next_move": "Use FRRR for community capability; use ARENA for large electrification only and Get Ready only through Council.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Confirm applicant, risk evidence, local leadership, delivery plan and one SRC stream choice."
+    },
+    {
+      "match_key": "arena-community-electrification-arp-2026--minjerribah-resilience",
+      "grant_source_key": "arena-community-electrification-arp-2026",
+      "project_key": "minjerribah-resilience",
+      "fit_status": "clarify",
+      "fit_reason": "Energy resilience could fit only as a large consumer-energy demonstration with experienced delivery and finance.",
+      "eligibility_status": "TO BE CONFIRMED: ARP eligibility, proven consortium, finance, roughly 1,000-home scale, innovation and community engagement",
+      "evidence_needed": [
+        "confirmed legal applicant and authority to apply",
+        "grant-specific eligible scope, budget and quotes",
+        "local need, delivery plan and measurable outcomes",
+        "site, cultural, rights, safety or partner permissions where relevant"
+      ],
+      "last_checked": "2026-09-01",
+      "action_priority": "build_pathway",
+      "action_by": null,
+      "stack_role": "energy-resilience demonstration",
+      "funding_ask": "ARENA aims for at least $4 million per selected jurisdictional demonstration",
+      "cofunding_plan": "Use this energy-resilience demonstration to unlock later delivery grants, resident or member fundraising, local sponsorship, visitor giving and philanthropy, eligible applicant cash, earned income and verified in-kind support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Define scalable household electrification, storage, orchestration and equity outcomes rather than general resilience.",
+      "next_move": "Use smaller grants for preparedness; ARENA is a later consortium-scale capital and innovation pathway.",
+      "human_roles": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "ai_tasks": [
+        "Maintain the official-source and eligibility checklist",
+        "Prepare the evidence register, budget worksheet and deadline brief for human review",
+        "Flag unsupported claims, missing authority, duplicated costs and source changes"
+      ],
+      "readiness_check": "Map technical, network, finance, community and governance requirements without implying partner assent."
+    },
+    {
+      "match_key": "first-nations-innovation-acceleration-qld-2026--minjerribah-living-twin",
+      "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+      "project_key": "minjerribah-living-twin",
+      "fit_status": "clarify",
+      "fit_reason": "A community-controlled digital-twin service may fit only if an established First Nations-owned business chooses and governs the project. The current public prototype has not been reviewed by Traditional Owners.",
+      "eligibility_status": "TO BE CONFIRMED: First Nations ownership and authority, established business, community purpose, data governance, product scope and delivery capability",
+      "evidence_needed": [
+        "First Nations-owned project and decision rights",
+        "community-chosen public and restricted data rules",
+        "defined product, users and benefits",
+        "business, technical, privacy, budget and milestone evidence"
+      ],
+      "last_checked": "2026-09-08",
+      "action_priority": "prepare_next",
+      "action_by": "2027-02-04",
+      "stack_role": "First Nations-controlled digital infrastructure pathway",
+      "funding_ask": "Advisory services and possible grants up to $100,000",
+      "cofunding_plan": "An authorised project could combine this pathway with member or resident fundraising, local sponsorship, philanthropy, earned service income and verified in-kind data, technical or site support. Every layer is unconfirmed until evidenced.",
+      "qualifying_reframe": "Offer the prototype as optional research material for a First Nations-controlled team to accept, change or reject while defining its own service and data rules.",
+      "next_move": "Do not present the prototype as community-controlled yet; first confirm whether an eligible First Nations-owned lead wants to govern a defined digital-twin service.",
+      "human_roles": [
+        "First Nations project and data authority",
+        "Eligible business decision-maker",
+        "Community, cultural, privacy, technical and financial reviewers"
+      ],
+      "ai_tasks": [
+        "Prepare a blank governance and data-classification framework",
+        "Map applicant and product evidence for human review",
+        "Flag any implied Traditional Owner approval or ownership"
+      ],
+      "readiness_check": "Confirm First Nations ownership, authority, applicant status, community-defined purpose, data rights, privacy, product scope, capability, budget and milestones."
+    },
+    {
+      "match_key": "island-partner-watch--ready-set-co-op-hyperlocal-media",
+      "grant_source_key": "island-partner-watch",
+      "project_key": "ready-set-co-op-hyperlocal-media",
+      "fit_status": "watch",
+      "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one small community media or digital-skills pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+      "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
+      "evidence_needed": [
+        "authorised lead and bounded public-benefit scope",
+        "lawful fundraising or sponsorship structure and evidenced budget",
+        "rights, cultural authority, site, insurance and safety evidence where relevant",
+        "explicit supporter assent before any involvement is described as agreed"
+      ],
+      "last_checked": "2026-11-01",
+      "action_priority": "watch",
+      "action_by": null,
+      "stack_role": "research-only local fundraising and in-kind support",
+      "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+      "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+      "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one small community media or digital-skills pilot. Do not treat this as evidence of a registered co-op, employer or training organisation.",
+      "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
+      "human_roles": [
+        "Authorised project lead and budget decision-maker",
+        "Relevant artists, facilitators, site or rights holders for the defined pilot",
+        "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+      ],
+      "ai_tasks": [
+        "Prepare a costed pilot and evidence checklist for human review",
+        "Research possible local support without contacting anyone or implying assent",
+        "Flag unsupported authority, rights, community demand, operating status or funding claims"
+      ],
+      "readiness_check": "Confirm an authorised project lead, lawful operating structure, defined participants, trainer or facilitator, media rights, privacy, equipment access, budget and delivery capacity. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
+    },
+    {
+      "match_key": "island-partner-watch--straddie-headline-open-mic",
+      "grant_source_key": "island-partner-watch",
+      "project_key": "straddie-headline-open-mic",
+      "fit_status": "watch",
+      "fit_reason": "No verified current grant match is retained for this project. Locally researched fundraising or in-kind help could support one optional, permitted local open-mic pilot, subject to human review. This is not an open grant, confirmed supporter or funding commitment.",
+      "eligibility_status": "TO BE CONFIRMED: authorised project lead, lawful fundraising or sponsorship structure, project scope, rights, cultural authority where relevant, budget and explicit permission before naming or contacting supporters",
+      "evidence_needed": [
+        "authorised lead and bounded public-benefit scope",
+        "lawful fundraising or sponsorship structure and evidenced budget",
+        "rights, cultural authority, site, insurance and safety evidence where relevant",
+        "explicit supporter assent before any involvement is described as agreed"
+      ],
+      "last_checked": "2026-11-01",
+      "action_priority": "watch",
+      "action_by": null,
+      "stack_role": "research-only local fundraising and in-kind support",
+      "funding_ask": "No grant amount or committed support — develop an evidenced budget first",
+      "cofunding_plan": "Possible resident or member fundraising, local sponsorship, philanthropy, lawful earned income and in-kind support remain entirely unsecured. Verify permissions, costs and any future grant separately; avoid duplicate funding.",
+      "qualifying_reframe": "Only if an authorised lead confirms real community need and feasibility, explore one optional, permitted local open-mic pilot. Do not treat this as funding for the prompt-board website itself.",
+      "next_move": "Review the preserved project scope and readiness evidence with an authorised lead. Research possible local fundraising, sponsorship and in-kind support, but do not contact anyone, name supporters as committed or revive the expired grant round without new verified evidence.",
+      "human_roles": [
+        "Authorised project lead and budget decision-maker",
+        "Relevant artists, facilitators, site or rights holders for the defined pilot",
+        "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+      ],
+      "ai_tasks": [
+        "Prepare a costed pilot and evidence checklist for human review",
+        "Research possible local support without contacting anyone or implying assent",
+        "Flag unsupported authority, rights, community demand, operating status or funding claims"
+      ],
+      "readiness_check": "Confirm an authorised organiser, real participant interest, venue permission, artists and performance rights, safety, access, insurance and a costed one-event plan. Check the lawful basis for any fundraising; obtain explicit assent before describing anyone as involved. No contact or application is authorised by this record."
+    }
+  ],
+  "partner_pathways": [
+    {
+      "pathway_key": "frrr-src-prepare-recover-round-31--disaster-resilience--roles",
+      "grant_source_key": "frrr-src-prepare-recover-round-31",
+      "project_key": "disaster-resilience",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-18"
+    },
+    {
+      "pathway_key": "frrr-src-prepare-recover-round-31--minjerribah-resilience--roles",
+      "grant_source_key": "frrr-src-prepare-recover-round-31",
+      "project_key": "minjerribah-resilience",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Legal applicant decision-maker",
+        "Project lead",
+        "Community, subject-matter and financial reviewers appropriate to the scope"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-18"
+    },
+    {
+      "pathway_key": "island-partner-watch--ready-set-co-op-hyperlocal-media--roles",
+      "grant_source_key": "island-partner-watch",
+      "project_key": "ready-set-co-op-hyperlocal-media",
+      "planning_status": "needs_human_review",
+      "roles_needed": [
+        "Authorised project lead and budget decision-maker",
+        "Relevant artists, facilitators, site or rights holders for the defined pilot",
+        "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The public proposal is not a registered co-op, employer or training organisation. No organisation has been approached or named, and all delivery and partnership claims remain to be confirmed.",
+      "last_checked": "2026-11-01"
+    },
+    {
+      "pathway_key": "island-partner-watch--straddie-headline-open-mic--roles",
+      "grant_source_key": "island-partner-watch",
+      "project_key": "straddie-headline-open-mic",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "Authorised project lead and budget decision-maker",
+        "Relevant artists, facilitators, site or rights holders for the defined pilot",
+        "Safety, accessibility, cultural-authority and financial reviewers where relevant"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-11-01"
+    },
+    {
+      "pathway_key": "first-nations-innovation-acceleration-qld-2026--minjerribah-living-twin--roles",
+      "grant_source_key": "first-nations-innovation-acceleration-qld-2026",
+      "project_key": "minjerribah-living-twin",
+      "planning_status": "research_only",
+      "roles_needed": [
+        "First Nations project and data authority",
+        "Eligible business decision-maker",
+        "Community, cultural, privacy, technical and financial reviewers"
+      ],
+      "candidate_partners": [],
+      "boundary_note": "The listed roles are planning needs. The island directory contains public research leads only; no organisation has been approached, approved or assigned to this project.",
+      "last_checked": "2026-09-08"
+    }
+  ]
+}
