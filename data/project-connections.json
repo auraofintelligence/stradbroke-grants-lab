@@ -43,10 +43,10 @@
       "source_url": "https://auraofintelligence.github.io/straddie-tenders-lab/bid-readiness.html"
     },
     {
-      "project_key": "straddie-twin-prototype",
+      "project_key": "straddie-twins",
       "group": "shared",
-      "summary": "A working preview combines dated imagery, published panoramas and a simple shuttle-queue exercise. The data page shows which views are measured, assumed or still unknown.",
-      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
+      "summary": "Start here to compare and open either of the two unfinished builds, Minjerribah Living Twin and Second Island. The guide explains what each can show and what is still being worked out.",
+      "source_url": "https://auraofintelligence.github.io/straddie-twins/two-builds.html"
     },
     {
       "project_key": "community-club-builder-sandy-sports",
@@ -217,10 +217,10 @@
       "source_url": "https://auraofintelligence.github.io/moreton-bay-autonomous-mobility/pilot-plan.html"
     },
     {
-      "project_key": "straddie-twins",
+      "project_key": "straddie-twin-prototype",
       "group": "reference",
-      "summary": "A guide compares two working island model builds, with the source and status of each piece. One models a wider island world and the other focuses on checking data and keeping passenger and vehicle ferry records separate.",
-      "source_url": "https://auraofintelligence.github.io/straddie-twins/two-builds.html"
+      "summary": "A separate map preview uses selected data from both builds, with dated imagery, panoramas and a shuttle queue exercise. Its sources page explains what was measured and what is still unknown.",
+      "source_url": "https://auraofintelligence.github.io/straddie-twin-prototype/sources.html"
     },
     {
       "project_key": "straddie-digital-twin-explainer",

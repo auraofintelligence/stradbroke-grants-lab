@@ -489,18 +489,20 @@ select.search-input {
 }
 .site-footer a { color: var(--minjerribah-aqua); }
 .to-top {
-  background: var(--strange-purple);
+  background: #753bd1;
   border: 0;
   border-radius: 999px;
-  bottom: 1.2rem;
+  bottom: calc(1.2rem + env(safe-area-inset-bottom, 0px));
   box-shadow: 0 0 20px rgba(143, 77, 255, 0.72);
   color: var(--soft-white);
   cursor: pointer;
   display: none;
   font: 900 0.9rem var(--heading);
+  min-height: 44px;
   padding: 0.9rem 1rem;
   position: fixed;
-  right: 1.2rem;
+  right: calc(1.2rem + env(safe-area-inset-right, 0px));
+  z-index: 5;
 }
 .to-top.is-visible { display: block; }
 .load-error {

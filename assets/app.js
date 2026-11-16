@@ -37,13 +37,19 @@ document.querySelectorAll(".nav-links a").forEach((link) => {
   else if (href === sectionLanding[document.body.dataset.page]) link.setAttribute("aria-current", "location");
 });
 
-const topButton = document.querySelector("[data-to-top]");
-if (topButton) {
-  const updateTopButton = () => topButton.classList.toggle("is-visible", window.scrollY > 560);
-  updateTopButton();
-  window.addEventListener("scroll", updateTopButton, { passive: true });
-  topButton.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
-}
+const topButton = document.createElement("button");
+topButton.type = "button";
+topButton.className = "to-top";
+topButton.textContent = "Back to top";
+document.body.append(topButton);
+
+const updateTopButton = () => topButton.classList.toggle("is-visible", window.scrollY > 560);
+updateTopButton();
+window.addEventListener("scroll", updateTopButton, { passive: true });
+topButton.addEventListener("click", () => {
+  document.querySelector(".brand-mark")?.focus({ preventScroll: true });
+  window.scrollTo({ top: 0 });
+});
 
 async function loadJson(path) {
   const response = await fetch(path, { cache: "no-cache" });
@@ -667,7 +673,11 @@ async function renderLedgerProjects() {
     const renderGrid = (entries) => `<div class="data-grid">${entries.map(renderCard).join("")}</div>`;
     const islandItems = items.filter((item) => profileByKey.get(item.project_key)?.group !== "wider");
     const longGame = items.filter((item) => profileByKey.get(item.project_key)?.group === "wider").sort(byReviewOrder);
-    document.querySelector("#projectResults").textContent = `${items.length} project${items.length === 1 ? "" : "s"} found`;
+    const resultCounts = [
+      islandItems.length ? `${islandItems.length} Straddie listing${islandItems.length === 1 ? "" : "s"}` : "",
+      longGame.length ? `${longGame.length} long-game reference${longGame.length === 1 ? "" : "s"}` : "",
+    ].filter(Boolean);
+    document.querySelector("#projectResults").textContent = resultCounts.join(" · ") || "No matching projects";
     if (!items.length) {
       grid.innerHTML = '<p class="empty-copy">No projects match. Try another search or clear a filter.</p>';
       return;
