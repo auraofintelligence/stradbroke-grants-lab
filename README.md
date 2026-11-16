@@ -75,7 +75,7 @@ Daily checks focus on deadlines and material status changes. The weekly refresh 
 
 Use the [project catalogue](ledger-projects.html) for current project URLs and the [funding desk](grant-watchlist.html) for grant sources. A reviewed match links one `project_key` to one exact `source_key`. Related editions, pilots and hubs have separate records, since applicant requirements and evidence can differ. The Lab's own Community Ledger entry identifies this tool and is excluded from the funding catalogue.
 
-The Projects page starts with shared island tools and practical work on Straddie. The order within each group is the order of the reviewed profiles in `data/project-connections.json`. Long-term Straddie research sits under the long game. Work at other scales stays in the [Community Ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) and can still be reached through older direct links. The home page, funding overview and grant matches focus on local projects. A connection describes a shared tool, documented plan or possible use and carries its own source.
+The Projects page starts with shared island tools and practical work on Straddie. The order within each group is the order of the reviewed profiles in `data/project-connections.json`. Long-term Straddie research sits under the long game. Work at other scales stays in the [Community Ledger](https://auraofintelligence.github.io/strange-but-true/community-ledger.html) and can still be reached through older direct links. The home page, funding overview and grant matches focus on local projects. Public project links need a source that names the specific project or demonstrates a concrete reuse or handoff. Possible uses are research notes.
 
 ## Funding refresh history
 

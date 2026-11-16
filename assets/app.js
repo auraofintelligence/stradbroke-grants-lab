@@ -554,6 +554,7 @@ async function renderLedgerProjects() {
   const projectOrder = new Map(projectReview.profiles.map((profile, index) => [profile.project_key, index]));
   const connectionsByKey = new Map(projects.map((project) => [project.project_key, []]));
   for (const connection of projectReview.connections) {
+    if (connection.kind !== "documented") continue;
     const from = projectsByKey.get(connection.from);
     const to = projectsByKey.get(connection.to);
     if (!from || !to) continue;
@@ -615,9 +616,9 @@ async function renderLedgerProjects() {
     const parts = profile || connections.length ? `<details class="archive-projects project-connections">
       <summary>${connections.length ? "Connections and sources" : "Project source"}</summary>
       ${profile ? `<p><a href="${escapeHtml(profile.source_url)}">Read about this work</a></p>` : ""}
-      ${connections.length ? `<ul class="resource-links">${connections.map(({ project, note, kind, source_url: sourceUrl }) => `<li>
+      ${connections.length ? `<ul class="resource-links">${connections.map(({ project, note, source_url: sourceUrl }) => `<li>
         <a href="${escapeHtml(projectHref(project.project_key))}">${escapeHtml(project.title)}</a>
-        <p>${kind === "possible" ? "<strong>Possible use.</strong> " : ""}${escapeHtml(note)}
+        <p>${escapeHtml(note)}
           <a href="${escapeHtml(sourceUrl)}" aria-label="Source for the link to ${escapeHtml(project.title)}">Source</a>
         </p>
       </li>`).join("")}</ul>` : ""}

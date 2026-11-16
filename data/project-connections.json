@@ -99,7 +99,7 @@
     {
       "project_key": "bees-and-allies",
       "group": "local",
-      "summary": "A beekeeper-led proposal starts with a conversation and an opt-in register of hive health. A permanent lab is a later option once people agree what is needed and what data can be shared.",
+      "summary": "A proposal for local beekeepers to lead a conversation and opt-in register on hive health. A permanent lab is a later option once people agree what is needed and what data can be shared.",
       "source_url": "https://auraofintelligence.github.io/bees-and-allies/local-hives.html"
     },
     {
@@ -404,13 +404,6 @@
       "source_url": "https://auraofintelligence.github.io/shared-table-initiative/noticeboard.html"
     },
     {
-      "from": "straddie-noticeboard-network",
-      "to": "plfc-community-platform",
-      "note": "The noticeboard includes a draft junior fishing clinic notice for club screens, with only public details appearing in the example.",
-      "kind": "documented",
-      "source_url": "https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/noticeboard/feeds/plfc-junior-clinic.md"
-    },
-    {
       "from": "community-club-builder-sandy-sports",
       "to": "ballow-road-sand-screen-hub",
       "note": "The sports club toolkit uses Ballow Road as a possible site context while the club’s ownership and permissions are worked out separately.",
@@ -558,13 +551,6 @@
       "source_url": "https://auraofintelligence.github.io/straddie-makerspace-lab/network.html#links-title"
     },
     {
-      "from": "straddie-noticeboard-network",
-      "to": "dunwich-gumpi-ferry-terminal-lab",
-      "note": "The Noticeboard has a draft Dunwich ferry screen for verified transport updates, public events and text-only fallback. The terminal lab supplies an evidence viewer, with no screen installation documented.",
-      "kind": "documented",
-      "source_url": "https://github.com/auraofintelligence/straddie-noticeboard-network/blob/main/noticeboard/devices/dunwich-ferry-kiosk.md"
-    },
-    {
       "from": "dunwich-gumpi-ferry-terminal-lab",
       "to": "ready-s-e-t-co-op-trust-hub",
       "note": "The ferry lab names the Trust Hub as a way to turn public evidence work into local training, media and jobs.",
@@ -605,13 +591,6 @@
       "note": "A first roof and power-use audit could help size backup loads for kiosks and emergency phones.",
       "kind": "possible",
       "source_url": "https://auraofintelligence.github.io/straddie-clean-energy-superpower/solar.html"
-    },
-    {
-      "from": "bees-and-allies",
-      "to": "straddie-twins",
-      "note": "The bee-lab proposal calls for a digital model to compare site or mobile options before choosing a building. The Straddie Twins offer a place-modelling reference.",
-      "kind": "possible",
-      "source_url": "https://auraofintelligence.github.io/bees-and-allies/island-lab.html"
     },
     {
       "from": "straddie-noticeboard-network",
