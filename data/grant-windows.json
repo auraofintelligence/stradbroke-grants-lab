@@ -1015,5 +1015,59 @@
     "tip": "$5,000-$50,000 depending on the eligible tour route. The next published closing date is 2 March 2027.",
     "action": "Confirm one tour with at least three venues or locations outside the performer's hometown, original Australian music, applicant eligibility, route, venue evidence, budget, rights and insurance.",
     "source": "Creative Australia"
+  },
+  {
+    "source_key": "qld-community-fishing-grants-2026-27",
+    "title": "Queensland Community Fishing Grants",
+    "window_type": "Open grant",
+    "notify": "Eligible fishing clubs, community organisations, First Nations organisations, schools and public bodies with one practical fishing education, stewardship, habitat or research project.",
+    "tip": "Up to $5,000 is available. Applications close 9 December 2026; no closing time is published.",
+    "action": "Confirm the legal applicant, committee authority, one finite eligible activity, cultural authority for traditional fishing content, budget, safety, permissions and measurable benefit.",
+    "source": "Queensland Department of Primary Industries"
+  },
+  {
+    "source_key": "qld-positive-ageing-awareness-2026",
+    "title": "Positive Ageing and Elder Abuse Awareness Grants",
+    "window_type": "Closing soon",
+    "notify": "Eligible Queensland organisations with a ready local awareness, education or intergenerational activity and appropriate older-person and specialist input.",
+    "tip": "Local grants are up to $15,000 and close 5:00pm AEST 30 November 2026. This is not capital or aged-care facility funding.",
+    "action": "Make a human go/no-go decision now. Confirm applicant eligibility, public liability insurance, older-person co-design, cultural safety, referral information, delivery plan and budget.",
+    "source": "Queensland Government"
+  },
+  {
+    "source_key": "qld-celebrating-reconciliation-2027",
+    "title": "Celebrating Reconciliation Grants 2027",
+    "window_type": "Open grant",
+    "notify": "Queensland organisations with a genuinely community-led National Reconciliation Week activity and meaningful Aboriginal and/or Torres Strait Islander involvement.",
+    "tip": "$2,500 is available. Applications close 12:00pm AEST 18 December 2026.",
+    "action": "Do not draft from a project name alone. Confirm willing cultural authority and contributors, legal applicant or auspice, activity scope, permissions, budget and safe delivery first.",
+    "source": "Queensland Government"
+  },
+  {
+    "source_key": "regional-arts-fund-quick-response-nov-2026",
+    "title": "Regional Arts Fund November Quick Response Grant",
+    "window_type": "Closing soon",
+    "notify": "Artists and arts organisations with a genuinely time-sensitive activity in an eligible Queensland MM2-7 location.",
+    "tip": "Up to $3,000 for individuals or $5,000 for organisations. Closes 11:59pm AEST 30 November 2026.",
+    "action": "Confirm MM2-7 location eligibility and why the timing prevents use of another funding round before preparing any application.",
+    "source": "Flying Arts / Regional Arts Fund"
+  },
+  {
+    "source_key": "music-australia-export-market-audience-dec-2026",
+    "title": "Music Australia international market and audience fund",
+    "window_type": "Closing soon",
+    "notify": "Export-ready practising Australian contemporary music artists with confirmed international activity and evidenced cash match.",
+    "tip": "$2,000-$10,000 matched funding closes 3:00pm AEDT 1 December 2026. System registration is due at least two business days earlier.",
+    "action": "Proceed only if the artist, international market, confirmed activity, rights, audience evidence, ABN and 50% cash match already exist.",
+    "source": "Creative Australia - Music Australia"
+  },
+  {
+    "source_key": "aec-political-funding-disclosure-watch-2026",
+    "title": "AEC political funding and disclosure watch",
+    "window_type": "Source watch",
+    "notify": "People establishing or operating a political organisation, campaign, associated entity or third-party electoral activity.",
+    "tip": "This is compliance information, not a grant. Major federal funding and disclosure reforms commence 1 January 2027.",
+    "action": "Obtain legal and accounting advice, decide the organisation status and establish compliant records before accepting money or incurring electoral expenditure.",
+    "source": "Australian Electoral Commission"
   }
 ]

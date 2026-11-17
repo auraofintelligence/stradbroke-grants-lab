@@ -1478,5 +1478,830 @@
       "Flag unsupported venue, artist, authority, rights and co-funding claims"
     ],
     "readiness_check": "Confirm applicant, registration, original Australian music, artist roles, three-location route, venue evidence, dates, fees, rights, cultural protocols where relevant, budget, insurance, audience plan and acquittal capacity."
+  },
+  {
+    "match_key": "qld-celebrating-reconciliation-2027--quandamooka-country-events-engine",
+    "grant_source_key": "qld-celebrating-reconciliation-2027",
+    "project_key": "quandamooka-country-events-engine",
+    "fit_status": "clarify",
+    "fit_reason": "One human-led National Reconciliation Week gathering or public resource could fit, but an events database or implied Quandamooka authority does not.",
+    "eligibility_status": "TO BE CONFIRMED: willing Aboriginal and/or Torres Strait Islander people meaningfully leading design and delivery, eligible Queensland applicant or auspice, cultural authority, permissions and finite activity",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "prepare_next",
+    "action_by": "2026-12-18",
+    "stack_role": "small culturally authorised event or public-resource layer",
+    "funding_ask": "$2,500 excluding GST",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Select one finite National Reconciliation Week activity designed and delivered with willing Aboriginal and/or Torres Strait Islander people; keep the wider events engine outside the ask.",
+    "next_move": "Ask the accountable human lead whether a culturally authorised activity and eligible applicant genuinely exist before preparing a one-page evidence checklist.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm cultural authority and contributors, applicant or auspice, ABN, participant need, activity, venue, permissions, budget, child safety if relevant and completion by 30 June 2027."
+  },
+  {
+    "match_key": "regional-arts-fund-quick-response-nov-2026--minjerribah-screen-media-network",
+    "grant_source_key": "regional-arts-fund-quick-response-nov-2026",
+    "project_key": "minjerribah-screen-media-network",
+    "fit_status": "clarify",
+    "fit_reason": "A small time-sensitive screen-culture workshop or practitioner development activity may fit only if the location is MM2-7 and the timing genuinely prevents use of another round.",
+    "eligibility_status": "TO BE CONFIRMED: eligible MM2-7 location, artist or arts organisation, genuinely time-sensitive activity, applicant authority, participants and eligible start window",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "act_now",
+    "action_by": "2026-11-30",
+    "stack_role": "small time-sensitive arts activity or professional-development layer",
+    "funding_ask": "Up to $3,000 for an individual or $5,000 for an organisation",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Choose one confirmed workshop, screening skill session or practitioner-development activity rather than funding the network itself.",
+    "next_move": "Check the exact MM classification and timing test before spending time on an application.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm MM2-7 eligibility, applicant, urgency, activity dates from 14 December 2026 to 22 February 2027, participants, facilitator, venue, rights, safety and budget."
+  },
+  {
+    "match_key": "screen-australia-documentary-development--film-club-documentary-builders",
+    "grant_source_key": "screen-australia-documentary-development",
+    "project_key": "film-club-documentary-builders",
+    "fit_status": "clarify",
+    "fit_reason": "One authored documentary project with a credible creative team and pathway to audience may fit development funding; a general builder toolkit or film club does not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant and team, one documentary project, rights and chain of title, creative materials, market pathway and development budget",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "documentary concept and development layer",
+    "funding_ask": "Up to $30,000",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Use the toolkit to prepare one specific documentary project with a clear story, team, rights and audience pathway.",
+    "next_move": "Select one documentary only after a human rights-owning creative lead confirms the project and team.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, key creatives, story access, rights, cultural protocols, participant consent, development plan, market interest and budget."
+  },
+  {
+    "match_key": "qld-grants-finder--straddie-content-assets-kit",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "straddie-content-assets-kit",
+    "fit_status": "clarify",
+    "fit_reason": "The kit has no confirmed current grant fit; the truthful pathway is a recurring official search for a finite media-skills, equipment or digital-capability activity.",
+    "eligibility_status": "TO BE CONFIRMED for any future Queensland opportunity; this portal is not a grant and makes no promise of funding",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "official Queensland media-skills and equipment source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Separate one public media-skills activity or shared equipment need from the general planning kit.",
+    "next_move": "Run a monthly official search using media skills, community equipment, digital inclusion and arts participation filters.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm a real beneficiary group, applicant, equipment ownership, venue, trainer, rights and safe-use plan before matching a future round."
+  },
+  {
+    "match_key": "qld-positive-ageing-awareness-2026--82-claytons-road-a-gift-for-generations",
+    "grant_source_key": "qld-positive-ageing-awareness-2026",
+    "project_key": "82-claytons-road-a-gift-for-generations",
+    "fit_status": "clarify",
+    "fit_reason": "A finite intergenerational positive-ageing or elder-abuse awareness activity may fit; the grant cannot fund the land proposal, aged-care facility, housing or routine service delivery.",
+    "eligibility_status": "TO BE CONFIRMED: eligible Queensland organisation, $10 million public liability insurance, older-person co-design, qualified referral information, cultural safety and non-capital scope",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "act_now",
+    "action_by": "2026-11-30",
+    "stack_role": "small awareness, education and intergenerational pilot layer",
+    "funding_ask": "Up to $15,000 for a local project",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Deliver one non-capital positive-ageing and elder-abuse awareness activity, separate from any land, housing or aged-care development proposal.",
+    "next_move": "Make a human go/no-go decision based on applicant readiness, older-person co-design and specialist support pathways.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm legal applicant, insurance, older-person and community input, culturally safe content, referral information, accessible venue, facilitators, budget and evaluation."
+  },
+  {
+    "match_key": "ilsc-our-country-our-future-2026--7-mile-planning-and-administration",
+    "grant_source_key": "ilsc-our-country-our-future-2026",
+    "project_key": "7-mile-planning-and-administration",
+    "fit_status": "clarify",
+    "fit_reason": "Planning and capability support may fit only through an eligible First Nations group with authority and a defined land or water interest; the proposal title alone establishes none of these.",
+    "eligibility_status": "TO BE CONFIRMED: eligible First Nations group, community mandate, land or water interest, governance, authority, investment-priority fit and ILSC EOI acceptance",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "First Nations-led Country planning and capability layer",
+    "funding_ask": "Plan stream up to $100,000 or $100,000-$300,000, subject to ILSC assessment",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one authorised planning or capability project tied to a real land or water interest and community benefit.",
+    "next_move": "Do not approach ILSC until the authorised First Nations group, mandate and land or water interest are confirmed by people with standing.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm authority, eligible group, Country interest, governance, benefit, capability, feasibility, budget, co-investment and long-term management."
+  },
+  {
+    "match_key": "qld-grants-finder--bees-and-allies",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "bees-and-allies",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open pollinator grant was confirmed today; retain an official Queensland environment, biodiversity and community-education search lane.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "pollinator, biodiversity and community-learning source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Choose one evidence-led pollinator habitat, citizen-science or community-learning pilot with a defined site and beneficiaries.",
+    "next_move": "Monitor official environment, biosecurity, citizen-science and community education rounds without implying landholder or beekeeper participation.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, landholder permission, ecological advice, biosecurity, safety, participants, baseline evidence, budget and evaluation."
+  },
+  {
+    "match_key": "grantconnect--bigger-local-picture",
+    "grant_source_key": "grantconnect",
+    "project_key": "bigger-local-picture",
+    "fit_status": "clarify",
+    "fit_reason": "No single current federal grant fits a broad regional intelligence workbench; retain an authoritative source watch for a finite island-access, resilience or digital-inclusion project.",
+    "eligibility_status": "TO BE CONFIRMED for any future Australian Government opportunity; GrantConnect is a portal, not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "federal regional collaboration and resilience source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Extract one measurable public-benefit project for a defined island community instead of funding the whole regional workbench.",
+    "next_move": "Monitor official regional, digital inclusion, resilience and community infrastructure opportunities and record only exact program fits.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, participating community, authority, scope, site or data permissions, delivery partners, budget and outcomes."
+  },
+  {
+    "match_key": "qld-community-fishing-grants-2026-27--plfc-community-platform",
+    "grant_source_key": "qld-community-fishing-grants-2026-27",
+    "project_key": "plfc-community-platform",
+    "fit_status": "clarify",
+    "fit_reason": "A finite fishing education, stewardship or citizen-science module may fit if the club or another eligible body authorises it; routine website or member administration does not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant, committee authority, one fishing-focused activity, participant need, safety, permissions and eligible costs",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "prepare_next",
+    "action_by": "2026-12-09",
+    "stack_role": "small fishing education or stewardship pilot layer",
+    "funding_ask": "Up to $5,000",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Use the platform only as a delivery aid for one practical fishing education, stewardship or citizen-science project.",
+    "next_move": "Ask the authorised club decision-maker whether one eligible project and willing delivery lead exist; do not imply club support.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm legal applicant, committee decision, project scope, cultural authority for traditional fishing content, facilitators, participant safety, insurance, permissions, budget and outcomes."
+  },
+  {
+    "match_key": "qld-community-fishing-grants-2026-27--plfc-ai-agent-md-forms",
+    "grant_source_key": "qld-community-fishing-grants-2026-27",
+    "project_key": "plfc-ai-agent-md-forms",
+    "fit_status": "clarify",
+    "fit_reason": "A small set of human-reviewed forms could support one eligible fishing education or citizen-science activity, but generic AI forms and routine club administration are outside the grant.",
+    "eligibility_status": "TO BE CONFIRMED: eligible applicant and authorised club activity, human review, privacy, fishing-specific purpose, participants and eligible costs",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "prepare_next",
+    "action_by": "2026-12-09",
+    "stack_role": "small fishing education or citizen-science documentation layer",
+    "funding_ask": "Up to $5,000",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Limit the forms to one practical fishing education, stewardship or citizen-science project with human review and no automated decisions.",
+    "next_move": "Confirm a real authorised activity before preparing a form list, privacy note and small budget.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, club authority, use case, human oversight, privacy, data handling, participant consent, safety, accessibility, budget and evaluation."
+  },
+  {
+    "match_key": "qld-grants-finder--straddie-twins",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "straddie-twins",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open grant was confirmed today for the public digital-twin literacy work; retain a Queensland digital, STEM and community-education source watch rather than forcing a capital or research grant.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "digital inclusion, STEM and public-data source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one finite public digital-twin literacy activity with transparent limits, human facilitation and a measurable learning outcome.",
+    "next_move": "Monitor official digital inclusion, STEM engagement, transport planning and community education rounds.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, audience need, data permissions, privacy, accessibility, facilitator, venue or platform, budget and evaluation."
+  },
+  {
+    "match_key": "qld-grants-finder--straddie-digital-twin-explainer",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "straddie-digital-twin-explainer",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open grant was confirmed today for the phone-scanning and digital-literacy work; retain a Queensland digital, STEM and community-education source watch rather than forcing a capital or research grant.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "digital inclusion, STEM and public-data source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one finite phone-scanning and digital-literacy activity with transparent limits, human facilitation and a measurable learning outcome.",
+    "next_move": "Monitor official digital inclusion, STEM engagement, transport planning and community education rounds.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, audience need, data permissions, privacy, accessibility, facilitator, venue or platform, budget and evaluation."
+  },
+  {
+    "match_key": "qld-grants-finder--straddie-twin-prototype",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "straddie-twin-prototype",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open grant was confirmed today for the public-data and transport-simulation work; retain a Queensland digital, STEM and community-education source watch rather than forcing a capital or research grant.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "digital inclusion, STEM and public-data source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one finite public-data and transport-simulation activity with transparent limits, human facilitation and a measurable learning outcome.",
+    "next_move": "Monitor official digital inclusion, STEM engagement, transport planning and community education rounds.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, audience need, data permissions, privacy, accessibility, facilitator, venue or platform, budget and evaluation."
+  },
+  {
+    "match_key": "stronger-communities-programme-round-10--health-and-culture",
+    "grant_source_key": "stronger-communities-programme-round-10",
+    "project_key": "health-and-culture",
+    "fit_status": "clarify",
+    "fit_reason": "One small capital item for a genuine community sporting or gathering facility may fit if an eligible entity is nominated by the local MP; the concept itself is not an applicant and has no nomination.",
+    "eligibility_status": "TO BE CONFIRMED: eligible entity, MP nomination and invitation, community asset or equipment, ownership, site control, quotes, permissions and delivery by March 2028",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "act_now",
+    "action_by": "2026-11-30",
+    "stack_role": "small nominated community capital layer",
+    "funding_ask": "$2,500-$20,000",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Select one owned and site-controlled capital component with direct community sport, wellbeing or gathering benefit.",
+    "next_move": "Only an authorised eligible entity should decide whether a nomination-ready project exists before the 30 November gate.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, nomination, ABN, asset ownership, site control, community benefit, quotes, permissions, insurance, maintenance and project schedule."
+  },
+  {
+    "match_key": "aec-political-funding-disclosure-watch-2026--p4a-purple-party-for-australia",
+    "grant_source_key": "aec-political-funding-disclosure-watch-2026",
+    "project_key": "p4a-purple-party-for-australia",
+    "fit_status": "clarify",
+    "fit_reason": "A proposed political movement should not be forced into community or charitable grant programs. Its truthful pathway is lawful member support and donations with status, caps, records and disclosure obligations checked first.",
+    "eligibility_status": "TO BE CONFIRMED: organisational and electoral status, responsible officers, federal and state law, bank and accounting controls, donation and expenditure rules, privacy and disclosure obligations",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "build_pathway",
+    "action_by": null,
+    "stack_role": "lawful member-fundraising and compliance foundation",
+    "funding_ask": "Not applicable - not a grant",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Fund the political work transparently through lawful member subscriptions, donations and permitted receipts, separate from charitable or community grant activity.",
+    "next_move": "Obtain qualified electoral-law and accounting advice before accepting money or incurring electoral expenditure.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm legal form, registration intentions, responsible officers, bank account, records, donor due diligence, caps, disclosure, privacy, authorisations and state/federal interactions."
+  },
+  {
+    "match_key": "business-gov--australian-legal-engine",
+    "grant_source_key": "business-gov",
+    "project_key": "australian-legal-engine",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable current grant was confirmed for the source-linked legal research tool; retain an official business, digital and R&D support search lane without presenting legal information as legal advice.",
+    "eligibility_status": "TO BE CONFIRMED for any future program; business.gov.au is a search portal, not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "digital product, R&D and business-support source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one bounded source-linked legal research tool pilot with a real user group, jurisdiction, safety boundary and measurable benefit.",
+    "next_move": "Monitor official digital, R&D, cyber safety and professional-capability programs; require a direct program fit before matching.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm legal owner, users, jurisdiction, source licences, professional review, privacy, security, disclaimer, business model, budget and evaluation."
+  },
+  {
+    "match_key": "business-gov--legal-memory-workbench",
+    "grant_source_key": "business-gov",
+    "project_key": "legal-memory-workbench",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable current grant was confirmed for the legal-information preparation workbench; retain an official business, digital and R&D support search lane without presenting legal information as legal advice.",
+    "eligibility_status": "TO BE CONFIRMED for any future program; business.gov.au is a search portal, not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "digital product, R&D and business-support source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one bounded legal-information preparation workbench pilot with a real user group, jurisdiction, safety boundary and measurable benefit.",
+    "next_move": "Monitor official digital, R&D, cyber safety and professional-capability programs; require a direct program fit before matching.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm legal owner, users, jurisdiction, source licences, professional review, privacy, security, disclaimer, business model, budget and evaluation."
+  },
+  {
+    "match_key": "unops-small-grants--gajra-earth-infinity",
+    "grant_source_key": "unops-small-grants",
+    "project_key": "gajra-earth-infinity",
+    "fit_status": "clarify",
+    "fit_reason": "No Australia-eligible global call was confirmed today for the community-led abundance and alignment work. UNOPS Grant+ remains a source watch only; country-limited calls must not be treated as globally available.",
+    "eligibility_status": "TO BE CONFIRMED for a future call including Australia and the exact applicant type; this program list is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "global official call and partnership source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Extract one locally governed, measurable public-benefit project from the community-led abundance and alignment work, with an eligible geography and accountable delivery entity.",
+    "next_move": "Monitor official UNOPS Grant+ and UN program pages; reject calls whose country, applicant or theme does not match.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm country eligibility, legal applicant, local authority, community ownership, safeguards, partners, co-finance, results framework, budget and reporting capacity."
+  },
+  {
+    "match_key": "unops-small-grants--gajra-earth-public-hub",
+    "grant_source_key": "unops-small-grants",
+    "project_key": "gajra-earth-public-hub",
+    "fit_status": "clarify",
+    "fit_reason": "No Australia-eligible global call was confirmed today for the global public contribution and research hub. UNOPS Grant+ remains a source watch only; country-limited calls must not be treated as globally available.",
+    "eligibility_status": "TO BE CONFIRMED for a future call including Australia and the exact applicant type; this program list is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "global official call and partnership source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Extract one locally governed, measurable public-benefit project from the global public contribution and research hub, with an eligible geography and accountable delivery entity.",
+    "next_move": "Monitor official UNOPS Grant+ and UN program pages; reject calls whose country, applicant or theme does not match.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm country eligibility, legal applicant, local authority, community ownership, safeguards, partners, co-finance, results framework, budget and reporting capacity."
+  },
+  {
+    "match_key": "unops-small-grants--gajra-earth-claude-build",
+    "grant_source_key": "unops-small-grants",
+    "project_key": "gajra-earth-claude-build",
+    "fit_status": "clarify",
+    "fit_reason": "No Australia-eligible global call was confirmed today for the AI alignment collaboration. UNOPS Grant+ remains a source watch only; country-limited calls must not be treated as globally available.",
+    "eligibility_status": "TO BE CONFIRMED for a future call including Australia and the exact applicant type; this program list is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "global official call and partnership source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Extract one locally governed, measurable public-benefit project from the AI alignment collaboration, with an eligible geography and accountable delivery entity.",
+    "next_move": "Monitor official UNOPS Grant+ and UN program pages; reject calls whose country, applicant or theme does not match.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm country eligibility, legal applicant, local authority, community ownership, safeguards, partners, co-finance, results framework, budget and reporting capacity."
+  },
+  {
+    "match_key": "music-australia-export-market-audience-dec-2026--explorer-music-video-lab",
+    "grant_source_key": "music-australia-export-market-audience-dec-2026",
+    "project_key": "explorer-music-video-lab",
+    "fit_status": "clarify",
+    "fit_reason": "Internationally targeted music-video and social content can fit only for an export-ready practising Australian contemporary music artist with confirmed activity and cash match; the lab itself is not eligible.",
+    "eligibility_status": "TO BE CONFIRMED: eligible practising artist, ABN, original contemporary music, export-readiness evidence, confirmed international market activity, rights and 50% cash match",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "act_now",
+    "action_by": "2026-12-01",
+    "stack_role": "small international audience-development content layer",
+    "funding_ask": "$2,000-$10,000 matched funding",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Use the lab to deliver one internationally targeted music-video or audience-development package for a confirmed eligible artist.",
+    "next_move": "Proceed only if the artist, market, confirmed activity, audience evidence and cash match already exist; registration is due at least two business days before close.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm artist eligibility, ABN, export plan, international activity, rights, protocols, audience data, suppliers, 50% cash match, budget and delivery between April and June 2027 start dates."
+  },
+  {
+    "match_key": "qld-grants-finder--two-dogs-podcast-planning",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "two-dogs-podcast-planning",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open broadcasting or podcast grant was confirmed today; planned production does not qualify for CBF Quick Response. Retain an official arts, media and digital-skills source watch.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "podcast, community-media and digital-skills source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one finite public-interest audio series or skills activity with a rights-owning producer, audience and distribution plan.",
+    "next_move": "Monitor official arts, screen, broadcasting and digital inclusion rounds; do not use emergency funding for planned work.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm producer, hosts and guests, editorial purpose, consent, rights, privacy, cultural protocols, equipment, budget, distribution and safety."
+  },
+  {
+    "match_key": "regional-arts-fund-quick-response-nov-2026--rough-as-guts",
+    "grant_source_key": "regional-arts-fund-quick-response-nov-2026",
+    "project_key": "rough-as-guts",
+    "fit_status": "clarify",
+    "fit_reason": "One time-sensitive illustrated life-skills workshop or small arts activity may fit if it occurs in an eligible MM2-7 location; the broader publishing world and routine production do not.",
+    "eligibility_status": "TO BE CONFIRMED: eligible MM2-7 location, artist or arts organisation, genuine timing need, participant benefit, rights and eligible start window",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "act_now",
+    "action_by": "2026-11-30",
+    "stack_role": "small time-sensitive arts workshop or development layer",
+    "funding_ask": "Up to $3,000 for an individual or $5,000 for an organisation",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Deliver one confirmed illustrated practical-skills workshop or professional-development activity, separate from the whole publication system.",
+    "next_move": "Check MM2-7 location and timing eligibility first; stop if the activity can wait for the February project round.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, MM classification, urgency, activity dates, venue, participants, facilitator, rights, accessibility, safety and budget."
+  },
+  {
+    "match_key": "qld-grants-finder--grey-area-commons",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "grey-area-commons",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open grant was confirmed today for the privacy-preserving adult connection and consent work; retain a cautious official source watch and do not force health, arts or community funding onto the broad concept.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "community, arts, safety and digital source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one finite, lawful and safeguarded public-benefit activity from the privacy-preserving adult connection and consent work, with a clear audience and accountable human lead.",
+    "next_move": "Monitor official community, arts, digital inclusion and wellbeing rounds and require a direct documented fit.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, adult-only or participant safeguards as relevant, consent, privacy, rights, cultural protocols, venue or platform, budget and evaluation."
+  },
+  {
+    "match_key": "qld-grants-finder--cosmic-nexus",
+    "grant_source_key": "qld-grants-finder",
+    "project_key": "cosmic-nexus",
+    "fit_status": "clarify",
+    "fit_reason": "No suitable open grant was confirmed today for the source-led mystery, travel and film-prompt work; retain a cautious official source watch and do not force health, arts or community funding onto the broad concept.",
+    "eligibility_status": "TO BE CONFIRMED for any future opportunity; the portal is not a grant",
+    "evidence_needed": [
+      "confirmed legal applicant or accountable project owner and authority to proceed",
+      "official eligibility and eligible-expenditure check for the selected pathway",
+      "defined public benefit, participants, deliverables, budget and measurable outcomes",
+      "site, cultural, rights, privacy, safety, insurance and partner permissions where relevant"
+    ],
+    "last_checked": "2026-11-17",
+    "action_priority": "watch",
+    "action_by": null,
+    "stack_role": "community, arts, safety and digital source watch",
+    "funding_ask": "Varies by opportunity/program",
+    "cofunding_plan": "Possible complementary layers include resident or member fundraising, confirmed sponsorship, visitor giving, philanthropy, eligible earned income, applicant cash and verified in-kind support. Nothing is secured until evidenced, and grant costs must not be duplicated.",
+    "qualifying_reframe": "Define one finite, lawful and safeguarded public-benefit activity from the source-led mystery, travel and film-prompt work, with a clear audience and accountable human lead.",
+    "next_move": "Monitor official community, arts, digital inclusion and wellbeing rounds and require a direct documented fit.",
+    "human_roles": [
+      "Legal applicant or accountable project-owner decision-maker",
+      "Project and community lead",
+      "Subject-matter, cultural, rights, safety, privacy and financial reviewers as required"
+    ],
+    "ai_tasks": [
+      "Maintain the official-source and eligibility checklist",
+      "Prepare a narrow scope, evidence register and budget worksheet for human review",
+      "Flag unsupported applicant, authority, partner, rights, site and co-funding claims"
+    ],
+    "readiness_check": "Confirm applicant, adult-only or participant safeguards as relevant, consent, privacy, rights, cultural protocols, venue or platform, budget and evaluation."
   }
 ]
