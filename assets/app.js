@@ -415,9 +415,11 @@ async function renderEntities() {
     });
     grid.innerHTML = sortItems(items).map((item) => card(
       item.name,
-      relationshipState(item),
+      item.status === "Grant research requested" ? item.status : relationshipState(item),
       item.grant_fit,
-      `<dl class="card-facts"><div><dt>Possible capability</dt><dd>${escapeHtml(item.category)}</dd></div><div><dt>Place</dt><dd>${escapeHtml(item.place_area || townOf(item))}</dd></div><div><dt>Record type</dt><dd>${escapeHtml(item.record_type || item.source_group || "Public discovery record")}</dd></div></dl>`
+      `<dl class="card-facts"><div><dt>Possible capability</dt><dd>${escapeHtml(item.category)}</dd></div><div><dt>Place</dt><dd>${escapeHtml(item.place_area || townOf(item))}</dd></div><div><dt>Record type</dt><dd>${escapeHtml(item.record_type || item.source_group || "Public discovery record")}</dd></div></dl>`,
+      "",
+      item.funding_page ? [{ label: "Club funding page", url: item.funding_page }] : []
     )).join("");
   };
   if (search) search.addEventListener("input", () => {
@@ -629,6 +631,7 @@ async function renderLedgerProjects() {
     </details>` : "";
     return card(item.title, item.lane, profile?.summary || item.summary, details, "", [
       { label: "Project site", url: item.public_url },
+      profile?.funding_page ? { label: "Club funding page", url: profile.funding_page } : null,
       local ? { label: options.length ? "Funding options" : "Funding research", url: stackHref(key) } : null,
       local && archivedKeys.has(key) ? { label: "Past grant rounds", url: `grant-archive.html?project=${encodeURIComponent(key)}` } : null,
       local ? { label: "Take part", url: `participate.html?project=${encodeURIComponent(key)}` } : null,

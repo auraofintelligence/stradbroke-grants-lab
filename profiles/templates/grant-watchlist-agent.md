@@ -113,7 +113,11 @@ A public notice should answer:
 
 Use the Strange but True Community Ledger as the project reference, prioritise its local section, and preserve project keys on renames. Most entries are Luke Nathan Hayes initiatives open to participation. Keep the involvement flags for Point Lookout Fishing Club, 7-Mile, Rough as Guts and Two Dogs based on Luke’s account. Existing involvement alone establishes no wider support, approval or authority.
 
-For Point Lookout Fishing Club, include only the project pages listed in the Strange but True Community Ledger. Link the Cultural Intelligence Node and the earlier Trust Hub as related records and review each funding fit against its own scope.
+For Point Lookout Fishing Club, retain the existing `plfc-community-platform` project key. Consult the [Clubhouse funding page](https://plfc-clubhouse.auraofintelligence.workers.dev/grants.html) for current club proposals and applicant details. Keep the May planning site as project history and distinguish the separate AI forms project.
+
+Screen Redland City Council, Queensland sport and fisheries programs, the Gambling Community Benefit Fund, federal grants and private or philanthropic foundations. Check for junior and family shore fishing, access to loan equipment, first aid, waterway and wildlife care, local events, sustainable tourism and island community capacity. Check the geographic definitions for regional or remote programs. Where a scheme is First Nations-led, record its applicant and local authority requirements before suggesting it. Check the current incorporated applicant and ABN, insurance, auspice conditions and any DGR requirement with the Treasurer for each round.
+
+Record a credible match against its exact official round. Flag new matches, a materially changed closing date, eligibility or terms, and a previously reported round that has closed or been withdrawn. The club's weekly alert should give the Secretary the official link, amount or range, Brisbane deadline, a concrete club activity, any unresolved condition and one next step. Keep application decisions and funder contact with the committee.
 
 Keep projects excluded by the sync script out of the catalogue and all grant and partner research.
 

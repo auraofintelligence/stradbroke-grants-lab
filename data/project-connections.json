@@ -129,8 +129,9 @@
     {
       "project_key": "plfc-community-platform",
       "group": "local",
-      "summary": "A club website prototype brings public events, committee records, membership and field reporting into one place. The roadmap calls for testing a meeting pack and agreeing what can be public before collecting live field data.",
-      "source_url": "https://auraofintelligence.github.io/plfc-community-platform/roadmap.html"
+      "summary": "The Point Lookout Fishing Club's Cloudflare demo has a grant finder and three ideas for Minjerribah: first fishing sessions for families, keeping discarded line away from wildlife and first aid training for volunteers. The committee can choose which to develop.",
+      "source_url": "https://plfc-clubhouse.auraofintelligence.workers.dev/grants.html#projects",
+      "funding_page": "https://plfc-clubhouse.auraofintelligence.workers.dev/grants.html"
     },
     {
       "project_key": "plfc-ai-agent-md-forms",
